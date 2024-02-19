@@ -1,0 +1,10 @@
+apiVersion: rules.kubeedge.io/v1
+kind: RuleEndpoint
+metadata:
+  name: fire-rest
+  namespace: up
+  labels:
+    description: rest
+spec:
+  ruleEndpointType: "rest"
+  properties: {}

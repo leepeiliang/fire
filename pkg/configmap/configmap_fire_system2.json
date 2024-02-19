@@ -1,0 +1,353 @@
+{
+  "deviceInstances": [{
+    "id": "2.1907.1.2.3.1",
+    "name": "2.1907.1.2.3.1",
+    "protocol": "customized-protocol-2.1907.1.2.3.1",
+    "model": "2.1907.1.2.3.1-fire",
+    "data": {
+      "dataProperties": [{
+        "propertyName": "2.1907.1.2.3.1.2.1.2.1",
+        "metadata": {
+          "deviceId": "2.1907.1.2.3.1",
+          "deviceType": "1.2.3.1",
+          "multi": "false"
+        }
+      },{
+        "propertyName": "2.1907.1.2.3.1.2.1.2.2",
+        "metadata": {
+          "deviceId": "2.1907.1.2.3.1",
+          "deviceType": "1.2.3.1",
+          "multi": "false"
+        }
+      }, {
+        "propertyName": "2.1907.1.2.3.1.2.1.2.3",
+        "metadata": {
+          "deviceId": "2.1907.1.2.3.1",
+          "deviceType": "1.2.3.1",
+          "multi": "false"
+        }
+      }, {
+        "propertyName": "2.1907.1.2.3.1.2.1.2.4",
+        "metadata": {
+          "deviceId": "2.1907.1.2.3.1",
+          "deviceType": "1.2.3.1",
+          "multi": "false"
+        }
+      }, {
+        "propertyName": "2.1907.1.2.3.1.2.1.2.5",
+        "metadata": {
+          "deviceId": "2.1907.1.2.3.1",
+          "deviceType": "1.2.3.1",
+          "multi": "false"
+        }
+      }, {
+        "propertyName": "2.1907.1.2.3.1.2.1.2.6",
+        "metadata": {
+          "deviceId": "2.1907.1.2.3.1",
+          "deviceType": "1.2.3.1",
+          "multi": "false"
+        }
+      }, {
+        "propertyName": "2.1907.1.2.3.1.2.1.2.7",
+        "metadata": {
+          "deviceId": "2.1907.1.2.3.1",
+          "deviceType": "1.2.3.1",
+          "multi": "false"
+        }
+      }, {
+        "propertyName": "2.1907.1.2.3.1.2.1.2.8",
+        "metadata": {
+          "deviceId": "2.1907.1.2.3.1",
+          "deviceType": "1.2.3.1",
+          "multi": "false"
+        }
+      }, {
+        "propertyName": "2.1907.1.2.3.1.2.1.2.9",
+        "metadata": {
+          "deviceId": "2.1907.1.2.3.1",
+          "deviceType": "1.2.3.1",
+          "multi": "false"
+        }
+      }, {
+        "propertyName": "2.1907.1.2.3.1.2.1.2.10",
+        "metadata": {
+          "deviceId": "2.1907.1.2.3.1",
+          "deviceType": "1.2.3.1",
+          "multi": "false"
+        }
+      }, {
+        "propertyName": "2.1907.1.2.3.1.2.1.2.11",
+        "metadata": {
+          "deviceId": "2.1907.1.2.3.1",
+          "deviceType": "1.2.3.1",
+          "multi": "false"
+        }
+      }, {
+        "propertyName": "2.1907.1.2.3.1.2.1.2.12",
+        "metadata": {
+          "deviceId": "2.1907.1.2.3.1",
+          "deviceType": "1.2.3.1",
+          "multi": "false"
+        }
+      }, {
+        "propertyName": "2.1907.1.2.3.1.2.1.2.13",
+        "metadata": {
+          "deviceId": "2.1907.1.2.3.1",
+          "deviceType": "1.2.3.1",
+          "multi": "false"
+        }
+      }, {
+        "propertyName": "2.1907.1.2.3.1.2.1.2.14",
+        "metadata": {
+          "deviceId": "2.1907.1.2.3.1",
+          "deviceType": "1.2.3.1",
+          "multi": "false"
+        }
+      }],
+      "dataTopic": "edgeplanet/groups-devices-data-update"
+    },
+    "propertyVisitors": [
+      {
+      "name": "2.1907.1.2.3.1.2.1.2.1",
+      "propertyName": "2.1907.1.2.3.1.2.1.2.1",
+      "modelName": "2.1907.1.2.3.1-fire",
+      "protocol": "customized-protocol",
+      "customizedValues": {
+        "cmdbName": "正常运行状态",
+        "multi": false,
+        "fireAddress": "130-129-135-1-8-#-#-#-#-#-#-#-#-#-0-#"
+      }
+    }, {
+      "name": "2.1907.1.2.3.1.2.1.2.2",
+      "propertyName": "2.1907.1.2.3.1.2.1.2.2",
+      "modelName": "2.1907.1.2.3.1-fire",
+      "protocol": "customized-protocol",
+      "customizedValues": {
+        "cmdbName": "火警",
+        "multi": false,
+        "fireAddress": "130-129-135-1-8-#-#-#-#-#-#-#-#-#-1-#"
+      }
+    }, {
+      "name": "2.1907.1.2.3.1.2.1.2.3",
+      "propertyName": "2.1907.1.2.3.1.2.1.2.3",
+      "modelName": "2.1907.1.2.3.1-fire",
+      "protocol": "customized-protocol",
+      "customizedValues": {
+        "cmdbName": "故障",
+        "multi": false,
+        "fireAddress": "130-129-135-1-8-#-#-#-#-#-#-#-#-#-2-#"
+      }
+    }, {
+        "name": "2.1907.1.2.3.1.2.1.2.4",
+        "propertyName": "2.1907.1.2.3.1.2.1.2.4",
+        "modelName": "2.1907.1.2.3.1-fire",
+        "protocol": "customized-protocol",
+        "customizedValues": {
+          "cmdbName": "屏蔽",
+          "multi": false,
+          "fireAddress": "130-129-135-1-8-#-#-#-#-#-#-#-#-#-3-#"
+        }
+      }, {
+        "name": "2.1907.1.2.3.1.2.1.2.5",
+        "propertyName": "2.1907.1.2.3.1.2.1.2.5",
+        "modelName": "2.1907.1.2.3.1-fire",
+        "protocol": "customized-protocol",
+        "customizedValues": {
+          "cmdbName": "监管",
+          "multi": false,
+          "fireAddress": "130-129-135-1-8-#-#-#-#-#-#-#-#-#-4-#"
+        }
+      }, {
+        "name": "2.1907.1.2.3.1.2.1.2.6",
+        "propertyName": "2.1907.1.2.3.1.2.1.2.6",
+        "modelName": "2.1907.1.2.3.1-fire",
+        "protocol": "customized-protocol",
+        "customizedValues": {
+          "cmdbName": "启动",
+          "multi": false,
+          "fireAddress": "130-129-135-1-8-#-#-#-#-#-#-#-#-#-5-#"
+        }
+      }, {
+        "name": "2.1907.1.2.3.1.2.1.2.7",
+        "propertyName": "2.1907.1.2.3.1.2.1.2.7",
+        "modelName": "2.1907.1.2.3.1-fire",
+        "protocol": "customized-protocol",
+        "customizedValues": {
+          "cmdbName": "反馈",
+          "multi": false,
+          "fireAddress": "130-129-135-1-8-#-#-#-#-#-#-#-#-#-6-#"
+        }
+      }, {
+        "name": "2.1907.1.2.3.1.2.1.2.8",
+        "propertyName": "2.1907.1.2.3.1.2.1.2.8",
+        "modelName": "2.1907.1.2.3.1-fire",
+        "protocol": "customized-protocol",
+        "customizedValues": {
+          "cmdbName": "岩石状态",
+          "multi": false,
+          "fireAddress": "130-129-135-1-8-#-#-#-#-#-#-#-#-#-7-#"
+        }
+      }, {
+        "name": "2.1907.1.2.3.1.2.1.2.9",
+        "propertyName": "2.1907.1.2.3.1.2.1.2.9",
+        "modelName": "2.1907.1.2.3.1-fire",
+        "protocol": "customized-protocol",
+        "customizedValues": {
+          "cmdbName": "电源故障",
+          "multi": false,
+          "fireAddress": "130-129-135-1-8-#-#-#-#-#-#-#-#-#-8-#"
+        }
+      }, {
+        "name": "2.1907.1.2.3.1.2.1.2.10",
+        "propertyName": "2.1907.1.2.3.1.2.1.2.10",
+        "modelName": "2.1907.1.2.3.1-fire",
+        "protocol": "customized-protocol",
+        "customizedValues": {
+          "cmdbName": "预警",
+          "multi": false,
+          "fireAddress": "130-129-135-1-8-#-#-#-#-#-#-#-#-#-9-#"
+        }
+      }, {
+        "name": "2.1907.1.2.3.1.2.1.2.11",
+        "propertyName": "2.1907.1.2.3.1.2.1.2.11",
+        "modelName": "2.1907.1.2.3.1-fire",
+        "protocol": "customized-protocol",
+        "customizedValues": {
+          "cmdbName": "预警",
+          "multi": false,
+          "fireAddress": "130-129-135-1-8-#-#-#-#-#-#-#-#-#-10-#"
+        }
+      }, {
+        "name": "2.1907.1.2.3.1.2.1.2.12",
+        "propertyName": "2.1907.1.2.3.1.2.1.2.12",
+        "modelName": "2.1907.1.2.3.1-fire",
+        "protocol": "customized-protocol",
+        "customizedValues": {
+          "cmdbName": "预警",
+          "multi": false,
+          "fireAddress": "130-129-135-1-8-#-#-#-#-#-#-#-#-#-11-#"
+        }
+      }, {
+        "name": "2.1907.1.2.3.1.2.1.2.13",
+        "propertyName": "2.1907.1.2.3.1.2.1.2.13",
+        "modelName": "2.1907.1.2.3.1-fire",
+        "protocol": "customized-protocol",
+        "customizedValues": {
+          "cmdbName": "预警",
+          "multi": false,
+          "fireAddress": "130-129-135-1-8-#-#-#-#-#-#-#-#-#-12-#"
+        }
+      }, {
+        "name": "2.1907.1.2.3.1.2.1.2.14",
+        "propertyName": "2.1907.1.2.3.1.2.1.2.14",
+        "modelName": "2.1907.1.2.3.1-fire",
+        "protocol": "customized-protocol",
+        "customizedValues": {
+          "cmdbName": "预警",
+          "multi": false,
+          "fireAddress": "130-129-135-1-8-#-#-#-#-#-#-#-#-#-13-#"
+        }
+      }]
+  }
+  ],
+  "deviceModels": [
+    {
+    "name": "2.1907.1.2.3.1-fire",
+    "properties": [{
+      "name": "2.1907.1.2.3.1.2.1.2.1",
+      "dataType": "bool",
+      "description": "运行状态",
+      "accessMode": "ReadOnly"
+    }, {
+      "name": "2.1907.1.2.3.1.2.1.2.2",
+      "dataType": "bool",
+      "description": "火警",
+      "accessMode": "ReadOnly"
+
+    }, {
+      "name": "2.1907.1.2.3.1.2.1.2.3",
+      "dataType": "bool",
+      "description": "故障",
+      "accessMode": "ReadOnly"
+
+    }, {
+      "name": "2.1907.1.2.3.1.2.1.2.4",
+      "dataType": "bool",
+      "description": "屏蔽",
+      "accessMode": "ReadOnly"
+
+    }, {
+        "name": "2.1907.1.2.3.1.2.1.2.5",
+        "dataType": "bool",
+        "description": "监管",
+        "accessMode": "ReadOnly"
+
+      }, {
+        "name": "2.1907.1.2.3.1.2.1.2.6",
+        "dataType": "bool",
+        "description": "启动",
+        "accessMode": "ReadOnly"
+
+      }
+    , {
+        "name": "2.1907.1.2.3.1.2.1.2.7",
+        "dataType": "bool",
+        "description": "反馈",
+        "accessMode": "ReadOnly"
+
+      }, {
+        "name": "2.1907.1.2.3.1.2.1.2.8",
+        "dataType": "bool",
+        "description": "延时状态",
+        "accessMode": "ReadOnly"
+
+      }, {
+        "name": "2.1907.1.2.3.1.2.1.2.9",
+        "dataType": "bool",
+        "description": "主电源故障",
+        "accessMode": "ReadOnly"
+
+      }, {
+        "name": "2.1907.1.2.3.1.2.1.2.10",
+        "dataType": "bool",
+        "description": "备电故障",
+        "accessMode": "ReadOnly"
+
+      },
+      {
+        "name": "2.1907.1.2.3.1.2.1.2.11",
+        "dataType": "bool",
+        "description": "总线故障",
+        "accessMode": "ReadOnly"
+
+      },
+      {
+        "name": "2.1907.1.2.3.1.2.1.2.12",
+        "dataType": "bool",
+        "description": "手动状态",
+        "accessMode": "ReadOnly"
+
+      },{
+        "name": "2.1907.1.2.3.1.2.1.2.13",
+        "dataType": "bool",
+        "description": "配置改变",
+        "accessMode": "ReadOnly"
+
+      },{
+        "name": "2.1907.1.2.3.1.2.1.2.14",
+        "dataType": "bool",
+        "description": "复位",
+        "accessMode": "ReadOnly"
+
+      }]
+  }],
+  "protocols": [{
+    "name": "customized-protocol-2.1907.1.2.3.1",
+    "protocol": "customized-protocol",
+    "protocolConfig": {
+      "protocolName": "fire"
+    },
+    "protocolCommonConfig": {
+    }
+  }]
+}

@@ -1,0 +1,237 @@
+{
+  "deviceInstances": [{
+    "id": "2.1907.1.2.3.1",
+    "name": "2.1907.1.2.3.1",
+    "protocol": "customized-protocol-2.1907.1.2.3.1",
+    "model": "2.1907.1.2.3.1-fire",
+    "data": {
+      "dataProperties":
+      [
+        {
+        "propertyName": "2.1907.1.2.3.1.2.1.2.3",
+        "metadata": {
+          "deviceId": "2.1907.1.2.3.1",
+          "deviceType": "1.2.3.1",
+          "multi": "false"
+        }
+        },
+        {
+        "propertyName": "2.1907.1.2.3.1.2.1.2.6",
+        "metadata": {
+          "deviceId": "2.1907.1.2.3.1",
+          "deviceType": "1.2.3.1",
+          "multi": "false"
+        }
+        },
+        {
+          "propertyName": "2.1907.1.2.3.1.2.1.2.128",
+          "metadata":
+          {
+          "deviceId": "2.1907.1.2.3.1",
+          "deviceType": "1.2.3.1",
+          "multi": "false"
+          }
+        },
+        {
+          "propertyName": "2.1907.1.2.3.1.2.1.2.250",
+          "metadata":
+          {
+            "deviceId": "2.1907.1.2.3.1",
+            "deviceType": "1.2.3.1",
+            "multi": "false"
+          }
+        },
+        {
+          "propertyName": "2.1907.1.2.3.1.2.1.2.251",
+          "metadata":
+          {
+            "deviceId": "2.1907.1.2.3.1",
+            "deviceType": "1.2.3.1",
+            "multi": "false"
+          }
+        },
+        {
+          "propertyName": "2.1907.1.2.3.1.2.1.2.252",
+          "metadata":
+          {
+            "deviceId": "2.1907.1.2.3.1",
+            "deviceType": "1.2.3.1",
+            "multi": "false"
+          }
+        },
+        {
+          "propertyName": "2.1907.1.2.3.1.2.1.2.253",
+          "metadata":
+          {
+            "deviceId": "2.1907.1.2.3.1",
+            "deviceType": "1.2.3.1",
+            "multi": "false"
+          }
+        },
+        {
+          "propertyName": "2.1907.1.2.3.1.2.1.2.254",
+          "metadata":
+          {
+            "deviceId": "2.1907.1.2.3.1",
+            "deviceType": "1.2.3.1",
+            "multi": "false"
+          }
+        }
+      ],
+      "dataTopic": "edgeplanet/groups-devices-data-update"
+    },
+    "propertyVisitors":
+    [
+      {
+        "name": "2.1907.1.2.3.1.2.1.2.3",
+        "propertyName": "2.1907.1.2.3.1.2.1.2.3",
+        "modelName": "2.1907.1.2.3.1-fire",
+        "protocol": "customized-protocol",
+        "customizedValues": {
+          "cmdbName": "温度",
+          "multi": false,
+          "fireAddress": "3-130-4-#-#-40-15270820-#-#-#-#-#-#-#-#-3"
+        }
+      },
+      {
+        "name": "2.1907.1.2.3.1.2.1.2.6",
+        "propertyName": "2.1907.1.2.3.1.2.1.2.6",
+        "modelName": "2.1907.1.2.3.1-fire",
+        "protocol": "customized-protocol",
+        "customizedValues": {
+          "cmdbName": "气体浓度",
+          "multi": false,
+          "fireAddress": "3-130-4-#-#-40-15270820-#-#-#-#-#-#-#-#-6"
+        }
+      },
+      {
+        "name": "2.1907.1.2.3.1.2.1.2.128",
+        "propertyName": "2.1907.1.2.3.1.2.1.2.128",
+        "modelName": "2.1907.1.2.3.1-fire",
+        "protocol": "customized-protocol",
+        "customizedValues": {
+          "cmdbName": "信号强度",
+          "multi": false,
+          "fireAddress": "3-130-4-#-#-40-15270820-#-#-#-#-#-#-#-#-128"
+      }
+      },
+      {
+        "name": "2.1907.1.2.3.1.2.1.2.250",
+        "propertyName": "2.1907.1.2.3.1.2.1.2.250",
+        "modelName": "2.1907.1.2.3.1-fire",
+        "protocol": "customized-protocol",
+        "customizedValues": {
+          "cmdbName": "设备疑似误报功能,控制",
+          "multi": false,
+          "fireAddress": "3-130-4-#-#-40-15270820-#-#-#-#-#-#-#-#-250"
+        }
+      },
+      {
+        "name": "2.1907.1.2.3.1.2.1.2.251",
+        "propertyName": "2.1907.1.2.3.1.2.1.2.251",
+        "modelName": "2.1907.1.2.3.1-fire",
+        "protocol": "customized-protocol",
+        "customizedValues": {
+          "cmdbName": "设备疑似误报跳变,周期设置",
+          "multi": false,
+          "fireAddress": "3-130-4-#-#-40-15270820-#-#-#-#-#-#-#-#-251"
+        }
+      },
+      {
+        "name": "2.1907.1.2.3.1.2.1.2.252",
+        "propertyName": "2.1907.1.2.3.1.2.1.2.252",
+        "modelName": "2.1907.1.2.3.1-fire",
+        "protocol": "customized-protocol",
+        "customizedValues": {
+          "cmdbName": "设备疑似误报跳变,次数设置",
+          "multi": false,
+          "fireAddress": "3-130-4-#-#-40-15270820-#-#-#-#-#-#-#-#-252"
+        }
+      },
+      {
+        "name": "2.1907.1.2.3.1.2.1.2.253",
+        "propertyName": "2.1907.1.2.3.1.2.1.2.253",
+        "modelName": "2.1907.1.2.3.1-fire",
+        "protocol": "customized-protocol",
+        "customizedValues": {
+          "cmdbName": "设备疑似误报禁用,周期设置",
+          "multi": false,
+          "fireAddress": "3-130-4-#-#-40-15270820-#-#-#-#-#-#-#-#-253"
+        }
+      },
+      {
+        "name": "2.1907.1.2.3.1.2.1.2.254",
+        "propertyName": "2.1907.1.2.3.1.2.1.2.254",
+        "modelName": "2.1907.1.2.3.1-fire",
+        "protocol": "customized-protocol",
+        "customizedValues": {
+          "cmdbName": "设备烟感以及防拆,上报控制",
+          "multi": false,
+          "fireAddress": "3-130-4-#-#-40-15270820-#-#-#-#-#-#-#-#-254"
+        }
+      }
+    ]
+  }
+  ],
+  "deviceModels": [
+    {
+    "name": "2.1907.1.2.3.1-fire",
+    "properties": [{
+      "name": "2.1907.1.2.3.1.2.1.2.3",
+      "dataType": "float",
+      "description": "温度",
+      "accessMode": "ReadOnly"
+    }, {
+      "name": "2.1907.1.2.3.1.2.1.2.6",
+      "dataType": "float",
+      "description": "气体浓度",
+      "accessMode": "ReadOnly"
+
+    },{
+      "name": "2.1907.1.2.3.1.2.1.2.128",
+      "dataType": "float",
+      "description": "信号强度",
+      "accessMode": "ReadOnly"
+
+    },{
+      "name": "2.1907.1.2.3.1.2.1.2.250",
+      "dataType": "float",
+      "description": "信号强度",
+      "accessMode": "ReadOnly"
+
+    },{
+      "name": "2.1907.1.2.3.1.2.1.2.251",
+      "dataType": "float",
+      "description": "信号强度",
+      "accessMode": "ReadOnly"
+
+    },{
+      "name": "2.1907.1.2.3.1.2.1.2.252",
+      "dataType": "float",
+      "description": "信号强度",
+      "accessMode": "ReadOnly"
+
+    },{
+      "name": "2.1907.1.2.3.1.2.1.2.253",
+      "dataType": "float",
+      "description": "信号强度",
+      "accessMode": "ReadOnly"
+
+    },{
+      "name": "2.1907.1.2.3.1.2.1.2.254",
+      "dataType": "float",
+      "description": "信号强度",
+      "accessMode": "ReadOnly"
+
+    }]
+  }],
+  "protocols": [{
+    "name": "customized-protocol-2.1907.1.2.3.1",
+    "protocol": "customized-protocol",
+    "protocolConfig": {
+      "protocolName": "fire"
+    },
+    "protocolCommonConfig": {
+    }
+  }]
+}

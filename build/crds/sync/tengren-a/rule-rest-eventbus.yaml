@@ -1,0 +1,12 @@
+apiVersion: rules.kubeedge.io/v1
+kind: Rule
+metadata:
+  name: config-rule
+  namespace: tengren-a
+  labels:
+    description: restToEventbus
+spec:
+  source: "config-rest"
+  sourceResource: {"path":"/configmap"}
+  target: "config-eventbus"
+  targetResource: {"topic":"tengren-a/devices-data-update"}

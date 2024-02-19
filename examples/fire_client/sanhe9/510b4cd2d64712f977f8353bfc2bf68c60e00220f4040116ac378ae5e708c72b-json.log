@@ -1,0 +1,1028 @@
+{"log":"I0125 08:23:52.740154       1 server.go:67] /opt/kubeedge/deviceProfile.json\n","stream":"stderr","time":"2024-01-25T08:23:52.740302362Z"}
+{"log":"I0125 08:23:52.741819       1 server.go:78] 启动消防HTTP客户端,获取初始化参数\n","stream":"stderr","time":"2024-01-25T08:23:52.741905437Z"}
+{"log":"I0125 08:23:52.741856       1 server.go:84] 初初始化消防定时服务\n","stream":"stderr","time":"2024-01-25T08:23:52.741938244Z"}
+{"log":"2024-01-25 08:25:32 +0000 UTC\n","stream":"stdout","time":"2024-01-25T08:23:52.742099644Z"}
+{"log":"2024-01-25 08:39:12 +0000 UTC\n","stream":"stdout","time":"2024-01-25T08:23:52.742122247Z"}
+{"log":"I0125 08:23:52.742129       1 parse.go:32] configmap path:/opt/kubeedge/deviceProfile.json\n","stream":"stderr","time":"2024-01-25T08:23:52.742177728Z"}
+{"log":"I0125 08:23:52.742220       1 parse.go:41] body-len:%d2\n","stream":"stderr","time":"2024-01-25T08:23:52.742261393Z"}
+{"log":"I0125 08:23:52.742253       1 parse.go:47] deviceProfile.DeviceInstances:len:[0]\n","stream":"stderr","time":"2024-01-25T08:23:52.74230296Z"}
+{"log":"                                        \n","stream":"stdout","time":"2024-01-25T08:23:52.742345536Z"}
+{"log":"██████████     ██     ██    ▄█▀  ██████████\n","stream":"stdout","time":"2024-01-25T08:23:52.742373928Z"}
+{"log":"██             ▀▀     ██   ▄█▀   ██\n","stream":"stdout","time":"2024-01-25T08:23:52.742384259Z"}
+{"log":"██           ████     ██  ▄█▀    ██\n","stream":"stdout","time":"2024-01-25T08:23:52.742391079Z"}
+{"log":"████████       ██     ██▀▀▀      ████████\n","stream":"stdout","time":"2024-01-25T08:23:52.742398227Z"}
+{"log":"██             ██     ██         ██\n","stream":"stdout","time":"2024-01-25T08:23:52.742405005Z"}
+{"log":"██          ▄▄▄██▄▄▄  ██         ██\n","stream":"stdout","time":"2024-01-25T08:23:52.742411441Z"}
+{"log":"▀▀          ▀▀▀▀▀▀▀▀  ██         ██████████\n","stream":"stdout","time":"2024-01-25T08:23:52.742417698Z"}
+{"log":"                                        \n","stream":"stdout","time":"2024-01-25T08:23:52.742423736Z"}
+{"log":"┌──────────────────────────────────────────────────────┐\n","stream":"stdout","time":"2024-01-25T08:23:52.742429592Z"}
+{"log":"│ [Github] https://21vianet.com                 │\n","stream":"stdout","time":"2024-01-25T08:23:52.742445013Z"}
+{"log":"│ [tutorial] http://meta42.indc.vnet.com │\n","stream":"stdout","time":"2024-01-25T08:23:52.742451301Z"}
+{"log":"I0125 08:23:52.742314       1 server.go:98] 启动消防TCP服务\n","stream":"stderr","time":"2024-01-25T08:23:52.74236429Z"}
+{"log":"I0125 08:23:52.742342       1 msghandler.go:82] Add api msgID = 0\n","stream":"stderr","time":"2024-01-25T08:23:52.74247151Z"}
+{"log":"└──────────────────────────────────────────────────────┘\n","stream":"stdout","time":"2024-01-25T08:23:52.742457214Z"}
+{"log":"[EdgeFire] Version: tcp4, MaxConn: 3, MaxPacketSize: 0\n","stream":"stdout","time":"2024-01-25T08:23:52.742490662Z"}
+{"log":"[START] Server name: fire,listenner at IP: 0.0.0.0, Port 30119 is starting\n","stream":"stdout","time":"2024-01-25T08:23:52.742499892Z"}
+{"log":"start fire-up server   fire  succ, now listenning...\n","stream":"stdout","time":"2024-01-25T08:23:52.742993846Z"}
+{"log":"I0125 08:23:52.742996       1 msghandler.go:87] Request Worker ID = %!(EXTRA int=9, string= is started.)\n","stream":"stderr","time":"2024-01-25T08:23:52.743059164Z"}
+{"log":"I0125 08:23:52.751699       1 client.go:62] System:hostname:sanhegjtwo\n","stream":"stderr","time":"2024-01-25T08:23:52.751811814Z"}
+{"log":"I0125 08:23:52.754026       1 msghandler.go:87] Request Worker ID = %!(EXTRA int=0, string= is started.)\n","stream":"stderr","time":"2024-01-25T08:23:52.754138249Z"}
+{"log":"I0125 08:23:52.754055       1 msghandler.go:87] Request Worker ID = %!(EXTRA int=1, string= is started.)\n","stream":"stderr","time":"2024-01-25T08:23:52.754166963Z"}
+{"log":"I0125 08:23:52.754069       1 msghandler.go:87] Request Worker ID = %!(EXTRA int=2, string= is started.)\n","stream":"stderr","time":"2024-01-25T08:23:52.754172757Z"}
+{"log":"I0125 08:23:52.754082       1 msghandler.go:87] Request Worker ID = %!(EXTRA int=3, string= is started.)\n","stream":"stderr","time":"2024-01-25T08:23:52.754178247Z"}
+{"log":"I0125 08:23:52.754127       1 msghandler.go:87] Request Worker ID = %!(EXTRA int=4, string= is started.)\n","stream":"stderr","time":"2024-01-25T08:23:52.754187484Z"}
+{"log":"I0125 08:23:52.754138       1 msghandler.go:87] Request Worker ID = %!(EXTRA int=5, string= is started.)\n","stream":"stderr","time":"2024-01-25T08:23:52.754192753Z"}
+{"log":"I0125 08:23:52.754153       1 msghandler.go:87] Request Worker ID = %!(EXTRA int=6, string= is started.)\n","stream":"stderr","time":"2024-01-25T08:23:52.754197685Z"}
+{"log":"I0125 08:23:52.754164       1 msghandler.go:87] Request Worker ID = %!(EXTRA int=7, string= is started.)\n","stream":"stderr","time":"2024-01-25T08:23:52.75420686Z"}
+{"log":"I0125 08:23:52.754178       1 msghandler.go:87] Request Worker ID = %!(EXTRA int=8, string= is started.)\n","stream":"stderr","time":"2024-01-25T08:23:52.754212436Z"}
+{"log":"E0125 08:23:52.758008       1 client.go:76] POST:unknown code. \n","stream":"stderr","time":"2024-01-25T08:23:52.758133959Z"}
+{"log":"E0125 08:23:52.758031       1 client.go:95] SyncConfigunknown code.\n","stream":"stderr","time":"2024-01-25T08:23:52.758152005Z"}
+{"log":"I0125 08:23:52.758292       1 client.go:146] System:hostname:sanhegjtwo\n","stream":"stderr","time":"2024-01-25T08:23:52.758343247Z"}
+{"log":"Subscribe topic success\n","stream":"stdout","time":"2024-01-25T08:23:52.758594426Z"}
+{"log":"Get conn remote addr =  10.9.201.60:41601\n","stream":"stdout","time":"2024-01-25T08:23:54.298520068Z"}
+{"log":"connection add to ConnManager successfully: conn num =  1\n","stream":"stdout","time":"2024-01-25T08:23:54.298548381Z"}
+{"log":"---\u003e CallOnConnStart....\n","stream":"stdout","time":"2024-01-25T08:23:54.298556146Z"}
+{"log":"[Writer Goroutine is running]\n","stream":"stdout","time":"2024-01-25T08:23:54.298591706Z"}
+{"log":"[Reader Goroutine is running]\n","stream":"stdout","time":"2024-01-25T08:23:54.298598884Z"}
+{"log":"I0125 08:23:54.298519       1 server.go:23] DoConnecionBegin is Called ... \n","stream":"stderr","time":"2024-01-25T08:23:54.298599053Z"}
+{"log":"I0125 08:23:54.520181       1 datapack.go:52] Unpack read startData [64 64]\n","stream":"stderr","time":"2024-01-25T08:23:54.520415698Z"}
+{"log":"I0125 08:23:54.520216       1 datapack.go:66] Unpack read Data First [10][02000203351708190118]\n","stream":"stderr","time":"2024-01-25T08:23:54.52044533Z"}
+{"log":"I0125 08:23:54.520238       1 datapack.go:83] Unpack read Data Two [25][2825518012ff0000000000000a0002]\n","stream":"stderr","time":"2024-01-25T08:23:54.52045425Z"}
+{"log":"I0125 08:23:54.520265       1 decode.go:47] buf:\u0026{020002033517081901182825518012ff0000000000000a0002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:23:54.520461128Z"}
+{"log":"I0125 08:23:54.520353       1 decode.go:55] decode: *fire.Control is a ptr\n","stream":"stderr","time":"2024-01-25T08:23:54.520469184Z"}
+{"log":"I0125 08:23:54.520368       1 decode.go:47] buf:\u0026{020002033517081901182825518012ff0000000000000a0002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:23:54.52047568Z"}
+{"log":"I0125 08:23:54.520382       1 decode.go:55] decode: *fire.Control is a struct\n","stream":"stderr","time":"2024-01-25T08:23:54.520482963Z"}
+{"log":"I0125 08:23:54.520401       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:23:54.520499688Z"}
+{"log":"I0125 08:23:54.520416       1 decode.go:47] buf:\u0026{020002033517081901182825518012ff0000000000000a0002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:23:54.520507138Z"}
+{"log":"I0125 08:23:54.520429       1 decode.go:55] decode: *fire.Control.SerialNumber is a struct\n","stream":"stderr","time":"2024-01-25T08:23:54.520527106Z"}
+{"log":"I0125 08:23:54.520438       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:23:54.520535043Z"}
+{"log":"I0125 08:23:54.520446       1 decode.go:47] buf:\u0026{020002033517081901182825518012ff0000000000000a0002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:23:54.520541499Z"}
+{"log":"I0125 08:23:54.520458       1 decode.go:55] decode: *fire.Control.SerialNumber.SerialNumber is a uint16\n","stream":"stderr","time":"2024-01-25T08:23:54.520548251Z"}
+{"log":"I0125 08:23:54.520480       1 decode.go:94] decode: *fire.Control.SerialNumber.SerialNumber:2\n","stream":"stderr","time":"2024-01-25T08:23:54.520557077Z"}
+{"log":"I0125 08:23:54.520499       1 decode.go:88] decode: *fire.Control.SerialNumber:{2}\n","stream":"stderr","time":"2024-01-25T08:23:54.520563613Z"}
+{"log":"I0125 08:23:54.520514       1 decode.go:113] offset2\n","stream":"stderr","time":"2024-01-25T08:23:54.52059967Z"}
+{"log":"I0125 08:23:54.520527       1 decode.go:47] buf:\u0026{02033517081901182825518012ff0000000000000a0002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:23:54.520606509Z"}
+{"log":"I0125 08:23:54.520541       1 decode.go:55] decode: *fire.Control.ProtocolVersion is a struct\n","stream":"stderr","time":"2024-01-25T08:23:54.520613346Z"}
+{"log":"I0125 08:23:54.520549       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:23:54.520620182Z"}
+{"log":"I0125 08:23:54.520556       1 decode.go:47] buf:\u0026{02033517081901182825518012ff0000000000000a0002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:23:54.520628506Z"}
+{"log":"I0125 08:23:54.520568       1 decode.go:55] decode: *fire.Control.ProtocolVersion.ProtocolVersion is a array\n","stream":"stderr","time":"2024-01-25T08:23:54.520635397Z"}
+{"log":"I0125 08:23:54.520588       1 decode.go:200] elemType: uint8\n","stream":"stderr","time":"2024-01-25T08:23:54.520642785Z"}
+{"log":"I0125 08:23:54.520609       1 decode.go:84] decode: *fire.Control.ProtocolVersion.ProtocolVersion:[2 3]\n","stream":"stderr","time":"2024-01-25T08:23:54.52074143Z"}
+{"log":"I0125 08:23:54.520697       1 decode.go:88] decode: *fire.Control.ProtocolVersion:{[2 3]}\n","stream":"stderr","time":"2024-01-25T08:23:54.520767067Z"}
+{"log":"I0125 08:23:54.520709       1 decode.go:113] offset4\n","stream":"stderr","time":"2024-01-25T08:23:54.520775559Z"}
+{"log":"I0125 08:23:54.520728       1 decode.go:47] buf:\u0026{3517081901182825518012ff0000000000000a0002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:23:54.520785852Z"}
+{"log":"I0125 08:23:54.520743       1 decode.go:55] decode: *fire.Control.TimeLabels is a struct\n","stream":"stderr","time":"2024-01-25T08:23:54.520793787Z"}
+{"log":"I0125 08:23:54.520752       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:23:54.520800392Z"}
+{"log":"I0125 08:23:54.520760       1 decode.go:47] buf:\u0026{3517081901182825518012ff0000000000000a0002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:23:54.520806669Z"}
+{"log":"I0125 08:23:54.520773       1 decode.go:55] decode: *fire.Control.TimeLabels.TimeLabels is a array\n","stream":"stderr","time":"2024-01-25T08:23:54.520814848Z"}
+{"log":"I0125 08:23:54.520782       1 decode.go:200] elemType: uint8\n","stream":"stderr","time":"2024-01-25T08:23:54.520821495Z"}
+{"log":"I0125 08:23:54.520796       1 decode.go:84] decode: *fire.Control.TimeLabels.TimeLabels:[53 23 8 25 1 24]\n","stream":"stderr","time":"2024-01-25T08:23:54.520829141Z"}
+{"log":"I0125 08:23:54.520812       1 decode.go:88] decode: *fire.Control.TimeLabels:{[53 23 8 25 1 24]}\n","stream":"stderr","time":"2024-01-25T08:23:54.520858194Z"}
+{"log":"I0125 08:23:54.520824       1 decode.go:113] offset10\n","stream":"stderr","time":"2024-01-25T08:23:54.520865957Z"}
+{"log":"I0125 08:23:54.520833       1 decode.go:47] buf:\u0026{2825518012ff0000000000000a0002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:23:54.520874784Z"}
+{"log":"I0125 08:23:54.520844       1 decode.go:55] decode: *fire.Control.SourceAddress is a struct\n","stream":"stderr","time":"2024-01-25T08:23:54.520897924Z"}
+{"log":"I0125 08:23:54.520852       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:23:54.520905148Z"}
+{"log":"I0125 08:23:54.520860       1 decode.go:47] buf:\u0026{2825518012ff0000000000000a0002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:23:54.52091283Z"}
+{"log":"I0125 08:23:54.520871       1 decode.go:55] decode: *fire.Control.SourceAddress.Address is a struct\n","stream":"stderr","time":"2024-01-25T08:23:54.520919783Z"}
+{"log":"I0125 08:23:54.520880       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:23:54.520963908Z"}
+{"log":"I0125 08:23:54.520896       1 decode.go:47] buf:\u0026{2825518012ff0000000000000a0002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:23:54.521019064Z"}
+{"log":"I0125 08:23:54.520907       1 decode.go:55] decode: *fire.Control.SourceAddress.Address.Address is a array\n","stream":"stderr","time":"2024-01-25T08:23:54.52102835Z"}
+{"log":"I0125 08:23:54.520916       1 decode.go:200] elemType: uint8\n","stream":"stderr","time":"2024-01-25T08:23:54.52103589Z"}
+{"log":"I0125 08:23:54.520931       1 decode.go:84] decode: *fire.Control.SourceAddress.Address.Address:[40 37 81 128 18 255]\n","stream":"stderr","time":"2024-01-25T08:23:54.521042581Z"}
+{"log":"I0125 08:23:54.520947       1 decode.go:88] decode: *fire.Control.SourceAddress.Address:{[40 37 81 128 18 255]}\n","stream":"stderr","time":"2024-01-25T08:23:54.521056595Z"}
+{"log":"I0125 08:23:54.520966       1 decode.go:88] decode: *fire.Control.SourceAddress:{{[40 37 81 128 18 255]}}\n","stream":"stderr","time":"2024-01-25T08:23:54.521063733Z"}
+{"log":"I0125 08:23:54.521003       1 decode.go:113] offset16\n","stream":"stderr","time":"2024-01-25T08:23:54.521070126Z"}
+{"log":"I0125 08:23:54.521012       1 decode.go:47] buf:\u0026{0000000000000a0002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:23:54.521076574Z"}
+{"log":"I0125 08:23:54.521024       1 decode.go:55] decode: *fire.Control.TargetAddress is a struct\n","stream":"stderr","time":"2024-01-25T08:23:54.521084347Z"}
+{"log":"I0125 08:23:54.521032       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:23:54.521090813Z"}
+{"log":"I0125 08:23:54.521040       1 decode.go:47] buf:\u0026{0000000000000a0002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:23:54.521099549Z"}
+{"log":"I0125 08:23:54.521054       1 decode.go:55] decode: *fire.Control.TargetAddress.Address is a struct\n","stream":"stderr","time":"2024-01-25T08:23:54.521115597Z"}
+{"log":"I0125 08:23:54.521065       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:23:54.521122373Z"}
+{"log":"I0125 08:23:54.521074       1 decode.go:47] buf:\u0026{0000000000000a0002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:23:54.521128937Z"}
+{"log":"I0125 08:23:54.521092       1 decode.go:55] decode: *fire.Control.TargetAddress.Address.Address is a array\n","stream":"stderr","time":"2024-01-25T08:23:54.521137811Z"}
+{"log":"I0125 08:23:54.521103       1 decode.go:200] elemType: uint8\n","stream":"stderr","time":"2024-01-25T08:23:54.521144288Z"}
+{"log":"I0125 08:23:54.521117       1 decode.go:84] decode: *fire.Control.TargetAddress.Address.Address:[0 0 0 0 0 0]\n","stream":"stderr","time":"2024-01-25T08:23:54.521195046Z"}
+{"log":"I0125 08:23:54.521141       1 decode.go:88] decode: *fire.Control.TargetAddress.Address:{[0 0 0 0 0 0]}\n","stream":"stderr","time":"2024-01-25T08:23:54.521207371Z"}
+{"log":"I0125 08:23:54.521157       1 decode.go:88] decode: *fire.Control.TargetAddress:{{[0 0 0 0 0 0]}}\n","stream":"stderr","time":"2024-01-25T08:23:54.521214268Z"}
+{"log":"I0125 08:23:54.521173       1 decode.go:113] offset22\n","stream":"stderr","time":"2024-01-25T08:23:54.52122082Z"}
+{"log":"I0125 08:23:54.521181       1 decode.go:47] buf:\u0026{0a0002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:23:54.521230962Z"}
+{"log":"I0125 08:23:54.521194       1 decode.go:55] decode: *fire.Control.AppDataLen is a struct\n","stream":"stderr","time":"2024-01-25T08:23:54.521244189Z"}
+{"log":"I0125 08:23:54.521203       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:23:54.521251238Z"}
+{"log":"I0125 08:23:54.521211       1 decode.go:47] buf:\u0026{0a0002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:23:54.521259101Z"}
+{"log":"I0125 08:23:54.521233       1 decode.go:55] decode: *fire.Control.AppDataLen.AppDataLen is a uint16\n","stream":"stderr","time":"2024-01-25T08:23:54.521303319Z"}
+{"log":"I0125 08:23:54.521251       1 decode.go:94] decode: *fire.Control.AppDataLen.AppDataLen:10\n","stream":"stderr","time":"2024-01-25T08:23:54.521313649Z"}
+{"log":"I0125 08:23:54.521266       1 decode.go:88] decode: *fire.Control.AppDataLen:{10}\n","stream":"stderr","time":"2024-01-25T08:23:54.521320235Z"}
+{"log":"I0125 08:23:54.521277       1 decode.go:113] offset24\n","stream":"stderr","time":"2024-01-25T08:23:54.521326651Z"}
+{"log":"I0125 08:23:54.521286       1 decode.go:47] buf:\u0026{02 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:23:54.521332759Z"}
+{"log":"I0125 08:23:54.521298       1 decode.go:55] decode: *fire.Control.ControlCommand is a uint8\n","stream":"stderr","time":"2024-01-25T08:23:54.5213428Z"}
+{"log":"I0125 08:23:54.521319       1 decode.go:94] decode: *fire.Control.ControlCommand:2\n","stream":"stderr","time":"2024-01-25T08:23:54.521349573Z"}
+{"log":"I0125 08:23:54.521334       1 decode.go:88] decode: *fire.Control:{{2} {[2 3]} {[53 23 8 25 1 24]} {{[40 37 81 128 18 255]}} {{[0 0 0 0 0 0]}} {10} 2}\n","stream":"stderr","time":"2024-01-25T08:23:54.521410358Z"}
+{"log":"I0125 08:23:54.521366       1 decode.go:86] decode: *fire.Control:\u0026{{2} {[2 3]} {[53 23 8 25 1 24]} {{[40 37 81 128 18 255]}} {{[0 0 0 0 0 0]}} {10} 2}\n","stream":"stderr","time":"2024-01-25T08:23:54.521423272Z"}
+{"log":"I0125 08:23:54.521395       1 datapack.go:154] fire-up.Control\u0026{SerialNumber:{SerialNumber:2} ProtocolVersion:{ProtocolVersion:[2 3]} TimeLabels:{TimeLabels:[53 23 8 25 1 24]} SourceAddress:{Address:{Address:[40 37 81 128 18 255]}} TargetAddress:{Address:{Address:[0 0 0 0 0 0]}} AppDataLen:{AppDataLen:10} ControlCommand:2}\n","stream":"stderr","time":"2024-01-25T08:23:54.521477888Z"}
+{"log":"I0125 08:23:54.521442       1 datapack.go:102] Unpack read Data [10][08010000351708190118]\n","stream":"stderr","time":"2024-01-25T08:23:54.521489424Z"}
+{"log":"I0125 08:23:54.521474       1 datapack.go:123] Unpack CRC Data:Len:[020002033517081901182825518012ff0000000000000a000208010000351708190118]\n","stream":"stderr","time":"2024-01-25T08:23:54.521522115Z"}
+{"log":"I0125 08:23:54.521496       1 datapack.go:124] Unpack CRC[57:57]\n","stream":"stderr","time":"2024-01-25T08:23:54.521531366Z"}
+{"log":"I0125 08:23:54.521523       1 firemessage.go:54] FireMessage.SetData:len[10][08010000351708190118]\n","stream":"stderr","time":"2024-01-25T08:23:54.521575152Z"}
+{"log":"I0125 08:23:54.521552       1 datapack.go:130] Unpack Fire:[\u0026{Start:[64 64] Control:{SerialNumber:{SerialNumber:2} ProtocolVersion:{ProtocolVersion:[2 3]} TimeLabels:{TimeLabels:[53 23 8 25 1 24]} SourceAddress:{Address:{Address:[40 37 81 128 18 255]}} TargetAddress:{Address:{Address:[0 0 0 0 0 0]}} AppDataLen:{AppDataLen:10} ControlCommand:2} Data:[8 1 0 0 53 23 8 25 1 24] CRC:87 End:[35 35]}]\n","stream":"stderr","time":"2024-01-25T08:23:54.521648716Z"}
+{"log":"I0125 08:23:54.521618       1 msghandler.go:46] DoMsgRequestHandler = 0\n","stream":"stderr","time":"2024-01-25T08:23:54.52166243Z"}
+{"log":"I0125 08:23:54.521630       1 firerouter.go:18] Call fireRouter RequestHandle\n","stream":"stderr","time":"2024-01-25T08:23:54.521669319Z"}
+{"log":"I0125 08:23:54.521655       1 encoding.go:293] MarshalResp ControlCommand = 2\n","stream":"stderr","time":"2024-01-25T08:23:54.521703209Z"}
+{"log":"I0125 08:23:54.521736       1 encoding.go:110] A-Fire.Control:{SerialNumber:{SerialNumber:2} ProtocolVersion:{ProtocolVersion:[2 3]} TimeLabels:{TimeLabels:[54 23 8 25 1 24]} SourceAddress:{Address:{Address:[0 0 0 0 0 0]}} TargetAddress:{Address:{Address:[40 37 81 128 18 255]}} AppDataLen:{AppDataLen:0} ControlCommand:3}\n","stream":"stderr","time":"2024-01-25T08:23:54.521802811Z"}
+{"log":"I0125 08:23:54.521763       1 encoding.go:117] A-Fire.CRC-Data:020002033617081901180000000000002825518012ff000003\n","stream":"stderr","time":"2024-01-25T08:23:54.521818374Z"}
+{"log":"I0125 08:23:54.521789       1 encoding.go:121] FireMessage:{Start:[64 64] Control:{SerialNumber:{SerialNumber:2} ProtocolVersion:{ProtocolVersion:[2 3]} TimeLabels:{TimeLabels:[54 23 8 25 1 24]} SourceAddress:{Address:{Address:[0 0 0 0 0 0]}} TargetAddress:{Address:{Address:[40 37 81 128 18 255]}} AppDataLen:{AppDataLen:0} ControlCommand:3} Data:[] CRC:192 End:[35 35]}/n\n","stream":"stderr","time":"2024-01-25T08:23:54.521864152Z"}
+{"log":"I0125 08:23:54.521849       1 msghandler.go:61] DoMsgDataHandler = 0\n","stream":"stderr","time":"2024-01-25T08:23:54.521897396Z"}
+{"log":"I0125 08:23:54.521862       1 firerouter.go:31] Call fireRouter DataHandle\n","stream":"stderr","time":"2024-01-25T08:23:54.521904964Z"}
+{"log":"I0125 08:23:54.521871       1 firerouter.go:35] DataHandle recv from client :data= 08010000351708190118\n","stream":"stderr","time":"2024-01-25T08:23:54.521911755Z"}
+{"log":"I0125 08:23:54.522261       1 globals.go:217] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:23:54.522327363Z"}
+{"log":"I0125 08:23:54.522289       1 globals.go:264] 心跳点位组包\n","stream":"stderr","time":"2024-01-25T08:23:54.522344104Z"}
+{"log":"I0125 08:23:54.522561       1 globals.go:183] DeviceID-HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:23:54.522620939Z"}
+{"log":"I0125 08:23:54.522576       1 globals.go:187] DeviceID:[[3.1 2.3.1.1]]\n","stream":"stderr","time":"2024-01-25T08:23:54.522629683Z"}
+{"log":"I0125 08:23:54.522864       1 globals.go:200] PropertyID-HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:23:54.522921853Z"}
+{"log":"I0125 08:23:54.522879       1 globals.go:204] PropertyID:[[3.1 2.3.1.1 1.2.1.1]]\n","stream":"stderr","time":"2024-01-25T08:23:54.522930467Z"}
+{"log":"I0125 08:23:54.523157       1 globals.go:289] Device Property[{\"device_type\":\"2.3.1.1\",\"timestamp\":1706171034,\"devices\":[{\"device_id\":\"3.1.2.3.1.1\",\"timestamp\":1706171034,\"data\":{\"3.1.2.3.1.1.1.2.1.1\":{\"value\":0,\"timestamp\":1706171034,\"metadata\":{\"timestamp\":1706171034,\"type\":\"boolean\"}}}}]}]\n","stream":"stderr","time":"2024-01-25T08:23:54.523233223Z"}
+{"log":"I0125 08:23:54.523268       1 globals.go:295] Update value: 2.3.1.1, topic: sanhegjtwo/groups-devices-data-update\n","stream":"stderr","time":"2024-01-25T08:23:54.523335056Z"}
+{"log":"2024-01-25 08:25:34 +0000 UTC\n","stream":"stdout","time":"2024-01-25T08:23:54.523361576Z"}
+{"log":"2024-01-25 08:39:14 +0000 UTC\n","stream":"stdout","time":"2024-01-25T08:23:54.523369796Z"}
+{"log":"I0125 08:23:54.523349       1 firedatadecode.go:22] DecodeSwitchDataTypeToData= \u0026{8 1 [0 0 53 23 8 25 1 24]}\n","stream":"stderr","time":"2024-01-25T08:23:54.523440628Z"}
+{"log":"I0125 08:23:54.523394       1 firedatadecode.go:23] DecodeSwitchDataType= 0x8\n","stream":"stderr","time":"2024-01-25T08:23:54.523450215Z"}
+{"log":"I0125 08:23:54.523411       1 firedatatype.go:639] FireBuildFacilitiesPartRunStatDecodeToData:Type:8,8\n","stream":"stderr","time":"2024-01-25T08:23:54.523456925Z"}
+{"log":"I0125 08:23:54.523430       1 firedatatype.go:632] FireBuildFacilitiesPartRunStatDecode Pos:8--{0 0 {351708190118}}\n","stream":"stderr","time":"2024-01-25T08:23:54.523498059Z"}
+{"log":"I0125 08:23:54.523449       1 firedatatype.go:646] FireBuildFacilitiesTimeStatDecodeToData TimeLabels :{TimeLabels:[53 23 8 25 1 24]}\n","stream":"stderr","time":"2024-01-25T08:23:54.523520377Z"}
+{"log":"I0125 08:23:54.523772       1 globals.go:217] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:23:54.523827641Z"}
+{"log":"I0125 08:23:54.523799       1 firecustomizeddata.go:24] ParseFireToSouth Device:[0]---len:[1]\n","stream":"stderr","time":"2024-01-25T08:23:54.523844786Z"}
+{"log":"I0125 08:23:54.523820       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:\u0026{Value:2024-01-25 08:23:53.012 Thu Jan Timestamp:1706171034 Metadata:{Timestamp:1706171034 Type:string}}\n","stream":"stderr","time":"2024-01-25T08:23:54.523901963Z"}
+{"log":"I0125 08:23:54.523861       1 firecustomizeddata.go:41] fire.Properties: 8-0-0-#-#-#-#-#-#-#-#-#-#-#-#-#-----\u0026{2024-01-25 08:23:53.012 Thu Jan 1706171034 {1706171034 string}}\n","stream":"stderr","time":"2024-01-25T08:23:54.523914991Z"}
+{"log":"I0125 08:23:54.524177       1 globals.go:168] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:23:54.524235575Z"}
+{"log":"I0125 08:23:54.524193       1 firecustomizeddata.go:96] Device payload[{{ 0} []}]\n","stream":"stderr","time":"2024-01-25T08:23:54.524250285Z"}
+{"log":"I0125 08:25:22.103257       1 datapack.go:52] Unpack read startData [64 64]\n","stream":"stderr","time":"2024-01-25T08:25:22.103560609Z"}
+{"log":"I0125 08:25:22.103296       1 datapack.go:66] Unpack read Data First [10][03000203151908190118]\n","stream":"stderr","time":"2024-01-25T08:25:22.103593294Z"}
+{"log":"I0125 08:25:22.103318       1 datapack.go:83] Unpack read Data Two [25][2825518012ff0000000000002b0002]\n","stream":"stderr","time":"2024-01-25T08:25:22.103601939Z"}
+{"log":"I0125 08:25:22.103338       1 decode.go:47] buf:\u0026{030002031519081901182825518012ff0000000000002b0002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:25:22.103609149Z"}
+{"log":"I0125 08:25:22.103362       1 decode.go:55] decode: *fire.Control is a ptr\n","stream":"stderr","time":"2024-01-25T08:25:22.103617306Z"}
+{"log":"I0125 08:25:22.103375       1 decode.go:47] buf:\u0026{030002031519081901182825518012ff0000000000002b0002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:25:22.103623793Z"}
+{"log":"I0125 08:25:22.103389       1 decode.go:55] decode: *fire.Control is a struct\n","stream":"stderr","time":"2024-01-25T08:25:22.103630936Z"}
+{"log":"I0125 08:25:22.103401       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:25:22.103637402Z"}
+{"log":"I0125 08:25:22.103411       1 decode.go:47] buf:\u0026{030002031519081901182825518012ff0000000000002b0002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:25:22.103643705Z"}
+{"log":"I0125 08:25:22.103423       1 decode.go:55] decode: *fire.Control.SerialNumber is a struct\n","stream":"stderr","time":"2024-01-25T08:25:22.10365055Z"}
+{"log":"I0125 08:25:22.103432       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:25:22.10365751Z"}
+{"log":"I0125 08:25:22.103440       1 decode.go:47] buf:\u0026{030002031519081901182825518012ff0000000000002b0002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:25:22.103663782Z"}
+{"log":"I0125 08:25:22.103452       1 decode.go:55] decode: *fire.Control.SerialNumber.SerialNumber is a uint16\n","stream":"stderr","time":"2024-01-25T08:25:22.103670686Z"}
+{"log":"I0125 08:25:22.103542       1 decode.go:94] decode: *fire.Control.SerialNumber.SerialNumber:3\n","stream":"stderr","time":"2024-01-25T08:25:22.103682752Z"}
+{"log":"I0125 08:25:22.103598       1 decode.go:88] decode: *fire.Control.SerialNumber:{3}\n","stream":"stderr","time":"2024-01-25T08:25:22.103690039Z"}
+{"log":"I0125 08:25:22.103621       1 decode.go:113] offset2\n","stream":"stderr","time":"2024-01-25T08:25:22.103696593Z"}
+{"log":"I0125 08:25:22.103634       1 decode.go:47] buf:\u0026{02031519081901182825518012ff0000000000002b0002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:25:22.103702865Z"}
+{"log":"I0125 08:25:22.103656       1 decode.go:55] decode: *fire.Control.ProtocolVersion is a struct\n","stream":"stderr","time":"2024-01-25T08:25:22.103711746Z"}
+{"log":"I0125 08:25:22.103675       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:25:22.103718323Z"}
+{"log":"I0125 08:25:22.103686       1 decode.go:47] buf:\u0026{02031519081901182825518012ff0000000000002b0002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:25:22.103724493Z"}
+{"log":"I0125 08:25:22.103699       1 decode.go:55] decode: *fire.Control.ProtocolVersion.ProtocolVersion is a array\n","stream":"stderr","time":"2024-01-25T08:25:22.103745584Z"}
+{"log":"I0125 08:25:22.103712       1 decode.go:200] elemType: uint8\n","stream":"stderr","time":"2024-01-25T08:25:22.10375289Z"}
+{"log":"I0125 08:25:22.103730       1 decode.go:84] decode: *fire.Control.ProtocolVersion.ProtocolVersion:[2 3]\n","stream":"stderr","time":"2024-01-25T08:25:22.103799489Z"}
+{"log":"I0125 08:25:22.103751       1 decode.go:88] decode: *fire.Control.ProtocolVersion:{[2 3]}\n","stream":"stderr","time":"2024-01-25T08:25:22.103824255Z"}
+{"log":"I0125 08:25:22.103765       1 decode.go:113] offset4\n","stream":"stderr","time":"2024-01-25T08:25:22.103832008Z"}
+{"log":"I0125 08:25:22.103773       1 decode.go:47] buf:\u0026{1519081901182825518012ff0000000000002b0002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:25:22.103838875Z"}
+{"log":"I0125 08:25:22.103786       1 decode.go:55] decode: *fire.Control.TimeLabels is a struct\n","stream":"stderr","time":"2024-01-25T08:25:22.10384943Z"}
+{"log":"I0125 08:25:22.103796       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:25:22.103856428Z"}
+{"log":"I0125 08:25:22.103804       1 decode.go:47] buf:\u0026{1519081901182825518012ff0000000000002b0002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:25:22.103862722Z"}
+{"log":"I0125 08:25:22.103816       1 decode.go:55] decode: *fire.Control.TimeLabels.TimeLabels is a array\n","stream":"stderr","time":"2024-01-25T08:25:22.103869665Z"}
+{"log":"I0125 08:25:22.103826       1 decode.go:200] elemType: uint8\n","stream":"stderr","time":"2024-01-25T08:25:22.103876175Z"}
+{"log":"I0125 08:25:22.103840       1 decode.go:84] decode: *fire.Control.TimeLabels.TimeLabels:[21 25 8 25 1 24]\n","stream":"stderr","time":"2024-01-25T08:25:22.103883803Z"}
+{"log":"I0125 08:25:22.103879       1 decode.go:88] decode: *fire.Control.TimeLabels:{[21 25 8 25 1 24]}\n","stream":"stderr","time":"2024-01-25T08:25:22.103943228Z"}
+{"log":"I0125 08:25:22.103895       1 decode.go:113] offset10\n","stream":"stderr","time":"2024-01-25T08:25:22.103953693Z"}
+{"log":"I0125 08:25:22.103904       1 decode.go:47] buf:\u0026{2825518012ff0000000000002b0002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:25:22.10396017Z"}
+{"log":"I0125 08:25:22.103916       1 decode.go:55] decode: *fire.Control.SourceAddress is a struct\n","stream":"stderr","time":"2024-01-25T08:25:22.103967046Z"}
+{"log":"I0125 08:25:22.103926       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:25:22.105223602Z"}
+{"log":"I0125 08:25:22.103934       1 decode.go:47] buf:\u0026{2825518012ff0000000000002b0002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:25:22.105338355Z"}
+{"log":"I0125 08:25:22.103946       1 decode.go:55] decode: *fire.Control.SourceAddress.Address is a struct\n","stream":"stderr","time":"2024-01-25T08:25:22.105348378Z"}
+{"log":"I0125 08:25:22.103954       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:25:22.105363297Z"}
+{"log":"I0125 08:25:22.103962       1 decode.go:47] buf:\u0026{2825518012ff0000000000002b0002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:25:22.105370212Z"}
+{"log":"I0125 08:25:22.103999       1 decode.go:55] decode: *fire.Control.SourceAddress.Address.Address is a array\n","stream":"stderr","time":"2024-01-25T08:25:22.105377594Z"}
+{"log":"I0125 08:25:22.104010       1 decode.go:200] elemType: uint8\n","stream":"stderr","time":"2024-01-25T08:25:22.105384683Z"}
+{"log":"I0125 08:25:22.104026       1 decode.go:84] decode: *fire.Control.SourceAddress.Address.Address:[40 37 81 128 18 255]\n","stream":"stderr","time":"2024-01-25T08:25:22.105391182Z"}
+{"log":"I0125 08:25:22.104043       1 decode.go:88] decode: *fire.Control.SourceAddress.Address:{[40 37 81 128 18 255]}\n","stream":"stderr","time":"2024-01-25T08:25:22.105397571Z"}
+{"log":"I0125 08:25:22.104060       1 decode.go:88] decode: *fire.Control.SourceAddress:{{[40 37 81 128 18 255]}}\n","stream":"stderr","time":"2024-01-25T08:25:22.105423145Z"}
+{"log":"I0125 08:25:22.104072       1 decode.go:113] offset16\n","stream":"stderr","time":"2024-01-25T08:25:22.1054311Z"}
+{"log":"I0125 08:25:22.104080       1 decode.go:47] buf:\u0026{0000000000002b0002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:25:22.1054412Z"}
+{"log":"I0125 08:25:22.104092       1 decode.go:55] decode: *fire.Control.TargetAddress is a struct\n","stream":"stderr","time":"2024-01-25T08:25:22.105448388Z"}
+{"log":"I0125 08:25:22.104100       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:25:22.105454937Z"}
+{"log":"I0125 08:25:22.104109       1 decode.go:47] buf:\u0026{0000000000002b0002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:25:22.105463751Z"}
+{"log":"I0125 08:25:22.104120       1 decode.go:55] decode: *fire.Control.TargetAddress.Address is a struct\n","stream":"stderr","time":"2024-01-25T08:25:22.105470551Z"}
+{"log":"I0125 08:25:22.104131       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:25:22.105477573Z"}
+{"log":"I0125 08:25:22.104140       1 decode.go:47] buf:\u0026{0000000000002b0002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:25:22.105484365Z"}
+{"log":"I0125 08:25:22.104154       1 decode.go:55] decode: *fire.Control.TargetAddress.Address.Address is a array\n","stream":"stderr","time":"2024-01-25T08:25:22.105491292Z"}
+{"log":"I0125 08:25:22.104162       1 decode.go:200] elemType: uint8\n","stream":"stderr","time":"2024-01-25T08:25:22.105497966Z"}
+{"log":"I0125 08:25:22.104176       1 decode.go:84] decode: *fire.Control.TargetAddress.Address.Address:[0 0 0 0 0 0]\n","stream":"stderr","time":"2024-01-25T08:25:22.10550432Z"}
+{"log":"I0125 08:25:22.104195       1 decode.go:88] decode: *fire.Control.TargetAddress.Address:{[0 0 0 0 0 0]}\n","stream":"stderr","time":"2024-01-25T08:25:22.105510963Z"}
+{"log":"I0125 08:25:22.104212       1 decode.go:88] decode: *fire.Control.TargetAddress:{{[0 0 0 0 0 0]}}\n","stream":"stderr","time":"2024-01-25T08:25:22.10551748Z"}
+{"log":"I0125 08:25:22.104226       1 decode.go:113] offset22\n","stream":"stderr","time":"2024-01-25T08:25:22.105524001Z"}
+{"log":"I0125 08:25:22.104235       1 decode.go:47] buf:\u0026{2b0002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:25:22.105530391Z"}
+{"log":"I0125 08:25:22.104247       1 decode.go:55] decode: *fire.Control.AppDataLen is a struct\n","stream":"stderr","time":"2024-01-25T08:25:22.105543238Z"}
+{"log":"I0125 08:25:22.104256       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:25:22.105553372Z"}
+{"log":"I0125 08:25:22.104264       1 decode.go:47] buf:\u0026{2b0002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:25:22.105559691Z"}
+{"log":"I0125 08:25:22.104276       1 decode.go:55] decode: *fire.Control.AppDataLen.AppDataLen is a uint16\n","stream":"stderr","time":"2024-01-25T08:25:22.105567191Z"}
+{"log":"I0125 08:25:22.104298       1 decode.go:94] decode: *fire.Control.AppDataLen.AppDataLen:43\n","stream":"stderr","time":"2024-01-25T08:25:22.105573722Z"}
+{"log":"I0125 08:25:22.104314       1 decode.go:88] decode: *fire.Control.AppDataLen:{43}\n","stream":"stderr","time":"2024-01-25T08:25:22.105580027Z"}
+{"log":"I0125 08:25:22.104326       1 decode.go:113] offset24\n","stream":"stderr","time":"2024-01-25T08:25:22.105586349Z"}
+{"log":"I0125 08:25:22.104335       1 decode.go:47] buf:\u0026{02 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:25:22.105592457Z"}
+{"log":"I0125 08:25:22.104347       1 decode.go:55] decode: *fire.Control.ControlCommand is a uint8\n","stream":"stderr","time":"2024-01-25T08:25:22.105599087Z"}
+{"log":"I0125 08:25:22.104364       1 decode.go:94] decode: *fire.Control.ControlCommand:2\n","stream":"stderr","time":"2024-01-25T08:25:22.105605543Z"}
+{"log":"I0125 08:25:22.104400       1 decode.go:88] decode: *fire.Control:{{3} {[2 3]} {[21 25 8 25 1 24]} {{[40 37 81 128 18 255]}} {{[0 0 0 0 0 0]}} {43} 2}\n","stream":"stderr","time":"2024-01-25T08:25:22.105611868Z"}
+{"log":"I0125 08:25:22.104431       1 decode.go:86] decode: *fire.Control:\u0026{{3} {[2 3]} {[21 25 8 25 1 24]} {{[40 37 81 128 18 255]}} {{[0 0 0 0 0 0]}} {43} 2}\n","stream":"stderr","time":"2024-01-25T08:25:22.105622938Z"}
+{"log":"I0125 08:25:22.104459       1 datapack.go:154] fire-up.Control\u0026{SerialNumber:{SerialNumber:3} ProtocolVersion:{ProtocolVersion:[2 3]} TimeLabels:{TimeLabels:[21 25 8 25 1 24]} SourceAddress:{Address:{Address:[40 37 81 128 18 255]}} TargetAddress:{Address:{Address:[0 0 0 0 0 0]}} AppDataLen:{AppDataLen:43} ControlCommand:2}\n","stream":"stderr","time":"2024-01-25T08:25:22.105630901Z"}
+{"log":"I0125 08:25:22.104512       1 datapack.go:102] Unpack read Data [43][090100003333021331b2e3c4cfd7dfc0c8cef720413032203038320008bbf0beaf20202020021a0e120118]\n","stream":"stderr","time":"2024-01-25T08:25:22.105639181Z"}
+{"log":"I0125 08:25:22.104548       1 datapack.go:123] Unpack CRC Data:Len:[030002031519081901182825518012ff0000000000002b0002090100003333021331b2e3c4cfd7dfc0c8cef720413032203038320008bbf0beaf20202020021a0e120118]\n","stream":"stderr","time":"2024-01-25T08:25:22.105646308Z"}
+{"log":"I0125 08:25:22.104571       1 datapack.go:124] Unpack CRC[1f:1f]\n","stream":"stderr","time":"2024-01-25T08:25:22.105653806Z"}
+{"log":"I0125 08:25:22.104586       1 firemessage.go:54] FireMessage.SetData:len[43][090100003333021331b2e3c4cfd7dfc0c8cef720413032203038320008bbf0beaf20202020021a0e120118]\n","stream":"stderr","time":"2024-01-25T08:25:22.105660021Z"}
+{"log":"I0125 08:25:22.104617       1 datapack.go:130] Unpack Fire:[\u0026{Start:[64 64] Control:{SerialNumber:{SerialNumber:3} ProtocolVersion:{ProtocolVersion:[2 3]} TimeLabels:{TimeLabels:[21 25 8 25 1 24]} SourceAddress:{Address:{Address:[40 37 81 128 18 255]}} TargetAddress:{Address:{Address:[0 0 0 0 0 0]}} AppDataLen:{AppDataLen:43} ControlCommand:2} Data:[9 1 0 0 51 51 2 19 49 178 227 196 207 215 223 192 200 206 247 32 65 48 50 32 48 56 50 0 8 187 240 190 175 32 32 32 32 2 26 14 18 1 24] CRC:31 End:[35 35]}]\n","stream":"stderr","time":"2024-01-25T08:25:22.105668352Z"}
+{"log":"I0125 08:25:22.104681       1 msghandler.go:46] DoMsgRequestHandler = 0\n","stream":"stderr","time":"2024-01-25T08:25:22.10567743Z"}
+{"log":"I0125 08:25:22.104696       1 firerouter.go:18] Call fireRouter RequestHandle\n","stream":"stderr","time":"2024-01-25T08:25:22.105683804Z"}
+{"log":"I0125 08:25:22.104707       1 encoding.go:293] MarshalResp ControlCommand = 2\n","stream":"stderr","time":"2024-01-25T08:25:22.105690098Z"}
+{"log":"I0125 08:25:22.104745       1 encoding.go:110] A-Fire.Control:{SerialNumber:{SerialNumber:3} ProtocolVersion:{ProtocolVersion:[2 3]} TimeLabels:{TimeLabels:[22 25 8 25 1 24]} SourceAddress:{Address:{Address:[0 0 0 0 0 0]}} TargetAddress:{Address:{Address:[40 37 81 128 18 255]}} AppDataLen:{AppDataLen:0} ControlCommand:3}\n","stream":"stderr","time":"2024-01-25T08:25:22.10569652Z"}
+{"log":"I0125 08:25:22.104772       1 encoding.go:117] A-Fire.CRC-Data:030002031619081901180000000000002825518012ff000003\n","stream":"stderr","time":"2024-01-25T08:25:22.105704193Z"}
+{"log":"I0125 08:25:22.104785       1 encoding.go:121] FireMessage:{Start:[64 64] Control:{SerialNumber:{SerialNumber:3} ProtocolVersion:{ProtocolVersion:[2 3]} TimeLabels:{TimeLabels:[22 25 8 25 1 24]} SourceAddress:{Address:{Address:[0 0 0 0 0 0]}} TargetAddress:{Address:{Address:[40 37 81 128 18 255]}} AppDataLen:{AppDataLen:0} ControlCommand:3} Data:[] CRC:163 End:[35 35]}/n\n","stream":"stderr","time":"2024-01-25T08:25:22.105710895Z"}
+{"log":"I0125 08:25:22.104826       1 msghandler.go:61] DoMsgDataHandler = 0\n","stream":"stderr","time":"2024-01-25T08:25:22.105718742Z"}
+{"log":"I0125 08:25:22.104839       1 firerouter.go:31] Call fireRouter DataHandle\n","stream":"stderr","time":"2024-01-25T08:25:22.105725005Z"}
+{"log":"I0125 08:25:22.104849       1 firerouter.go:35] DataHandle recv from client :data= 090100003333021331b2e3c4cfd7dfc0c8cef720413032203038320008bbf0beaf20202020021a0e120118\n","stream":"stderr","time":"2024-01-25T08:25:22.105731555Z"}
+{"log":"I0125 08:25:22.105270       1 globals.go:217] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:25:22.105742211Z"}
+{"log":"I0125 08:25:22.105285       1 globals.go:264] 心跳点位组包\n","stream":"stderr","time":"2024-01-25T08:25:22.105748967Z"}
+{"log":"I0125 08:25:22.105568       1 globals.go:183] DeviceID-HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:25:22.105762023Z"}
+{"log":"I0125 08:25:22.105584       1 globals.go:187] DeviceID:[[3.1 2.3.1.1]]\n","stream":"stderr","time":"2024-01-25T08:25:22.105769541Z"}
+{"log":"I0125 08:25:22.105841       1 globals.go:200] PropertyID-HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:25:22.105958059Z"}
+{"log":"I0125 08:25:22.105855       1 globals.go:204] PropertyID:[[3.1 2.3.1.1 1.2.1.1]]\n","stream":"stderr","time":"2024-01-25T08:25:22.105980698Z"}
+{"log":"I0125 08:25:22.105891       1 globals.go:289] Device Property[{\"device_type\":\"2.3.1.1\",\"timestamp\":1706171122,\"devices\":[{\"device_id\":\"3.1.2.3.1.1\",\"timestamp\":1706171122,\"data\":{\"3.1.2.3.1.1.1.2.1.1\":{\"value\":0,\"timestamp\":1706171122,\"metadata\":{\"timestamp\":1706171122,\"type\":\"boolean\"}}}}]}]\n","stream":"stderr","time":"2024-01-25T08:25:22.105997661Z"}
+{"log":"I0125 08:25:22.106003       1 globals.go:295] Update value: 2.3.1.1, topic: sanhegjtwo/groups-devices-data-update\n","stream":"stderr","time":"2024-01-25T08:25:22.106085344Z"}
+{"log":"I0125 08:25:22.106058       1 firedatadecode.go:22] DecodeSwitchDataTypeToData= \u0026{9 1 [0 0 51 51 2 19 49 178 227 196 207 215 223 192 200 206 247 32 65 48 50 32 48 56 50 0 8 187 240 190 175 32 32 32 32 2 26 14 18 1 24]}\n","stream":"stderr","time":"2024-01-25T08:25:22.106114909Z"}
+{"log":"I0125 08:25:22.106087       1 firedatadecode.go:23] DecodeSwitchDataType= 0x9\n","stream":"stderr","time":"2024-01-25T08:25:22.10612361Z"}
+{"log":"2024-01-25 08:27:02 +0000 UTC\n","stream":"stdout","time":"2024-01-25T08:25:22.106139251Z"}
+{"log":"2024-01-25 08:40:42 +0000 UTC\n","stream":"stdout","time":"2024-01-25T08:25:22.106152938Z"}
+{"log":"I0125 08:25:22.106111       1 firedatatype.go:1262] FireParseCardAlarmStatDecodeToData:Type:9,41\n","stream":"stderr","time":"2024-01-25T08:25:22.106184176Z"}
+{"log":"I0125 08:25:22.106132       1 firedatatype.go:1230] FireBuildElectricityDecode-ObjectNum:[1]\n","stream":"stderr","time":"2024-01-25T08:25:22.106211768Z"}
+{"log":"I0125 08:25:22.106183       1 firedatatype.go:1250] FireBuildUserConfigStatDecode status:[2]\n","stream":"stderr","time":"2024-01-25T08:25:22.106268704Z"}
+{"log":"I0125 08:25:22.106204       1 firedatatype.go:1251] FireBuildUserConfigStatDecode Name:19--1层南走廊西A02082\n","stream":"stderr","time":"2024-01-25T08:25:22.106285901Z"}
+{"log":"I0125 08:25:22.106223       1 firedatatype.go:1252] FireBuildUserConfigStatDecode Place:0--\n","stream":"stderr","time":"2024-01-25T08:25:22.106294582Z"}
+{"log":"I0125 08:25:22.106243       1 firedatatype.go:1253] FireBuildUserConfigStatDecode Msg:8--火警\n","stream":"stderr","time":"2024-01-25T08:25:22.106302466Z"}
+{"log":"I0125 08:25:22.106270       1 firedatatype.go:1255] FireBuildUserConfigStatDecode Pos:41--{ChannelID:0 FireHostNum:0 Reserved:[51 51] PropertyStat:{Status:2} Name:{MsgLen:19 Msg:1层南走廊西A02082} Place:{MsgLen:0 Msg:} Msg:{MsgLen:8 Msg:火警} TimeLabels:{TimeLabels:[2 26 14 18 1 24]}}\n","stream":"stderr","time":"2024-01-25T08:25:22.106394583Z"}
+{"log":"I0125 08:25:22.106333       1 firedatatype.go:1266] FireParseCardAlarmStatDecode :[{ChannelID:0 FireHostNum:0 Reserved:[51 51] PropertyStat:{Status:2} Name:{MsgLen:19 Msg:1层南走廊西A02082} Place:{MsgLen:0 Msg:} Msg:{MsgLen:8 Msg:火警} TimeLabels:{TimeLabels:[2 26 14 18 1 24]}}]\n","stream":"stderr","time":"2024-01-25T08:25:22.106418723Z"}
+{"log":"I0125 08:25:22.106676       1 firedatatype.go:2239] 通用清洗: name[1层南走廊西A02082]\n","stream":"stderr","time":"2024-01-25T08:25:22.106748203Z"}
+{"log":"I0125 08:25:22.106688       1 firedatatype.go:2240] 通用清洗: place[]\n","stream":"stderr","time":"2024-01-25T08:25:22.106759015Z"}
+{"log":"I0125 08:25:22.106696       1 firedatatype.go:2241] 通用清洗: msg[火警]\n","stream":"stderr","time":"2024-01-25T08:25:22.10677509Z"}
+{"log":"I0125 08:25:22.106772       1 firedatatype.go:1328] 测试清洗结果: A02082\n","stream":"stderr","time":"2024-01-25T08:25:22.106840998Z"}
+{"log":"I0125 08:25:22.106788       1 firestat.go:301] 通用状态转换name: name[]\n","stream":"stderr","time":"2024-01-25T08:25:22.106851734Z"}
+{"log":"I0125 08:25:22.106796       1 firestat.go:302] 通用状态转换place: place[]\n","stream":"stderr","time":"2024-01-25T08:25:22.106858614Z"}
+{"log":"I0125 08:25:22.106804       1 firestat.go:303] 通用状态转换msg: msg[火警]\n","stream":"stderr","time":"2024-01-25T08:25:22.106865367Z"}
+{"log":"I0125 08:25:22.107106       1 globals.go:217] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:25:22.10717449Z"}
+{"log":"I0125 08:25:22.107121       1 firecustomizeddata.go:24] ParseFireToSouth Device:[0]---len:[9]\n","stream":"stderr","time":"2024-01-25T08:25:22.107197512Z"}
+{"log":"I0125 08:25:22.107138       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:\u0026{Value:0 Timestamp:1706171122 Metadata:{Timestamp:1705587962 Type:boolean}}\n","stream":"stderr","time":"2024-01-25T08:25:22.107210246Z"}
+{"log":"I0125 08:25:22.107169       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:\u0026{Value:火警 Timestamp:1706171122 Metadata:{Timestamp:1705587962 Type:string}}\n","stream":"stderr","time":"2024-01-25T08:25:22.107221149Z"}
+{"log":"I0125 08:25:22.107189       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:\u0026{Value:0 Timestamp:1706171122 Metadata:{Timestamp:1705587962 Type:boolean}}\n","stream":"stderr","time":"2024-01-25T08:25:22.107250988Z"}
+{"log":"I0125 08:25:22.107210       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:\u0026{Value:0 Timestamp:1706171122 Metadata:{Timestamp:1705587962 Type:boolean}}\n","stream":"stderr","time":"2024-01-25T08:25:22.107264506Z"}
+{"log":"I0125 08:25:22.107226       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:\u0026{Value:0 Timestamp:1706171122 Metadata:{Timestamp:1705587962 Type:boolean}}\n","stream":"stderr","time":"2024-01-25T08:25:22.107271547Z"}
+{"log":"I0125 08:25:22.107244       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:\u0026{Value:0 Timestamp:1706171122 Metadata:{Timestamp:1705587962 Type:boolean}}\n","stream":"stderr","time":"2024-01-25T08:25:22.107293531Z"}
+{"log":"I0125 08:25:22.107264       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:\u0026{Value:0 Timestamp:1706171122 Metadata:{Timestamp:1705587962 Type:boolean}}\n","stream":"stderr","time":"2024-01-25T08:25:22.107301349Z"}
+{"log":"I0125 08:25:22.107279       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:\u0026{Value:0 Timestamp:1706171122 Metadata:{Timestamp:1705587962 Type:boolean}}\n","stream":"stderr","time":"2024-01-25T08:25:22.107330366Z"}
+{"log":"I0125 08:25:22.107298       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:\u0026{Value:1 Timestamp:1706171122 Metadata:{Timestamp:1705587962 Type:boolean}}\n","stream":"stderr","time":"2024-01-25T08:25:22.107337764Z"}
+{"log":"I0125 08:25:22.107316       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-A02082-#-#-#-0-#-----\u0026{0 1706171122 {1705587962 boolean}}\n","stream":"stderr","time":"2024-01-25T08:25:22.107357502Z"}
+{"log":"I0125 08:25:22.107563       1 globals.go:168] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:25:22.107633657Z"}
+{"log":"I0125 08:25:22.107582       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-A02082-#-#-#-1-#-----\u0026{1 1706171122 {1705587962 boolean}}\n","stream":"stderr","time":"2024-01-25T08:25:22.107642378Z"}
+{"log":"I0125 08:25:22.107838       1 globals.go:168] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:25:22.107906141Z"}
+{"log":"I0125 08:25:22.107856       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-A02082-#-#-#-2-#-----\u0026{0 1706171122 {1705587962 boolean}}\n","stream":"stderr","time":"2024-01-25T08:25:22.107916397Z"}
+{"log":"I0125 08:25:22.108122       1 globals.go:168] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:25:22.10818494Z"}
+{"log":"I0125 08:25:22.108139       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-A02082-#-#-#-3-#-----\u0026{0 1706171122 {1705587962 boolean}}\n","stream":"stderr","time":"2024-01-25T08:25:22.108198317Z"}
+{"log":"I0125 08:25:22.108383       1 globals.go:168] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:25:22.108451375Z"}
+{"log":"I0125 08:25:22.108401       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-A02082-#-#-#-4-#-----\u0026{0 1706171122 {1705587962 boolean}}\n","stream":"stderr","time":"2024-01-25T08:25:22.108461781Z"}
+{"log":"I0125 08:25:22.108641       1 globals.go:168] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:25:22.108699653Z"}
+{"log":"I0125 08:25:22.108658       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-A02082-#-#-#-5-#-----\u0026{0 1706171122 {1705587962 boolean}}\n","stream":"stderr","time":"2024-01-25T08:25:22.10870803Z"}
+{"log":"I0125 08:25:22.108896       1 globals.go:168] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:25:22.108956793Z"}
+{"log":"I0125 08:25:22.108914       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-A02082-#-#-#-7-#-----\u0026{0 1706171122 {1705587962 boolean}}\n","stream":"stderr","time":"2024-01-25T08:25:22.10896597Z"}
+{"log":"I0125 08:25:22.109172       1 globals.go:168] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:25:22.109232347Z"}
+{"log":"I0125 08:25:22.109190       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-A02082-#-#-#-6-#-----\u0026{0 1706171122 {1705587962 boolean}}\n","stream":"stderr","time":"2024-01-25T08:25:22.109243418Z"}
+{"log":"I0125 08:25:22.109430       1 globals.go:168] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:25:22.109491159Z"}
+{"log":"I0125 08:25:22.109448       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-A02082-#-#-#-s-#-----\u0026{火警 1706171122 {1705587962 string}}\n","stream":"stderr","time":"2024-01-25T08:25:22.109500458Z"}
+{"log":"I0125 08:25:22.109682       1 globals.go:168] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:25:22.109736864Z"}
+{"log":"I0125 08:25:22.109696       1 firecustomizeddata.go:96] Device payload[{{ 0} []}]\n","stream":"stderr","time":"2024-01-25T08:25:22.109747508Z"}
+{"log":"I0125 08:27:14.672337       1 datapack.go:52] Unpack read startData [64 64]\n","stream":"stderr","time":"2024-01-25T08:27:14.672547966Z"}
+{"log":"I0125 08:27:14.672381       1 datapack.go:66] Unpack read Data First [10][040002030d1b08190118]\n","stream":"stderr","time":"2024-01-25T08:27:14.672589697Z"}
+{"log":"I0125 08:27:14.672404       1 datapack.go:83] Unpack read Data Two [25][2825518012ff000000000000270002]\n","stream":"stderr","time":"2024-01-25T08:27:14.672599265Z"}
+{"log":"I0125 08:27:14.672423       1 decode.go:47] buf:\u0026{040002030d1b081901182825518012ff000000000000270002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:27:14.672606728Z"}
+{"log":"I0125 08:27:14.672447       1 decode.go:55] decode: *fire.Control is a ptr\n","stream":"stderr","time":"2024-01-25T08:27:14.672615307Z"}
+{"log":"I0125 08:27:14.672460       1 decode.go:47] buf:\u0026{040002030d1b081901182825518012ff000000000000270002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:27:14.672622396Z"}
+{"log":"I0125 08:27:14.672473       1 decode.go:55] decode: *fire.Control is a struct\n","stream":"stderr","time":"2024-01-25T08:27:14.672630362Z"}
+{"log":"I0125 08:27:14.672486       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:27:14.672637387Z"}
+{"log":"I0125 08:27:14.672495       1 decode.go:47] buf:\u0026{040002030d1b081901182825518012ff000000000000270002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:27:14.67264425Z"}
+{"log":"I0125 08:27:14.672507       1 decode.go:55] decode: *fire.Control.SerialNumber is a struct\n","stream":"stderr","time":"2024-01-25T08:27:14.672667162Z"}
+{"log":"I0125 08:27:14.672517       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:27:14.672675229Z"}
+{"log":"I0125 08:27:14.672525       1 decode.go:47] buf:\u0026{040002030d1b081901182825518012ff000000000000270002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:27:14.672693153Z"}
+{"log":"I0125 08:27:14.672537       1 decode.go:55] decode: *fire.Control.SerialNumber.SerialNumber is a uint16\n","stream":"stderr","time":"2024-01-25T08:27:14.672700922Z"}
+{"log":"I0125 08:27:14.672556       1 decode.go:94] decode: *fire.Control.SerialNumber.SerialNumber:4\n","stream":"stderr","time":"2024-01-25T08:27:14.672708118Z"}
+{"log":"I0125 08:27:14.672578       1 decode.go:88] decode: *fire.Control.SerialNumber:{4}\n","stream":"stderr","time":"2024-01-25T08:27:14.672715332Z"}
+{"log":"I0125 08:27:14.672588       1 decode.go:113] offset2\n","stream":"stderr","time":"2024-01-25T08:27:14.672722269Z"}
+{"log":"I0125 08:27:14.672597       1 decode.go:47] buf:\u0026{02030d1b081901182825518012ff000000000000270002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:27:14.672729189Z"}
+{"log":"I0125 08:27:14.672609       1 decode.go:55] decode: *fire.Control.ProtocolVersion is a struct\n","stream":"stderr","time":"2024-01-25T08:27:14.672736658Z"}
+{"log":"I0125 08:27:14.672618       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:27:14.672743771Z"}
+{"log":"I0125 08:27:14.672626       1 decode.go:47] buf:\u0026{02030d1b081901182825518012ff000000000000270002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:27:14.672750608Z"}
+{"log":"I0125 08:27:14.672637       1 decode.go:55] decode: *fire.Control.ProtocolVersion.ProtocolVersion is a array\n","stream":"stderr","time":"2024-01-25T08:27:14.672757875Z"}
+{"log":"I0125 08:27:14.672648       1 decode.go:200] elemType: uint8\n","stream":"stderr","time":"2024-01-25T08:27:14.672767388Z"}
+{"log":"I0125 08:27:14.672663       1 decode.go:84] decode: *fire.Control.ProtocolVersion.ProtocolVersion:[2 3]\n","stream":"stderr","time":"2024-01-25T08:27:14.67277449Z"}
+{"log":"I0125 08:27:14.672684       1 decode.go:88] decode: *fire.Control.ProtocolVersion:{[2 3]}\n","stream":"stderr","time":"2024-01-25T08:27:14.672781557Z"}
+{"log":"I0125 08:27:14.672763       1 decode.go:113] offset4\n","stream":"stderr","time":"2024-01-25T08:27:14.672853372Z"}
+{"log":"I0125 08:27:14.672803       1 decode.go:47] buf:\u0026{0d1b081901182825518012ff000000000000270002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:27:14.672880912Z"}
+{"log":"I0125 08:27:14.672831       1 decode.go:55] decode: *fire.Control.TimeLabels is a struct\n","stream":"stderr","time":"2024-01-25T08:27:14.672900556Z"}
+{"log":"I0125 08:27:14.672850       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:27:14.672908695Z"}
+{"log":"I0125 08:27:14.672861       1 decode.go:47] buf:\u0026{0d1b081901182825518012ff000000000000270002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:27:14.672915869Z"}
+{"log":"I0125 08:27:14.672875       1 decode.go:55] decode: *fire.Control.TimeLabels.TimeLabels is a array\n","stream":"stderr","time":"2024-01-25T08:27:14.672925145Z"}
+{"log":"I0125 08:27:14.672887       1 decode.go:200] elemType: uint8\n","stream":"stderr","time":"2024-01-25T08:27:14.672932678Z"}
+{"log":"I0125 08:27:14.672907       1 decode.go:84] decode: *fire.Control.TimeLabels.TimeLabels:[13 27 8 25 1 24]\n","stream":"stderr","time":"2024-01-25T08:27:14.672954187Z"}
+{"log":"I0125 08:27:14.672931       1 decode.go:88] decode: *fire.Control.TimeLabels:{[13 27 8 25 1 24]}\n","stream":"stderr","time":"2024-01-25T08:27:14.672999793Z"}
+{"log":"I0125 08:27:14.672950       1 decode.go:113] offset10\n","stream":"stderr","time":"2024-01-25T08:27:14.673038583Z"}
+{"log":"I0125 08:27:14.672961       1 decode.go:47] buf:\u0026{2825518012ff000000000000270002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:27:14.673047826Z"}
+{"log":"I0125 08:27:14.673029       1 decode.go:55] decode: *fire.Control.SourceAddress is a struct\n","stream":"stderr","time":"2024-01-25T08:27:14.673118351Z"}
+{"log":"I0125 08:27:14.673044       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:27:14.673142178Z"}
+{"log":"I0125 08:27:14.673053       1 decode.go:47] buf:\u0026{2825518012ff000000000000270002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:27:14.673150687Z"}
+{"log":"I0125 08:27:14.673066       1 decode.go:55] decode: *fire.Control.SourceAddress.Address is a struct\n","stream":"stderr","time":"2024-01-25T08:27:14.673162636Z"}
+{"log":"I0125 08:27:14.673075       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:27:14.673170367Z"}
+{"log":"I0125 08:27:14.673083       1 decode.go:47] buf:\u0026{2825518012ff000000000000270002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:27:14.673208387Z"}
+{"log":"I0125 08:27:14.673171       1 decode.go:55] decode: *fire.Control.SourceAddress.Address.Address is a array\n","stream":"stderr","time":"2024-01-25T08:27:14.673220633Z"}
+{"log":"I0125 08:27:14.673181       1 decode.go:200] elemType: uint8\n","stream":"stderr","time":"2024-01-25T08:27:14.673228187Z"}
+{"log":"I0125 08:27:14.673197       1 decode.go:84] decode: *fire.Control.SourceAddress.Address.Address:[40 37 81 128 18 255]\n","stream":"stderr","time":"2024-01-25T08:27:14.67324259Z"}
+{"log":"I0125 08:27:14.673218       1 decode.go:88] decode: *fire.Control.SourceAddress.Address:{[40 37 81 128 18 255]}\n","stream":"stderr","time":"2024-01-25T08:27:14.673254455Z"}
+{"log":"I0125 08:27:14.673235       1 decode.go:88] decode: *fire.Control.SourceAddress:{{[40 37 81 128 18 255]}}\n","stream":"stderr","time":"2024-01-25T08:27:14.673278867Z"}
+{"log":"I0125 08:27:14.673252       1 decode.go:113] offset16\n","stream":"stderr","time":"2024-01-25T08:27:14.673290582Z"}
+{"log":"I0125 08:27:14.673263       1 decode.go:47] buf:\u0026{000000000000270002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:27:14.673297866Z"}
+{"log":"I0125 08:27:14.673276       1 decode.go:55] decode: *fire.Control.TargetAddress is a struct\n","stream":"stderr","time":"2024-01-25T08:27:14.673368314Z"}
+{"log":"I0125 08:27:14.673290       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:27:14.673379551Z"}
+{"log":"I0125 08:27:14.673299       1 decode.go:47] buf:\u0026{000000000000270002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:27:14.673387117Z"}
+{"log":"I0125 08:27:14.673311       1 decode.go:55] decode: *fire.Control.TargetAddress.Address is a struct\n","stream":"stderr","time":"2024-01-25T08:27:14.673394966Z"}
+{"log":"I0125 08:27:14.673320       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:27:14.673401999Z"}
+{"log":"I0125 08:27:14.673328       1 decode.go:47] buf:\u0026{000000000000270002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:27:14.673408776Z"}
+{"log":"I0125 08:27:14.673341       1 decode.go:55] decode: *fire.Control.TargetAddress.Address.Address is a array\n","stream":"stderr","time":"2024-01-25T08:27:14.673424323Z"}
+{"log":"I0125 08:27:14.673355       1 decode.go:200] elemType: uint8\n","stream":"stderr","time":"2024-01-25T08:27:14.673431711Z"}
+{"log":"I0125 08:27:14.673370       1 decode.go:84] decode: *fire.Control.TargetAddress.Address.Address:[0 0 0 0 0 0]\n","stream":"stderr","time":"2024-01-25T08:27:14.673438718Z"}
+{"log":"I0125 08:27:14.673388       1 decode.go:88] decode: *fire.Control.TargetAddress.Address:{[0 0 0 0 0 0]}\n","stream":"stderr","time":"2024-01-25T08:27:14.67344619Z"}
+{"log":"I0125 08:27:14.673407       1 decode.go:88] decode: *fire.Control.TargetAddress:{{[0 0 0 0 0 0]}}\n","stream":"stderr","time":"2024-01-25T08:27:14.673476039Z"}
+{"log":"I0125 08:27:14.673422       1 decode.go:113] offset22\n","stream":"stderr","time":"2024-01-25T08:27:14.673484666Z"}
+{"log":"I0125 08:27:14.673430       1 decode.go:47] buf:\u0026{270002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:27:14.673516801Z"}
+{"log":"I0125 08:27:14.673443       1 decode.go:55] decode: *fire.Control.AppDataLen is a struct\n","stream":"stderr","time":"2024-01-25T08:27:14.673545502Z"}
+{"log":"I0125 08:27:14.673452       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:27:14.673571521Z"}
+{"log":"I0125 08:27:14.673460       1 decode.go:47] buf:\u0026{270002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:27:14.673589318Z"}
+{"log":"I0125 08:27:14.673472       1 decode.go:55] decode: *fire.Control.AppDataLen.AppDataLen is a uint16\n","stream":"stderr","time":"2024-01-25T08:27:14.673600591Z"}
+{"log":"I0125 08:27:14.673494       1 decode.go:94] decode: *fire.Control.AppDataLen.AppDataLen:39\n","stream":"stderr","time":"2024-01-25T08:27:14.673608358Z"}
+{"log":"I0125 08:27:14.673510       1 decode.go:88] decode: *fire.Control.AppDataLen:{39}\n","stream":"stderr","time":"2024-01-25T08:27:14.673615434Z"}
+{"log":"I0125 08:27:14.673522       1 decode.go:113] offset24\n","stream":"stderr","time":"2024-01-25T08:27:14.673622449Z"}
+{"log":"I0125 08:27:14.673531       1 decode.go:47] buf:\u0026{02 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:27:14.673629675Z"}
+{"log":"I0125 08:27:14.673543       1 decode.go:55] decode: *fire.Control.ControlCommand is a uint8\n","stream":"stderr","time":"2024-01-25T08:27:14.673636988Z"}
+{"log":"I0125 08:27:14.673559       1 decode.go:94] decode: *fire.Control.ControlCommand:2\n","stream":"stderr","time":"2024-01-25T08:27:14.673644045Z"}
+{"log":"I0125 08:27:14.673574       1 decode.go:88] decode: *fire.Control:{{4} {[2 3]} {[13 27 8 25 1 24]} {{[40 37 81 128 18 255]}} {{[0 0 0 0 0 0]}} {39} 2}\n","stream":"stderr","time":"2024-01-25T08:27:14.673692803Z"}
+{"log":"I0125 08:27:14.673604       1 decode.go:86] decode: *fire.Control:\u0026{{4} {[2 3]} {[13 27 8 25 1 24]} {{[40 37 81 128 18 255]}} {{[0 0 0 0 0 0]}} {39} 2}\n","stream":"stderr","time":"2024-01-25T08:27:14.673721962Z"}
+{"log":"I0125 08:27:14.673632       1 datapack.go:154] fire-up.Control\u0026{SerialNumber:{SerialNumber:4} ProtocolVersion:{ProtocolVersion:[2 3]} TimeLabels:{TimeLabels:[13 27 8 25 1 24]} SourceAddress:{Address:{Address:[40 37 81 128 18 255]}} TargetAddress:{Address:{Address:[0 0 0 0 0 0]}} AppDataLen:{AppDataLen:39} ControlCommand:2}\n","stream":"stderr","time":"2024-01-25T08:27:14.673732201Z"}
+{"log":"I0125 08:27:14.673685       1 datapack.go:102] Unpack read Data [39][090100003333040f333031bbfab7bf20413037203039330008b9cad5cf2020202029290d180118]\n","stream":"stderr","time":"2024-01-25T08:27:14.673743292Z"}
+{"log":"I0125 08:27:14.673727       1 datapack.go:123] Unpack CRC Data:Len:[040002030d1b081901182825518012ff000000000000270002090100003333040f333031bbfab7bf20413037203039330008b9cad5cf2020202029290d180118]\n","stream":"stderr","time":"2024-01-25T08:27:14.673772503Z"}
+{"log":"I0125 08:27:14.673750       1 datapack.go:124] Unpack CRC[c8:c8]\n","stream":"stderr","time":"2024-01-25T08:27:14.67378557Z"}
+{"log":"I0125 08:27:14.673761       1 firemessage.go:54] FireMessage.SetData:len[39][090100003333040f333031bbfab7bf20413037203039330008b9cad5cf2020202029290d180118]\n","stream":"stderr","time":"2024-01-25T08:27:14.673807473Z"}
+{"log":"I0125 08:27:14.673786       1 datapack.go:130] Unpack Fire:[\u0026{Start:[64 64] Control:{SerialNumber:{SerialNumber:4} ProtocolVersion:{ProtocolVersion:[2 3]} TimeLabels:{TimeLabels:[13 27 8 25 1 24]} SourceAddress:{Address:{Address:[40 37 81 128 18 255]}} TargetAddress:{Address:{Address:[0 0 0 0 0 0]}} AppDataLen:{AppDataLen:39} ControlCommand:2} Data:[9 1 0 0 51 51 4 15 51 48 49 187 250 183 191 32 65 48 55 32 48 57 51 0 8 185 202 213 207 32 32 32 32 41 41 13 24 1 24] CRC:200 End:[35 35]}]\n","stream":"stderr","time":"2024-01-25T08:27:14.673875928Z"}
+{"log":"I0125 08:27:14.673847       1 msghandler.go:46] DoMsgRequestHandler = 0\n","stream":"stderr","time":"2024-01-25T08:27:14.673893228Z"}
+{"log":"I0125 08:27:14.673861       1 firerouter.go:18] Call fireRouter RequestHandle\n","stream":"stderr","time":"2024-01-25T08:27:14.673900676Z"}
+{"log":"I0125 08:27:14.673871       1 encoding.go:293] MarshalResp ControlCommand = 2\n","stream":"stderr","time":"2024-01-25T08:27:14.673921711Z"}
+{"log":"I0125 08:27:14.673899       1 encoding.go:110] A-Fire.Control:{SerialNumber:{SerialNumber:4} ProtocolVersion:{ProtocolVersion:[2 3]} TimeLabels:{TimeLabels:[14 27 8 25 1 24]} SourceAddress:{Address:{Address:[0 0 0 0 0 0]}} TargetAddress:{Address:{Address:[40 37 81 128 18 255]}} AppDataLen:{AppDataLen:0} ControlCommand:3}\n","stream":"stderr","time":"2024-01-25T08:27:14.673965557Z"}
+{"log":"I0125 08:27:14.673925       1 encoding.go:117] A-Fire.CRC-Data:040002030e1b081901180000000000002825518012ff000003\n","stream":"stderr","time":"2024-01-25T08:27:14.674004656Z"}
+{"log":"I0125 08:27:14.673941       1 encoding.go:121] FireMessage:{Start:[64 64] Control:{SerialNumber:{SerialNumber:4} ProtocolVersion:{ProtocolVersion:[2 3]} TimeLabels:{TimeLabels:[14 27 8 25 1 24]} SourceAddress:{Address:{Address:[0 0 0 0 0 0]}} TargetAddress:{Address:{Address:[40 37 81 128 18 255]}} AppDataLen:{AppDataLen:0} ControlCommand:3} Data:[] CRC:158 End:[35 35]}/n\n","stream":"stderr","time":"2024-01-25T08:27:14.674062152Z"}
+{"log":"I0125 08:27:14.674008       1 msghandler.go:61] DoMsgDataHandler = 0\n","stream":"stderr","time":"2024-01-25T08:27:14.674078265Z"}
+{"log":"I0125 08:27:14.674021       1 firerouter.go:31] Call fireRouter DataHandle\n","stream":"stderr","time":"2024-01-25T08:27:14.674087654Z"}
+{"log":"I0125 08:27:14.674029       1 firerouter.go:35] DataHandle recv from client :data= 090100003333040f333031bbfab7bf20413037203039330008b9cad5cf2020202029290d180118\n","stream":"stderr","time":"2024-01-25T08:27:14.674096624Z"}
+{"log":"I0125 08:27:14.674415       1 globals.go:217] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:27:14.674476201Z"}
+{"log":"I0125 08:27:14.674429       1 globals.go:264] 心跳点位组包\n","stream":"stderr","time":"2024-01-25T08:27:14.674491582Z"}
+{"log":"I0125 08:27:14.674705       1 globals.go:183] DeviceID-HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:27:14.674770299Z"}
+{"log":"I0125 08:27:14.674721       1 globals.go:187] DeviceID:[[3.1 2.3.1.1]]\n","stream":"stderr","time":"2024-01-25T08:27:14.674797747Z"}
+{"log":"I0125 08:27:14.674999       1 globals.go:200] PropertyID-HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:27:14.67506086Z"}
+{"log":"I0125 08:27:14.675014       1 globals.go:204] PropertyID:[[3.1 2.3.1.1 1.2.1.1]]\n","stream":"stderr","time":"2024-01-25T08:27:14.675080223Z"}
+{"log":"I0125 08:27:14.675053       1 globals.go:289] Device Property[{\"device_type\":\"2.3.1.1\",\"timestamp\":1706171234,\"devices\":[{\"device_id\":\"3.1.2.3.1.1\",\"timestamp\":1706171234,\"data\":{\"3.1.2.3.1.1.1.2.1.1\":{\"value\":0,\"timestamp\":1706171234,\"metadata\":{\"timestamp\":1706171234,\"type\":\"boolean\"}}}}]}]\n","stream":"stderr","time":"2024-01-25T08:27:14.675108729Z"}
+{"log":"I0125 08:27:14.675148       1 globals.go:295] Update value: 2.3.1.1, topic: sanhegjtwo/groups-devices-data-update\n","stream":"stderr","time":"2024-01-25T08:27:14.675220939Z"}
+{"log":"2024-01-25 08:28:54 +0000 UTC\n","stream":"stdout","time":"2024-01-25T08:27:14.675280834Z"}
+{"log":"2024-01-25 08:42:34 +0000 UTC\n","stream":"stdout","time":"2024-01-25T08:27:14.675307122Z"}
+{"log":"I0125 08:27:14.675209       1 firedatadecode.go:22] DecodeSwitchDataTypeToData= \u0026{9 1 [0 0 51 51 4 15 51 48 49 187 250 183 191 32 65 48 55 32 48 57 51 0 8 185 202 213 207 32 32 32 32 41 41 13 24 1 24]}\n","stream":"stderr","time":"2024-01-25T08:27:14.675281843Z"}
+{"log":"I0125 08:27:14.675241       1 firedatadecode.go:23] DecodeSwitchDataType= 0x9\n","stream":"stderr","time":"2024-01-25T08:27:14.675328763Z"}
+{"log":"I0125 08:27:14.675251       1 firedatatype.go:1262] FireParseCardAlarmStatDecodeToData:Type:9,37\n","stream":"stderr","time":"2024-01-25T08:27:14.675338444Z"}
+{"log":"I0125 08:27:14.675261       1 firedatatype.go:1230] FireBuildElectricityDecode-ObjectNum:[1]\n","stream":"stderr","time":"2024-01-25T08:27:14.675357204Z"}
+{"log":"I0125 08:27:14.675300       1 firedatatype.go:1250] FireBuildUserConfigStatDecode status:[4]\n","stream":"stderr","time":"2024-01-25T08:27:14.675368182Z"}
+{"log":"I0125 08:27:14.675322       1 firedatatype.go:1251] FireBuildUserConfigStatDecode Name:15--301机房A07093\n","stream":"stderr","time":"2024-01-25T08:27:14.675382714Z"}
+{"log":"I0125 08:27:14.675342       1 firedatatype.go:1252] FireBuildUserConfigStatDecode Place:0--\n","stream":"stderr","time":"2024-01-25T08:27:14.675392347Z"}
+{"log":"I0125 08:27:14.675362       1 firedatatype.go:1253] FireBuildUserConfigStatDecode Msg:8--故障\n","stream":"stderr","time":"2024-01-25T08:27:14.675400822Z"}
+{"log":"I0125 08:27:14.675387       1 firedatatype.go:1255] FireBuildUserConfigStatDecode Pos:37--{ChannelID:0 FireHostNum:0 Reserved:[51 51] PropertyStat:{Status:4} Name:{MsgLen:15 Msg:301机房A07093} Place:{MsgLen:0 Msg:} Msg:{MsgLen:8 Msg:故障} TimeLabels:{TimeLabels:[41 41 13 24 1 24]}}\n","stream":"stderr","time":"2024-01-25T08:27:14.675450733Z"}
+{"log":"I0125 08:27:14.675414       1 firedatatype.go:1266] FireParseCardAlarmStatDecode :[{ChannelID:0 FireHostNum:0 Reserved:[51 51] PropertyStat:{Status:4} Name:{MsgLen:15 Msg:301机房A07093} Place:{MsgLen:0 Msg:} Msg:{MsgLen:8 Msg:故障} TimeLabels:{TimeLabels:[41 41 13 24 1 24]}}]\n","stream":"stderr","time":"2024-01-25T08:27:14.675480241Z"}
+{"log":"I0125 08:27:14.675716       1 firedatatype.go:2239] 通用清洗: name[301机房A07093]\n","stream":"stderr","time":"2024-01-25T08:27:14.675787186Z"}
+{"log":"I0125 08:27:14.675729       1 firedatatype.go:2240] 通用清洗: place[]\n","stream":"stderr","time":"2024-01-25T08:27:14.67580399Z"}
+{"log":"I0125 08:27:14.675737       1 firedatatype.go:2241] 通用清洗: msg[故障]\n","stream":"stderr","time":"2024-01-25T08:27:14.675811828Z"}
+{"log":"I0125 08:27:14.675783       1 firedatatype.go:1328] 测试清洗结果: A07093\n","stream":"stderr","time":"2024-01-25T08:27:14.675835808Z"}
+{"log":"I0125 08:27:14.675795       1 firestat.go:301] 通用状态转换name: name[]\n","stream":"stderr","time":"2024-01-25T08:27:14.675848051Z"}
+{"log":"I0125 08:27:14.675803       1 firestat.go:302] 通用状态转换place: place[]\n","stream":"stderr","time":"2024-01-25T08:27:14.675855823Z"}
+{"log":"I0125 08:27:14.675811       1 firestat.go:303] 通用状态转换msg: msg[故障]\n","stream":"stderr","time":"2024-01-25T08:27:14.675862913Z"}
+{"log":"I0125 08:27:14.676129       1 globals.go:217] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:27:14.676250073Z"}
+{"log":"I0125 08:27:14.676143       1 firecustomizeddata.go:24] ParseFireToSouth Device:[0]---len:[9]\n","stream":"stderr","time":"2024-01-25T08:27:14.676278031Z"}
+{"log":"I0125 08:27:14.676159       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:\u0026{Value:0 Timestamp:1706171234 Metadata:{Timestamp:1706103701 Type:boolean}}\n","stream":"stderr","time":"2024-01-25T08:27:14.676287885Z"}
+{"log":"I0125 08:27:14.676184       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:\u0026{Value:0 Timestamp:1706171234 Metadata:{Timestamp:1706103701 Type:boolean}}\n","stream":"stderr","time":"2024-01-25T08:27:14.676304704Z"}
+{"log":"I0125 08:27:14.676203       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:\u0026{Value:0 Timestamp:1706171234 Metadata:{Timestamp:1706103701 Type:boolean}}\n","stream":"stderr","time":"2024-01-25T08:27:14.676317397Z"}
+{"log":"I0125 08:27:14.676221       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:\u0026{Value:故障 Timestamp:1706171234 Metadata:{Timestamp:1706103701 Type:string}}\n","stream":"stderr","time":"2024-01-25T08:27:14.676375342Z"}
+{"log":"I0125 08:27:14.676241       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:\u0026{Value:0 Timestamp:1706171234 Metadata:{Timestamp:1706103701 Type:boolean}}\n","stream":"stderr","time":"2024-01-25T08:27:14.676436745Z"}
+{"log":"I0125 08:27:14.676257       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:\u0026{Value:0 Timestamp:1706171234 Metadata:{Timestamp:1706103701 Type:boolean}}\n","stream":"stderr","time":"2024-01-25T08:27:14.676445855Z"}
+{"log":"I0125 08:27:14.676275       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:\u0026{Value:0 Timestamp:1706171234 Metadata:{Timestamp:1706103701 Type:boolean}}\n","stream":"stderr","time":"2024-01-25T08:27:14.676459045Z"}
+{"log":"I0125 08:27:14.676292       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:\u0026{Value:1 Timestamp:1706171234 Metadata:{Timestamp:1706103701 Type:boolean}}\n","stream":"stderr","time":"2024-01-25T08:27:14.67646716Z"}
+{"log":"I0125 08:27:14.676310       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:\u0026{Value:0 Timestamp:1706171234 Metadata:{Timestamp:1706103701 Type:boolean}}\n","stream":"stderr","time":"2024-01-25T08:27:14.676477556Z"}
+{"log":"I0125 08:27:14.676328       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-A07093-#-#-#-2-#-----\u0026{1 1706171234 {1706103701 boolean}}\n","stream":"stderr","time":"2024-01-25T08:27:14.676486586Z"}
+{"log":"I0125 08:27:14.676582       1 globals.go:168] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:27:14.676645119Z"}
+{"log":"I0125 08:27:14.676601       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-A07093-#-#-#-3-#-----\u0026{0 1706171234 {1706103701 boolean}}\n","stream":"stderr","time":"2024-01-25T08:27:14.676660199Z"}
+{"log":"I0125 08:27:14.676860       1 globals.go:168] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:27:14.676924841Z"}
+{"log":"I0125 08:27:14.676878       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-A07093-#-#-#-6-#-----\u0026{0 1706171234 {1706103701 boolean}}\n","stream":"stderr","time":"2024-01-25T08:27:14.676942404Z"}
+{"log":"I0125 08:27:14.677155       1 globals.go:168] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:27:14.677213689Z"}
+{"log":"I0125 08:27:14.677176       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-A07093-#-#-#-7-#-----\u0026{0 1706171234 {1706103701 boolean}}\n","stream":"stderr","time":"2024-01-25T08:27:14.677235499Z"}
+{"log":"I0125 08:27:14.677417       1 globals.go:168] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:27:14.677494454Z"}
+{"log":"I0125 08:27:14.677434       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-A07093-#-#-#-s-#-----\u0026{故障 1706171234 {1706103701 string}}\n","stream":"stderr","time":"2024-01-25T08:27:14.677525964Z"}
+{"log":"I0125 08:27:14.677672       1 globals.go:168] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:27:14.677738712Z"}
+{"log":"I0125 08:27:14.677689       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-A07093-#-#-#-0-#-----\u0026{0 1706171234 {1706103701 boolean}}\n","stream":"stderr","time":"2024-01-25T08:27:14.677756749Z"}
+{"log":"I0125 08:27:14.677923       1 globals.go:168] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:27:14.67801607Z"}
+{"log":"I0125 08:27:14.677940       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-A07093-#-#-#-1-#-----\u0026{0 1706171234 {1706103701 boolean}}\n","stream":"stderr","time":"2024-01-25T08:27:14.678043567Z"}
+{"log":"I0125 08:27:14.678214       1 globals.go:168] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:27:14.678276473Z"}
+{"log":"I0125 08:27:14.678231       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-A07093-#-#-#-4-#-----\u0026{0 1706171234 {1706103701 boolean}}\n","stream":"stderr","time":"2024-01-25T08:27:14.67829453Z"}
+{"log":"I0125 08:27:14.678466       1 globals.go:168] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:27:14.678523716Z"}
+{"log":"I0125 08:27:14.678483       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-A07093-#-#-#-5-#-----\u0026{0 1706171234 {1706103701 boolean}}\n","stream":"stderr","time":"2024-01-25T08:27:14.67853981Z"}
+{"log":"I0125 08:27:14.678722       1 globals.go:168] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:27:14.678794316Z"}
+{"log":"I0125 08:27:14.678737       1 firecustomizeddata.go:96] Device payload[{{ 0} []}]\n","stream":"stderr","time":"2024-01-25T08:27:14.678814693Z"}
+{"log":"I0125 08:39:38.880510       1 datapack.go:52] Unpack read startData [64 64]\n","stream":"stderr","time":"2024-01-25T08:39:38.880832753Z"}
+{"log":"I0125 08:39:38.880558       1 datapack.go:66] Unpack read Data First [10][05000203262708190118]\n","stream":"stderr","time":"2024-01-25T08:39:38.880876354Z"}
+{"log":"I0125 08:39:38.880583       1 datapack.go:83] Unpack read Data Two [25][2825518012ff0000000000003a0002]\n","stream":"stderr","time":"2024-01-25T08:39:38.880885761Z"}
+{"log":"I0125 08:39:38.880602       1 decode.go:47] buf:\u0026{050002032627081901182825518012ff0000000000003a0002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:39:38.880896353Z"}
+{"log":"I0125 08:39:38.880630       1 decode.go:55] decode: *fire.Control is a ptr\n","stream":"stderr","time":"2024-01-25T08:39:38.880909278Z"}
+{"log":"I0125 08:39:38.880649       1 decode.go:47] buf:\u0026{050002032627081901182825518012ff0000000000003a0002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:39:38.880919116Z"}
+{"log":"I0125 08:39:38.880667       1 decode.go:55] decode: *fire.Control is a struct\n","stream":"stderr","time":"2024-01-25T08:39:38.880930806Z"}
+{"log":"I0125 08:39:38.880681       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:39:38.880941342Z"}
+{"log":"I0125 08:39:38.880690       1 decode.go:47] buf:\u0026{050002032627081901182825518012ff0000000000003a0002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:39:38.880950985Z"}
+{"log":"I0125 08:39:38.880702       1 decode.go:55] decode: *fire.Control.SerialNumber is a struct\n","stream":"stderr","time":"2024-01-25T08:39:38.880958878Z"}
+{"log":"I0125 08:39:38.880711       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:39:38.880966236Z"}
+{"log":"I0125 08:39:38.880726       1 decode.go:47] buf:\u0026{050002032627081901182825518012ff0000000000003a0002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:39:38.881081252Z"}
+{"log":"I0125 08:39:38.880831       1 decode.go:55] decode: *fire.Control.SerialNumber.SerialNumber is a uint16\n","stream":"stderr","time":"2024-01-25T08:39:38.881102358Z"}
+{"log":"I0125 08:39:38.880865       1 decode.go:94] decode: *fire.Control.SerialNumber.SerialNumber:5\n","stream":"stderr","time":"2024-01-25T08:39:38.881110316Z"}
+{"log":"I0125 08:39:38.880886       1 decode.go:88] decode: *fire.Control.SerialNumber:{5}\n","stream":"stderr","time":"2024-01-25T08:39:38.88111761Z"}
+{"log":"I0125 08:39:38.880905       1 decode.go:113] offset2\n","stream":"stderr","time":"2024-01-25T08:39:38.881127007Z"}
+{"log":"I0125 08:39:38.880917       1 decode.go:47] buf:\u0026{02032627081901182825518012ff0000000000003a0002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:39:38.881137894Z"}
+{"log":"I0125 08:39:38.880933       1 decode.go:55] decode: *fire.Control.ProtocolVersion is a struct\n","stream":"stderr","time":"2024-01-25T08:39:38.881148902Z"}
+{"log":"I0125 08:39:38.880944       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:39:38.88115602Z"}
+{"log":"I0125 08:39:38.880953       1 decode.go:47] buf:\u0026{02032627081901182825518012ff0000000000003a0002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:39:38.88116286Z"}
+{"log":"I0125 08:39:38.880966       1 decode.go:55] decode: *fire.Control.ProtocolVersion.ProtocolVersion is a array\n","stream":"stderr","time":"2024-01-25T08:39:38.881170355Z"}
+{"log":"I0125 08:39:38.881014       1 decode.go:200] elemType: uint8\n","stream":"stderr","time":"2024-01-25T08:39:38.881177375Z"}
+{"log":"I0125 08:39:38.881034       1 decode.go:84] decode: *fire.Control.ProtocolVersion.ProtocolVersion:[2 3]\n","stream":"stderr","time":"2024-01-25T08:39:38.88118432Z"}
+{"log":"I0125 08:39:38.881052       1 decode.go:88] decode: *fire.Control.ProtocolVersion:{[2 3]}\n","stream":"stderr","time":"2024-01-25T08:39:38.88119175Z"}
+{"log":"I0125 08:39:38.881064       1 decode.go:113] offset4\n","stream":"stderr","time":"2024-01-25T08:39:38.881198607Z"}
+{"log":"I0125 08:39:38.881073       1 decode.go:47] buf:\u0026{2627081901182825518012ff0000000000003a0002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:39:38.881223843Z"}
+{"log":"I0125 08:39:38.881087       1 decode.go:55] decode: *fire.Control.TimeLabels is a struct\n","stream":"stderr","time":"2024-01-25T08:39:38.881281923Z"}
+{"log":"I0125 08:39:38.881097       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:39:38.881309219Z"}
+{"log":"I0125 08:39:38.881105       1 decode.go:47] buf:\u0026{2627081901182825518012ff0000000000003a0002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:39:38.881318142Z"}
+{"log":"I0125 08:39:38.881118       1 decode.go:55] decode: *fire.Control.TimeLabels.TimeLabels is a array\n","stream":"stderr","time":"2024-01-25T08:39:38.881326898Z"}
+{"log":"I0125 08:39:38.881134       1 decode.go:200] elemType: uint8\n","stream":"stderr","time":"2024-01-25T08:39:38.881334233Z"}
+{"log":"I0125 08:39:38.881149       1 decode.go:84] decode: *fire.Control.TimeLabels.TimeLabels:[38 39 8 25 1 24]\n","stream":"stderr","time":"2024-01-25T08:39:38.881341502Z"}
+{"log":"I0125 08:39:38.881166       1 decode.go:88] decode: *fire.Control.TimeLabels:{[38 39 8 25 1 24]}\n","stream":"stderr","time":"2024-01-25T08:39:38.881348691Z"}
+{"log":"I0125 08:39:38.881180       1 decode.go:113] offset10\n","stream":"stderr","time":"2024-01-25T08:39:38.881355897Z"}
+{"log":"I0125 08:39:38.881188       1 decode.go:47] buf:\u0026{2825518012ff0000000000003a0002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:39:38.88136291Z"}
+{"log":"I0125 08:39:38.881206       1 decode.go:55] decode: *fire.Control.SourceAddress is a struct\n","stream":"stderr","time":"2024-01-25T08:39:38.881370769Z"}
+{"log":"I0125 08:39:38.881218       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:39:38.881377956Z"}
+{"log":"I0125 08:39:38.881226       1 decode.go:47] buf:\u0026{2825518012ff0000000000003a0002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:39:38.881385154Z"}
+{"log":"I0125 08:39:38.881238       1 decode.go:55] decode: *fire.Control.SourceAddress.Address is a struct\n","stream":"stderr","time":"2024-01-25T08:39:38.881392952Z"}
+{"log":"I0125 08:39:38.881247       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:39:38.88139999Z"}
+{"log":"I0125 08:39:38.881256       1 decode.go:47] buf:\u0026{2825518012ff0000000000003a0002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:39:38.881416626Z"}
+{"log":"I0125 08:39:38.881325       1 decode.go:55] decode: *fire.Control.SourceAddress.Address.Address is a array\n","stream":"stderr","time":"2024-01-25T08:39:38.881425167Z"}
+{"log":"I0125 08:39:38.881334       1 decode.go:200] elemType: uint8\n","stream":"stderr","time":"2024-01-25T08:39:38.881432289Z"}
+{"log":"I0125 08:39:38.881349       1 decode.go:84] decode: *fire.Control.SourceAddress.Address.Address:[40 37 81 128 18 255]\n","stream":"stderr","time":"2024-01-25T08:39:38.881439271Z"}
+{"log":"I0125 08:39:38.881371       1 decode.go:88] decode: *fire.Control.SourceAddress.Address:{[40 37 81 128 18 255]}\n","stream":"stderr","time":"2024-01-25T08:39:38.881446409Z"}
+{"log":"I0125 08:39:38.881388       1 decode.go:88] decode: *fire.Control.SourceAddress:{{[40 37 81 128 18 255]}}\n","stream":"stderr","time":"2024-01-25T08:39:38.881457469Z"}
+{"log":"I0125 08:39:38.881400       1 decode.go:113] offset16\n","stream":"stderr","time":"2024-01-25T08:39:38.881464499Z"}
+{"log":"I0125 08:39:38.881409       1 decode.go:47] buf:\u0026{0000000000003a0002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:39:38.881471265Z"}
+{"log":"I0125 08:39:38.881422       1 decode.go:55] decode: *fire.Control.TargetAddress is a struct\n","stream":"stderr","time":"2024-01-25T08:39:38.881481714Z"}
+{"log":"I0125 08:39:38.881431       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:39:38.881526638Z"}
+{"log":"I0125 08:39:38.881439       1 decode.go:47] buf:\u0026{0000000000003a0002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:39:38.881534115Z"}
+{"log":"I0125 08:39:38.881450       1 decode.go:55] decode: *fire.Control.TargetAddress.Address is a struct\n","stream":"stderr","time":"2024-01-25T08:39:38.881550822Z"}
+{"log":"I0125 08:39:38.881458       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:39:38.881561378Z"}
+{"log":"I0125 08:39:38.881468       1 decode.go:47] buf:\u0026{0000000000003a0002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:39:38.881568686Z"}
+{"log":"I0125 08:39:38.881480       1 decode.go:55] decode: *fire.Control.TargetAddress.Address.Address is a array\n","stream":"stderr","time":"2024-01-25T08:39:38.881576054Z"}
+{"log":"I0125 08:39:38.881489       1 decode.go:200] elemType: uint8\n","stream":"stderr","time":"2024-01-25T08:39:38.881610363Z"}
+{"log":"I0125 08:39:38.881506       1 decode.go:84] decode: *fire.Control.TargetAddress.Address.Address:[0 0 0 0 0 0]\n","stream":"stderr","time":"2024-01-25T08:39:38.881643076Z"}
+{"log":"I0125 08:39:38.881522       1 decode.go:88] decode: *fire.Control.TargetAddress.Address:{[0 0 0 0 0 0]}\n","stream":"stderr","time":"2024-01-25T08:39:38.881650631Z"}
+{"log":"I0125 08:39:38.881540       1 decode.go:88] decode: *fire.Control.TargetAddress:{{[0 0 0 0 0 0]}}\n","stream":"stderr","time":"2024-01-25T08:39:38.881660903Z"}
+{"log":"I0125 08:39:38.881557       1 decode.go:113] offset22\n","stream":"stderr","time":"2024-01-25T08:39:38.881667961Z"}
+{"log":"I0125 08:39:38.881565       1 decode.go:47] buf:\u0026{3a0002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:39:38.881674678Z"}
+{"log":"I0125 08:39:38.881577       1 decode.go:55] decode: *fire.Control.AppDataLen is a struct\n","stream":"stderr","time":"2024-01-25T08:39:38.881682252Z"}
+{"log":"I0125 08:39:38.881590       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:39:38.881689564Z"}
+{"log":"I0125 08:39:38.881598       1 decode.go:47] buf:\u0026{3a0002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:39:38.881696279Z"}
+{"log":"I0125 08:39:38.881610       1 decode.go:55] decode: *fire.Control.AppDataLen.AppDataLen is a uint16\n","stream":"stderr","time":"2024-01-25T08:39:38.881703523Z"}
+{"log":"I0125 08:39:38.881626       1 decode.go:94] decode: *fire.Control.AppDataLen.AppDataLen:58\n","stream":"stderr","time":"2024-01-25T08:39:38.881713106Z"}
+{"log":"I0125 08:39:38.881645       1 decode.go:88] decode: *fire.Control.AppDataLen:{58}\n","stream":"stderr","time":"2024-01-25T08:39:38.881726564Z"}
+{"log":"I0125 08:39:38.881656       1 decode.go:113] offset24\n","stream":"stderr","time":"2024-01-25T08:39:38.881734408Z"}
+{"log":"I0125 08:39:38.881664       1 decode.go:47] buf:\u0026{02 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:39:38.881741139Z"}
+{"log":"I0125 08:39:38.881676       1 decode.go:55] decode: *fire.Control.ControlCommand is a uint8\n","stream":"stderr","time":"2024-01-25T08:39:38.881748397Z"}
+{"log":"I0125 08:39:38.881692       1 decode.go:94] decode: *fire.Control.ControlCommand:2\n","stream":"stderr","time":"2024-01-25T08:39:38.881775212Z"}
+{"log":"I0125 08:39:38.881711       1 decode.go:88] decode: *fire.Control:{{5} {[2 3]} {[38 39 8 25 1 24]} {{[40 37 81 128 18 255]}} {{[0 0 0 0 0 0]}} {58} 2}\n","stream":"stderr","time":"2024-01-25T08:39:38.881782876Z"}
+{"log":"I0125 08:39:38.881745       1 decode.go:86] decode: *fire.Control:\u0026{{5} {[2 3]} {[38 39 8 25 1 24]} {{[40 37 81 128 18 255]}} {{[0 0 0 0 0 0]}} {58} 2}\n","stream":"stderr","time":"2024-01-25T08:39:38.881804563Z"}
+{"log":"I0125 08:39:38.881775       1 datapack.go:154] fire-up.Control\u0026{SerialNumber:{SerialNumber:5} ProtocolVersion:{ProtocolVersion:[2 3]} TimeLabels:{TimeLabels:[38 39 8 25 1 24]} SourceAddress:{Address:{Address:[40 37 81 128 18 255]}} TargetAddress:{Address:{Address:[0 0 0 0 0 0]}} AppDataLen:{AppDataLen:58} ControlCommand:2}\n","stream":"stderr","time":"2024-01-25T08:39:38.88189145Z"}
+{"log":"I0125 08:39:38.881825       1 datapack.go:102] Unpack read Data [58][0901000033330114c2a9b5e7b1a8beaf204c3230203030315b30325d0e30c2a5202034b2e3202030cad22c08bce0b9dc202020201919090c0415]\n","stream":"stderr","time":"2024-01-25T08:39:38.881919542Z"}
+{"log":"I0125 08:39:38.881861       1 datapack.go:123] Unpack CRC Data:Len:[050002032627081901182825518012ff0000000000003a00020901000033330114c2a9b5e7b1a8beaf204c3230203030315b30325d0e30c2a5202034b2e3202030cad22c08bce0b9dc202020201919090c0415]\n","stream":"stderr","time":"2024-01-25T08:39:38.881940798Z"}
+{"log":"I0125 08:39:38.881884       1 datapack.go:124] Unpack CRC[e6:e6]\n","stream":"stderr","time":"2024-01-25T08:39:38.881950373Z"}
+{"log":"I0125 08:39:38.881900       1 firemessage.go:54] FireMessage.SetData:len[58][0901000033330114c2a9b5e7b1a8beaf204c3230203030315b30325d0e30c2a5202034b2e3202030cad22c08bce0b9dc202020201919090c0415]\n","stream":"stderr","time":"2024-01-25T08:39:38.881958136Z"}
+{"log":"I0125 08:39:38.881924       1 datapack.go:130] Unpack Fire:[\u0026{Start:[64 64] Control:{SerialNumber:{SerialNumber:5} ProtocolVersion:{ProtocolVersion:[2 3]} TimeLabels:{TimeLabels:[38 39 8 25 1 24]} SourceAddress:{Address:{Address:[40 37 81 128 18 255]}} TargetAddress:{Address:{Address:[0 0 0 0 0 0]}} AppDataLen:{AppDataLen:58} ControlCommand:2} Data:[9 1 0 0 51 51 1 20 194 169 181 231 177 168 190 175 32 76 50 48 32 48 48 49 91 48 50 93 14 48 194 165 32 32 52 178 227 32 32 48 202 210 44 8 188 224 185 220 32 32 32 32 25 25 9 12 4 21] CRC:230 End:[35 35]}]\n","stream":"stderr","time":"2024-01-25T08:39:38.882067367Z"}
+{"log":"I0125 08:39:38.882009       1 msghandler.go:46] DoMsgRequestHandler = 0\n","stream":"stderr","time":"2024-01-25T08:39:38.882111813Z"}
+{"log":"I0125 08:39:38.882029       1 firerouter.go:18] Call fireRouter RequestHandle\n","stream":"stderr","time":"2024-01-25T08:39:38.882121352Z"}
+{"log":"I0125 08:39:38.882039       1 encoding.go:293] MarshalResp ControlCommand = 2\n","stream":"stderr","time":"2024-01-25T08:39:38.882128935Z"}
+{"log":"I0125 08:39:38.882091       1 encoding.go:110] A-Fire.Control:{SerialNumber:{SerialNumber:5} ProtocolVersion:{ProtocolVersion:[2 3]} TimeLabels:{TimeLabels:[38 39 8 25 1 24]} SourceAddress:{Address:{Address:[0 0 0 0 0 0]}} TargetAddress:{Address:{Address:[40 37 81 128 18 255]}} AppDataLen:{AppDataLen:0} ControlCommand:3}\n","stream":"stderr","time":"2024-01-25T08:39:38.882153997Z"}
+{"log":"I0125 08:39:38.882120       1 encoding.go:117] A-Fire.CRC-Data:050002032627081901180000000000002825518012ff000003\n","stream":"stderr","time":"2024-01-25T08:39:38.882163551Z"}
+{"log":"I0125 08:39:38.882138       1 encoding.go:121] FireMessage:{Start:[64 64] Control:{SerialNumber:{SerialNumber:5} ProtocolVersion:{ProtocolVersion:[2 3]} TimeLabels:{TimeLabels:[38 39 8 25 1 24]} SourceAddress:{Address:{Address:[0 0 0 0 0 0]}} TargetAddress:{Address:{Address:[40 37 81 128 18 255]}} AppDataLen:{AppDataLen:0} ControlCommand:3} Data:[] CRC:195 End:[35 35]}/n\n","stream":"stderr","time":"2024-01-25T08:39:38.882200767Z"}
+{"log":"I0125 08:39:38.882183       1 msghandler.go:61] DoMsgDataHandler = 0\n","stream":"stderr","time":"2024-01-25T08:39:38.882247735Z"}
+{"log":"I0125 08:39:38.882197       1 firerouter.go:31] Call fireRouter DataHandle\n","stream":"stderr","time":"2024-01-25T08:39:38.882274274Z"}
+{"log":"I0125 08:39:38.882206       1 firerouter.go:35] DataHandle recv from client :data= 0901000033330114c2a9b5e7b1a8beaf204c3230203030315b30325d0e30c2a5202034b2e3202030cad22c08bce0b9dc202020201919090c0415\n","stream":"stderr","time":"2024-01-25T08:39:38.882283558Z"}
+{"log":"I0125 08:39:38.882584       1 globals.go:217] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:39:38.882651065Z"}
+{"log":"I0125 08:39:38.882598       1 globals.go:264] 心跳点位组包\n","stream":"stderr","time":"2024-01-25T08:39:38.882672856Z"}
+{"log":"I0125 08:39:38.882858       1 globals.go:183] DeviceID-HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:39:38.882952878Z"}
+{"log":"I0125 08:39:38.882873       1 globals.go:187] DeviceID:[[3.1 2.3.1.1]]\n","stream":"stderr","time":"2024-01-25T08:39:38.882982247Z"}
+{"log":"I0125 08:39:38.883146       1 globals.go:200] PropertyID-HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:39:38.883196553Z"}
+{"log":"I0125 08:39:38.883160       1 globals.go:204] PropertyID:[[3.1 2.3.1.1 1.2.1.1]]\n","stream":"stderr","time":"2024-01-25T08:39:38.883222557Z"}
+{"log":"I0125 08:39:38.883206       1 globals.go:289] Device Property[{\"device_type\":\"2.3.1.1\",\"timestamp\":1706171978,\"devices\":[{\"device_id\":\"3.1.2.3.1.1\",\"timestamp\":1706171978,\"data\":{\"3.1.2.3.1.1.1.2.1.1\":{\"value\":0,\"timestamp\":1706171978,\"metadata\":{\"timestamp\":1706171978,\"type\":\"boolean\"}}}}]}]\n","stream":"stderr","time":"2024-01-25T08:39:38.88326408Z"}
+{"log":"I0125 08:39:38.883293       1 globals.go:295] Update value: 2.3.1.1, topic: sanhegjtwo/groups-devices-data-update\n","stream":"stderr","time":"2024-01-25T08:39:38.883347129Z"}
+{"log":"2024-01-25 08:41:18 +0000 UTC\n","stream":"stdout","time":"2024-01-25T08:39:38.883387317Z"}
+{"log":"2024-01-25 08:54:58 +0000 UTC\n","stream":"stdout","time":"2024-01-25T08:39:38.88339711Z"}
+{"log":"I0125 08:39:38.883355       1 firedatadecode.go:22] DecodeSwitchDataTypeToData= \u0026{9 1 [0 0 51 51 1 20 194 169 181 231 177 168 190 175 32 76 50 48 32 48 48 49 91 48 50 93 14 48 194 165 32 32 52 178 227 32 32 48 202 210 44 8 188 224 185 220 32 32 32 32 25 25 9 12 4 21]}\n","stream":"stderr","time":"2024-01-25T08:39:38.883440572Z"}
+{"log":"I0125 08:39:38.883386       1 firedatadecode.go:23] DecodeSwitchDataType= 0x9\n","stream":"stderr","time":"2024-01-25T08:39:38.883455819Z"}
+{"log":"I0125 08:39:38.883397       1 firedatatype.go:1262] FireParseCardAlarmStatDecodeToData:Type:9,56\n","stream":"stderr","time":"2024-01-25T08:39:38.883463512Z"}
+{"log":"I0125 08:39:38.883407       1 firedatatype.go:1230] FireBuildElectricityDecode-ObjectNum:[1]\n","stream":"stderr","time":"2024-01-25T08:39:38.883470806Z"}
+{"log":"I0125 08:39:38.883441       1 firedatatype.go:1250] FireBuildUserConfigStatDecode status:[1]\n","stream":"stderr","time":"2024-01-25T08:39:38.883481812Z"}
+{"log":"I0125 08:39:38.883463       1 firedatatype.go:1251] FireBuildUserConfigStatDecode Name:20--漏电报警L20001[02]\n","stream":"stderr","time":"2024-01-25T08:39:38.883502226Z"}
+{"log":"I0125 08:39:38.883482       1 firedatatype.go:1252] FireBuildUserConfigStatDecode Place:14--0楼4层0室,\n","stream":"stderr","time":"2024-01-25T08:39:38.883559558Z"}
+{"log":"I0125 08:39:38.883504       1 firedatatype.go:1253] FireBuildUserConfigStatDecode Msg:8--监管\n","stream":"stderr","time":"2024-01-25T08:39:38.883586154Z"}
+{"log":"I0125 08:39:38.883526       1 firedatatype.go:1255] FireBuildUserConfigStatDecode Pos:56--{ChannelID:0 FireHostNum:0 Reserved:[51 51] PropertyStat:{Status:1} Name:{MsgLen:20 Msg:漏电报警L20001[02]} Place:{MsgLen:14 Msg:0楼4层0室,} Msg:{MsgLen:8 Msg:监管} TimeLabels:{TimeLabels:[25 25 9 12 4 21]}}\n","stream":"stderr","time":"2024-01-25T08:39:38.883603391Z"}
+{"log":"I0125 08:39:38.883557       1 firedatatype.go:1266] FireParseCardAlarmStatDecode :[{ChannelID:0 FireHostNum:0 Reserved:[51 51] PropertyStat:{Status:1} Name:{MsgLen:20 Msg:漏电报警L20001[02]} Place:{MsgLen:14 Msg:0楼4层0室,} Msg:{MsgLen:8 Msg:监管} TimeLabels:{TimeLabels:[25 25 9 12 4 21]}}]\n","stream":"stderr","time":"2024-01-25T08:39:38.883615968Z"}
+{"log":"I0125 08:39:38.883854       1 firedatatype.go:2239] 通用清洗: name[漏电报警L20001[02]]\n","stream":"stderr","time":"2024-01-25T08:39:38.883917735Z"}
+{"log":"I0125 08:39:38.883867       1 firedatatype.go:2240] 通用清洗: place[0楼4层0室,]\n","stream":"stderr","time":"2024-01-25T08:39:38.883933915Z"}
+{"log":"I0125 08:39:38.883875       1 firedatatype.go:2241] 通用清洗: msg[监管]\n","stream":"stderr","time":"2024-01-25T08:39:38.883942Z"}
+{"log":"I0125 08:39:38.883933       1 firedatatype.go:1328] 测试清洗结果: L2000102\n","stream":"stderr","time":"2024-01-25T08:39:38.884023388Z"}
+{"log":"I0125 08:39:38.883947       1 firestat.go:301] 通用状态转换name: name[0楼4层0室,]\n","stream":"stderr","time":"2024-01-25T08:39:38.884043677Z"}
+{"log":"I0125 08:39:38.883957       1 firestat.go:302] 通用状态转换place: place[0楼4层0室,]\n","stream":"stderr","time":"2024-01-25T08:39:38.884052402Z"}
+{"log":"I0125 08:39:38.883966       1 firestat.go:303] 通用状态转换msg: msg[监管]\n","stream":"stderr","time":"2024-01-25T08:39:38.884074552Z"}
+{"log":"I0125 08:39:38.884008       1 firestat.go:400] 监管状态转换msg: status[1]\n","stream":"stderr","time":"2024-01-25T08:39:38.884098821Z"}
+{"log":"I0125 08:39:38.884298       1 globals.go:217] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:39:38.884352554Z"}
+{"log":"I0125 08:39:38.884311       1 firecustomizeddata.go:24] ParseFireToSouth Device:[0]---len:[9]\n","stream":"stderr","time":"2024-01-25T08:39:38.884367397Z"}
+{"log":"I0125 08:39:38.884328       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:\u0026{Value:1 Timestamp:1706171978 Metadata:{Timestamp:1618219525 Type:boolean}}\n","stream":"stderr","time":"2024-01-25T08:39:38.884387222Z"}
+{"log":"I0125 08:39:38.884352       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:\u0026{Value:0 Timestamp:1706171978 Metadata:{Timestamp:1618219525 Type:boolean}}\n","stream":"stderr","time":"2024-01-25T08:39:38.884398834Z"}
+{"log":"I0125 08:39:38.884373       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:\u0026{Value:0 Timestamp:1706171978 Metadata:{Timestamp:1618219525 Type:boolean}}\n","stream":"stderr","time":"2024-01-25T08:39:38.884417164Z"}
+{"log":"I0125 08:39:38.884391       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:\u0026{Value:0 Timestamp:1706171978 Metadata:{Timestamp:1618219525 Type:boolean}}\n","stream":"stderr","time":"2024-01-25T08:39:38.884469852Z"}
+{"log":"I0125 08:39:38.884409       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:\u0026{Value:0 Timestamp:1706171978 Metadata:{Timestamp:1618219525 Type:boolean}}\n","stream":"stderr","time":"2024-01-25T08:39:38.884490663Z"}
+{"log":"I0125 08:39:38.884425       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:\u0026{Value:0 Timestamp:1706171978 Metadata:{Timestamp:1618219525 Type:boolean}}\n","stream":"stderr","time":"2024-01-25T08:39:38.884528671Z"}
+{"log":"I0125 08:39:38.884445       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:\u0026{Value:监管 Timestamp:1706171978 Metadata:{Timestamp:1618219525 Type:string}}\n","stream":"stderr","time":"2024-01-25T08:39:38.884551345Z"}
+{"log":"I0125 08:39:38.884462       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:\u0026{Value:1 Timestamp:1706171978 Metadata:{Timestamp:1618219525 Type:boolean}}\n","stream":"stderr","time":"2024-01-25T08:39:38.884568786Z"}
+{"log":"I0125 08:39:38.884481       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:\u0026{Value:1 Timestamp:1706171978 Metadata:{Timestamp:1618219525 Type:boolean}}\n","stream":"stderr","time":"2024-01-25T08:39:38.884579002Z"}
+{"log":"I0125 08:39:38.884498       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-L2000102-#-#-#-7-#-----\u0026{0 1706171978 {1618219525 boolean}}\n","stream":"stderr","time":"2024-01-25T08:39:38.88459798Z"}
+{"log":"I0125 08:39:38.884755       1 globals.go:168] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:39:38.884815907Z"}
+{"log":"I0125 08:39:38.884774       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-L2000102-#-#-#-1-#-----\u0026{0 1706171978 {1618219525 boolean}}\n","stream":"stderr","time":"2024-01-25T08:39:38.884833609Z"}
+{"log":"I0125 08:39:38.885030       1 globals.go:168] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:39:38.885091987Z"}
+{"log":"I0125 08:39:38.885049       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-L2000102-#-#-#-2-#-----\u0026{0 1706171978 {1618219525 boolean}}\n","stream":"stderr","time":"2024-01-25T08:39:38.885112042Z"}
+{"log":"I0125 08:39:38.885289       1 globals.go:168] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:39:38.885349228Z"}
+{"log":"I0125 08:39:38.885310       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-L2000102-#-#-#-4-#-----\u0026{1 1706171978 {1618219525 boolean}}\n","stream":"stderr","time":"2024-01-25T08:39:38.885365464Z"}
+{"log":"I0125 08:39:38.885550       1 globals.go:168] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:39:38.885615334Z"}
+{"log":"I0125 08:39:38.885568       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-L2000102-#-#-#-6-#-----\u0026{0 1706171978 {1618219525 boolean}}\n","stream":"stderr","time":"2024-01-25T08:39:38.885633816Z"}
+{"log":"I0125 08:39:38.885805       1 globals.go:168] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:39:38.885867541Z"}
+{"log":"I0125 08:39:38.885822       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-L2000102-#-#-#-s-#-----\u0026{监管 1706171978 {1618219525 string}}\n","stream":"stderr","time":"2024-01-25T08:39:38.885884665Z"}
+{"log":"I0125 08:39:38.886081       1 globals.go:168] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:39:38.886139197Z"}
+{"log":"I0125 08:39:38.886098       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-L2000102-#-#-#-0-#-----\u0026{1 1706171978 {1618219525 boolean}}\n","stream":"stderr","time":"2024-01-25T08:39:38.88616106Z"}
+{"log":"I0125 08:39:38.886320       1 globals.go:168] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:39:38.886379871Z"}
+{"log":"I0125 08:39:38.886335       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-L2000102-#-#-#-3-#-----\u0026{1 1706171978 {1618219525 boolean}}\n","stream":"stderr","time":"2024-01-25T08:39:38.8863958Z"}
+{"log":"I0125 08:39:38.886580       1 globals.go:168] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:39:38.886646673Z"}
+{"log":"I0125 08:39:38.886597       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-L2000102-#-#-#-5-#-----\u0026{0 1706171978 {1618219525 boolean}}\n","stream":"stderr","time":"2024-01-25T08:39:38.88666571Z"}
+{"log":"I0125 08:39:38.886834       1 globals.go:168] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:39:38.886893383Z"}
+{"log":"I0125 08:39:38.886846       1 firecustomizeddata.go:96] Device payload[{{ 0} []}]\n","stream":"stderr","time":"2024-01-25T08:39:38.886910348Z"}
+{"log":"I0125 08:39:58.411385       1 datapack.go:52] Unpack read startData [64 64]\n","stream":"stderr","time":"2024-01-25T08:39:58.411516667Z"}
+{"log":"I0125 08:39:58.411432       1 datapack.go:66] Unpack read Data First [10][06000203392708190118]\n","stream":"stderr","time":"2024-01-25T08:39:58.411585677Z"}
+{"log":"I0125 08:39:58.411462       1 datapack.go:83] Unpack read Data Two [25][2825518012ff000000000000270002]\n","stream":"stderr","time":"2024-01-25T08:39:58.411594248Z"}
+{"log":"I0125 08:39:58.411489       1 decode.go:47] buf:\u0026{060002033927081901182825518012ff000000000000270002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:39:58.411603119Z"}
+{"log":"I0125 08:39:58.411545       1 decode.go:55] decode: *fire.Control is a ptr\n","stream":"stderr","time":"2024-01-25T08:39:58.411610361Z"}
+{"log":"I0125 08:39:58.411561       1 decode.go:47] buf:\u0026{060002033927081901182825518012ff000000000000270002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:39:58.411616283Z"}
+{"log":"I0125 08:39:58.411581       1 decode.go:55] decode: *fire.Control is a struct\n","stream":"stderr","time":"2024-01-25T08:39:58.411622692Z"}
+{"log":"I0125 08:39:58.411599       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:39:58.411678917Z"}
+{"log":"I0125 08:39:58.411612       1 decode.go:47] buf:\u0026{060002033927081901182825518012ff000000000000270002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:39:58.411689669Z"}
+{"log":"I0125 08:39:58.411628       1 decode.go:55] decode: *fire.Control.SerialNumber is a struct\n","stream":"stderr","time":"2024-01-25T08:39:58.411698348Z"}
+{"log":"I0125 08:39:58.411642       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:39:58.411705061Z"}
+{"log":"I0125 08:39:58.411653       1 decode.go:47] buf:\u0026{060002033927081901182825518012ff000000000000270002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:39:58.41173289Z"}
+{"log":"I0125 08:39:58.411671       1 decode.go:55] decode: *fire.Control.SerialNumber.SerialNumber is a uint16\n","stream":"stderr","time":"2024-01-25T08:39:58.41175097Z"}
+{"log":"I0125 08:39:58.411698       1 decode.go:94] decode: *fire.Control.SerialNumber.SerialNumber:6\n","stream":"stderr","time":"2024-01-25T08:39:58.411757403Z"}
+{"log":"I0125 08:39:58.411722       1 decode.go:88] decode: *fire.Control.SerialNumber:{6}\n","stream":"stderr","time":"2024-01-25T08:39:58.411828079Z"}
+{"log":"I0125 08:39:58.411742       1 decode.go:113] offset2\n","stream":"stderr","time":"2024-01-25T08:39:58.411859827Z"}
+{"log":"I0125 08:39:58.411754       1 decode.go:47] buf:\u0026{02033927081901182825518012ff000000000000270002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:39:58.411868983Z"}
+{"log":"I0125 08:39:58.411772       1 decode.go:55] decode: *fire.Control.ProtocolVersion is a struct\n","stream":"stderr","time":"2024-01-25T08:39:58.411877934Z"}
+{"log":"I0125 08:39:58.411789       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:39:58.411887057Z"}
+{"log":"I0125 08:39:58.411798       1 decode.go:47] buf:\u0026{02033927081901182825518012ff000000000000270002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:39:58.411894586Z"}
+{"log":"I0125 08:39:58.411809       1 decode.go:55] decode: *fire.Control.ProtocolVersion.ProtocolVersion is a array\n","stream":"stderr","time":"2024-01-25T08:39:58.411912695Z"}
+{"log":"I0125 08:39:58.411821       1 decode.go:200] elemType: uint8\n","stream":"stderr","time":"2024-01-25T08:39:58.411920303Z"}
+{"log":"I0125 08:39:58.411835       1 decode.go:84] decode: *fire.Control.ProtocolVersion.ProtocolVersion:[2 3]\n","stream":"stderr","time":"2024-01-25T08:39:58.411927928Z"}
+{"log":"I0125 08:39:58.411866       1 decode.go:88] decode: *fire.Control.ProtocolVersion:{[2 3]}\n","stream":"stderr","time":"2024-01-25T08:39:58.411938763Z"}
+{"log":"I0125 08:39:58.411887       1 decode.go:113] offset4\n","stream":"stderr","time":"2024-01-25T08:39:58.411946317Z"}
+{"log":"I0125 08:39:58.411898       1 decode.go:47] buf:\u0026{3927081901182825518012ff000000000000270002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:39:58.411953623Z"}
+{"log":"I0125 08:39:58.411916       1 decode.go:55] decode: *fire.Control.TimeLabels is a struct\n","stream":"stderr","time":"2024-01-25T08:39:58.412002671Z"}
+{"log":"I0125 08:39:58.411930       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:39:58.412050678Z"}
+{"log":"I0125 08:39:58.411941       1 decode.go:47] buf:\u0026{3927081901182825518012ff000000000000270002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:39:58.412061986Z"}
+{"log":"I0125 08:39:58.411959       1 decode.go:55] decode: *fire.Control.TimeLabels.TimeLabels is a array\n","stream":"stderr","time":"2024-01-25T08:39:58.412114745Z"}
+{"log":"I0125 08:39:58.412056       1 decode.go:200] elemType: uint8\n","stream":"stderr","time":"2024-01-25T08:39:58.41212715Z"}
+{"log":"I0125 08:39:58.412082       1 decode.go:84] decode: *fire.Control.TimeLabels.TimeLabels:[57 39 8 25 1 24]\n","stream":"stderr","time":"2024-01-25T08:39:58.412138125Z"}
+{"log":"I0125 08:39:58.412108       1 decode.go:88] decode: *fire.Control.TimeLabels:{[57 39 8 25 1 24]}\n","stream":"stderr","time":"2024-01-25T08:39:58.412173248Z"}
+{"log":"I0125 08:39:58.412130       1 decode.go:113] offset10\n","stream":"stderr","time":"2024-01-25T08:39:58.412198118Z"}
+{"log":"I0125 08:39:58.412143       1 decode.go:47] buf:\u0026{2825518012ff000000000000270002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:39:58.412209811Z"}
+{"log":"I0125 08:39:58.412173       1 decode.go:55] decode: *fire.Control.SourceAddress is a struct\n","stream":"stderr","time":"2024-01-25T08:39:58.412219445Z"}
+{"log":"I0125 08:39:58.412189       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:39:58.41222746Z"}
+{"log":"I0125 08:39:58.412202       1 decode.go:47] buf:\u0026{2825518012ff000000000000270002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:39:58.412243976Z"}
+{"log":"I0125 08:39:58.412226       1 decode.go:55] decode: *fire.Control.SourceAddress.Address is a struct\n","stream":"stderr","time":"2024-01-25T08:39:58.412265488Z"}
+{"log":"I0125 08:39:58.412238       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:39:58.412273867Z"}
+{"log":"I0125 08:39:58.412245       1 decode.go:47] buf:\u0026{2825518012ff000000000000270002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:39:58.412338026Z"}
+{"log":"I0125 08:39:58.412312       1 decode.go:55] decode: *fire.Control.SourceAddress.Address.Address is a array\n","stream":"stderr","time":"2024-01-25T08:39:58.412347948Z"}
+{"log":"I0125 08:39:58.412320       1 decode.go:200] elemType: uint8\n","stream":"stderr","time":"2024-01-25T08:39:58.412353265Z"}
+{"log":"I0125 08:39:58.412333       1 decode.go:84] decode: *fire.Control.SourceAddress.Address.Address:[40 37 81 128 18 255]\n","stream":"stderr","time":"2024-01-25T08:39:58.41236746Z"}
+{"log":"I0125 08:39:58.412355       1 decode.go:88] decode: *fire.Control.SourceAddress.Address:{[40 37 81 128 18 255]}\n","stream":"stderr","time":"2024-01-25T08:39:58.412385248Z"}
+{"log":"I0125 08:39:58.412370       1 decode.go:88] decode: *fire.Control.SourceAddress:{{[40 37 81 128 18 255]}}\n","stream":"stderr","time":"2024-01-25T08:39:58.412401274Z"}
+{"log":"I0125 08:39:58.412385       1 decode.go:113] offset16\n","stream":"stderr","time":"2024-01-25T08:39:58.412406813Z"}
+{"log":"I0125 08:39:58.412394       1 decode.go:47] buf:\u0026{000000000000270002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:39:58.41242343Z"}
+{"log":"I0125 08:39:58.412405       1 decode.go:55] decode: *fire.Control.TargetAddress is a struct\n","stream":"stderr","time":"2024-01-25T08:39:58.412430874Z"}
+{"log":"I0125 08:39:58.412414       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:39:58.412460873Z"}
+{"log":"I0125 08:39:58.412421       1 decode.go:47] buf:\u0026{000000000000270002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:39:58.412481414Z"}
+{"log":"I0125 08:39:58.412432       1 decode.go:55] decode: *fire.Control.TargetAddress.Address is a struct\n","stream":"stderr","time":"2024-01-25T08:39:58.412500383Z"}
+{"log":"I0125 08:39:58.412440       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:39:58.412534224Z"}
+{"log":"I0125 08:39:58.412447       1 decode.go:47] buf:\u0026{000000000000270002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:39:58.412542938Z"}
+{"log":"I0125 08:39:58.412457       1 decode.go:55] decode: *fire.Control.TargetAddress.Address.Address is a array\n","stream":"stderr","time":"2024-01-25T08:39:58.412550274Z"}
+{"log":"I0125 08:39:58.412466       1 decode.go:200] elemType: uint8\n","stream":"stderr","time":"2024-01-25T08:39:58.412557894Z"}
+{"log":"I0125 08:39:58.412478       1 decode.go:84] decode: *fire.Control.TargetAddress.Address.Address:[0 0 0 0 0 0]\n","stream":"stderr","time":"2024-01-25T08:39:58.412575453Z"}
+{"log":"I0125 08:39:58.412498       1 decode.go:88] decode: *fire.Control.TargetAddress.Address:{[0 0 0 0 0 0]}\n","stream":"stderr","time":"2024-01-25T08:39:58.412583509Z"}
+{"log":"I0125 08:39:58.412513       1 decode.go:88] decode: *fire.Control.TargetAddress:{{[0 0 0 0 0 0]}}\n","stream":"stderr","time":"2024-01-25T08:39:58.412607374Z"}
+{"log":"I0125 08:39:58.412524       1 decode.go:113] offset22\n","stream":"stderr","time":"2024-01-25T08:39:58.41263992Z"}
+{"log":"I0125 08:39:58.412532       1 decode.go:47] buf:\u0026{270002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:39:58.412646866Z"}
+{"log":"I0125 08:39:58.412543       1 decode.go:55] decode: *fire.Control.AppDataLen is a struct\n","stream":"stderr","time":"2024-01-25T08:39:58.412659187Z"}
+{"log":"I0125 08:39:58.412551       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:39:58.41270063Z"}
+{"log":"I0125 08:39:58.412558       1 decode.go:47] buf:\u0026{270002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:39:58.412707942Z"}
+{"log":"I0125 08:39:58.412568       1 decode.go:55] decode: *fire.Control.AppDataLen.AppDataLen is a uint16\n","stream":"stderr","time":"2024-01-25T08:39:58.412723903Z"}
+{"log":"I0125 08:39:58.412582       1 decode.go:94] decode: *fire.Control.AppDataLen.AppDataLen:39\n","stream":"stderr","time":"2024-01-25T08:39:58.412736502Z"}
+{"log":"I0125 08:39:58.412598       1 decode.go:88] decode: *fire.Control.AppDataLen:{39}\n","stream":"stderr","time":"2024-01-25T08:39:58.412763234Z"}
+{"log":"I0125 08:39:58.412606       1 decode.go:113] offset24\n","stream":"stderr","time":"2024-01-25T08:39:58.412770487Z"}
+{"log":"I0125 08:39:58.412613       1 decode.go:47] buf:\u0026{02 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:39:58.412777258Z"}
+{"log":"I0125 08:39:58.412623       1 decode.go:55] decode: *fire.Control.ControlCommand is a uint8\n","stream":"stderr","time":"2024-01-25T08:39:58.41278402Z"}
+{"log":"I0125 08:39:58.412637       1 decode.go:94] decode: *fire.Control.ControlCommand:2\n","stream":"stderr","time":"2024-01-25T08:39:58.412803631Z"}
+{"log":"I0125 08:39:58.412653       1 decode.go:88] decode: *fire.Control:{{6} {[2 3]} {[57 39 8 25 1 24]} {{[40 37 81 128 18 255]}} {{[0 0 0 0 0 0]}} {39} 2}\n","stream":"stderr","time":"2024-01-25T08:39:58.412812762Z"}
+{"log":"I0125 08:39:58.412692       1 decode.go:86] decode: *fire.Control:\u0026{{6} {[2 3]} {[57 39 8 25 1 24]} {{[40 37 81 128 18 255]}} {{[0 0 0 0 0 0]}} {39} 2}\n","stream":"stderr","time":"2024-01-25T08:39:58.412820422Z"}
+{"log":"I0125 08:39:58.412716       1 datapack.go:154] fire-up.Control\u0026{SerialNumber:{SerialNumber:6} ProtocolVersion:{ProtocolVersion:[2 3]} TimeLabels:{TimeLabels:[57 39 8 25 1 24]} SourceAddress:{Address:{Address:[40 37 81 128 18 255]}} TargetAddress:{Address:{Address:[0 0 0 0 0 0]}} AppDataLen:{AppDataLen:39} ControlCommand:2}\n","stream":"stderr","time":"2024-01-25T08:39:58.412827859Z"}
+{"log":"I0125 08:39:58.412777       1 datapack.go:102] Unpack read Data [39][090100003333010f333031bbfab7bf20413037203039330008c6c1b1cebde2b3fd3625080c0118]\n","stream":"stderr","time":"2024-01-25T08:39:58.412838627Z"}
+{"log":"I0125 08:39:58.412817       1 datapack.go:123] Unpack CRC Data:Len:[060002033927081901182825518012ff000000000000270002090100003333010f333031bbfab7bf20413037203039330008c6c1b1cebde2b3fd3625080c0118]\n","stream":"stderr","time":"2024-01-25T08:39:58.412872892Z"}
+{"log":"I0125 08:39:58.412850       1 datapack.go:124] Unpack CRC[a5:a5]\n","stream":"stderr","time":"2024-01-25T08:39:58.412895418Z"}
+{"log":"I0125 08:39:58.412864       1 firemessage.go:54] FireMessage.SetData:len[39][090100003333010f333031bbfab7bf20413037203039330008c6c1b1cebde2b3fd3625080c0118]\n","stream":"stderr","time":"2024-01-25T08:39:58.412903161Z"}
+{"log":"I0125 08:39:58.412888       1 datapack.go:130] Unpack Fire:[\u0026{Start:[64 64] Control:{SerialNumber:{SerialNumber:6} ProtocolVersion:{ProtocolVersion:[2 3]} TimeLabels:{TimeLabels:[57 39 8 25 1 24]} SourceAddress:{Address:{Address:[40 37 81 128 18 255]}} TargetAddress:{Address:{Address:[0 0 0 0 0 0]}} AppDataLen:{AppDataLen:39} ControlCommand:2} Data:[9 1 0 0 51 51 1 15 51 48 49 187 250 183 191 32 65 48 55 32 48 57 51 0 8 198 193 177 206 189 226 179 253 54 37 8 12 1 24] CRC:165 End:[35 35]}]\n","stream":"stderr","time":"2024-01-25T08:39:58.413059854Z"}
+{"log":"I0125 08:39:58.413061       1 msghandler.go:46] DoMsgRequestHandler = 0\n","stream":"stderr","time":"2024-01-25T08:39:58.413136401Z"}
+{"log":"I0125 08:39:58.413099       1 firerouter.go:18] Call fireRouter RequestHandle\n","stream":"stderr","time":"2024-01-25T08:39:58.41315796Z"}
+{"log":"I0125 08:39:58.413110       1 encoding.go:293] MarshalResp ControlCommand = 2\n","stream":"stderr","time":"2024-01-25T08:39:58.413166039Z"}
+{"log":"I0125 08:39:58.413173       1 encoding.go:110] A-Fire.Control:{SerialNumber:{SerialNumber:6} ProtocolVersion:{ProtocolVersion:[2 3]} TimeLabels:{TimeLabels:[58 39 8 25 1 24]} SourceAddress:{Address:{Address:[0 0 0 0 0 0]}} TargetAddress:{Address:{Address:[40 37 81 128 18 255]}} AppDataLen:{AppDataLen:0} ControlCommand:3}\n","stream":"stderr","time":"2024-01-25T08:39:58.41327583Z"}
+{"log":"I0125 08:39:58.413201       1 encoding.go:117] A-Fire.CRC-Data:060002033a27081901180000000000002825518012ff000003\n","stream":"stderr","time":"2024-01-25T08:39:58.413295033Z"}
+{"log":"I0125 08:39:58.413234       1 encoding.go:121] FireMessage:{Start:[64 64] Control:{SerialNumber:{SerialNumber:6} ProtocolVersion:{ProtocolVersion:[2 3]} TimeLabels:{TimeLabels:[58 39 8 25 1 24]} SourceAddress:{Address:{Address:[0 0 0 0 0 0]}} TargetAddress:{Address:{Address:[40 37 81 128 18 255]}} AppDataLen:{AppDataLen:0} ControlCommand:3} Data:[] CRC:216 End:[35 35]}/n\n","stream":"stderr","time":"2024-01-25T08:39:58.413305358Z"}
+{"log":"I0125 08:39:58.413275       1 msghandler.go:61] DoMsgDataHandler = 0\n","stream":"stderr","time":"2024-01-25T08:39:58.41331455Z"}
+{"log":"I0125 08:39:58.413285       1 firerouter.go:31] Call fireRouter DataHandle\n","stream":"stderr","time":"2024-01-25T08:39:58.413322825Z"}
+{"log":"I0125 08:39:58.413293       1 firerouter.go:35] DataHandle recv from client :data= 090100003333010f333031bbfab7bf20413037203039330008c6c1b1cebde2b3fd3625080c0118\n","stream":"stderr","time":"2024-01-25T08:39:58.413337402Z"}
+{"log":"I0125 08:39:58.413641       1 globals.go:217] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:39:58.413703312Z"}
+{"log":"I0125 08:39:58.413654       1 globals.go:264] 心跳点位组包\n","stream":"stderr","time":"2024-01-25T08:39:58.413724099Z"}
+{"log":"I0125 08:39:58.413893       1 globals.go:183] DeviceID-HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:39:58.413959174Z"}
+{"log":"I0125 08:39:58.413908       1 globals.go:187] DeviceID:[[3.1 2.3.1.1]]\n","stream":"stderr","time":"2024-01-25T08:39:58.413983914Z"}
+{"log":"I0125 08:39:58.414162       1 globals.go:200] PropertyID-HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:39:58.414221342Z"}
+{"log":"I0125 08:39:58.414175       1 globals.go:204] PropertyID:[[3.1 2.3.1.1 1.2.1.1]]\n","stream":"stderr","time":"2024-01-25T08:39:58.414236416Z"}
+{"log":"I0125 08:39:58.414212       1 globals.go:289] Device Property[{\"device_type\":\"2.3.1.1\",\"timestamp\":1706171998,\"devices\":[{\"device_id\":\"3.1.2.3.1.1\",\"timestamp\":1706171998,\"data\":{\"3.1.2.3.1.1.1.2.1.1\":{\"value\":0,\"timestamp\":1706171998,\"metadata\":{\"timestamp\":1706171998,\"type\":\"boolean\"}}}}]}]\n","stream":"stderr","time":"2024-01-25T08:39:58.414261925Z"}
+{"log":"I0125 08:39:58.414301       1 globals.go:295] Update value: 2.3.1.1, topic: sanhegjtwo/groups-devices-data-update\n","stream":"stderr","time":"2024-01-25T08:39:58.414349088Z"}
+{"log":"2024-01-25 08:41:38 +0000 UTC\n","stream":"stdout","time":"2024-01-25T08:39:58.414379118Z"}
+{"log":"2024-01-25 08:55:18 +0000 UTC\n","stream":"stdout","time":"2024-01-25T08:39:58.414386813Z"}
+{"log":"I0125 08:39:58.414362       1 firedatadecode.go:22] DecodeSwitchDataTypeToData= \u0026{9 1 [0 0 51 51 1 15 51 48 49 187 250 183 191 32 65 48 55 32 48 57 51 0 8 198 193 177 206 189 226 179 253 54 37 8 12 1 24]}\n","stream":"stderr","time":"2024-01-25T08:39:58.414441166Z"}
+{"log":"I0125 08:39:58.414395       1 firedatadecode.go:23] DecodeSwitchDataType= 0x9\n","stream":"stderr","time":"2024-01-25T08:39:58.414465015Z"}
+{"log":"I0125 08:39:58.414404       1 firedatatype.go:1262] FireParseCardAlarmStatDecodeToData:Type:9,37\n","stream":"stderr","time":"2024-01-25T08:39:58.414476412Z"}
+{"log":"I0125 08:39:58.414413       1 firedatatype.go:1230] FireBuildElectricityDecode-ObjectNum:[1]\n","stream":"stderr","time":"2024-01-25T08:39:58.414487658Z"}
+{"log":"I0125 08:39:58.414442       1 firedatatype.go:1250] FireBuildUserConfigStatDecode status:[1]\n","stream":"stderr","time":"2024-01-25T08:39:58.414500953Z"}
+{"log":"I0125 08:39:58.414463       1 firedatatype.go:1251] FireBuildUserConfigStatDecode Name:15--301机房A07093\n","stream":"stderr","time":"2024-01-25T08:39:58.414511244Z"}
+{"log":"I0125 08:39:58.414482       1 firedatatype.go:1252] FireBuildUserConfigStatDecode Place:0--\n","stream":"stderr","time":"2024-01-25T08:39:58.41452388Z"}
+{"log":"I0125 08:39:58.414501       1 firedatatype.go:1253] FireBuildUserConfigStatDecode Msg:8--屏蔽解除\n","stream":"stderr","time":"2024-01-25T08:39:58.414553979Z"}
+{"log":"I0125 08:39:58.414521       1 firedatatype.go:1255] FireBuildUserConfigStatDecode Pos:37--{ChannelID:0 FireHostNum:0 Reserved:[51 51] PropertyStat:{Status:1} Name:{MsgLen:15 Msg:301机房A07093} Place:{MsgLen:0 Msg:} Msg:{MsgLen:8 Msg:屏蔽解除} TimeLabels:{TimeLabels:[54 37 8 12 1 24]}}\n","stream":"stderr","time":"2024-01-25T08:39:58.414588286Z"}
+{"log":"I0125 08:39:58.414546       1 firedatatype.go:1266] FireParseCardAlarmStatDecode :[{ChannelID:0 FireHostNum:0 Reserved:[51 51] PropertyStat:{Status:1} Name:{MsgLen:15 Msg:301机房A07093} Place:{MsgLen:0 Msg:} Msg:{MsgLen:8 Msg:屏蔽解除} TimeLabels:{TimeLabels:[54 37 8 12 1 24]}}]\n","stream":"stderr","time":"2024-01-25T08:39:58.414601509Z"}
+{"log":"I0125 08:39:58.414819       1 firedatatype.go:2239] 通用清洗: name[301机房A07093]\n","stream":"stderr","time":"2024-01-25T08:39:58.414873196Z"}
+{"log":"I0125 08:39:58.414832       1 firedatatype.go:2240] 通用清洗: place[]\n","stream":"stderr","time":"2024-01-25T08:39:58.414886049Z"}
+{"log":"I0125 08:39:58.414839       1 firedatatype.go:2241] 通用清洗: msg[屏蔽解除]\n","stream":"stderr","time":"2024-01-25T08:39:58.414894234Z"}
+{"log":"I0125 08:39:58.414880       1 firedatatype.go:1328] 测试清洗结果: A07093\n","stream":"stderr","time":"2024-01-25T08:39:58.414919798Z"}
+{"log":"I0125 08:39:58.414893       1 firestat.go:301] 通用状态转换name: name[]\n","stream":"stderr","time":"2024-01-25T08:39:58.414929824Z"}
+{"log":"I0125 08:39:58.414902       1 firestat.go:302] 通用状态转换place: place[]\n","stream":"stderr","time":"2024-01-25T08:39:58.414936812Z"}
+{"log":"I0125 08:39:58.414910       1 firestat.go:303] 通用状态转换msg: msg[屏蔽解除]\n","stream":"stderr","time":"2024-01-25T08:39:58.41494464Z"}
+{"log":"I0125 08:39:58.415190       1 globals.go:217] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:39:58.415251866Z"}
+{"log":"I0125 08:39:58.415204       1 firecustomizeddata.go:24] ParseFireToSouth Device:[0]---len:[9]\n","stream":"stderr","time":"2024-01-25T08:39:58.415267521Z"}
+{"log":"I0125 08:39:58.415219       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:\u0026{Value:0 Timestamp:1706171998 Metadata:{Timestamp:1705048674 Type:boolean}}\n","stream":"stderr","time":"2024-01-25T08:39:58.41527336Z"}
+{"log":"I0125 08:39:58.415242       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:\u0026{Value:屏蔽解除 Timestamp:1706171998 Metadata:{Timestamp:1705048674 Type:string}}\n","stream":"stderr","time":"2024-01-25T08:39:58.41530516Z"}
+{"log":"I0125 08:39:58.415260       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:\u0026{Value:0 Timestamp:1706171998 Metadata:{Timestamp:1705048674 Type:boolean}}\n","stream":"stderr","time":"2024-01-25T08:39:58.415319705Z"}
+{"log":"I0125 08:39:58.415275       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:\u0026{Value:0 Timestamp:1706171998 Metadata:{Timestamp:1705048674 Type:boolean}}\n","stream":"stderr","time":"2024-01-25T08:39:58.415327663Z"}
+{"log":"I0125 08:39:58.415294       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:\u0026{Value:0 Timestamp:1706171998 Metadata:{Timestamp:1705048674 Type:boolean}}\n","stream":"stderr","time":"2024-01-25T08:39:58.415351925Z"}
+{"log":"I0125 08:39:58.415308       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:\u0026{Value:0 Timestamp:1706171998 Metadata:{Timestamp:1705048674 Type:boolean}}\n","stream":"stderr","time":"2024-01-25T08:39:58.415360233Z"}
+{"log":"I0125 08:39:58.415326       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:\u0026{Value:1 Timestamp:1706171998 Metadata:{Timestamp:1705048674 Type:boolean}}\n","stream":"stderr","time":"2024-01-25T08:39:58.415367911Z"}
+{"log":"I0125 08:39:58.415342       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:\u0026{Value:0 Timestamp:1706171998 Metadata:{Timestamp:1705048674 Type:boolean}}\n","stream":"stderr","time":"2024-01-25T08:39:58.415385891Z"}
+{"log":"I0125 08:39:58.415356       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:\u0026{Value:0 Timestamp:1706171998 Metadata:{Timestamp:1705048674 Type:boolean}}\n","stream":"stderr","time":"2024-01-25T08:39:58.415403785Z"}
+{"log":"I0125 08:39:58.415376       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-A07093-#-#-#-6-#-----\u0026{0 1706171998 {1705048674 boolean}}\n","stream":"stderr","time":"2024-01-25T08:39:58.415447693Z"}
+{"log":"I0125 08:39:58.415611       1 globals.go:168] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:39:58.41566379Z"}
+{"log":"I0125 08:39:58.415629       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-A07093-#-#-#-s-#-----\u0026{屏蔽解除 1706171998 {1705048674 string}}\n","stream":"stderr","time":"2024-01-25T08:39:58.415678109Z"}
+{"log":"I0125 08:39:58.415856       1 globals.go:168] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:39:58.415911749Z"}
+{"log":"I0125 08:39:58.415872       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-A07093-#-#-#-2-#-----\u0026{0 1706171998 {1705048674 boolean}}\n","stream":"stderr","time":"2024-01-25T08:39:58.415922699Z"}
+{"log":"I0125 08:39:58.416104       1 globals.go:168] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:39:58.416153274Z"}
+{"log":"I0125 08:39:58.416121       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-A07093-#-#-#-4-#-----\u0026{0 1706171998 {1705048674 boolean}}\n","stream":"stderr","time":"2024-01-25T08:39:58.416170323Z"}
+{"log":"I0125 08:39:58.416342       1 globals.go:168] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:39:58.416402166Z"}
+{"log":"I0125 08:39:58.416358       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-A07093-#-#-#-5-#-----\u0026{0 1706171998 {1705048674 boolean}}\n","stream":"stderr","time":"2024-01-25T08:39:58.416417458Z"}
+{"log":"I0125 08:39:58.416577       1 globals.go:168] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:39:58.416623307Z"}
+{"log":"I0125 08:39:58.416593       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-A07093-#-#-#-7-#-----\u0026{0 1706171998 {1705048674 boolean}}\n","stream":"stderr","time":"2024-01-25T08:39:58.416635946Z"}
+{"log":"I0125 08:39:58.416810       1 globals.go:168] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:39:58.416853201Z"}
+{"log":"I0125 08:39:58.416825       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-A07093-#-#-#-0-#-----\u0026{1 1706171998 {1705048674 boolean}}\n","stream":"stderr","time":"2024-01-25T08:39:58.416864729Z"}
+{"log":"I0125 08:39:58.417058       1 globals.go:168] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:39:58.417109373Z"}
+{"log":"I0125 08:39:58.417075       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-A07093-#-#-#-1-#-----\u0026{0 1706171998 {1705048674 boolean}}\n","stream":"stderr","time":"2024-01-25T08:39:58.417128202Z"}
+{"log":"I0125 08:39:58.417293       1 globals.go:168] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:39:58.417339654Z"}
+{"log":"I0125 08:39:58.417308       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-A07093-#-#-#-3-#-----\u0026{0 1706171998 {1705048674 boolean}}\n","stream":"stderr","time":"2024-01-25T08:39:58.417352543Z"}
+{"log":"I0125 08:39:58.417525       1 globals.go:168] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:39:58.417577723Z"}
+{"log":"I0125 08:39:58.417538       1 firecustomizeddata.go:96] Device payload[{{ 0} []}]\n","stream":"stderr","time":"2024-01-25T08:39:58.417592016Z"}
+{"log":"I0125 08:40:18.574198       1 datapack.go:52] Unpack read startData [64 64]\n","stream":"stderr","time":"2024-01-25T08:40:18.574402211Z"}
+{"log":"I0125 08:40:18.574239       1 datapack.go:66] Unpack read Data First [10][07000203112808190118]\n","stream":"stderr","time":"2024-01-25T08:40:18.574443006Z"}
+{"log":"I0125 08:40:18.574262       1 datapack.go:83] Unpack read Data Two [25][2825518012ff000000000000280002]\n","stream":"stderr","time":"2024-01-25T08:40:18.574467018Z"}
+{"log":"I0125 08:40:18.574282       1 decode.go:47] buf:\u0026{070002031128081901182825518012ff000000000000280002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:40:18.574475913Z"}
+{"log":"I0125 08:40:18.574306       1 decode.go:55] decode: *fire.Control is a ptr\n","stream":"stderr","time":"2024-01-25T08:40:18.574484381Z"}
+{"log":"I0125 08:40:18.574319       1 decode.go:47] buf:\u0026{070002031128081901182825518012ff000000000000280002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:40:18.574491735Z"}
+{"log":"I0125 08:40:18.574333       1 decode.go:55] decode: *fire.Control is a struct\n","stream":"stderr","time":"2024-01-25T08:40:18.574499598Z"}
+{"log":"I0125 08:40:18.574346       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:40:18.574506547Z"}
+{"log":"I0125 08:40:18.574355       1 decode.go:47] buf:\u0026{070002031128081901182825518012ff000000000000280002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:40:18.574513532Z"}
+{"log":"I0125 08:40:18.574367       1 decode.go:55] decode: *fire.Control.SerialNumber is a struct\n","stream":"stderr","time":"2024-01-25T08:40:18.574544808Z"}
+{"log":"I0125 08:40:18.574377       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:40:18.574552519Z"}
+{"log":"I0125 08:40:18.574385       1 decode.go:47] buf:\u0026{070002031128081901182825518012ff000000000000280002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:40:18.57456627Z"}
+{"log":"I0125 08:40:18.574398       1 decode.go:55] decode: *fire.Control.SerialNumber.SerialNumber is a uint16\n","stream":"stderr","time":"2024-01-25T08:40:18.574574185Z"}
+{"log":"I0125 08:40:18.574416       1 decode.go:94] decode: *fire.Control.SerialNumber.SerialNumber:7\n","stream":"stderr","time":"2024-01-25T08:40:18.574581292Z"}
+{"log":"I0125 08:40:18.574444       1 decode.go:88] decode: *fire.Control.SerialNumber:{7}\n","stream":"stderr","time":"2024-01-25T08:40:18.574588177Z"}
+{"log":"I0125 08:40:18.574455       1 decode.go:113] offset2\n","stream":"stderr","time":"2024-01-25T08:40:18.574595046Z"}
+{"log":"I0125 08:40:18.574463       1 decode.go:47] buf:\u0026{02031128081901182825518012ff000000000000280002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:40:18.574601772Z"}
+{"log":"I0125 08:40:18.574481       1 decode.go:55] decode: *fire.Control.ProtocolVersion is a struct\n","stream":"stderr","time":"2024-01-25T08:40:18.574609421Z"}
+{"log":"I0125 08:40:18.574490       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:40:18.574616193Z"}
+{"log":"I0125 08:40:18.574497       1 decode.go:47] buf:\u0026{02031128081901182825518012ff000000000000280002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:40:18.574622994Z"}
+{"log":"I0125 08:40:18.574509       1 decode.go:55] decode: *fire.Control.ProtocolVersion.ProtocolVersion is a array\n","stream":"stderr","time":"2024-01-25T08:40:18.574630291Z"}
+{"log":"I0125 08:40:18.574528       1 decode.go:200] elemType: uint8\n","stream":"stderr","time":"2024-01-25T08:40:18.574641408Z"}
+{"log":"I0125 08:40:18.574547       1 decode.go:84] decode: *fire.Control.ProtocolVersion.ProtocolVersion:[2 3]\n","stream":"stderr","time":"2024-01-25T08:40:18.57464847Z"}
+{"log":"I0125 08:40:18.574564       1 decode.go:88] decode: *fire.Control.ProtocolVersion:{[2 3]}\n","stream":"stderr","time":"2024-01-25T08:40:18.57468794Z"}
+{"log":"I0125 08:40:18.574574       1 decode.go:113] offset4\n","stream":"stderr","time":"2024-01-25T08:40:18.574696075Z"}
+{"log":"I0125 08:40:18.574582       1 decode.go:47] buf:\u0026{1128081901182825518012ff000000000000280002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:40:18.574702904Z"}
+{"log":"I0125 08:40:18.574594       1 decode.go:55] decode: *fire.Control.TimeLabels is a struct\n","stream":"stderr","time":"2024-01-25T08:40:18.574710239Z"}
+{"log":"I0125 08:40:18.574603       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:40:18.574717347Z"}
+{"log":"I0125 08:40:18.574611       1 decode.go:47] buf:\u0026{1128081901182825518012ff000000000000280002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:40:18.574727833Z"}
+{"log":"I0125 08:40:18.574622       1 decode.go:55] decode: *fire.Control.TimeLabels.TimeLabels is a array\n","stream":"stderr","time":"2024-01-25T08:40:18.57474703Z"}
+{"log":"I0125 08:40:18.574631       1 decode.go:200] elemType: uint8\n","stream":"stderr","time":"2024-01-25T08:40:18.574753728Z"}
+{"log":"I0125 08:40:18.574644       1 decode.go:84] decode: *fire.Control.TimeLabels.TimeLabels:[17 40 8 25 1 24]\n","stream":"stderr","time":"2024-01-25T08:40:18.574760427Z"}
+{"log":"I0125 08:40:18.574663       1 decode.go:88] decode: *fire.Control.TimeLabels:{[17 40 8 25 1 24]}\n","stream":"stderr","time":"2024-01-25T08:40:18.574775447Z"}
+{"log":"I0125 08:40:18.574675       1 decode.go:113] offset10\n","stream":"stderr","time":"2024-01-25T08:40:18.574798083Z"}
+{"log":"I0125 08:40:18.574682       1 decode.go:47] buf:\u0026{2825518012ff000000000000280002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:40:18.574804455Z"}
+{"log":"I0125 08:40:18.574694       1 decode.go:55] decode: *fire.Control.SourceAddress is a struct\n","stream":"stderr","time":"2024-01-25T08:40:18.574811429Z"}
+{"log":"I0125 08:40:18.574702       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:40:18.574817768Z"}
+{"log":"I0125 08:40:18.574711       1 decode.go:47] buf:\u0026{2825518012ff000000000000280002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:40:18.574824314Z"}
+{"log":"I0125 08:40:18.574722       1 decode.go:55] decode: *fire.Control.SourceAddress.Address is a struct\n","stream":"stderr","time":"2024-01-25T08:40:18.574830872Z"}
+{"log":"I0125 08:40:18.574730       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:40:18.574837297Z"}
+{"log":"I0125 08:40:18.574738       1 decode.go:47] buf:\u0026{2825518012ff000000000000280002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:40:18.574843866Z"}
+{"log":"I0125 08:40:18.574749       1 decode.go:55] decode: *fire.Control.SourceAddress.Address.Address is a array\n","stream":"stderr","time":"2024-01-25T08:40:18.574850392Z"}
+{"log":"I0125 08:40:18.574758       1 decode.go:200] elemType: uint8\n","stream":"stderr","time":"2024-01-25T08:40:18.574856671Z"}
+{"log":"I0125 08:40:18.574771       1 decode.go:84] decode: *fire.Control.SourceAddress.Address.Address:[40 37 81 128 18 255]\n","stream":"stderr","time":"2024-01-25T08:40:18.574865675Z"}
+{"log":"I0125 08:40:18.574791       1 decode.go:88] decode: *fire.Control.SourceAddress.Address:{[40 37 81 128 18 255]}\n","stream":"stderr","time":"2024-01-25T08:40:18.574872674Z"}
+{"log":"I0125 08:40:18.574808       1 decode.go:88] decode: *fire.Control.SourceAddress:{{[40 37 81 128 18 255]}}\n","stream":"stderr","time":"2024-01-25T08:40:18.574879035Z"}
+{"log":"I0125 08:40:18.574823       1 decode.go:113] offset16\n","stream":"stderr","time":"2024-01-25T08:40:18.574885558Z"}
+{"log":"I0125 08:40:18.574831       1 decode.go:47] buf:\u0026{000000000000280002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:40:18.574891807Z"}
+{"log":"I0125 08:40:18.574843       1 decode.go:55] decode: *fire.Control.TargetAddress is a struct\n","stream":"stderr","time":"2024-01-25T08:40:18.574899667Z"}
+{"log":"I0125 08:40:18.574852       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:40:18.574962007Z"}
+{"log":"I0125 08:40:18.574859       1 decode.go:47] buf:\u0026{000000000000280002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:40:18.575096725Z"}
+{"log":"I0125 08:40:18.574870       1 decode.go:55] decode: *fire.Control.TargetAddress.Address is a struct\n","stream":"stderr","time":"2024-01-25T08:40:18.575134307Z"}
+{"log":"I0125 08:40:18.574893       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:40:18.57520109Z"}
+{"log":"I0125 08:40:18.574926       1 decode.go:47] buf:\u0026{000000000000280002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:40:18.575234321Z"}
+{"log":"I0125 08:40:18.574938       1 decode.go:55] decode: *fire.Control.TargetAddress.Address.Address is a array\n","stream":"stderr","time":"2024-01-25T08:40:18.575296809Z"}
+{"log":"I0125 08:40:18.574946       1 decode.go:200] elemType: uint8\n","stream":"stderr","time":"2024-01-25T08:40:18.575348706Z"}
+{"log":"I0125 08:40:18.574959       1 decode.go:84] decode: *fire.Control.TargetAddress.Address.Address:[0 0 0 0 0 0]\n","stream":"stderr","time":"2024-01-25T08:40:18.575358437Z"}
+{"log":"I0125 08:40:18.575021       1 decode.go:88] decode: *fire.Control.TargetAddress.Address:{[0 0 0 0 0 0]}\n","stream":"stderr","time":"2024-01-25T08:40:18.575388403Z"}
+{"log":"I0125 08:40:18.575041       1 decode.go:88] decode: *fire.Control.TargetAddress:{{[0 0 0 0 0 0]}}\n","stream":"stderr","time":"2024-01-25T08:40:18.57539622Z"}
+{"log":"I0125 08:40:18.575051       1 decode.go:113] offset22\n","stream":"stderr","time":"2024-01-25T08:40:18.575410294Z"}
+{"log":"I0125 08:40:18.575062       1 decode.go:47] buf:\u0026{280002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:40:18.575439963Z"}
+{"log":"I0125 08:40:18.575074       1 decode.go:55] decode: *fire.Control.AppDataLen is a struct\n","stream":"stderr","time":"2024-01-25T08:40:18.575447796Z"}
+{"log":"I0125 08:40:18.575082       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:40:18.575488192Z"}
+{"log":"I0125 08:40:18.575090       1 decode.go:47] buf:\u0026{280002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:40:18.575496531Z"}
+{"log":"I0125 08:40:18.575100       1 decode.go:55] decode: *fire.Control.AppDataLen.AppDataLen is a uint16\n","stream":"stderr","time":"2024-01-25T08:40:18.575509752Z"}
+{"log":"I0125 08:40:18.575115       1 decode.go:94] decode: *fire.Control.AppDataLen.AppDataLen:40\n","stream":"stderr","time":"2024-01-25T08:40:18.575538413Z"}
+{"log":"I0125 08:40:18.575130       1 decode.go:88] decode: *fire.Control.AppDataLen:{40}\n","stream":"stderr","time":"2024-01-25T08:40:18.575545907Z"}
+{"log":"I0125 08:40:18.575146       1 decode.go:113] offset24\n","stream":"stderr","time":"2024-01-25T08:40:18.575559425Z"}
+{"log":"I0125 08:40:18.575154       1 decode.go:47] buf:\u0026{02 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:40:18.575584437Z"}
+{"log":"I0125 08:40:18.575165       1 decode.go:55] decode: *fire.Control.ControlCommand is a uint8\n","stream":"stderr","time":"2024-01-25T08:40:18.57559168Z"}
+{"log":"I0125 08:40:18.575180       1 decode.go:94] decode: *fire.Control.ControlCommand:2\n","stream":"stderr","time":"2024-01-25T08:40:18.575607221Z"}
+{"log":"I0125 08:40:18.575200       1 decode.go:88] decode: *fire.Control:{{7} {[2 3]} {[17 40 8 25 1 24]} {{[40 37 81 128 18 255]}} {{[0 0 0 0 0 0]}} {40} 2}\n","stream":"stderr","time":"2024-01-25T08:40:18.575614545Z"}
+{"log":"I0125 08:40:18.575227       1 decode.go:86] decode: *fire.Control:\u0026{{7} {[2 3]} {[17 40 8 25 1 24]} {{[40 37 81 128 18 255]}} {{[0 0 0 0 0 0]}} {40} 2}\n","stream":"stderr","time":"2024-01-25T08:40:18.575621616Z"}
+{"log":"I0125 08:40:18.575252       1 datapack.go:154] fire-up.Control\u0026{SerialNumber:{SerialNumber:7} ProtocolVersion:{ProtocolVersion:[2 3]} TimeLabels:{TimeLabels:[17 40 8 25 1 24]} SourceAddress:{Address:{Address:[40 37 81 128 18 255]}} TargetAddress:{Address:{Address:[0 0 0 0 0 0]}} AppDataLen:{AppDataLen:40} ControlCommand:2}\n","stream":"stderr","time":"2024-01-25T08:40:18.575631889Z"}
+{"log":"I0125 08:40:18.575293       1 datapack.go:102] Unpack read Data [40][0901000033330110cffbbbf0cba8b1c320413030203130360008b7b4c0a1c8a1cffb190210110118]\n","stream":"stderr","time":"2024-01-25T08:40:18.575640548Z"}
+{"log":"I0125 08:40:18.575325       1 datapack.go:123] Unpack CRC Data:Len:[070002031128081901182825518012ff0000000000002800020901000033330110cffbbbf0cba8b1c320413030203130360008b7b4c0a1c8a1cffb190210110118]\n","stream":"stderr","time":"2024-01-25T08:40:18.575647621Z"}
+{"log":"I0125 08:40:18.575347       1 datapack.go:124] Unpack CRC[89:89]\n","stream":"stderr","time":"2024-01-25T08:40:18.57565444Z"}
+{"log":"I0125 08:40:18.575361       1 firemessage.go:54] FireMessage.SetData:len[40][0901000033330110cffbbbf0cba8b1c320413030203130360008b7b4c0a1c8a1cffb190210110118]\n","stream":"stderr","time":"2024-01-25T08:40:18.575665166Z"}
+{"log":"I0125 08:40:18.575384       1 datapack.go:130] Unpack Fire:[\u0026{Start:[64 64] Control:{SerialNumber:{SerialNumber:7} ProtocolVersion:{ProtocolVersion:[2 3]} TimeLabels:{TimeLabels:[17 40 8 25 1 24]} SourceAddress:{Address:{Address:[40 37 81 128 18 255]}} TargetAddress:{Address:{Address:[0 0 0 0 0 0]}} AppDataLen:{AppDataLen:40} ControlCommand:2} Data:[9 1 0 0 51 51 1 16 207 251 187 240 203 168 177 195 32 65 48 48 32 49 48 54 0 8 183 180 192 161 200 161 207 251 25 2 16 17 1 24] CRC:137 End:[35 35]}]\n","stream":"stderr","time":"2024-01-25T08:40:18.575694953Z"}
+{"log":"I0125 08:40:18.575443       1 msghandler.go:46] DoMsgRequestHandler = 0\n","stream":"stderr","time":"2024-01-25T08:40:18.575705316Z"}
+{"log":"I0125 08:40:18.575457       1 firerouter.go:18] Call fireRouter RequestHandle\n","stream":"stderr","time":"2024-01-25T08:40:18.575711642Z"}
+{"log":"I0125 08:40:18.575466       1 encoding.go:293] MarshalResp ControlCommand = 2\n","stream":"stderr","time":"2024-01-25T08:40:18.575717872Z"}
+{"log":"I0125 08:40:18.575494       1 encoding.go:110] A-Fire.Control:{SerialNumber:{SerialNumber:7} ProtocolVersion:{ProtocolVersion:[2 3]} TimeLabels:{TimeLabels:[18 40 8 25 1 24]} SourceAddress:{Address:{Address:[0 0 0 0 0 0]}} TargetAddress:{Address:{Address:[40 37 81 128 18 255]}} AppDataLen:{AppDataLen:0} ControlCommand:3}\n","stream":"stderr","time":"2024-01-25T08:40:18.575727268Z"}
+{"log":"I0125 08:40:18.575521       1 encoding.go:117] A-Fire.CRC-Data:070002031228081901180000000000002825518012ff000003\n","stream":"stderr","time":"2024-01-25T08:40:18.575735865Z"}
+{"log":"I0125 08:40:18.575533       1 encoding.go:121] FireMessage:{Start:[64 64] Control:{SerialNumber:{SerialNumber:7} ProtocolVersion:{ProtocolVersion:[2 3]} TimeLabels:{TimeLabels:[18 40 8 25 1 24]} SourceAddress:{Address:{Address:[0 0 0 0 0 0]}} TargetAddress:{Address:{Address:[40 37 81 128 18 255]}} AppDataLen:{AppDataLen:0} ControlCommand:3} Data:[] CRC:178 End:[35 35]}/n\n","stream":"stderr","time":"2024-01-25T08:40:18.575742552Z"}
+{"log":"I0125 08:40:18.575572       1 msghandler.go:61] DoMsgDataHandler = 0\n","stream":"stderr","time":"2024-01-25T08:40:18.575750624Z"}
+{"log":"I0125 08:40:18.575581       1 firerouter.go:31] Call fireRouter DataHandle\n","stream":"stderr","time":"2024-01-25T08:40:18.57575683Z"}
+{"log":"I0125 08:40:18.575589       1 firerouter.go:35] DataHandle recv from client :data= 0901000033330110cffbbbf0cba8b1c320413030203130360008b7b4c0a1c8a1cffb190210110118\n","stream":"stderr","time":"2024-01-25T08:40:18.575763087Z"}
+{"log":"I0125 08:40:18.575997       1 globals.go:217] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:40:18.576065752Z"}
+{"log":"I0125 08:40:18.576014       1 globals.go:264] 心跳点位组包\n","stream":"stderr","time":"2024-01-25T08:40:18.576083936Z"}
+{"log":"I0125 08:40:18.576316       1 globals.go:183] DeviceID-HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:40:18.576403241Z"}
+{"log":"I0125 08:40:18.576333       1 globals.go:187] DeviceID:[[3.1 2.3.1.1]]\n","stream":"stderr","time":"2024-01-25T08:40:18.576434127Z"}
+{"log":"I0125 08:40:18.576591       1 globals.go:200] PropertyID-HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:40:18.576658695Z"}
+{"log":"I0125 08:40:18.576605       1 globals.go:204] PropertyID:[[3.1 2.3.1.1 1.2.1.1]]\n","stream":"stderr","time":"2024-01-25T08:40:18.576686279Z"}
+{"log":"I0125 08:40:18.576643       1 globals.go:289] Device Property[{\"device_type\":\"2.3.1.1\",\"timestamp\":1706172018,\"devices\":[{\"device_id\":\"3.1.2.3.1.1\",\"timestamp\":1706172018,\"data\":{\"3.1.2.3.1.1.1.2.1.1\":{\"value\":0,\"timestamp\":1706172018,\"metadata\":{\"timestamp\":1706172018,\"type\":\"boolean\"}}}}]}]\n","stream":"stderr","time":"2024-01-25T08:40:18.576703983Z"}
+{"log":"I0125 08:40:18.576756       1 globals.go:295] Update value: 2.3.1.1, topic: sanhegjtwo/groups-devices-data-update\n","stream":"stderr","time":"2024-01-25T08:40:18.576826414Z"}
+{"log":"2024-01-25 08:41:58 +0000 UTC\n","stream":"stdout","time":"2024-01-25T08:40:18.576868323Z"}
+{"log":"2024-01-25 08:55:38 +0000 UTC\n","stream":"stdout","time":"2024-01-25T08:40:18.576884096Z"}
+{"log":"I0125 08:40:18.576817       1 firedatadecode.go:22] DecodeSwitchDataTypeToData= \u0026{9 1 [0 0 51 51 1 16 207 251 187 240 203 168 177 195 32 65 48 48 32 49 48 54 0 8 183 180 192 161 200 161 207 251 25 2 16 17 1 24]}\n","stream":"stderr","time":"2024-01-25T08:40:18.576891117Z"}
+{"log":"I0125 08:40:18.576846       1 firedatadecode.go:23] DecodeSwitchDataType= 0x9\n","stream":"stderr","time":"2024-01-25T08:40:18.576909381Z"}
+{"log":"I0125 08:40:18.576856       1 firedatatype.go:1262] FireParseCardAlarmStatDecodeToData:Type:9,38\n","stream":"stderr","time":"2024-01-25T08:40:18.576917411Z"}
+{"log":"I0125 08:40:18.576866       1 firedatatype.go:1230] FireBuildElectricityDecode-ObjectNum:[1]\n","stream":"stderr","time":"2024-01-25T08:40:18.576924738Z"}
+{"log":"I0125 08:40:18.576898       1 firedatatype.go:1250] FireBuildUserConfigStatDecode status:[1]\n","stream":"stderr","time":"2024-01-25T08:40:18.57699052Z"}
+{"log":"I0125 08:40:18.576920       1 firedatatype.go:1251] FireBuildUserConfigStatDecode Name:16--消火栓泵A00106\n","stream":"stderr","time":"2024-01-25T08:40:18.577016703Z"}
+{"log":"I0125 08:40:18.576938       1 firedatatype.go:1252] FireBuildUserConfigStatDecode Place:0--\n","stream":"stderr","time":"2024-01-25T08:40:18.577029301Z"}
+{"log":"I0125 08:40:18.576961       1 firedatatype.go:1253] FireBuildUserConfigStatDecode Msg:8--反馈取消\n","stream":"stderr","time":"2024-01-25T08:40:18.577048635Z"}
+{"log":"I0125 08:40:18.576996       1 firedatatype.go:1255] FireBuildUserConfigStatDecode Pos:38--{ChannelID:0 FireHostNum:0 Reserved:[51 51] PropertyStat:{Status:1} Name:{MsgLen:16 Msg:消火栓泵A00106} Place:{MsgLen:0 Msg:} Msg:{MsgLen:8 Msg:反馈取消} TimeLabels:{TimeLabels:[25 2 16 17 1 24]}}\n","stream":"stderr","time":"2024-01-25T08:40:18.577066227Z"}
+{"log":"I0125 08:40:18.577021       1 firedatatype.go:1266] FireParseCardAlarmStatDecode :[{ChannelID:0 FireHostNum:0 Reserved:[51 51] PropertyStat:{Status:1} Name:{MsgLen:16 Msg:消火栓泵A00106} Place:{MsgLen:0 Msg:} Msg:{MsgLen:8 Msg:反馈取消} TimeLabels:{TimeLabels:[25 2 16 17 1 24]}}]\n","stream":"stderr","time":"2024-01-25T08:40:18.57718316Z"}
+{"log":"I0125 08:40:18.577563       1 firedatatype.go:2239] 通用清洗: name[消火栓泵A00106]\n","stream":"stderr","time":"2024-01-25T08:40:18.57763841Z"}
+{"log":"I0125 08:40:18.577580       1 firedatatype.go:2240] 通用清洗: place[]\n","stream":"stderr","time":"2024-01-25T08:40:18.577654861Z"}
+{"log":"I0125 08:40:18.577589       1 firedatatype.go:2241] 通用清洗: msg[反馈取消]\n","stream":"stderr","time":"2024-01-25T08:40:18.577662029Z"}
+{"log":"I0125 08:40:18.577634       1 firedatatype.go:1328] 测试清洗结果: A00106\n","stream":"stderr","time":"2024-01-25T08:40:18.577708693Z"}
+{"log":"I0125 08:40:18.577647       1 firestat.go:301] 通用状态转换name: name[]\n","stream":"stderr","time":"2024-01-25T08:40:18.577741054Z"}
+{"log":"I0125 08:40:18.577655       1 firestat.go:302] 通用状态转换place: place[]\n","stream":"stderr","time":"2024-01-25T08:40:18.577751372Z"}
+{"log":"I0125 08:40:18.577663       1 firestat.go:303] 通用状态转换msg: msg[反馈取消]\n","stream":"stderr","time":"2024-01-25T08:40:18.577759589Z"}
+{"log":"I0125 08:40:18.578014       1 globals.go:217] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:40:18.578083415Z"}
+{"log":"I0125 08:40:18.578030       1 firecustomizeddata.go:24] ParseFireToSouth Device:[0]---len:[9]\n","stream":"stderr","time":"2024-01-25T08:40:18.578106551Z"}
+{"log":"I0125 08:40:18.578047       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:\u0026{Value:1 Timestamp:1706172018 Metadata:{Timestamp:1705507345 Type:boolean}}\n","stream":"stderr","time":"2024-01-25T08:40:18.578117782Z"}
+{"log":"I0125 08:40:18.578076       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:\u0026{Value:0 Timestamp:1706172018 Metadata:{Timestamp:1705507345 Type:boolean}}\n","stream":"stderr","time":"2024-01-25T08:40:18.578143511Z"}
+{"log":"I0125 08:40:18.578093       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:\u0026{Value:0 Timestamp:1706172018 Metadata:{Timestamp:1705507345 Type:boolean}}\n","stream":"stderr","time":"2024-01-25T08:40:18.578173435Z"}
+{"log":"I0125 08:40:18.578115       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:\u0026{Value:0 Timestamp:1706172018 Metadata:{Timestamp:1705507345 Type:boolean}}\n","stream":"stderr","time":"2024-01-25T08:40:18.57819656Z"}
+{"log":"I0125 08:40:18.578131       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:\u0026{Value:0 Timestamp:1706172018 Metadata:{Timestamp:1705507345 Type:boolean}}\n","stream":"stderr","time":"2024-01-25T08:40:18.578204989Z"}
+{"log":"I0125 08:40:18.578149       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:\u0026{Value:0 Timestamp:1706172018 Metadata:{Timestamp:1705507345 Type:boolean}}\n","stream":"stderr","time":"2024-01-25T08:40:18.578217593Z"}
+{"log":"I0125 08:40:18.578169       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:\u0026{Value:0 Timestamp:1706172018 Metadata:{Timestamp:1705507345 Type:boolean}}\n","stream":"stderr","time":"2024-01-25T08:40:18.578224805Z"}
+{"log":"I0125 08:40:18.578185       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:\u0026{Value:0 Timestamp:1706172018 Metadata:{Timestamp:1705507345 Type:boolean}}\n","stream":"stderr","time":"2024-01-25T08:40:18.578233007Z"}
+{"log":"I0125 08:40:18.578202       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:\u0026{Value:反馈取消 Timestamp:1706172018 Metadata:{Timestamp:1705507345 Type:string}}\n","stream":"stderr","time":"2024-01-25T08:40:18.578275161Z"}
+{"log":"I0125 08:40:18.578226       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-A00106-#-#-#-s-#-----\u0026{反馈取消 1706172018 {1705507345 string}}\n","stream":"stderr","time":"2024-01-25T08:40:18.578290458Z"}
+{"log":"I0125 08:40:18.578494       1 globals.go:168] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:40:18.578569652Z"}
+{"log":"I0125 08:40:18.578514       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-A00106-#-#-#-1-#-----\u0026{0 1706172018 {1705507345 boolean}}\n","stream":"stderr","time":"2024-01-25T08:40:18.578586553Z"}
+{"log":"I0125 08:40:18.578789       1 globals.go:168] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:40:18.578852784Z"}
+{"log":"I0125 08:40:18.578807       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-A00106-#-#-#-2-#-----\u0026{0 1706172018 {1705507345 boolean}}\n","stream":"stderr","time":"2024-01-25T08:40:18.578870009Z"}
+{"log":"I0125 08:40:18.579086       1 globals.go:168] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:40:18.579147749Z"}
+{"log":"I0125 08:40:18.579105       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-A00106-#-#-#-3-#-----\u0026{0 1706172018 {1705507345 boolean}}\n","stream":"stderr","time":"2024-01-25T08:40:18.579171614Z"}
+{"log":"I0125 08:40:18.579370       1 globals.go:168] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:40:18.579441868Z"}
+{"log":"I0125 08:40:18.579388       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-A00106-#-#-#-6-#-----\u0026{0 1706172018 {1705507345 boolean}}\n","stream":"stderr","time":"2024-01-25T08:40:18.579459715Z"}
+{"log":"I0125 08:40:18.579656       1 globals.go:168] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:40:18.579721692Z"}
+{"log":"I0125 08:40:18.579674       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-A00106-#-#-#-7-#-----\u0026{0 1706172018 {1705507345 boolean}}\n","stream":"stderr","time":"2024-01-25T08:40:18.579742042Z"}
+{"log":"I0125 08:40:18.579918       1 globals.go:168] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:40:18.579995579Z"}
+{"log":"I0125 08:40:18.579936       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-A00106-#-#-#-0-#-----\u0026{1 1706172018 {1705507345 boolean}}\n","stream":"stderr","time":"2024-01-25T08:40:18.580021534Z"}
+{"log":"I0125 08:40:18.580234       1 globals.go:168] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:40:18.580302348Z"}
+{"log":"I0125 08:40:18.580252       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-A00106-#-#-#-4-#-----\u0026{0 1706172018 {1705507345 boolean}}\n","stream":"stderr","time":"2024-01-25T08:40:18.580319961Z"}
+{"log":"I0125 08:40:18.580504       1 globals.go:168] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:40:18.580567833Z"}
+{"log":"I0125 08:40:18.580521       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-A00106-#-#-#-5-#-----\u0026{0 1706172018 {1705507345 boolean}}\n","stream":"stderr","time":"2024-01-25T08:40:18.580583632Z"}
+{"log":"I0125 08:40:18.580789       1 globals.go:168] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:40:18.58084938Z"}
+{"log":"I0125 08:40:18.580804       1 firecustomizeddata.go:96] Device payload[{{ 0} []}]\n","stream":"stderr","time":"2024-01-25T08:40:18.580864878Z"}
+{"log":"I0125 08:40:22.505951       1 datapack.go:52] Unpack read startData [64 64]\n","stream":"stderr","time":"2024-01-25T08:40:22.506252484Z"}
+{"log":"I0125 08:40:22.506037       1 datapack.go:66] Unpack read Data First [10][08000203152808190118]\n","stream":"stderr","time":"2024-01-25T08:40:22.506290116Z"}
+{"log":"I0125 08:40:22.506059       1 datapack.go:83] Unpack read Data Two [25][2825518012ff000000000000280002]\n","stream":"stderr","time":"2024-01-25T08:40:22.506300475Z"}
+{"log":"I0125 08:40:22.506080       1 decode.go:47] buf:\u0026{080002031528081901182825518012ff000000000000280002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:40:22.506308304Z"}
+{"log":"I0125 08:40:22.506103       1 decode.go:55] decode: *fire.Control is a ptr\n","stream":"stderr","time":"2024-01-25T08:40:22.506319872Z"}
+{"log":"I0125 08:40:22.506120       1 decode.go:47] buf:\u0026{080002031528081901182825518012ff000000000000280002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:40:22.506327861Z"}
+{"log":"I0125 08:40:22.506142       1 decode.go:55] decode: *fire.Control is a struct\n","stream":"stderr","time":"2024-01-25T08:40:22.506336191Z"}
+{"log":"I0125 08:40:22.506166       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:40:22.50634366Z"}
+{"log":"I0125 08:40:22.506176       1 decode.go:47] buf:\u0026{080002031528081901182825518012ff000000000000280002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:40:22.5063508Z"}
+{"log":"I0125 08:40:22.506188       1 decode.go:55] decode: *fire.Control.SerialNumber is a struct\n","stream":"stderr","time":"2024-01-25T08:40:22.506359063Z"}
+{"log":"I0125 08:40:22.506198       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:40:22.506366553Z"}
+{"log":"I0125 08:40:22.506206       1 decode.go:47] buf:\u0026{080002031528081901182825518012ff000000000000280002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:40:22.506414582Z"}
+{"log":"I0125 08:40:22.506224       1 decode.go:55] decode: *fire.Control.SerialNumber.SerialNumber is a uint16\n","stream":"stderr","time":"2024-01-25T08:40:22.506422609Z"}
+{"log":"I0125 08:40:22.506253       1 decode.go:94] decode: *fire.Control.SerialNumber.SerialNumber:8\n","stream":"stderr","time":"2024-01-25T08:40:22.506436451Z"}
+{"log":"I0125 08:40:22.506283       1 decode.go:88] decode: *fire.Control.SerialNumber:{8}\n","stream":"stderr","time":"2024-01-25T08:40:22.506443679Z"}
+{"log":"I0125 08:40:22.506293       1 decode.go:113] offset2\n","stream":"stderr","time":"2024-01-25T08:40:22.506450974Z"}
+{"log":"I0125 08:40:22.506305       1 decode.go:47] buf:\u0026{02031528081901182825518012ff000000000000280002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:40:22.506457881Z"}
+{"log":"I0125 08:40:22.506342       1 decode.go:55] decode: *fire.Control.ProtocolVersion is a struct\n","stream":"stderr","time":"2024-01-25T08:40:22.506477053Z"}
+{"log":"I0125 08:40:22.506352       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:40:22.506484816Z"}
+{"log":"I0125 08:40:22.506361       1 decode.go:47] buf:\u0026{02031528081901182825518012ff000000000000280002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:40:22.506491699Z"}
+{"log":"I0125 08:40:22.506372       1 decode.go:55] decode: *fire.Control.ProtocolVersion.ProtocolVersion is a array\n","stream":"stderr","time":"2024-01-25T08:40:22.506499131Z"}
+{"log":"I0125 08:40:22.506384       1 decode.go:200] elemType: uint8\n","stream":"stderr","time":"2024-01-25T08:40:22.506506169Z"}
+{"log":"I0125 08:40:22.506408       1 decode.go:84] decode: *fire.Control.ProtocolVersion.ProtocolVersion:[2 3]\n","stream":"stderr","time":"2024-01-25T08:40:22.506515333Z"}
+{"log":"I0125 08:40:22.506433       1 decode.go:88] decode: *fire.Control.ProtocolVersion:{[2 3]}\n","stream":"stderr","time":"2024-01-25T08:40:22.506522508Z"}
+{"log":"I0125 08:40:22.506445       1 decode.go:113] offset4\n","stream":"stderr","time":"2024-01-25T08:40:22.506529451Z"}
+{"log":"I0125 08:40:22.506453       1 decode.go:47] buf:\u0026{1528081901182825518012ff000000000000280002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:40:22.506536085Z"}
+{"log":"I0125 08:40:22.506465       1 decode.go:55] decode: *fire.Control.TimeLabels is a struct\n","stream":"stderr","time":"2024-01-25T08:40:22.506543248Z"}
+{"log":"I0125 08:40:22.506477       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:40:22.506588853Z"}
+{"log":"I0125 08:40:22.506490       1 decode.go:47] buf:\u0026{1528081901182825518012ff000000000000280002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:40:22.506596253Z"}
+{"log":"I0125 08:40:22.506521       1 decode.go:55] decode: *fire.Control.TimeLabels.TimeLabels is a array\n","stream":"stderr","time":"2024-01-25T08:40:22.506603697Z"}
+{"log":"I0125 08:40:22.506531       1 decode.go:200] elemType: uint8\n","stream":"stderr","time":"2024-01-25T08:40:22.506610668Z"}
+{"log":"I0125 08:40:22.506571       1 decode.go:84] decode: *fire.Control.TimeLabels.TimeLabels:[21 40 8 25 1 24]\n","stream":"stderr","time":"2024-01-25T08:40:22.506664061Z"}
+{"log":"I0125 08:40:22.506601       1 decode.go:88] decode: *fire.Control.TimeLabels:{[21 40 8 25 1 24]}\n","stream":"stderr","time":"2024-01-25T08:40:22.506692982Z"}
+{"log":"I0125 08:40:22.506613       1 decode.go:113] offset10\n","stream":"stderr","time":"2024-01-25T08:40:22.506702155Z"}
+{"log":"I0125 08:40:22.506621       1 decode.go:47] buf:\u0026{2825518012ff000000000000280002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:40:22.506709542Z"}
+{"log":"I0125 08:40:22.506633       1 decode.go:55] decode: *fire.Control.SourceAddress is a struct\n","stream":"stderr","time":"2024-01-25T08:40:22.506727278Z"}
+{"log":"I0125 08:40:22.506652       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:40:22.506763496Z"}
+{"log":"I0125 08:40:22.506664       1 decode.go:47] buf:\u0026{2825518012ff000000000000280002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:40:22.506795512Z"}
+{"log":"I0125 08:40:22.506676       1 decode.go:55] decode: *fire.Control.SourceAddress.Address is a struct\n","stream":"stderr","time":"2024-01-25T08:40:22.506803587Z"}
+{"log":"I0125 08:40:22.506685       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:40:22.506810919Z"}
+{"log":"I0125 08:40:22.506692       1 decode.go:47] buf:\u0026{2825518012ff000000000000280002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:40:22.506817948Z"}
+{"log":"I0125 08:40:22.506703       1 decode.go:55] decode: *fire.Control.SourceAddress.Address.Address is a array\n","stream":"stderr","time":"2024-01-25T08:40:22.506831643Z"}
+{"log":"I0125 08:40:22.506712       1 decode.go:200] elemType: uint8\n","stream":"stderr","time":"2024-01-25T08:40:22.506839177Z"}
+{"log":"I0125 08:40:22.506728       1 decode.go:84] decode: *fire.Control.SourceAddress.Address.Address:[40 37 81 128 18 255]\n","stream":"stderr","time":"2024-01-25T08:40:22.506857107Z"}
+{"log":"I0125 08:40:22.506753       1 decode.go:88] decode: *fire.Control.SourceAddress.Address:{[40 37 81 128 18 255]}\n","stream":"stderr","time":"2024-01-25T08:40:22.506865022Z"}
+{"log":"I0125 08:40:22.506774       1 decode.go:88] decode: *fire.Control.SourceAddress:{{[40 37 81 128 18 255]}}\n","stream":"stderr","time":"2024-01-25T08:40:22.506872397Z"}
+{"log":"I0125 08:40:22.506786       1 decode.go:113] offset16\n","stream":"stderr","time":"2024-01-25T08:40:22.506879546Z"}
+{"log":"I0125 08:40:22.506793       1 decode.go:47] buf:\u0026{000000000000280002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:40:22.506886532Z"}
+{"log":"I0125 08:40:22.506805       1 decode.go:55] decode: *fire.Control.TargetAddress is a struct\n","stream":"stderr","time":"2024-01-25T08:40:22.506900532Z"}
+{"log":"I0125 08:40:22.506816       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:40:22.506907766Z"}
+{"log":"I0125 08:40:22.506829       1 decode.go:47] buf:\u0026{000000000000280002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:40:22.50691465Z"}
+{"log":"I0125 08:40:22.506842       1 decode.go:55] decode: *fire.Control.TargetAddress.Address is a struct\n","stream":"stderr","time":"2024-01-25T08:40:22.50692272Z"}
+{"log":"I0125 08:40:22.506851       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:40:22.506930334Z"}
+{"log":"I0125 08:40:22.506859       1 decode.go:47] buf:\u0026{000000000000280002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:40:22.506937365Z"}
+{"log":"I0125 08:40:22.506870       1 decode.go:55] decode: *fire.Control.TargetAddress.Address.Address is a array\n","stream":"stderr","time":"2024-01-25T08:40:22.506944976Z"}
+{"log":"I0125 08:40:22.506879       1 decode.go:200] elemType: uint8\n","stream":"stderr","time":"2024-01-25T08:40:22.506954397Z"}
+{"log":"I0125 08:40:22.506894       1 decode.go:84] decode: *fire.Control.TargetAddress.Address.Address:[0 0 0 0 0 0]\n","stream":"stderr","time":"2024-01-25T08:40:22.506961464Z"}
+{"log":"I0125 08:40:22.506922       1 decode.go:88] decode: *fire.Control.TargetAddress.Address:{[0 0 0 0 0 0]}\n","stream":"stderr","time":"2024-01-25T08:40:22.507010496Z"}
+{"log":"I0125 08:40:22.506939       1 decode.go:88] decode: *fire.Control.TargetAddress:{{[0 0 0 0 0 0]}}\n","stream":"stderr","time":"2024-01-25T08:40:22.507026779Z"}
+{"log":"I0125 08:40:22.506950       1 decode.go:113] offset22\n","stream":"stderr","time":"2024-01-25T08:40:22.507034014Z"}
+{"log":"I0125 08:40:22.506957       1 decode.go:47] buf:\u0026{280002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:40:22.507040873Z"}
+{"log":"I0125 08:40:22.506969       1 decode.go:55] decode: *fire.Control.AppDataLen is a struct\n","stream":"stderr","time":"2024-01-25T08:40:22.50704849Z"}
+{"log":"I0125 08:40:22.506996       1 decode.go:113] offset0\n","stream":"stderr","time":"2024-01-25T08:40:22.507059338Z"}
+{"log":"I0125 08:40:22.507007       1 decode.go:47] buf:\u0026{280002 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:40:22.507066806Z"}
+{"log":"I0125 08:40:22.507020       1 decode.go:55] decode: *fire.Control.AppDataLen.AppDataLen is a uint16\n","stream":"stderr","time":"2024-01-25T08:40:22.507093755Z"}
+{"log":"I0125 08:40:22.507037       1 decode.go:94] decode: *fire.Control.AppDataLen.AppDataLen:40\n","stream":"stderr","time":"2024-01-25T08:40:22.507104025Z"}
+{"log":"I0125 08:40:22.507052       1 decode.go:88] decode: *fire.Control.AppDataLen:{40}\n","stream":"stderr","time":"2024-01-25T08:40:22.50711122Z"}
+{"log":"I0125 08:40:22.507061       1 decode.go:113] offset24\n","stream":"stderr","time":"2024-01-25T08:40:22.507118287Z"}
+{"log":"I0125 08:40:22.507074       1 decode.go:47] buf:\u0026{02 0 \u003cnil\u003e}/n\n","stream":"stderr","time":"2024-01-25T08:40:22.507125304Z"}
+{"log":"I0125 08:40:22.507091       1 decode.go:55] decode: *fire.Control.ControlCommand is a uint8\n","stream":"stderr","time":"2024-01-25T08:40:22.507181294Z"}
+{"log":"I0125 08:40:22.507121       1 decode.go:94] decode: *fire.Control.ControlCommand:2\n","stream":"stderr","time":"2024-01-25T08:40:22.507228192Z"}
+{"log":"I0125 08:40:22.507136       1 decode.go:88] decode: *fire.Control:{{8} {[2 3]} {[21 40 8 25 1 24]} {{[40 37 81 128 18 255]}} {{[0 0 0 0 0 0]}} {40} 2}\n","stream":"stderr","time":"2024-01-25T08:40:22.507295104Z"}
+{"log":"I0125 08:40:22.507176       1 decode.go:86] decode: *fire.Control:\u0026{{8} {[2 3]} {[21 40 8 25 1 24]} {{[40 37 81 128 18 255]}} {{[0 0 0 0 0 0]}} {40} 2}\n","stream":"stderr","time":"2024-01-25T08:40:22.507306548Z"}
+{"log":"I0125 08:40:22.507210       1 datapack.go:154] fire-up.Control\u0026{SerialNumber:{SerialNumber:8} ProtocolVersion:{ProtocolVersion:[2 3]} TimeLabels:{TimeLabels:[21 40 8 25 1 24]} SourceAddress:{Address:{Address:[40 37 81 128 18 255]}} TargetAddress:{Address:{Address:[0 0 0 0 0 0]}} AppDataLen:{AppDataLen:40} ControlCommand:2}\n","stream":"stderr","time":"2024-01-25T08:40:22.507314743Z"}
+{"log":"I0125 08:40:22.507258       1 datapack.go:102] Unpack read Data [40][0901000033330110cffbbbf0cba8b1c320413030203130360008b7b4c0a120202020060210110118]\n","stream":"stderr","time":"2024-01-25T08:40:22.507327536Z"}
+{"log":"I0125 08:40:22.507290       1 datapack.go:123] Unpack CRC Data:Len:[080002031528081901182825518012ff0000000000002800020901000033330110cffbbbf0cba8b1c320413030203130360008b7b4c0a120202020060210110118]\n","stream":"stderr","time":"2024-01-25T08:40:22.507335438Z"}
+{"log":"I0125 08:40:22.507315       1 datapack.go:124] Unpack CRC[c8:c8]\n","stream":"stderr","time":"2024-01-25T08:40:22.507367761Z"}
+{"log":"I0125 08:40:22.507331       1 firemessage.go:54] FireMessage.SetData:len[40][0901000033330110cffbbbf0cba8b1c320413030203130360008b7b4c0a120202020060210110118]\n","stream":"stderr","time":"2024-01-25T08:40:22.50741Z"}
+{"log":"I0125 08:40:22.507360       1 datapack.go:130] Unpack Fire:[\u0026{Start:[64 64] Control:{SerialNumber:{SerialNumber:8} ProtocolVersion:{ProtocolVersion:[2 3]} TimeLabels:{TimeLabels:[21 40 8 25 1 24]} SourceAddress:{Address:{Address:[40 37 81 128 18 255]}} TargetAddress:{Address:{Address:[0 0 0 0 0 0]}} AppDataLen:{AppDataLen:40} ControlCommand:2} Data:[9 1 0 0 51 51 1 16 207 251 187 240 203 168 177 195 32 65 48 48 32 49 48 54 0 8 183 180 192 161 32 32 32 32 6 2 16 17 1 24] CRC:200 End:[35 35]}]\n","stream":"stderr","time":"2024-01-25T08:40:22.507466075Z"}
+{"log":"I0125 08:40:22.507424       1 msghandler.go:46] DoMsgRequestHandler = 0\n","stream":"stderr","time":"2024-01-25T08:40:22.507498785Z"}
+{"log":"I0125 08:40:22.507438       1 firerouter.go:18] Call fireRouter RequestHandle\n","stream":"stderr","time":"2024-01-25T08:40:22.507507734Z"}
+{"log":"I0125 08:40:22.507447       1 encoding.go:293] MarshalResp ControlCommand = 2\n","stream":"stderr","time":"2024-01-25T08:40:22.507517791Z"}
+{"log":"I0125 08:40:22.507475       1 encoding.go:110] A-Fire.Control:{SerialNumber:{SerialNumber:8} ProtocolVersion:{ProtocolVersion:[2 3]} TimeLabels:{TimeLabels:[22 40 8 25 1 24]} SourceAddress:{Address:{Address:[0 0 0 0 0 0]}} TargetAddress:{Address:{Address:[40 37 81 128 18 255]}} AppDataLen:{AppDataLen:0} ControlCommand:3}\n","stream":"stderr","time":"2024-01-25T08:40:22.507546293Z"}
+{"log":"I0125 08:40:22.507511       1 encoding.go:117] A-Fire.CRC-Data:080002031628081901180000000000002825518012ff000003\n","stream":"stderr","time":"2024-01-25T08:40:22.50755535Z"}
+{"log":"I0125 08:40:22.507524       1 encoding.go:121] FireMessage:{Start:[64 64] Control:{SerialNumber:{SerialNumber:8} ProtocolVersion:{ProtocolVersion:[2 3]} TimeLabels:{TimeLabels:[22 40 8 25 1 24]} SourceAddress:{Address:{Address:[0 0 0 0 0 0]}} TargetAddress:{Address:{Address:[40 37 81 128 18 255]}} AppDataLen:{AppDataLen:0} ControlCommand:3} Data:[] CRC:183 End:[35 35]}/n\n","stream":"stderr","time":"2024-01-25T08:40:22.507605975Z"}
+{"log":"I0125 08:40:22.507566       1 msghandler.go:61] DoMsgDataHandler = 0\n","stream":"stderr","time":"2024-01-25T08:40:22.507636952Z"}
+{"log":"I0125 08:40:22.507583       1 firerouter.go:31] Call fireRouter DataHandle\n","stream":"stderr","time":"2024-01-25T08:40:22.507651715Z"}
+{"log":"I0125 08:40:22.507593       1 firerouter.go:35] DataHandle recv from client :data= 0901000033330110cffbbbf0cba8b1c320413030203130360008b7b4c0a120202020060210110118\n","stream":"stderr","time":"2024-01-25T08:40:22.507658681Z"}
+{"log":"I0125 08:40:22.508040       1 globals.go:217] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:40:22.508102933Z"}
+{"log":"I0125 08:40:22.508056       1 globals.go:264] 心跳点位组包\n","stream":"stderr","time":"2024-01-25T08:40:22.508124051Z"}
+{"log":"I0125 08:40:22.508385       1 globals.go:183] DeviceID-HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:40:22.508437836Z"}
+{"log":"I0125 08:40:22.508403       1 globals.go:187] DeviceID:[[3.1 2.3.1.1]]\n","stream":"stderr","time":"2024-01-25T08:40:22.508462823Z"}
+{"log":"I0125 08:40:22.508690       1 globals.go:200] PropertyID-HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:40:22.508779173Z"}
+{"log":"I0125 08:40:22.508706       1 globals.go:204] PropertyID:[[3.1 2.3.1.1 1.2.1.1]]\n","stream":"stderr","time":"2024-01-25T08:40:22.508795032Z"}
+{"log":"I0125 08:40:22.508745       1 globals.go:289] Device Property[{\"device_type\":\"2.3.1.1\",\"timestamp\":1706172022,\"devices\":[{\"device_id\":\"3.1.2.3.1.1\",\"timestamp\":1706172022,\"data\":{\"3.1.2.3.1.1.1.2.1.1\":{\"value\":0,\"timestamp\":1706172022,\"metadata\":{\"timestamp\":1706172022,\"type\":\"boolean\"}}}}]}]\n","stream":"stderr","time":"2024-01-25T08:40:22.508803337Z"}
+{"log":"I0125 08:40:22.508858       1 globals.go:295] Update value: 2.3.1.1, topic: sanhegjtwo/groups-devices-data-update\n","stream":"stderr","time":"2024-01-25T08:40:22.508917611Z"}
+{"log":"2024-01-25 08:42:02 +0000 UTC\n","stream":"stdout","time":"2024-01-25T08:40:22.508953736Z"}
+{"log":"2024-01-25 08:55:42 +0000 UTC\n","stream":"stdout","time":"2024-01-25T08:40:22.508996483Z"}
+{"log":"I0125 08:40:22.508928       1 firedatadecode.go:22] DecodeSwitchDataTypeToData= \u0026{9 1 [0 0 51 51 1 16 207 251 187 240 203 168 177 195 32 65 48 48 32 49 48 54 0 8 183 180 192 161 32 32 32 32 6 2 16 17 1 24]}\n","stream":"stderr","time":"2024-01-25T08:40:22.509008654Z"}
+{"log":"I0125 08:40:22.508965       1 firedatadecode.go:23] DecodeSwitchDataType= 0x9\n","stream":"stderr","time":"2024-01-25T08:40:22.509045889Z"}
+{"log":"I0125 08:40:22.508990       1 firedatatype.go:1262] FireParseCardAlarmStatDecodeToData:Type:9,38\n","stream":"stderr","time":"2024-01-25T08:40:22.509055541Z"}
+{"log":"I0125 08:40:22.509004       1 firedatatype.go:1230] FireBuildElectricityDecode-ObjectNum:[1]\n","stream":"stderr","time":"2024-01-25T08:40:22.5090635Z"}
+{"log":"I0125 08:40:22.509042       1 firedatatype.go:1250] FireBuildUserConfigStatDecode status:[1]\n","stream":"stderr","time":"2024-01-25T08:40:22.509089575Z"}
+{"log":"I0125 08:40:22.509064       1 firedatatype.go:1251] FireBuildUserConfigStatDecode Name:16--消火栓泵A00106\n","stream":"stderr","time":"2024-01-25T08:40:22.509098024Z"}
+{"log":"I0125 08:40:22.509084       1 firedatatype.go:1252] FireBuildUserConfigStatDecode Place:0--\n","stream":"stderr","time":"2024-01-25T08:40:22.50912023Z"}
+{"log":"I0125 08:40:22.509112       1 firedatatype.go:1253] FireBuildUserConfigStatDecode Msg:8--反馈\n","stream":"stderr","time":"2024-01-25T08:40:22.509158972Z"}
+{"log":"I0125 08:40:22.509135       1 firedatatype.go:1255] FireBuildUserConfigStatDecode Pos:38--{ChannelID:0 FireHostNum:0 Reserved:[51 51] PropertyStat:{Status:1} Name:{MsgLen:16 Msg:消火栓泵A00106} Place:{MsgLen:0 Msg:} Msg:{MsgLen:8 Msg:反馈} TimeLabels:{TimeLabels:[6 2 16 17 1 24]}}\n","stream":"stderr","time":"2024-01-25T08:40:22.509190292Z"}
+{"log":"I0125 08:40:22.509171       1 firedatatype.go:1266] FireParseCardAlarmStatDecode :[{ChannelID:0 FireHostNum:0 Reserved:[51 51] PropertyStat:{Status:1} Name:{MsgLen:16 Msg:消火栓泵A00106} Place:{MsgLen:0 Msg:} Msg:{MsgLen:8 Msg:反馈} TimeLabels:{TimeLabels:[6 2 16 17 1 24]}}]\n","stream":"stderr","time":"2024-01-25T08:40:22.509250956Z"}
+{"log":"I0125 08:40:22.509556       1 firedatatype.go:2239] 通用清洗: name[消火栓泵A00106]\n","stream":"stderr","time":"2024-01-25T08:40:22.509610665Z"}
+{"log":"I0125 08:40:22.509571       1 firedatatype.go:2240] 通用清洗: place[]\n","stream":"stderr","time":"2024-01-25T08:40:22.509626453Z"}
+{"log":"I0125 08:40:22.509579       1 firedatatype.go:2241] 通用清洗: msg[反馈]\n","stream":"stderr","time":"2024-01-25T08:40:22.509634857Z"}
+{"log":"I0125 08:40:22.509630       1 firedatatype.go:1328] 测试清洗结果: A00106\n","stream":"stderr","time":"2024-01-25T08:40:22.509681437Z"}
+{"log":"I0125 08:40:22.509642       1 firestat.go:301] 通用状态转换name: name[]\n","stream":"stderr","time":"2024-01-25T08:40:22.509698418Z"}
+{"log":"I0125 08:40:22.509651       1 firestat.go:302] 通用状态转换place: place[]\n","stream":"stderr","time":"2024-01-25T08:40:22.50970607Z"}
+{"log":"I0125 08:40:22.509659       1 firestat.go:303] 通用状态转换msg: msg[反馈]\n","stream":"stderr","time":"2024-01-25T08:40:22.509715706Z"}
+{"log":"I0125 08:40:22.509713       1 firestat.go:446] 恢复状态转换msg: status[1]\n","stream":"stderr","time":"2024-01-25T08:40:22.509756762Z"}
+{"log":"I0125 08:40:22.510069       1 globals.go:217] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:40:22.510123739Z"}
+{"log":"I0125 08:40:22.510096       1 firecustomizeddata.go:24] ParseFireToSouth Device:[0]---len:[9]\n","stream":"stderr","time":"2024-01-25T08:40:22.510144617Z"}
+{"log":"I0125 08:40:22.510119       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:\u0026{Value:0 Timestamp:1706172022 Metadata:{Timestamp:1705507326 Type:boolean}}\n","stream":"stderr","time":"2024-01-25T08:40:22.510176301Z"}
+{"log":"I0125 08:40:22.510146       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:\u0026{Value:0 Timestamp:1706172022 Metadata:{Timestamp:1705507326 Type:boolean}}\n","stream":"stderr","time":"2024-01-25T08:40:22.510191661Z"}
+{"log":"I0125 08:40:22.510164       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:\u0026{Value:0 Timestamp:1706172022 Metadata:{Timestamp:1705507326 Type:boolean}}\n","stream":"stderr","time":"2024-01-25T08:40:22.510220263Z"}
+{"log":"I0125 08:40:22.510179       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:\u0026{Value:0 Timestamp:1706172022 Metadata:{Timestamp:1705507326 Type:boolean}}\n","stream":"stderr","time":"2024-01-25T08:40:22.510228554Z"}
+{"log":"I0125 08:40:22.510202       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:\u0026{Value:0 Timestamp:1706172022 Metadata:{Timestamp:1705507326 Type:boolean}}\n","stream":"stderr","time":"2024-01-25T08:40:22.510254878Z"}
+{"log":"I0125 08:40:22.510222       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:\u0026{Value:1 Timestamp:1706172022 Metadata:{Timestamp:1705507326 Type:boolean}}\n","stream":"stderr","time":"2024-01-25T08:40:22.510262728Z"}
+{"log":"I0125 08:40:22.510237       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:\u0026{Value:0 Timestamp:1706172022 Metadata:{Timestamp:1705507326 Type:boolean}}\n","stream":"stderr","time":"2024-01-25T08:40:22.510269847Z"}
+{"log":"I0125 08:40:22.510252       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:\u0026{Value:1 Timestamp:1706172022 Metadata:{Timestamp:1705507326 Type:boolean}}\n","stream":"stderr","time":"2024-01-25T08:40:22.510313794Z"}
+{"log":"I0125 08:40:22.510287       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:\u0026{Value:反馈 Timestamp:1706172022 Metadata:{Timestamp:1705507326 Type:string}}\n","stream":"stderr","time":"2024-01-25T08:40:22.510351063Z"}
+{"log":"I0125 08:40:22.510311       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-A00106-#-#-#-1-#-----\u0026{0 1706172022 {1705507326 boolean}}\n","stream":"stderr","time":"2024-01-25T08:40:22.510367076Z"}
+{"log":"I0125 08:40:22.510630       1 globals.go:168] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:40:22.510683745Z"}
+{"log":"I0125 08:40:22.510651       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-A00106-#-#-#-2-#-----\u0026{0 1706172022 {1705507326 boolean}}\n","stream":"stderr","time":"2024-01-25T08:40:22.510704264Z"}
+{"log":"I0125 08:40:22.510927       1 globals.go:168] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:40:22.510993472Z"}
+{"log":"I0125 08:40:22.510949       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-A00106-#-#-#-5-#-----\u0026{0 1706172022 {1705507326 boolean}}\n","stream":"stderr","time":"2024-01-25T08:40:22.511013449Z"}
+{"log":"I0125 08:40:22.511239       1 globals.go:168] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:40:22.511302659Z"}
+{"log":"I0125 08:40:22.511259       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-A00106-#-#-#-7-#-----\u0026{0 1706172022 {1705507326 boolean}}\n","stream":"stderr","time":"2024-01-25T08:40:22.511317706Z"}
+{"log":"I0125 08:40:22.511531       1 globals.go:168] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:40:22.511595253Z"}
+{"log":"I0125 08:40:22.511551       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-A00106-#-#-#-0-#-----\u0026{0 1706172022 {1705507326 boolean}}\n","stream":"stderr","time":"2024-01-25T08:40:22.511613764Z"}
+{"log":"I0125 08:40:22.511813       1 globals.go:168] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:40:22.511874477Z"}
+{"log":"I0125 08:40:22.511832       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-A00106-#-#-#-3-#-----\u0026{1 1706172022 {1705507326 boolean}}\n","stream":"stderr","time":"2024-01-25T08:40:22.511888637Z"}
+{"log":"I0125 08:40:22.512123       1 globals.go:168] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:40:22.512186014Z"}
+{"log":"I0125 08:40:22.512143       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-A00106-#-#-#-4-#-----\u0026{0 1706172022 {1705507326 boolean}}\n","stream":"stderr","time":"2024-01-25T08:40:22.512208408Z"}
+{"log":"I0125 08:40:22.512422       1 globals.go:168] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:40:22.512477187Z"}
+{"log":"I0125 08:40:22.512440       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-A00106-#-#-#-6-#-----\u0026{1 1706172022 {1705507326 boolean}}\n","stream":"stderr","time":"2024-01-25T08:40:22.512493071Z"}
+{"log":"I0125 08:40:22.512705       1 globals.go:168] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:40:22.5127536Z"}
+{"log":"I0125 08:40:22.512724       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-A00106-#-#-#-s-#-----\u0026{反馈 1706172022 {1705507326 string}}\n","stream":"stderr","time":"2024-01-25T08:40:22.512767233Z"}
+{"log":"I0125 08:40:22.512993       1 globals.go:168] HostName:[sanhegjtwo]\n","stream":"stderr","time":"2024-01-25T08:40:22.513055622Z"}
+{"log":"I0125 08:40:22.513009       1 firecustomizeddata.go:96] Device payload[{{ 0} []}]\n","stream":"stderr","time":"2024-01-25T08:40:22.513076728Z"}

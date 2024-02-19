@@ -1,0 +1,38 @@
+s:[38 39 7 14 6 23]} SourceAddress:{Address:{Address:[0 0 0 0 0 0]}} TargetAddress:{Address:{Address:[7 37 81 128 18 255]}} AppDataLen:{AppDataLen:0} ControlCommand:3} Data:[] CRC:150 End:[35 35]}/n
+I0614 07:39:38.703564       1 firerouter.go:20] RequestHandle recv from client :data= 4040010002032627070e06170000000000000725518012ff000003962323
+I0614 07:39:38.703572       1 encoding.go:289] MarshalResp ControlCommand = 2
+I0614 07:39:38.703582       1 encoding.go:110] A-Fire.Control:{SerialNumber:{SerialNumber:1} ProtocolVersion:{ProtocolVersion:[2 3]} TimeLabels:{TimeLabels:[38 39 7 14 6 23]} SourceAddress:{Address:{Address:[0 0 0 0 0 0]}} TargetAddress:{Address:{Address:[7 37 81 128 18 255]}} AppDataLen:{AppDataLen:0} ControlCommand:3}
+I0614 07:39:38.703592       1 encoding.go:117] A-Fire.CRC-Data:010002032627070e06170000000000000725518012ff000003
+I0614 07:39:38.703598       1 encoding.go:121] FireMessage:{Start:[64 64] Control:{SerialNumber:{SerialNumber:1} ProtocolVersion:{ProtocolVersion:[2 3]} TimeLabels:{TimeLabels:[38 39 7 14 6 23]} SourceAddress:{Address:{Address:[0 0 0 0 0 0]}} TargetAddress:{Address:{Address:[7 37 81 128 18 255]}} AppDataLen:{AppDataLen:0} ControlCommand:3} Data:[] CRC:150 End:[35 35]}/n
+I0614 07:39:38.703619       1 msghandler.go:61] DoMsgDataHandler = 0
+I0614 07:39:38.703625       1 firerouter.go:30] Call fireRouter DataHandle
+I0614 07:39:38.703630       1 firerouter.go:34] DataHandle recv from client :data= 090100003333090ec5c5d1ccb7e7bbfa3a303731333716c5c5d1ccbbfab7bf3030c2a53033b2e33030b7bfbce404b7b4c0a105250f0e0617
+I0614 07:39:38.703637       1 buffer.go:227] pos:[1]
+I0614 07:39:38.703640       1 buffer.go:227] pos:[1]
+I0614 07:39:38.703644       1 buffer.go:227] pos:[54]
+I0614 07:39:38.703649       1 firedatadecode.go:22] DecodeSwitchDataTypeToData= &{9 1 [0 0 51 51 9 14 197 197 209 204 183 231 187 250 58 48 55 49 51 55 22 197 197 209 204 187 250 183 191 48 48 194 165 48 51 178 227 48 48 183 191 188 228 4 183 180 192 161 5 37 15 14 6 23]}
+I0614 07:39:38.703666       1 firedatatype.go:886] FireParseCardAlarmStatDecodeToData:Type:9,54
+I0614 07:39:38.703676       1 buffer.go:227] pos:[1]
+I0614 07:39:38.703680       1 buffer.go:227] pos:[1]
+I0614 07:39:38.703685       1 buffer.go:227] pos:[2]
+I0614 07:39:38.703688       1 buffer.go:227] pos:[1]
+I0614 07:39:38.703692       1 buffer.go:227] pos:[1]
+I0614 07:39:38.703695       1 buffer.go:227] pos:[14]
+I0614 07:39:38.703709       1 buffer.go:227] pos:[1]
+I0614 07:39:38.703713       1 buffer.go:227] pos:[22]
+I0614 07:39:38.703721       1 buffer.go:227] pos:[1]
+I0614 07:39:38.703726       1 buffer.go:227] pos:[4]
+I0614 07:39:38.703732       1 firedatatype.go:875] FireBuildUserConfigStatDecode Name:14--排烟风机:07137
+I0614 07:39:38.703737       1 firedatatype.go:876] FireBuildUserConfigStatDecode Place:22--排烟机房00楼03层00房间
+I0614 07:39:38.703742       1 firedatatype.go:877] FireBuildUserConfigStatDecode Msg:4--反馈
+I0614 07:39:38.703746       1 buffer.go:227] pos:[6]
+I0614 07:39:38.703751       1 firedatatype.go:879] FireBuildUserConfigStatDecode Pos:54--{ChannelID:0 FireHostNum:0 Reserved:[51 51] PropertyStat:{Status:9} Name:{MsgLen:14 Msg:排烟风机:07137} Place:{MsgLen:22 Msg:排烟机房00楼03层00房间} Msg:{MsgLen:4 Msg:反馈} TimeLabels:{TimeLabels:[5 37 15 14 6 23]}}
+I0614 07:39:38.703764       1 firedatatype.go:890] FireParseCardAlarmStatDecode :[{ChannelID:0 FireHostNum:0 Reserved:[51 51] PropertyStat:{Status:9} Name:{MsgLen:14 Msg:排烟风机:07137} Place:{MsgLen:22 Msg:排烟机房00楼03层00房间} Msg:{MsgLen:4 Msg:反馈} TimeLabels:{TimeLabels:[5 37 15 14 6 23]}}]
+I0614 07:39:38.703880       1 firecustomizeddata.go:25] ParseFireToSouth Device:[0]----{Data:map[9-#-#-#-0-0-#-#-#-#-07137-#-#-#-0-#:0xc000013fb0 9-#-#-#-0-0-#-#-#-#-07137-#-#-#-1-#:0xc0001b6000 9-#-#-#-0-0-#-#-#-#-07137-#-#-#-2-#:0xc0001b6030 9-#-#-#-0-0-#-#-#-#-07137-#-#-#-3-#:0xc0001b6060 9-#-#-#-0-0-#-#-#-#-07137-#-#-#-s-#:0xc0001b6090]}
+I0614 07:39:38.703897       1 firecustomizeddata.go:36] Address: 9-#-#-#-0-0-#-#-#-#-000000-#-#-#-0-#
+I0614 07:39:38.703907       1 firecustomizeddata.go:38] fire-softwarepark.Properties: 9-#-#-#-0-0-#-#-#-#-07137-#-#-#-0-#-----&{1 {1686757025 boolean}}
+I0614 07:39:38.703924       1 firecustomizeddata.go:38] fire-softwarepark.Properties: 9-#-#-#-0-0-#-#-#-#-07137-#-#-#-1-#-----&{0 {1686757025 boolean}}
+I0614 07:39:38.703933       1 firecustomizeddata.go:38] fire-softwarepark.Properties: 9-#-#-#-0-0-#-#-#-#-07137-#-#-#-2-#-----&{0 {1686757025 boolean}}
+I0614 07:39:38.703940       1 firecustomizeddata.go:38] fire-softwarepark.Properties: 9-#-#-#-0-0-#-#-#-#-07137-#-#-#-3-#-----&{1 {1686757025 boolean}}
+I0614 07:39:38.703947       1 firecustomizeddata.go:38] fire-softwarepark.Properties: 9-#-#-#-0-0-#-#-#-#-07137-#-#-#-s-#-----&{反馈 {1686757025 string}}
+I0614 07:39:38.703954       1 firecustomizeddata.go:102] Device payload[{{ 0} []}]

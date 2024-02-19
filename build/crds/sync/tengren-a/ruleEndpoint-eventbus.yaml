@@ -1,0 +1,10 @@
+apiVersion: rules.kubeedge.io/v1
+kind: RuleEndpoint
+metadata:
+  name: config-eventbus
+  namespace: tengren-a
+  labels:
+    description: eventbus
+spec:
+  ruleEndpointType: "eventbus"
+  properties: {}

@@ -1,0 +1,51 @@
+{
+  "deviceInstances": [{
+    "id": "2.1907.1.2.3.1",
+    "name": "2.1907.1.2.3.1",
+    "protocol": "customized-protocol-2.1907.1.2.3.1",
+    "model": "2.1907.1.2.3.1-fire",
+    "data": {
+      "dataProperties": [{
+        "propertyName": "2.1907.1.2.3.1.3.1.2.1",
+        "metadata": {
+          "deviceId": "2.1907.1.2.3.1",
+          "deviceType": "1.2.3.1",
+          "multi": "false"
+        }
+      }],
+      "dataTopic": "edgeplanet/groups-devices-data-update"
+    },
+    "propertyVisitors": [
+      {
+      "name": "2.1907.1.2.3.1.3.1.2.1",
+      "propertyName": "2.1907.1.2.3.1.3.1.2.1",
+      "modelName": "2.1907.1.2.3.1-fire",
+      "protocol": "customized-protocol",
+      "customizedValues": {
+        "cmdbName": "时间",
+        "multi": false,
+        "fireAddress": "8-0-#-#-#-#-#-#-#-#-#-#-#-#-#-#"
+      }
+    }]
+  }
+  ],
+  "deviceModels": [
+    {
+    "name": "2.1907.1.2.3.1-fire",
+    "properties": [{
+      "name": "2.1907.1.2.3.1.3.1.2.1",
+      "dataType": "string",
+      "description": "时间",
+      "accessMode": "ReadOnly"
+    }]
+  }],
+  "protocols": [{
+    "name": "customized-protocol-2.1907.1.2.3.1",
+    "protocol": "customized-protocol",
+    "protocolConfig": {
+      "protocolName": "fire"
+    },
+    "protocolCommonConfig": {
+    }
+  }]
+}

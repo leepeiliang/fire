@@ -1,0 +1,135 @@
+{
+  "deviceInstances": [{
+    "id": "2.1907.1.2.3.1",
+    "name": "2.1907.1.2.3.1",
+    "protocol": "customized-protocol-2.1907.1.2.3.1",
+    "model": "2.1907.1.2.3.1-fire",
+    "data": {
+      "dataProperties":
+      [
+        {
+          "propertyName": "2.1907.1.2.3.1.2.1.2.1",
+          "metadata":
+          {
+          "deviceId": "2.1907.1.2.3.1",
+          "deviceType": "1.2.3.1",
+          "multi": "false"
+          }
+        },
+        {
+          "propertyName": "2.1907.1.2.3.1.2.1.2.2",
+          "metadata": {
+            "deviceId": "2.1907.1.2.3.1",
+            "deviceType": "1.2.3.1",
+            "multi": "false"
+          }
+        },
+        {
+          "propertyName": "2.1907.1.2.3.1.2.1.2.4",
+          "metadata": {
+            "deviceId": "2.1907.1.2.3.1",
+            "deviceType": "1.2.3.1",
+            "multi": "false"
+          }
+        },
+        {
+          "propertyName": "2.1907.1.2.3.1.2.1.2.8",
+          "metadata": {
+            "deviceId": "2.1907.1.2.3.1",
+            "deviceType": "1.2.3.1",
+            "multi": "false"
+          }
+        }
+      ],
+      "dataTopic": "edgeplanet/groups-devices-data-update"
+    },
+    "propertyVisitors":
+    [
+      {
+        "name": "2.1907.1.2.3.1.2.1.2.1",
+        "propertyName": "2.1907.1.2.3.1.2.1.2.1",
+        "modelName": "2.1907.1.2.3.1-fire",
+        "protocol": "customized-protocol",
+        "customizedValues": {
+          "cmdbName": "烟雾告警指示位",
+          "multi": false,
+          "fireAddress": "2-135-40-#-#-40-03030303-#-#-#-#-#-#-#-0-#"
+        }
+      },
+      {
+        "name": "2.1907.1.2.3.1.2.1.2.2",
+        "propertyName": "2.1907.1.2.3.1.2.1.2.2",
+        "modelName": "2.1907.1.2.3.1-fire",
+        "protocol": "customized-protocol",
+        "customizedValues": {
+          "cmdbName": "故障告警指示位",
+          "multi": false,
+          "fireAddress": "2-135-40-#-#-40-03030303-#-#-#-#-#-#-#-1-#"
+        }
+      },
+      {
+        "name": "2.1907.1.2.3.1.2.1.2.4",
+        "propertyName": "2.1907.1.2.3.1.2.1.2.4",
+        "modelName": "2.1907.1.2.3.1-fire",
+        "protocol": "customized-protocol",
+        "customizedValues": {
+          "cmdbName": "防拆告警指示位",
+          "multi": false,
+          "fireAddress": "2-135-40-#-#-40-03030303-#-#-#-#-#-#-#-2-#"
+        }
+      },
+      {
+        "name": "2.1907.1.2.3.1.2.1.2.8",
+        "propertyName": "2.1907.1.2.3.1.2.1.2.8",
+        "modelName": "2.1907.1.2.3.1-fire",
+        "protocol": "customized-protocol",
+        "customizedValues": {
+          "cmdbName": "欠压报警指示位",
+          "multi": false,
+          "fireAddress": "2-135-40-#-#-40-03030303-#-#-#-#-#-#-#-3-#"
+        }
+      }
+    ]
+  }
+  ],
+  "deviceModels": [
+    {
+    "name": "2.1907.1.2.3.1-fire",
+    "properties":
+    [
+      {
+        "name": "2.1907.1.2.3.1.2.1.2.1",
+        "dataType": "bool",
+        "description": "烟雾告警指示位",
+        "accessMode": "ReadOnly"
+      },
+      {
+        "name": "2.1907.1.2.3.1.2.1.2.2",
+        "dataType": "bool",
+        "description": "故障告警指示位",
+        "accessMode": "ReadOnly"
+      },
+      {
+        "name": "2.1907.1.2.3.1.2.1.2.4",
+        "dataType": "bool",
+        "description": "防拆告警指示位",
+        "accessMode": "ReadOnly"
+      },
+      {
+        "name": "2.1907.1.2.3.1.2.1.2.8",
+        "dataType": "bool",
+        "description": "欠压报警指示位",
+        "accessMode": "ReadOnly"
+      }
+    ]
+  }],
+  "protocols": [{
+    "name": "customized-protocol-2.1907.1.2.3.1",
+    "protocol": "customized-protocol",
+    "protocolConfig": {
+      "protocolName": "fire"
+    },
+    "protocolCommonConfig": {
+    }
+  }]
+}

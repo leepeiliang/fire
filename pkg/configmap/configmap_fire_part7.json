@@ -1,0 +1,161 @@
+{
+  "deviceInstances": [{
+    "id": "2.1907.1.2.3.1",
+    "name": "2.1907.1.2.3.1",
+    "protocol": "customized-protocol-2.1907.1.2.3.1",
+    "model": "2.1907.1.2.3.1-fire",
+    "data": {
+      "dataProperties":
+      [
+        {
+          "propertyName": "2.1907.1.2.3.1.2.1.2.0",
+          "metadata":
+          {
+          "deviceId": "2.1907.1.2.3.1",
+          "deviceType": "1.2.3.1",
+          "multi": "false"
+          }
+        },
+        {
+          "propertyName": "2.1907.1.2.3.1.2.1.2.1",
+          "metadata": {
+            "deviceId": "2.1907.1.2.3.1",
+            "deviceType": "1.2.3.1",
+            "multi": "false"
+          }
+        },
+        {
+          "propertyName": "2.1907.1.2.3.1.2.1.2.2",
+          "metadata": {
+            "deviceId": "2.1907.1.2.3.1",
+            "deviceType": "1.2.3.1",
+            "multi": "false"
+          }
+        },
+        {
+          "propertyName": "2.1907.1.2.3.1.2.1.2.3",
+          "metadata": {
+            "deviceId": "2.1907.1.2.3.1",
+            "deviceType": "1.2.3.1",
+            "multi": "false"
+          }
+        },
+        {
+          "propertyName": "2.1907.1.2.3.1.2.1.2.7",
+          "metadata": {
+            "deviceId": "2.1907.1.2.3.1",
+            "deviceType": "1.2.3.1",
+            "multi": "false"
+          }
+        }
+      ],
+      "dataTopic": "edgeplanet/groups-devices-data-update"
+    },
+    "propertyVisitors":
+    [
+      {
+        "name": "2.1907.1.2.3.1.2.1.2.1",
+        "propertyName": "2.1907.1.2.3.1.2.1.2.1",
+        "modelName": "2.1907.1.2.3.1-fire",
+        "protocol": "customized-protocol",
+        "customizedValues": {
+          "cmdbName": "高于上限值告警指示位",
+          "multi": false,
+          "fireAddress": "2-135-7-#-#-130-07070707-#-#-#-#-#-#-#-1-#"
+        }
+      },
+      {
+        "name": "2.1907.1.2.3.1.2.1.2.0",
+        "propertyName": "2.1907.1.2.3.1.2.1.2.0",
+        "modelName": "2.1907.1.2.3.1-fire",
+        "protocol": "customized-protocol",
+        "customizedValues": {
+          "cmdbName": "封盖状态",
+          "multi": false,
+          "fireAddress": "2-135-7-#-#-130-07070707-#-#-#-#-#-#-#-0-#"
+        }
+      },
+      {
+        "name": "2.1907.1.2.3.1.2.1.2.2",
+        "propertyName": "2.1907.1.2.3.1.2.1.2.2",
+        "modelName": "2.1907.1.2.3.1-fire",
+        "protocol": "customized-protocol",
+        "customizedValues": {
+          "cmdbName": "100mm 口有无变动",
+          "multi": false,
+          "fireAddress": "2-135-7-#-#-130-07070707-#-#-#-#-#-#-#-2-#"
+        }
+      },
+      {
+        "name": "2.1907.1.2.3.1.2.1.2.3",
+        "propertyName": "2.1907.1.2.3.1.2.1.2.3",
+        "modelName": "2.1907.1.2.3.1-fire",
+        "protocol": "customized-protocol",
+        "customizedValues": {
+          "cmdbName": "100mm 口有无被拧动",
+          "multi": false,
+          "fireAddress": "2-135-7-#-#-130-07070707-#-#-#-#-#-#-#-3-#"
+        }
+      },
+      {
+        "name": "2.1907.1.2.3.1.2.1.2.7",
+        "propertyName": "2.1907.1.2.3.1.2.1.2.7",
+        "modelName": "2.1907.1.2.3.1-fire",
+        "protocol": "customized-protocol",
+        "customizedValues": {
+          "cmdbName": "电量告警指示位",
+          "multi": false,
+          "fireAddress": "2-135-7-#-#-130-07070707-#-#-#-#-#-#-#-7-#"
+        }
+      }
+    ]
+  }
+  ],
+  "deviceModels": [
+    {
+    "name": "2.1907.1.2.3.1-fire",
+    "properties":
+    [
+      {
+      "name": "2.1907.1.2.3.1.2.1.2.0",
+      "dataType": "bool",
+      "description": "封盖状态",
+      "accessMode": "ReadOnly"
+      },
+      {
+        "name": "2.1907.1.2.3.1.2.1.2.1",
+        "dataType": "bool",
+        "description": "水浸开关",
+        "accessMode": "ReadOnly"
+      },
+
+      {
+        "name": "2.1907.1.2.3.1.2.1.2.2",
+        "dataType": "bool",
+        "description": "100mm 口有无变动",
+        "accessMode": "ReadOnly"
+      },
+      {
+        "name": "2.1907.1.2.3.1.2.1.2.3",
+        "dataType": "bool",
+        "description": "100mm 口有无被拧动",
+        "accessMode": "ReadOnly"
+      },
+      {
+        "name": "2.1907.1.2.3.1.2.1.2.7",
+        "dataType": "bool",
+        "description": "电量告警指示位",
+        "accessMode": "ReadOnly"
+      }
+    ]
+  }],
+  "protocols": [{
+    "name": "customized-protocol-2.1907.1.2.3.1",
+    "protocol": "customized-protocol",
+    "protocolConfig": {
+      "protocolName": "fire"
+    },
+    "protocolCommonConfig": {
+    }
+  }]
+}

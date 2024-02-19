@@ -1,0 +1,12 @@
+FROM ubuntu:16.04
+
+RUN mkdir -p kubeedge
+
+COPY ./bin/fire kubeedge/
+COPY ./config/config.yaml kubeedge/
+COPY ./config/deviceProfile.json /opt/kubeedge/
+
+WORKDIR kubeedge
+
+ENTRYPOINT ["/kubeedge/fire", "--v", "3"]
+

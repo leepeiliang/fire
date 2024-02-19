@@ -1,0 +1,10 @@
+apiVersion: rules.kubeedge.io/v1
+kind: RuleEndpoint
+metadata:
+  name: config-rest
+  namespace: boxing-bacnet
+  labels:
+    description: rest
+spec:
+  ruleEndpointType: "rest"
+  properties: {}

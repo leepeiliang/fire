@@ -1,0 +1,12 @@
+apiVersion: rules.kubeedge.io/v1
+kind: Rule
+metadata:
+  name: config-rule
+  namespace: edge-bacnet-2
+  labels:
+    description: restToEventbus
+spec:
+  source: "config-rest"
+  sourceResource: {"path":"/configmap"}
+  target: "config-eventbus"
+  targetResource: {"topic":"edge-bacnet-2/devices-data-update"}

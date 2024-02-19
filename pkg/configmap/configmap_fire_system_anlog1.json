@@ -1,0 +1,107 @@
+{
+  "deviceInstances": [{
+    "id": "2.1907.1.2.3.1",
+    "name": "2.1907.1.2.3.1",
+    "protocol": "customized-protocol-2.1907.1.2.3.1",
+    "model": "2.1907.1.2.3.1-fire",
+    "data": {
+      "dataProperties":
+      [
+        {
+        "propertyName": "2.1907.1.2.3.1.2.1.2.4",
+        "metadata": {
+          "deviceId": "2.1907.1.2.3.1",
+          "deviceType": "1.2.3.1",
+          "multi": "false"
+        }
+        },
+        {
+        "propertyName": "2.1907.1.2.3.1.2.1.2.5",
+        "metadata": {
+          "deviceId": "2.1907.1.2.3.1",
+          "deviceType": "1.2.3.1",
+          "multi": "false"
+        }
+        },
+        {
+          "propertyName": "2.1907.1.2.3.1.2.1.2.154",
+          "metadata":
+          {
+          "deviceId": "2.1907.1.2.3.1",
+          "deviceType": "1.2.3.1",
+          "multi": "false"
+          }
+        }
+      ],
+      "dataTopic": "edgeplanet/groups-devices-data-update"
+    },
+    "propertyVisitors":
+    [
+      {
+        "name": "2.1907.1.2.3.1.2.1.2.4",
+        "propertyName": "2.1907.1.2.3.1.2.1.2.4",
+        "modelName": "2.1907.1.2.3.1-fire",
+        "protocol": "customized-protocol",
+        "customizedValues": {
+          "cmdbName": "剩余电流i1",
+          "multi": false,
+          "fireAddress": "3-131-3-#-#-128-15270820-#-#-#-#-#-#-#-#-4"
+        }
+      },
+      {
+        "name": "2.1907.1.2.3.1.2.1.2.5",
+        "propertyName": "2.1907.1.2.3.1.2.1.2.5",
+        "modelName": "2.1907.1.2.3.1-fire",
+        "protocol": "customized-protocol",
+        "customizedValues": {
+          "cmdbName": "温度T1",
+          "multi": false,
+          "fireAddress": "3-131-3-#-#-128-15270820-#-#-#-#-#-#-#-#-5"
+        }
+      },
+      {
+        "name": "2.1907.1.2.3.1.2.1.2.154",
+        "propertyName": "2.1907.1.2.3.1.2.1.2.154",
+        "modelName": "2.1907.1.2.3.1-fire",
+        "protocol": "customized-protocol",
+        "customizedValues": {
+          "cmdbName": "温度T2",
+          "multi": false,
+          "fireAddress": "3-131-3-#-#-128-15270820-#-#-#-#-#-#-#-#-154"
+      }
+      }
+    ]
+  }
+  ],
+  "deviceModels": [
+    {
+    "name": "2.1907.1.2.3.1-fire",
+    "properties": [{
+      "name": "2.1907.1.2.3.1.2.1.2.4",
+      "dataType": "float",
+      "description": "压力Mpa",
+      "accessMode": "ReadOnly"
+    }, {
+      "name": "2.1907.1.2.3.1.2.1.2.5",
+      "dataType": "float",
+      "description": "压力Kpa",
+      "accessMode": "ReadOnly"
+
+    }, {
+      "name": "2.1907.1.2.3.1.2.1.2.154",
+      "dataType": "float",
+      "description": "液位",
+      "accessMode": "ReadOnly"
+
+    }]
+  }],
+  "protocols": [{
+    "name": "customized-protocol-2.1907.1.2.3.1",
+    "protocol": "customized-protocol",
+    "protocolConfig": {
+      "protocolName": "fire"
+    },
+    "protocolCommonConfig": {
+    }
+  }]
+}

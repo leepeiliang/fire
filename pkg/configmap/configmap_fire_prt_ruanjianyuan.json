@@ -1,0 +1,61 @@
+{
+  "deviceInstances": [{
+    "id": "2.1907.1.2.3.1",
+    "name": "2.1907.1.2.3.1",
+    "protocol": "customized-protocol-2.1907.1.2.3.1",
+    "model": "2.1907.1.2.3.1-fire",
+    "twins": [{
+      "propertyName": "2.1907.1.2.3.1.2.12.2.0",
+      "desired": {
+        "value": ""
+      },
+      "reported": {
+        "value": "0",
+        "metadata": {
+          "type": "string"
+        }
+      }
+    }],
+    "data": {
+      "dataProperties": [{
+        "propertyName": "2.1907.1.2.3.1.2.12.2.0",
+        "metadata": {
+          "deviceId": "2.1907.1.2.3.1",
+          "deviceType": "1.2.3.1",
+          "multi": "false"
+        }
+      }],
+      "dataTopic": "edgeplanet/groups-devices-data-update"
+    },
+    "propertyVisitors": [{
+      "name": "2.1907.1.2.3.1.2.12.2.0",
+      "propertyName": "2.1907.1.2.3.1.2.12.2.0",
+      "modelName": "2.1907.1.2.3.1-fire",
+      "customizedValues": {
+        "cmdbName": "状态",
+        "fireAddress": "9-#-#-#-0-0-#-#-#-990141-#-#-#-#-0-#",
+        "multi": false
+      }
+    }]
+  }],
+  "deviceModels": [{
+    "name": "2.1907.1.2.3.1-fire",
+    "properties": [{
+      "name": "2.1907.1.2.3.1.2.12.2.0",
+      "dataType": "float",
+      "description": "状态",
+      "accessMode": "ReadOnly",
+      "defaultValue": 0,
+      "minimum": 0,
+      "maximum": 0
+    }]
+  }],
+  "protocols": [{
+    "name": "customized-protocol-2.1907.1.2.3.1",
+    "protocol": "customized-protocol",
+    "protocolConfig": {
+      "protocolName": "fire"
+    },
+    "protocolCommonConfig": {}
+  }]
+}

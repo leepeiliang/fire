@@ -1,0 +1,537 @@
+GOROOT=/usr/local/go #gosetup
+GOPATH=/Users/lipeiliang/go/src #gosetup
+/usr/local/go/bin/go build -o /private/var/folders/cw/7r1x_z054v189sc4zmyw8k300000gn/T/___go_build_fire_cmd_app fire/cmd/app #gosetup
+# fire/cmd/app
+ld: warning: -no_pie is deprecated when targeting new OS versions
+/private/var/folders/cw/7r1x_z054v189sc4zmyw8k300000gn/T/___go_build_fire_cmd_app
+I0927 10:33:28.792371   38720 server.go:68] config/deviceProfile.json
+I0927 10:33:28.799755   38720 server.go:79] 启动消防HTTP客户端,获取初始化参数
+I0927 10:33:28.799781   38720 server.go:81] 启动消防HTTP服务
+I0927 10:33:28.799897   38720 parse.go:32] configmap path:config/deviceProfile.json
+I0927 10:33:28.800210   38720 parse.go:41] body-len:%d2353
+I0927 10:33:28.804316   38720 parse.go:47] deviceProfile.DeviceInstances:len:[5]
+
+??????????     ??     ??    ???  ??????????
+??             ??     ??   ???   ??
+??           ????     ??  ???    ??
+????????       ??     ?????      ????????
+??             ??     ??         ??
+??          ????????  ??         ??
+??          ????????  ??         ??????????
+
+┌──────────────────────────────────────────────────────┐
+│ [Github] https://21vianet.com                 │
+│ [tutorial] http://meta42.indc.vnet.com │
+└──────────────────────────────────────────────────────┘
+[EdgeFire] Version: tcp4, MaxConn: 3, MaxPacketSize: 0
+I0927 10:33:28.804538   38720 server.go:95] 启动消防TCP服务
+I0927 10:33:28.804622   38720 msghandler.go:82] Add api msgID = 0
+[START] Server name: fire,listenner at IP: 0.0.0.0, Port 4660 is starting
+start fire-softwarepark server   fire  succ, now listenning...
+I0927 10:33:28.805630   38720 msghandler.go:87] Request Worker ID = %!(EXTRA int=9, string= is started.)
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:   export GIN_MODE=release
+ - using code:  gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /v1/configmap/fire        --> fire/pkg/firehttp.FireServer.func1 (3 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :20119
+I0927 10:33:28.827849   38720 msghandler.go:87] Request Worker ID = %!(EXTRA int=0, string= is started.)
+I0927 10:33:28.827881   38720 msghandler.go:87] Request Worker ID = %!(EXTRA int=1, string= is started.)
+I0927 10:33:28.827890   38720 msghandler.go:87] Request Worker ID = %!(EXTRA int=2, string= is started.)
+I0927 10:33:28.827897   38720 msghandler.go:87] Request Worker ID = %!(EXTRA int=3, string= is started.)
+I0927 10:33:28.827901   38720 msghandler.go:87] Request Worker ID = %!(EXTRA int=4, string= is started.)
+I0927 10:33:28.827905   38720 msghandler.go:87] Request Worker ID = %!(EXTRA int=5, string= is started.)
+I0927 10:33:28.827923   38720 msghandler.go:87] Request Worker ID = %!(EXTRA int=6, string= is started.)
+I0927 10:33:28.827929   38720 msghandler.go:87] Request Worker ID = %!(EXTRA int=7, string= is started.)
+I0927 10:33:28.827932   38720 msghandler.go:87] Request Worker ID = %!(EXTRA int=8, string= is started.)
+I0927 10:33:28.851880   38720 client.go:99] System:hostname:lipeiliangdeMacBook-Pro.local
+E0927 10:33:28.856100   38720 client.go:113] POST:Post "http://192.168.233.86:30090/v1/driver/sync": dial tcp 192.168.233.86:30090: connect: no route to host
+E0927 10:33:28.856164   38720 client.go:132] SyncConfigPost "http://192.168.233.86:30090/v1/driver/sync": dial tcp 192.168.233.86:30090: connect: no route to host
+Get conn remote addr =  192.168.10.8:61236
+connection add to ConnManager successfully: conn num =  1
+---> CallOnConnStart....
+I0927 10:33:31.020995   38720 server.go:24] DoConnecionBegin is Called ...
+[Writer Goroutine is running]
+[Reader Goroutine is running]
+I0927 10:33:34.494712   38720 datapack.go:52] Unpack read startData [64 64]
+I0927 10:33:34.495599   38720 datapack.go:66] Unpack read Data First [10][0000010134200a1b0917]
+I0927 10:33:34.496786   38720 datapack.go:83] Unpack read Data Two [25][010000000000010000000000080002]
+I0927 10:33:34.499060   38720 datapack.go:102] Unpack read Data [8][1c0134200a1b0917]
+I0927 10:33:34.499103   38720 datapack.go:123] Unpack CRC Data:Len:[0000010134200a1b09170100000000000100000000000800021c0134200a1b0917]
+I0927 10:33:34.499133   38720 datapack.go:124] Unpack CRC[5d:5d]
+I0927 10:33:34.499336   38720 firemessage.go:54] FireMessage.SetData:len[8][1c0134200a1b0917]
+I0927 10:33:34.499357   38720 datapack.go:130] Unpack Fire[&{Start:[64 64] Control:{SerialNumber:{SerialNumber:0} ProtocolVersion:{ProtocolVersion:[1 1]} TimeLabels:{TimeLabels:[52 32 10 27 9 23]} SourceAddress:{Address:{Address:[1 0 0 0 0 0]}} TargetAddress:{Address:{Address:[1 0 0 0 0 0]}} AppDataLen:{AppDataLen:8} ControlCommand:2} Data:[28 1 52 32 10 27 9 23] CRC:93 End:[35 35]}]
+I0927 10:33:34.500879   38720 msghandler.go:46] DoMsgRequestHandler = 0
+I0927 10:33:34.501019   38720 firerouter.go:17] Call fireRouter RequestHandle
+I0927 10:33:34.501172   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:33:34.503585   38720 firerouter.go:20] RequestHandle recv from client :data= 40400000010122210a1b09170100000000000100000000000000038f2323
+I0927 10:33:34.503600   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:33:34.504225   38720 msghandler.go:61] DoMsgDataHandler = 0
+I0927 10:33:34.504303   38720 firerouter.go:30] Call fireRouter DataHandle
+I0927 10:33:34.504331   38720 firerouter.go:34] DataHandle recv from client :data= 1c0134200a1b0917
+I0927 10:33:38.003988   38720 datapack.go:52] Unpack read startData [64 64]
+I0927 10:33:38.004127   38720 datapack.go:66] Unpack read Data First [10][0100010137200a1b0917]
+I0927 10:33:38.004169   38720 datapack.go:83] Unpack read Data Two [25][010000000000010000000000090002]
+I0927 10:33:38.004433   38720 datapack.go:102] Unpack read Data [9][c9010135200a1b0917]
+I0927 10:33:38.004505   38720 datapack.go:123] Unpack CRC Data:Len:[a]
+I0927 10:33:38.004541   38720 datapack.go:124] Unpack CRC[11:11]
+I0927 10:33:38.004563   38720 firemessage.go:54] FireMessage.SetData:len[9][c9010135200a1b0917]
+I0927 10:33:38.004594   38720 datapack.go:130] Unpack Fire[&{Start:[64 64] Control:{SerialNumber:{SerialNumber:1} ProtocolVersion:{ProtocolVersion:[1 1]} TimeLabels:{TimeLabels:[55 32 10 27 9 23]} SourceAddress:{Address:{Address:[1 0 0 0 0 0]}} TargetAddress:{Address:{Address:[1 0 0 0 0 0]}} AppDataLen:{AppDataLen:9} ControlCommand:2} Data:[201 1 1 53 32 10 27 9 23] CRC:17 End:[35 35]}]
+I0927 10:33:38.004809   38720 msghandler.go:46] DoMsgRequestHandler = 0
+I0927 10:33:38.004833   38720 firerouter.go:17] Call fireRouter RequestHandle
+I0927 10:33:38.004849   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:33:38.004933   38720 firerouter.go:20] RequestHandle recv from client :data= 40400100010126210a1b0917010000000000010000000000000003942323
+I0927 10:33:38.004946   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:33:38.005036   38720 msghandler.go:61] DoMsgDataHandler = 0
+I0927 10:33:38.005053   38720 firerouter.go:30] Call fireRouter DataHandle
+I0927 10:33:38.005067   38720 firerouter.go:34] DataHandle recv from client :data= c9010135200a1b0917
+I0927 10:33:43.202897   38720 datapack.go:52] Unpack read startData [64 64]
+I0927 10:33:43.203056   38720 datapack.go:66] Unpack read Data First [10][0200010100210a1b0917]
+I0927 10:33:43.203458   38720 datapack.go:83] Unpack read Data Two [25][010000000000010000000000090002]
+I0927 10:33:43.203733   38720 datapack.go:102] Unpack read Data [9][c801012c2d0f190917]
+I0927 10:33:43.203933   38720 datapack.go:123] Unpack CRC Data:Len:[0200010100210a1b0917010000000000010000000000090002c801012c2d0f190917]
+I0927 10:33:43.203971   38720 datapack.go:124] Unpack CRC[e2:e2]
+I0927 10:33:43.204227   38720 firemessage.go:54] FireMessage.SetData:len[9][c801012c2d0f190917]
+I0927 10:33:43.204255   38720 datapack.go:130] Unpack Fire[&{Start:[64 64] Control:{SerialNumber:{SerialNumber:2} ProtocolVersion:{ProtocolVersion:[1 1]} TimeLabels:{TimeLabels:[0 33 10 27 9 23]} SourceAddress:{Address:{Address:[1 0 0 0 0 0]}} TargetAddress:{Address:{Address:[1 0 0 0 0 0]}} AppDataLen:{AppDataLen:9} ControlCommand:2} Data:[200 1 1 44 45 15 25 9 23] CRC:226 End:[35 35]}]
+I0927 10:33:43.204425   38720 msghandler.go:46] DoMsgRequestHandler = 0
+I0927 10:33:43.204447   38720 firerouter.go:17] Call fireRouter RequestHandle
+I0927 10:33:43.204461   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:33:43.204767   38720 firerouter.go:20] RequestHandle recv from client :data= 4040020001012b210a1b09170100000000000100000000000000039a2323
+I0927 10:33:43.204778   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:33:43.204858   38720 msghandler.go:61] DoMsgDataHandler = 0
+I0927 10:33:43.204869   38720 firerouter.go:30] Call fireRouter DataHandle
+I0927 10:33:43.204879   38720 firerouter.go:34] DataHandle recv from client :data= c801012c2d0f190917
+I0927 10:33:44.303083   38720 datapack.go:52] Unpack read startData [64 64]
+I0927 10:33:44.303279   38720 datapack.go:66] Unpack read Data First [10][0300010101210a1b0917]
+I0927 10:33:44.303317   38720 datapack.go:83] Unpack read Data Two [25][010000000000010000000000090002]
+I0927 10:33:44.303717   38720 datapack.go:102] Unpack read Data [9][8301010f300f190917]
+I0927 10:33:44.303752   38720 datapack.go:123] Unpack CRC Data:Len:[0300010101210a1b09170100000000000100000000000900028301010f300f190917]
+I0927 10:33:44.303828   38720 datapack.go:124] Unpack CRC[85:85]
+I0927 10:33:44.303846   38720 firemessage.go:54] FireMessage.SetData:len[9][8301010f300f190917]
+I0927 10:33:44.303865   38720 datapack.go:130] Unpack Fire[&{Start:[64 64] Control:{SerialNumber:{SerialNumber:3} ProtocolVersion:{ProtocolVersion:[1 1]} TimeLabels:{TimeLabels:[1 33 10 27 9 23]} SourceAddress:{Address:{Address:[1 0 0 0 0 0]}} TargetAddress:{Address:{Address:[1 0 0 0 0 0]}} AppDataLen:{AppDataLen:9} ControlCommand:2} Data:[131 1 1 15 48 15 25 9 23] CRC:133 End:[35 35]}]
+I0927 10:33:44.304047   38720 msghandler.go:46] DoMsgRequestHandler = 0
+I0927 10:33:44.304066   38720 firerouter.go:17] Call fireRouter RequestHandle
+I0927 10:33:44.304079   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:33:44.304164   38720 firerouter.go:20] RequestHandle recv from client :data= 4040030001012c210a1b09170100000000000100000000000000039c2323
+I0927 10:33:44.304545   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:33:44.304692   38720 msghandler.go:61] DoMsgDataHandler = 0
+I0927 10:33:44.304704   38720 firerouter.go:30] Call fireRouter DataHandle
+I0927 10:33:44.304713   38720 firerouter.go:34] DataHandle recv from client :data= 8301010f300f190917
+I0927 10:33:45.402692   38720 datapack.go:52] Unpack read startData [64 64]
+I0927 10:33:45.402896   38720 datapack.go:66] Unpack read Data First [10][0400010103210a1b0917]
+I0927 10:33:45.402946   38720 datapack.go:83] Unpack read Data Two [25][010000000000010000000000090002]
+I0927 10:33:45.403238   38720 datapack.go:102] Unpack read Data [9][820101380e10190917]
+I0927 10:33:45.403328   38720 datapack.go:123] Unpack CRC Data:Len:[0400010103210a1b0917010000000000010000000000090002820101380e10190917]
+I0927 10:33:45.403362   38720 datapack.go:124] Unpack CRC[8f:8f]
+I0927 10:33:45.403390   38720 firemessage.go:54] FireMessage.SetData:len[9][820101380e10190917]
+I0927 10:33:45.403421   38720 datapack.go:130] Unpack Fire[&{Start:[64 64] Control:{SerialNumber:{SerialNumber:4} ProtocolVersion:{ProtocolVersion:[1 1]} TimeLabels:{TimeLabels:[3 33 10 27 9 23]} SourceAddress:{Address:{Address:[1 0 0 0 0 0]}} TargetAddress:{Address:{Address:[1 0 0 0 0 0]}} AppDataLen:{AppDataLen:9} ControlCommand:2} Data:[130 1 1 56 14 16 25 9 23] CRC:143 End:[35 35]}]
+I0927 10:33:45.403615   38720 msghandler.go:46] DoMsgRequestHandler = 0
+I0927 10:33:45.403642   38720 firerouter.go:17] Call fireRouter RequestHandle
+I0927 10:33:45.403661   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:33:45.403752   38720 firerouter.go:20] RequestHandle recv from client :data= 4040040001012d210a1b09170100000000000100000000000000039e2323
+I0927 10:33:45.403766   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:33:45.403853   38720 msghandler.go:61] DoMsgDataHandler = 0
+I0927 10:33:45.403869   38720 firerouter.go:30] Call fireRouter DataHandle
+I0927 10:33:45.403883   38720 firerouter.go:34] DataHandle recv from client :data= 820101380e10190917
+I0927 10:33:46.502557   38720 datapack.go:52] Unpack read startData [64 64]
+I0927 10:33:46.502599   38720 datapack.go:66] Unpack read Data First [10][0500010104210a1b0917]
+I0927 10:33:46.502615   38720 datapack.go:83] Unpack read Data Two [25][0100000000000100000000000c0002]
+I0927 10:33:46.502672   38720 datapack.go:102] Unpack read Data [12][0401010102000a0f10190917]
+I0927 10:33:46.502692   38720 datapack.go:123] Unpack CRC Data:Len:[0500010104210a1b09170100000000000100000000000c00020401010102000a0f10190917]
+I0927 10:33:46.502705   38720 datapack.go:124] Unpack CRC[ec:ec]
+I0927 10:33:46.502713   38720 firemessage.go:54] FireMessage.SetData:len[12][0401010102000a0f10190917]
+I0927 10:33:46.502727   38720 datapack.go:130] Unpack Fire[&{Start:[64 64] Control:{SerialNumber:{SerialNumber:5} ProtocolVersion:{ProtocolVersion:[1 1]} TimeLabels:{TimeLabels:[4 33 10 27 9 23]} SourceAddress:{Address:{Address:[1 0 0 0 0 0]}} TargetAddress:{Address:{Address:[1 0 0 0 0 0]}} AppDataLen:{AppDataLen:12} ControlCommand:2} Data:[4 1 1 1 2 0 10 15 16 25 9 23] CRC:236 End:[35 35]}]
+I0927 10:33:46.502777   38720 msghandler.go:46] DoMsgRequestHandler = 0
+I0927 10:33:46.502786   38720 firerouter.go:17] Call fireRouter RequestHandle
+I0927 10:33:46.502793   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:33:46.502819   38720 firerouter.go:20] RequestHandle recv from client :data= 4040050001012e210a1b0917010000000000010000000000000003a02323
+I0927 10:33:46.502847   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:33:46.502893   38720 msghandler.go:61] DoMsgDataHandler = 0
+I0927 10:33:46.502901   38720 firerouter.go:30] Call fireRouter DataHandle
+I0927 10:33:46.502907   38720 firerouter.go:34] DataHandle recv from client :data= 0401010102000a0f10190917
+I0927 10:33:47.602230   38720 datapack.go:52] Unpack read startData [64 64]
+I0927 10:33:47.602301   38720 datapack.go:66] Unpack read Data First [10][0600010105210a1b0917]
+I0927 10:33:47.602318   38720 datapack.go:83] Unpack read Data Two [25][010000000000010000000000090002]
+I0927 10:33:47.602414   38720 datapack.go:102] Unpack read Data [9][c801012a0f10190917]
+I0927 10:33:47.602432   38720 datapack.go:123] Unpack CRC Data:Len:[0600010105210a1b0917010000000000010000000000090002c801012a0f10190917]
+I0927 10:33:47.602441   38720 datapack.go:124] Unpack CRC[cc:cc]
+I0927 10:33:47.602450   38720 firemessage.go:54] FireMessage.SetData:len[9][c801012a0f10190917]
+I0927 10:33:47.602460   38720 datapack.go:130] Unpack Fire[&{Start:[64 64] Control:{SerialNumber:{SerialNumber:6} ProtocolVersion:{ProtocolVersion:[1 1]} TimeLabels:{TimeLabels:[5 33 10 27 9 23]} SourceAddress:{Address:{Address:[1 0 0 0 0 0]}} TargetAddress:{Address:{Address:[1 0 0 0 0 0]}} AppDataLen:{AppDataLen:9} ControlCommand:2} Data:[200 1 1 42 15 16 25 9 23] CRC:204 End:[35 35]}]
+I0927 10:33:47.602520   38720 msghandler.go:46] DoMsgRequestHandler = 0
+I0927 10:33:47.602529   38720 firerouter.go:17] Call fireRouter RequestHandle
+I0927 10:33:47.602536   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:33:47.602603   38720 firerouter.go:20] RequestHandle recv from client :data= 4040060001012f210a1b0917010000000000010000000000000003a22323
+I0927 10:33:47.602609   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:33:47.602642   38720 msghandler.go:61] DoMsgDataHandler = 0
+I0927 10:33:47.602647   38720 firerouter.go:30] Call fireRouter DataHandle
+I0927 10:33:47.602651   38720 firerouter.go:34] DataHandle recv from client :data= c801012a0f10190917
+I0927 10:33:48.703247   38720 datapack.go:52] Unpack read startData [64 64]
+I0927 10:33:48.703471   38720 datapack.go:66] Unpack read Data First [10][0700010106210a1b0917]
+I0927 10:33:48.703518   38720 datapack.go:83] Unpack read Data Two [25][0100000000000100000000000c0002]
+I0927 10:33:48.703784   38720 datapack.go:102] Unpack read Data [12][010101000120141010190917]
+I0927 10:33:48.703833   38720 datapack.go:123] Unpack CRC Data:Len:[0700010106210a1b09170100000000000100000000000c0002010101000120141010190917]
+I0927 10:33:48.703865   38720 datapack.go:124] Unpack CRC[16:16]
+I0927 10:33:48.703888   38720 firemessage.go:54] FireMessage.SetData:len[12][010101000120141010190917]
+I0927 10:33:48.703921   38720 datapack.go:130] Unpack Fire[&{Start:[64 64] Control:{SerialNumber:{SerialNumber:7} ProtocolVersion:{ProtocolVersion:[1 1]} TimeLabels:{TimeLabels:[6 33 10 27 9 23]} SourceAddress:{Address:{Address:[1 0 0 0 0 0]}} TargetAddress:{Address:{Address:[1 0 0 0 0 0]}} AppDataLen:{AppDataLen:12} ControlCommand:2} Data:[1 1 1 0 1 32 20 16 16 25 9 23] CRC:22 End:[35 35]}]
+I0927 10:33:48.704123   38720 msghandler.go:46] DoMsgRequestHandler = 0
+I0927 10:33:48.704149   38720 firerouter.go:17] Call fireRouter RequestHandle
+I0927 10:33:48.704167   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:33:48.704272   38720 firerouter.go:20] RequestHandle recv from client :data= 40400700010130210a1b0917010000000000010000000000000003a42323
+I0927 10:33:48.704287   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:33:48.704416   38720 msghandler.go:61] DoMsgDataHandler = 0
+I0927 10:33:48.704434   38720 firerouter.go:30] Call fireRouter DataHandle
+I0927 10:33:48.704448   38720 firerouter.go:34] DataHandle recv from client :data= 010101000120141010190917
+I0927 10:33:49.805321   38720 datapack.go:52] Unpack read startData [64 64]
+I0927 10:33:49.805526   38720 datapack.go:66] Unpack read Data First [10][0800010107210a1b0917]
+I0927 10:33:49.805574   38720 datapack.go:83] Unpack read Data Two [25][010000000000010000000000300002]
+I0927 10:33:49.805896   38720 datapack.go:102] Unpack read Data [48][0201010149ec460f00410020202020202020202020202020202020202020202020202020202020202020161010190917]
+I0927 10:33:49.805981   38720 datapack.go:123] Unpack CRC Data:Len:[0800010107210a1b09170100000000000100000000003000020201010149ec460f00410020202020202020202020202020202020202020202020202020202020202020161010190917]
+I0927 10:33:49.806016   38720 datapack.go:124] Unpack CRC[ca:ca]
+I0927 10:33:49.806039   38720 firemessage.go:54] FireMessage.SetData:len[48][0201010149ec460f00410020202020202020202020202020202020202020202020202020202020202020161010190917]
+I0927 10:33:49.806073   38720 datapack.go:130] Unpack Fire[&{Start:[64 64] Control:{SerialNumber:{SerialNumber:8} ProtocolVersion:{ProtocolVersion:[1 1]} TimeLabels:{TimeLabels:[7 33 10 27 9 23]} SourceAddress:{Address:{Address:[1 0 0 0 0 0]}} TargetAddress:{Address:{Address:[1 0 0 0 0 0]}} AppDataLen:{AppDataLen:48} ControlCommand:2} Data:[2 1 1 1 73 236 70 15 0 65 0 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 22 16 16 25 9 23] CRC:202 End:[35 35]}]
+I0927 10:33:49.806304   38720 msghandler.go:46] DoMsgRequestHandler = 0
+I0927 10:33:49.806330   38720 firerouter.go:17] Call fireRouter RequestHandle
+I0927 10:33:49.806349   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:33:49.806449   38720 firerouter.go:20] RequestHandle recv from client :data= 40400800010131210a1b0917010000000000010000000000000003a62323
+I0927 10:33:49.806465   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:33:49.806575   38720 msghandler.go:61] DoMsgDataHandler = 0
+I0927 10:33:49.806953   38720 firerouter.go:30] Call fireRouter DataHandle
+I0927 10:33:49.806972   38720 firerouter.go:34] DataHandle recv from client :data= 0201010149ec460f00410020202020202020202020202020202020202020202020202020202020202020161010190917
+I0927 10:33:49.807581   38720 firedatadecode.go:22] DecodeSwitchDataTypeToData= &{2 1 [1 1 73 236 70 15 0 65 0 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 22 16 16 25 9 23]}
+I0927 10:33:49.808301   38720 firedatatype.go:210] FireBuildFacilitiesPartRunStatDecodeToData:Type:2,46
+I0927 10:33:49.808495   38720 firedatatype.go:203] FireBuildFacilitiesPartRunStatDecode Pos:15--{1 1 49 {ec460f00} {4100} 00000000000000000000000000000000000000000000000000000000000000 0 0 {202020202020}}
+I0927 10:33:49.808749   38720 firedatatype.go:214] FireBuildElectricityDecode :[{SystemType:1 SystemAddress:1 ComponentType:73 ComponentAddress:{Address:[236 70 15 0]} Property2Stat:{Status:[65 0]} ComponentMsg:[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0] ComponentChannelType:0 ComponentChannelID:0 TimeLabels:{TimeLabels:[32 32 32 32 32 32]}}]
+ComponentAddress: 001001196
+I0927 10:33:49.893440   38720 globals.go:93] HostName:[lipeiliangdeMacBook-Pro.local]
+I0927 10:33:49.893503   38720 firecustomizeddata.go:24] ParseFireToSouth Device:[0]----{Data:map[2-1-1-#-#-#-73-001001196-#-#-#-#-#-#-0-#:0xc0002a48d0 2-1-1-#-#-#-73-001001196-#-#-#-#-#-#-1-#:0xc0002a4930 2-1-1-#-#-#-73-001001196-#-#-#-#-#-#-2-#:0xc0002a4960 2-1-1-#-#-#-73-001001196-#-#-#-#-#-#-3-#:0xc0002a4990 2-1-1-#-#-#-73-001001196-#-#-#-#-#-#-4-#:0xc0002a49f0 2-1-1-#-#-#-73-001001196-#-#-#-#-#-#-5-#:0xc0002a4a20 2-1-1-#-#-#-73-001001196-#-#-#-#-#-#-6-#:0xc0002a4ab0 2-1-1-#-#-#-73-001001196-#-#-#-#-#-#-7-#:0xc0002a4ae0 2-1-1-#-#-#-73-001001196-#-#-#-#-#-#-8-#:0xc0002a4b40 2-1-1-#-#-#-73-001001196-#-#-#-#-#-#-9-#:0xc0002a4b70]}
+I0927 10:33:49.928066   38720 globals.go:78] HostName:[lipeiliangdeMacBook-Pro.local]
+I0927 10:33:49.928124   38720 firecustomizeddata.go:36] Address: 9-#-#-#-0-0-#-#-#-#--#-#-#-0-#
+I0927 10:33:49.928279   38720 firecustomizeddata.go:38] fire.Properties: 2-1-1-#-#-#-73-001001196-#-#-#-#-#-#-1-#-----&{false {1695782029 boolean}}
+I0927 10:33:49.963828   38720 globals.go:78] HostName:[lipeiliangdeMacBook-Pro.local]
+I0927 10:33:49.964247   38720 firecustomizeddata.go:38] fire.Properties: 2-1-1-#-#-#-73-001001196-#-#-#-#-#-#-4-#-----&{false {1695782029 boolean}}
+I0927 10:33:49.996015   38720 globals.go:78] HostName:[lipeiliangdeMacBook-Pro.local]
+I0927 10:33:49.996072   38720 firecustomizeddata.go:38] fire.Properties: 2-1-1-#-#-#-73-001001196-#-#-#-#-#-#-5-#-----&{false {1695782029 boolean}}
+I0927 10:33:50.028314   38720 globals.go:78] HostName:[lipeiliangdeMacBook-Pro.local]
+I0927 10:33:50.028363   38720 firecustomizeddata.go:38] fire.Properties: 2-1-1-#-#-#-73-001001196-#-#-#-#-#-#-7-#-----&{false {1695782029 boolean}}
+I0927 10:33:50.059143   38720 globals.go:78] HostName:[lipeiliangdeMacBook-Pro.local]
+I0927 10:33:50.059188   38720 firecustomizeddata.go:38] fire.Properties: 2-1-1-#-#-#-73-001001196-#-#-#-#-#-#-0-#-----&{true {1695782029 boolean}}
+I0927 10:33:50.093874   38720 globals.go:78] HostName:[lipeiliangdeMacBook-Pro.local]
+I0927 10:33:50.093931   38720 firecustomizeddata.go:38] fire.Properties: 2-1-1-#-#-#-73-001001196-#-#-#-#-#-#-3-#-----&{false {1695782029 boolean}}
+I0927 10:33:50.126045   38720 globals.go:78] HostName:[lipeiliangdeMacBook-Pro.local]
+I0927 10:33:50.126103   38720 firecustomizeddata.go:38] fire.Properties: 2-1-1-#-#-#-73-001001196-#-#-#-#-#-#-6-#-----&{true {1695782029 boolean}}
+I0927 10:33:50.158575   38720 globals.go:78] HostName:[lipeiliangdeMacBook-Pro.local]
+I0927 10:33:50.158621   38720 firecustomizeddata.go:38] fire.Properties: 2-1-1-#-#-#-73-001001196-#-#-#-#-#-#-8-#-----&{false {1695782029 boolean}}
+I0927 10:33:50.189634   38720 globals.go:78] HostName:[lipeiliangdeMacBook-Pro.local]
+I0927 10:33:50.189683   38720 firecustomizeddata.go:38] fire.Properties: 2-1-1-#-#-#-73-001001196-#-#-#-#-#-#-9-#-----&{false {1695782029 boolean}}
+I0927 10:33:50.223178   38720 globals.go:78] HostName:[lipeiliangdeMacBook-Pro.local]
+I0927 10:33:50.223232   38720 firecustomizeddata.go:38] fire.Properties: 2-1-1-#-#-#-73-001001196-#-#-#-#-#-#-2-#-----&{false {1695782029 boolean}}
+I0927 10:33:50.256664   38720 globals.go:78] HostName:[lipeiliangdeMacBook-Pro.local]
+I0927 10:33:50.257010   38720 firecustomizeddata.go:93] Device payload[{{1.4.6.1 1695782030} []}]
+I0927 10:33:50.902250   38720 datapack.go:52] Unpack read startData [64 64]
+I0927 10:33:50.902319   38720 datapack.go:66] Unpack read Data First [10][0900010108210a1b0917]
+I0927 10:33:50.902360   38720 datapack.go:83] Unpack read Data Two [25][0100000000000100000000000c0002]
+I0927 10:33:50.902489   38720 datapack.go:102] Unpack read Data [12][cd0101010100161010190917]
+I0927 10:33:50.902526   38720 datapack.go:123] Unpack CRC Data:Len:[0900010108210a1b09170100000000000100000000000c0002cd0101010100161010190917]
+I0927 10:33:50.902550   38720 datapack.go:124] Unpack CRC[c9:c9]
+I0927 10:33:50.902562   38720 firemessage.go:54] FireMessage.SetData:len[12][cd0101010100161010190917]
+I0927 10:33:50.902585   38720 datapack.go:130] Unpack Fire[&{Start:[64 64] Control:{SerialNumber:{SerialNumber:9} ProtocolVersion:{ProtocolVersion:[1 1]} TimeLabels:{TimeLabels:[8 33 10 27 9 23]} SourceAddress:{Address:{Address:[1 0 0 0 0 0]}} TargetAddress:{Address:{Address:[1 0 0 0 0 0]}} AppDataLen:{AppDataLen:12} ControlCommand:2} Data:[205 1 1 1 1 0 22 16 16 25 9 23] CRC:201 End:[35 35]}]
+I0927 10:33:50.902727   38720 msghandler.go:46] DoMsgRequestHandler = 0
+I0927 10:33:50.902756   38720 firerouter.go:17] Call fireRouter RequestHandle
+I0927 10:33:50.902767   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:33:50.902814   38720 firerouter.go:20] RequestHandle recv from client :data= 40400900010132210a1b0917010000000000010000000000000003a82323
+I0927 10:33:50.902824   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:33:50.902880   38720 msghandler.go:61] DoMsgDataHandler = 0
+I0927 10:33:50.902892   38720 firerouter.go:30] Call fireRouter DataHandle
+I0927 10:33:50.902900   38720 firerouter.go:34] DataHandle recv from client :data= cd0101010100161010190917
+I0927 10:33:52.001777   38720 datapack.go:52] Unpack read startData [64 64]
+I0927 10:33:52.001872   38720 datapack.go:66] Unpack read Data First [10][0a00010109210a1b0917]
+I0927 10:33:52.001906   38720 datapack.go:83] Unpack read Data Two [25][0100000000000100000000000c0002]
+I0927 10:33:52.002027   38720 datapack.go:102] Unpack read Data [12][cd0101010002171010190917]
+I0927 10:33:52.002068   38720 datapack.go:123] Unpack CRC Data:Len:[0a00010109210a1b09170100000000000100000000000c0002cd0101010002171010190917]
+I0927 10:33:52.002098   38720 datapack.go:124] Unpack CRC[cd:cd]
+I0927 10:33:52.002114   38720 firemessage.go:54] FireMessage.SetData:len[12][cd0101010002171010190917]
+I0927 10:33:52.002146   38720 datapack.go:130] Unpack Fire[&{Start:[64 64] Control:{SerialNumber:{SerialNumber:10} ProtocolVersion:{ProtocolVersion:[1 1]} TimeLabels:{TimeLabels:[9 33 10 27 9 23]} SourceAddress:{Address:{Address:[1 0 0 0 0 0]}} TargetAddress:{Address:{Address:[1 0 0 0 0 0]}} AppDataLen:{AppDataLen:12} ControlCommand:2} Data:[205 1 1 1 0 2 23 16 16 25 9 23] CRC:205 End:[35 35]}]
+I0927 10:33:52.002246   38720 msghandler.go:46] DoMsgRequestHandler = 0
+I0927 10:33:52.002263   38720 firerouter.go:17] Call fireRouter RequestHandle
+I0927 10:33:52.002276   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:33:52.002347   38720 firerouter.go:20] RequestHandle recv from client :data= 40400a00010134210a1b0917010000000000010000000000000003ab2323
+I0927 10:33:52.002362   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:33:52.002419   38720 msghandler.go:61] DoMsgDataHandler = 0
+I0927 10:33:52.002432   38720 firerouter.go:30] Call fireRouter DataHandle
+I0927 10:33:52.002444   38720 firerouter.go:34] DataHandle recv from client :data= cd0101010002171010190917
+I0927 10:33:53.102039   38720 datapack.go:52] Unpack read startData [64 64]
+I0927 10:33:53.102272   38720 datapack.go:66] Unpack read Data First [10][0b0001010a210a1b0917]
+I0927 10:33:53.102322   38720 datapack.go:83] Unpack read Data Two [25][0100000000000100000000000c0002]
+I0927 10:33:53.102555   38720 datapack.go:102] Unpack read Data [12][cd0101010004171010190917]
+I0927 10:33:53.102599   38720 datapack.go:123] Unpack CRC Data:Len:[0b0001010a210a1b09170100000000000100000000000c0002cd0101010004171010190917]
+I0927 10:33:53.102631   38720 datapack.go:124] Unpack CRC[d1:d1]
+I0927 10:33:53.102652   38720 firemessage.go:54] FireMessage.SetData:len[12][cd0101010004171010190917]
+I0927 10:33:53.102685   38720 datapack.go:130] Unpack Fire[&{Start:[64 64] Control:{SerialNumber:{SerialNumber:11} ProtocolVersion:{ProtocolVersion:[1 1]} TimeLabels:{TimeLabels:[10 33 10 27 9 23]} SourceAddress:{Address:{Address:[1 0 0 0 0 0]}} TargetAddress:{Address:{Address:[1 0 0 0 0 0]}} AppDataLen:{AppDataLen:12} ControlCommand:2} Data:[205 1 1 1 0 4 23 16 16 25 9 23] CRC:209 End:[35 35]}]
+I0927 10:33:53.102857   38720 msghandler.go:46] DoMsgRequestHandler = 0
+I0927 10:33:53.102881   38720 firerouter.go:17] Call fireRouter RequestHandle
+I0927 10:33:53.102907   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:33:53.103020   38720 firerouter.go:20] RequestHandle recv from client :data= 40400b00010135210a1b0917010000000000010000000000000003ad2323
+I0927 10:33:53.103041   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:33:53.103132   38720 msghandler.go:61] DoMsgDataHandler = 0
+I0927 10:33:53.103150   38720 firerouter.go:30] Call fireRouter DataHandle
+I0927 10:33:53.103163   38720 firerouter.go:34] DataHandle recv from client :data= cd0101010004171010190917
+I0927 10:33:54.201829   38720 datapack.go:52] Unpack read startData [64 64]
+I0927 10:33:54.202022   38720 datapack.go:66] Unpack read Data First [10][0c0001010b210a1b0917]
+I0927 10:33:54.202359   38720 datapack.go:83] Unpack read Data Two [25][0100000000000100000000000c0002]
+I0927 10:33:54.202635   38720 datapack.go:102] Unpack read Data [12][040101010200171010190917]
+I0927 10:33:54.202682   38720 datapack.go:123] Unpack CRC Data:Len:[0c0001010b210a1b09170100000000000100000000000c0002040101010200171010190917]
+I0927 10:33:54.202715   38720 datapack.go:124] Unpack CRC[8:8]
+I0927 10:33:54.202741   38720 firemessage.go:54] FireMessage.SetData:len[12][040101010200171010190917]
+I0927 10:33:54.202774   38720 datapack.go:130] Unpack Fire[&{Start:[64 64] Control:{SerialNumber:{SerialNumber:12} ProtocolVersion:{ProtocolVersion:[1 1]} TimeLabels:{TimeLabels:[11 33 10 27 9 23]} SourceAddress:{Address:{Address:[1 0 0 0 0 0]}} TargetAddress:{Address:{Address:[1 0 0 0 0 0]}} AppDataLen:{AppDataLen:12} ControlCommand:2} Data:[4 1 1 1 2 0 23 16 16 25 9 23] CRC:8 End:[35 35]}]
+I0927 10:33:54.202973   38720 msghandler.go:46] DoMsgRequestHandler = 0
+I0927 10:33:54.202997   38720 firerouter.go:17] Call fireRouter RequestHandle
+I0927 10:33:54.203016   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:33:54.203123   38720 firerouter.go:20] RequestHandle recv from client :data= 40400c00010136210a1b0917010000000000010000000000000003af2323
+I0927 10:33:54.203138   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:33:54.203281   38720 msghandler.go:61] DoMsgDataHandler = 0
+I0927 10:33:54.203299   38720 firerouter.go:30] Call fireRouter DataHandle
+I0927 10:33:54.203314   38720 firerouter.go:34] DataHandle recv from client :data= 040101010200171010190917
+I0927 10:33:55.301945   38720 datapack.go:52] Unpack read startData [64 64]
+I0927 10:33:55.302023   38720 datapack.go:66] Unpack read Data First [10][0d0001010c210a1b0917]
+I0927 10:33:55.302048   38720 datapack.go:83] Unpack read Data Two [25][0100000000000100000000000c0002]
+I0927 10:33:55.302170   38720 datapack.go:102] Unpack read Data [12][cd01010101001e1010190917]
+I0927 10:33:55.302199   38720 datapack.go:123] Unpack CRC Data:Len:[0d0001010c210a1b09170100000000000100000000000c0002cd01010101001e1010190917]
+I0927 10:33:55.302221   38720 datapack.go:124] Unpack CRC[d9:d9]
+I0927 10:33:55.302232   38720 firemessage.go:54] FireMessage.SetData:len[12][cd01010101001e1010190917]
+I0927 10:33:55.302248   38720 datapack.go:130] Unpack Fire[&{Start:[64 64] Control:{SerialNumber:{SerialNumber:13} ProtocolVersion:{ProtocolVersion:[1 1]} TimeLabels:{TimeLabels:[12 33 10 27 9 23]} SourceAddress:{Address:{Address:[1 0 0 0 0 0]}} TargetAddress:{Address:{Address:[1 0 0 0 0 0]}} AppDataLen:{AppDataLen:12} ControlCommand:2} Data:[205 1 1 1 1 0 30 16 16 25 9 23] CRC:217 End:[35 35]}]
+I0927 10:33:55.302335   38720 msghandler.go:46] DoMsgRequestHandler = 0
+I0927 10:33:55.302346   38720 firerouter.go:17] Call fireRouter RequestHandle
+I0927 10:33:55.302356   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:33:55.302401   38720 firerouter.go:20] RequestHandle recv from client :data= 40400d00010137210a1b0917010000000000010000000000000003b12323
+I0927 10:33:55.302408   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:33:55.302453   38720 msghandler.go:61] DoMsgDataHandler = 0
+I0927 10:33:55.302461   38720 firerouter.go:30] Call fireRouter DataHandle
+I0927 10:33:55.302467   38720 firerouter.go:34] DataHandle recv from client :data= cd01010101001e1010190917
+I0927 10:33:56.401298   38720 datapack.go:52] Unpack read startData [64 64]
+I0927 10:33:56.401461   38720 datapack.go:66] Unpack read Data First [10][0e0001010e210a1b0917]
+I0927 10:33:56.401501   38720 datapack.go:83] Unpack read Data Two [25][0100000000000100000000000c0002]
+I0927 10:33:56.401653   38720 datapack.go:102] Unpack read Data [12][cd01010100021e1010190917]
+I0927 10:33:56.401681   38720 datapack.go:123] Unpack CRC Data:Len:[0e0001010e210a1b09170100000000000100000000000c0002cd01010100021e1010190917]
+I0927 10:33:56.401769   38720 datapack.go:124] Unpack CRC[dd:dd]
+I0927 10:33:56.401786   38720 firemessage.go:54] FireMessage.SetData:len[12][cd01010100021e1010190917]
+I0927 10:33:56.401806   38720 datapack.go:130] Unpack Fire[&{Start:[64 64] Control:{SerialNumber:{SerialNumber:14} ProtocolVersion:{ProtocolVersion:[1 1]} TimeLabels:{TimeLabels:[14 33 10 27 9 23]} SourceAddress:{Address:{Address:[1 0 0 0 0 0]}} TargetAddress:{Address:{Address:[1 0 0 0 0 0]}} AppDataLen:{AppDataLen:12} ControlCommand:2} Data:[205 1 1 1 0 2 30 16 16 25 9 23] CRC:221 End:[35 35]}]
+I0927 10:33:56.401944   38720 msghandler.go:46] DoMsgRequestHandler = 0
+I0927 10:33:56.401961   38720 firerouter.go:17] Call fireRouter RequestHandle
+I0927 10:33:56.401973   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:33:56.402044   38720 firerouter.go:20] RequestHandle recv from client :data= 40400e00010138210a1b0917010000000000010000000000000003b32323
+I0927 10:33:56.402055   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:33:56.402209   38720 msghandler.go:61] DoMsgDataHandler = 0
+I0927 10:33:56.402221   38720 firerouter.go:30] Call fireRouter DataHandle
+I0927 10:33:56.402229   38720 firerouter.go:34] DataHandle recv from client :data= cd01010100021e1010190917
+I0927 10:33:57.501724   38720 datapack.go:52] Unpack read startData [64 64]
+I0927 10:33:57.501864   38720 datapack.go:66] Unpack read Data First [10][0f0001010f210a1b0917]
+I0927 10:33:57.501897   38720 datapack.go:83] Unpack read Data Two [25][0100000000000100000000000c0002]
+I0927 10:33:57.502168   38720 datapack.go:102] Unpack read Data [12][cd01010100041e1010190917]
+I0927 10:33:57.502199   38720 datapack.go:123] Unpack CRC Data:Len:[0f0001010f210a1b09170100000000000100000000000c0002cd01010100041e1010190917]
+I0927 10:33:57.502233   38720 datapack.go:124] Unpack CRC[e1:e1]
+I0927 10:33:57.502251   38720 firemessage.go:54] FireMessage.SetData:len[12][cd01010100041e1010190917]
+I0927 10:33:57.502270   38720 datapack.go:130] Unpack Fire[&{Start:[64 64] Control:{SerialNumber:{SerialNumber:15} ProtocolVersion:{ProtocolVersion:[1 1]} TimeLabels:{TimeLabels:[15 33 10 27 9 23]} SourceAddress:{Address:{Address:[1 0 0 0 0 0]}} TargetAddress:{Address:{Address:[1 0 0 0 0 0]}} AppDataLen:{AppDataLen:12} ControlCommand:2} Data:[205 1 1 1 0 4 30 16 16 25 9 23] CRC:225 End:[35 35]}]
+I0927 10:33:57.502434   38720 msghandler.go:46] DoMsgRequestHandler = 0
+I0927 10:33:57.502456   38720 firerouter.go:17] Call fireRouter RequestHandle
+I0927 10:33:57.502470   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:33:57.502544   38720 firerouter.go:20] RequestHandle recv from client :data= 40400f00010139210a1b0917010000000000010000000000000003b52323
+I0927 10:33:57.502552   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:33:57.502620   38720 msghandler.go:61] DoMsgDataHandler = 0
+I0927 10:33:57.502632   38720 firerouter.go:30] Call fireRouter DataHandle
+I0927 10:33:57.502641   38720 firerouter.go:34] DataHandle recv from client :data= cd01010100041e1010190917
+I0927 10:33:58.600478   38720 datapack.go:52] Unpack read startData [64 64]
+I0927 10:33:58.600511   38720 datapack.go:66] Unpack read Data First [10][1000010110210a1b0917]
+I0927 10:33:58.600523   38720 datapack.go:83] Unpack read Data Two [25][0100000000000100000000000a0002]
+I0927 10:33:58.600564   38720 datapack.go:102] Unpack read Data [10][18010101261010190917]
+I0927 10:33:58.600605   38720 datapack.go:123] Unpack CRC Data:Len:[1000010110210a1b09170100000000000100000000000a000218010101261010190917]
+I0927 10:33:58.600615   38720 datapack.go:124] Unpack CRC[30:30]
+I0927 10:33:58.600637   38720 firemessage.go:54] FireMessage.SetData:len[10][18010101261010190917]
+I0927 10:33:58.600657   38720 datapack.go:130] Unpack Fire[&{Start:[64 64] Control:{SerialNumber:{SerialNumber:16} ProtocolVersion:{ProtocolVersion:[1 1]} TimeLabels:{TimeLabels:[16 33 10 27 9 23]} SourceAddress:{Address:{Address:[1 0 0 0 0 0]}} TargetAddress:{Address:{Address:[1 0 0 0 0 0]}} AppDataLen:{AppDataLen:10} ControlCommand:2} Data:[24 1 1 1 38 16 16 25 9 23] CRC:48 End:[35 35]}]
+I0927 10:33:58.600699   38720 msghandler.go:46] DoMsgRequestHandler = 0
+I0927 10:33:58.600709   38720 firerouter.go:17] Call fireRouter RequestHandle
+I0927 10:33:58.600714   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:33:58.600743   38720 firerouter.go:20] RequestHandle recv from client :data= 4040100001013a210a1b0917010000000000010000000000000003b72323
+I0927 10:33:58.600748   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:33:58.600772   38720 msghandler.go:61] DoMsgDataHandler = 0
+I0927 10:33:58.600777   38720 firerouter.go:30] Call fireRouter DataHandle
+I0927 10:33:58.600780   38720 firerouter.go:34] DataHandle recv from client :data= 18010101261010190917
+I0927 10:34:23.607334   38720 datapack.go:52] Unpack read startData [64 64]
+I0927 10:34:23.607378   38720 datapack.go:66] Unpack read Data First [10][1100010129210a1b0917]
+I0927 10:34:23.607398   38720 datapack.go:83] Unpack read Data Two [25][010000000000010000000000080002]
+I0927 10:34:23.607469   38720 datapack.go:102] Unpack read Data [8][1c0129210a1b0917]
+I0927 10:34:23.607520   38720 datapack.go:123] Unpack CRC Data:Len:[1100010129210a1b09170100000000000100000000000800021c0129210a1b0917]
+I0927 10:34:23.607537   38720 datapack.go:124] Unpack CRC[5a:5a]
+I0927 10:34:23.607545   38720 firemessage.go:54] FireMessage.SetData:len[8][1c0129210a1b0917]
+I0927 10:34:23.607571   38720 datapack.go:130] Unpack Fire[&{Start:[64 64] Control:{SerialNumber:{SerialNumber:17} ProtocolVersion:{ProtocolVersion:[1 1]} TimeLabels:{TimeLabels:[41 33 10 27 9 23]} SourceAddress:{Address:{Address:[1 0 0 0 0 0]}} TargetAddress:{Address:{Address:[1 0 0 0 0 0]}} AppDataLen:{AppDataLen:8} ControlCommand:2} Data:[28 1 41 33 10 27 9 23] CRC:90 End:[35 35]}]
+I0927 10:34:23.607625   38720 msghandler.go:46] DoMsgRequestHandler = 0
+I0927 10:34:23.607634   38720 firerouter.go:17] Call fireRouter RequestHandle
+I0927 10:34:23.607641   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:34:23.607681   38720 firerouter.go:20] RequestHandle recv from client :data= 40401100010117220a1b0917010000000000010000000000000003962323
+I0927 10:34:23.607688   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:34:23.607718   38720 msghandler.go:61] DoMsgDataHandler = 0
+I0927 10:34:23.607725   38720 firerouter.go:30] Call fireRouter DataHandle
+I0927 10:34:23.607730   38720 firerouter.go:34] DataHandle recv from client :data= 1c0129210a1b0917
+I0927 10:34:48.613663   38720 datapack.go:52] Unpack read startData [64 64]
+I0927 10:34:48.613868   38720 datapack.go:66] Unpack read Data First [10][1200010107220a1b0917]
+I0927 10:34:48.613916   38720 datapack.go:83] Unpack read Data Two [25][010000000000010000000000080002]
+I0927 10:34:48.614151   38720 datapack.go:102] Unpack read Data [8][1c0107220a1b0917]
+I0927 10:34:48.614259   38720 datapack.go:123] Unpack CRC Data:Len:[1200010107220a1b09170100000000000100000000000800021c0107220a1b0917]
+I0927 10:34:48.614294   38720 datapack.go:124] Unpack CRC[19:19]
+I0927 10:34:48.614390   38720 firemessage.go:54] FireMessage.SetData:len[8][1c0107220a1b0917]
+I0927 10:34:48.614442   38720 datapack.go:130] Unpack Fire[&{Start:[64 64] Control:{SerialNumber:{SerialNumber:18} ProtocolVersion:{ProtocolVersion:[1 1]} TimeLabels:{TimeLabels:[7 34 10 27 9 23]} SourceAddress:{Address:{Address:[1 0 0 0 0 0]}} TargetAddress:{Address:{Address:[1 0 0 0 0 0]}} AppDataLen:{AppDataLen:8} ControlCommand:2} Data:[28 1 7 34 10 27 9 23] CRC:25 End:[35 35]}]
+I0927 10:34:48.614660   38720 msghandler.go:46] DoMsgRequestHandler = 0
+I0927 10:34:48.614689   38720 firerouter.go:17] Call fireRouter RequestHandle
+I0927 10:34:48.614709   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:34:48.614804   38720 firerouter.go:20] RequestHandle recv from client :data= 40401200010130220a1b0917010000000000010000000000000003b02323
+I0927 10:34:48.614818   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:34:48.614957   38720 msghandler.go:61] DoMsgDataHandler = 0
+I0927 10:34:48.614976   38720 firerouter.go:30] Call fireRouter DataHandle
+I0927 10:34:48.614991   38720 firerouter.go:34] DataHandle recv from client :data= 1c0107220a1b0917
+I0927 10:35:13.620558   38720 datapack.go:52] Unpack read startData [64 64]
+I0927 10:35:13.620710   38720 datapack.go:66] Unpack read Data First [10][1300010120220a1b0917]
+I0927 10:35:13.620756   38720 datapack.go:83] Unpack read Data Two [25][010000000000010000000000080002]
+I0927 10:35:13.620960   38720 datapack.go:102] Unpack read Data [8][1c0120220a1b0917]
+I0927 10:35:13.621072   38720 datapack.go:123] Unpack CRC Data:Len:[1300010120220a1b09170100000000000100000000000800021c0120220a1b0917]
+I0927 10:35:13.621106   38720 datapack.go:124] Unpack CRC[4c:4c]
+I0927 10:35:13.621130   38720 firemessage.go:54] FireMessage.SetData:len[8][1c0120220a1b0917]
+I0927 10:35:13.621194   38720 datapack.go:130] Unpack Fire[&{Start:[64 64] Control:{SerialNumber:{SerialNumber:19} ProtocolVersion:{ProtocolVersion:[1 1]} TimeLabels:{TimeLabels:[32 34 10 27 9 23]} SourceAddress:{Address:{Address:[1 0 0 0 0 0]}} TargetAddress:{Address:{Address:[1 0 0 0 0 0]}} AppDataLen:{AppDataLen:8} ControlCommand:2} Data:[28 1 32 34 10 27 9 23] CRC:76 End:[35 35]}]
+I0927 10:35:13.621426   38720 msghandler.go:46] DoMsgRequestHandler = 0
+I0927 10:35:13.621453   38720 firerouter.go:17] Call fireRouter RequestHandle
+I0927 10:35:13.621473   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:35:13.621569   38720 firerouter.go:20] RequestHandle recv from client :data= 4040130001010d230a1b09170100000000000100000000000000038f2323
+I0927 10:35:13.621583   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:35:13.621681   38720 msghandler.go:61] DoMsgDataHandler = 0
+I0927 10:35:13.621703   38720 firerouter.go:30] Call fireRouter DataHandle
+I0927 10:35:13.621716   38720 firerouter.go:34] DataHandle recv from client :data= 1c0120220a1b0917
+I0927 10:35:38.626668   38720 datapack.go:52] Unpack read startData [64 64]
+I0927 10:35:38.626783   38720 datapack.go:66] Unpack read Data First [10][1400010139220a1b0917]
+I0927 10:35:38.626813   38720 datapack.go:83] Unpack read Data Two [25][010000000000010000000000080002]
+I0927 10:35:38.627014   38720 datapack.go:102] Unpack read Data [8][1c0139220a1b0917]
+I0927 10:35:38.627196   38720 datapack.go:123] Unpack CRC Data:Len:[1400010139220a1b09170100000000000100000000000800021c0139220a1b0917]
+I0927 10:35:38.627218   38720 datapack.go:124] Unpack CRC[7f:7f]
+I0927 10:35:38.627233   38720 firemessage.go:54] FireMessage.SetData:len[8][1c0139220a1b0917]
+I0927 10:35:38.627252   38720 datapack.go:130] Unpack Fire[&{Start:[64 64] Control:{SerialNumber:{SerialNumber:20} ProtocolVersion:{ProtocolVersion:[1 1]} TimeLabels:{TimeLabels:[57 34 10 27 9 23]} SourceAddress:{Address:{Address:[1 0 0 0 0 0]}} TargetAddress:{Address:{Address:[1 0 0 0 0 0]}} AppDataLen:{AppDataLen:8} ControlCommand:2} Data:[28 1 57 34 10 27 9 23] CRC:127 End:[35 35]}]
+I0927 10:35:38.627414   38720 msghandler.go:46] DoMsgRequestHandler = 0
+I0927 10:35:38.627433   38720 firerouter.go:17] Call fireRouter RequestHandle
+I0927 10:35:38.627447   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:35:38.627514   38720 firerouter.go:20] RequestHandle recv from client :data= 40401400010126230a1b0917010000000000010000000000000003a92323
+I0927 10:35:38.627523   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:35:38.627582   38720 msghandler.go:61] DoMsgDataHandler = 0
+I0927 10:35:38.627592   38720 firerouter.go:30] Call fireRouter DataHandle
+I0927 10:35:38.627601   38720 firerouter.go:34] DataHandle recv from client :data= 1c0139220a1b0917
+I0927 10:36:03.633529   38720 datapack.go:52] Unpack read startData [64 64]
+I0927 10:36:03.633626   38720 datapack.go:66] Unpack read Data First [10][1500010116230a1b0917]
+I0927 10:36:03.633664   38720 datapack.go:83] Unpack read Data Two [25][010000000000010000000000080002]
+I0927 10:36:03.633829   38720 datapack.go:102] Unpack read Data [8][1c0116230a1b0917]
+I0927 10:36:03.633906   38720 datapack.go:123] Unpack CRC Data:Len:[1500010116230a1b09170100000000000100000000000800021c0116230a1b0917]
+I0927 10:36:03.633939   38720 datapack.go:124] Unpack CRC[3c:3c]
+I0927 10:36:03.633955   38720 firemessage.go:54] FireMessage.SetData:len[8][1c0116230a1b0917]
+I0927 10:36:03.634013   38720 datapack.go:130] Unpack Fire[&{Start:[64 64] Control:{SerialNumber:{SerialNumber:21} ProtocolVersion:{ProtocolVersion:[1 1]} TimeLabels:{TimeLabels:[22 35 10 27 9 23]} SourceAddress:{Address:{Address:[1 0 0 0 0 0]}} TargetAddress:{Address:{Address:[1 0 0 0 0 0]}} AppDataLen:{AppDataLen:8} ControlCommand:2} Data:[28 1 22 35 10 27 9 23] CRC:60 End:[35 35]}]
+I0927 10:36:03.634140   38720 msghandler.go:46] DoMsgRequestHandler = 0
+I0927 10:36:03.634158   38720 firerouter.go:17] Call fireRouter RequestHandle
+I0927 10:36:03.634171   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:36:03.634301   38720 firerouter.go:20] RequestHandle recv from client :data= 40401500010103240a1b0917010000000000010000000000000003882323
+I0927 10:36:03.634316   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:36:03.634383   38720 msghandler.go:61] DoMsgDataHandler = 0
+I0927 10:36:03.634398   38720 firerouter.go:30] Call fireRouter DataHandle
+I0927 10:36:03.634410   38720 firerouter.go:34] DataHandle recv from client :data= 1c0116230a1b0917
+I0927 10:36:28.639923   38720 datapack.go:52] Unpack read startData [64 64]
+I0927 10:36:28.639992   38720 datapack.go:66] Unpack read Data First [10][160001012f230a1b0917]
+I0927 10:36:28.640026   38720 datapack.go:83] Unpack read Data Two [25][010000000000010000000000080002]
+I0927 10:36:28.640274   38720 datapack.go:102] Unpack read Data [8][1c012f230a1b0917]
+I0927 10:36:28.640473   38720 datapack.go:123] Unpack CRC Data:Len:[160001012f230a1b09170100000000000100000000000800021c012f230a1b0917]
+I0927 10:36:28.640512   38720 datapack.go:124] Unpack CRC[6f:6f]
+I0927 10:36:28.640528   38720 firemessage.go:54] FireMessage.SetData:len[8][1c012f230a1b0917]
+I0927 10:36:28.640559   38720 datapack.go:130] Unpack Fire[&{Start:[64 64] Control:{SerialNumber:{SerialNumber:22} ProtocolVersion:{ProtocolVersion:[1 1]} TimeLabels:{TimeLabels:[47 35 10 27 9 23]} SourceAddress:{Address:{Address:[1 0 0 0 0 0]}} TargetAddress:{Address:{Address:[1 0 0 0 0 0]}} AppDataLen:{AppDataLen:8} ControlCommand:2} Data:[28 1 47 35 10 27 9 23] CRC:111 End:[35 35]}]
+I0927 10:36:28.640678   38720 msghandler.go:46] DoMsgRequestHandler = 0
+I0927 10:36:28.640694   38720 firerouter.go:17] Call fireRouter RequestHandle
+I0927 10:36:28.640707   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:36:28.640766   38720 firerouter.go:20] RequestHandle recv from client :data= 4040160001011c240a1b0917010000000000010000000000000003a22323
+I0927 10:36:28.640946   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:36:28.641024   38720 msghandler.go:61] DoMsgDataHandler = 0
+I0927 10:36:28.641040   38720 firerouter.go:30] Call fireRouter DataHandle
+I0927 10:36:28.641052   38720 firerouter.go:34] DataHandle recv from client :data= 1c012f230a1b0917
+I0927 10:36:53.647316   38720 datapack.go:52] Unpack read startData [64 64]
+I0927 10:36:53.647460   38720 datapack.go:66] Unpack read Data First [10][170001010c240a1b0917]
+I0927 10:36:53.647494   38720 datapack.go:83] Unpack read Data Two [25][010000000000010000000000080002]
+I0927 10:36:53.647671   38720 datapack.go:102] Unpack read Data [8][1c010c240a1b0917]
+I0927 10:36:53.647895   38720 datapack.go:123] Unpack CRC Data:Len:[170001010c240a1b09170100000000000100000000000800021c010c240a1b0917]
+I0927 10:36:53.647925   38720 datapack.go:124] Unpack CRC[2c:2c]
+I0927 10:36:53.647946   38720 firemessage.go:54] FireMessage.SetData:len[8][1c010c240a1b0917]
+I0927 10:36:53.647967   38720 datapack.go:130] Unpack Fire[&{Start:[64 64] Control:{SerialNumber:{SerialNumber:23} ProtocolVersion:{ProtocolVersion:[1 1]} TimeLabels:{TimeLabels:[12 36 10 27 9 23]} SourceAddress:{Address:{Address:[1 0 0 0 0 0]}} TargetAddress:{Address:{Address:[1 0 0 0 0 0]}} AppDataLen:{AppDataLen:8} ControlCommand:2} Data:[28 1 12 36 10 27 9 23] CRC:44 End:[35 35]}]
+I0927 10:36:53.648140   38720 msghandler.go:46] DoMsgRequestHandler = 0
+I0927 10:36:53.648161   38720 firerouter.go:17] Call fireRouter RequestHandle
+I0927 10:36:53.648175   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:36:53.648256   38720 firerouter.go:20] RequestHandle recv from client :data= 40401700010135240a1b0917010000000000010000000000000003bc2323
+I0927 10:36:53.648265   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:36:53.648336   38720 msghandler.go:61] DoMsgDataHandler = 0
+I0927 10:36:53.648348   38720 firerouter.go:30] Call fireRouter DataHandle
+I0927 10:36:53.648358   38720 firerouter.go:34] DataHandle recv from client :data= 1c010c240a1b0917
+I0927 10:37:13.904504   38720 datapack.go:52] Unpack read startData [64 64]
+I0927 10:37:13.904573   38720 datapack.go:66] Unpack read Data First [10][180001011f240a1b0917]
+I0927 10:37:13.904609   38720 datapack.go:83] Unpack read Data Two [25][0100000000000100000000000a0002]
+I0927 10:37:13.904733   38720 datapack.go:102] Unpack read Data [10][180101011e240a1b0917]
+I0927 10:37:13.904903   38720 datapack.go:123] Unpack CRC Data:Len:[180001011f240a1b09170100000000000100000000000a0002180101011e240a1b0917]
+I0927 10:37:13.904958   38720 datapack.go:124] Unpack CRC[52:52]
+I0927 10:37:13.904979   38720 firemessage.go:54] FireMessage.SetData:len[10][180101011e240a1b0917]
+I0927 10:37:13.905012   38720 datapack.go:130] Unpack Fire[&{Start:[64 64] Control:{SerialNumber:{SerialNumber:24} ProtocolVersion:{ProtocolVersion:[1 1]} TimeLabels:{TimeLabels:[31 36 10 27 9 23]} SourceAddress:{Address:{Address:[1 0 0 0 0 0]}} TargetAddress:{Address:{Address:[1 0 0 0 0 0]}} AppDataLen:{AppDataLen:10} ControlCommand:2} Data:[24 1 1 1 30 36 10 27 9 23] CRC:82 End:[35 35]}]
+I0927 10:37:13.905331   38720 msghandler.go:46] DoMsgRequestHandler = 0
+I0927 10:37:13.905349   38720 firerouter.go:17] Call fireRouter RequestHandle
+I0927 10:37:13.905362   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:37:13.905420   38720 firerouter.go:20] RequestHandle recv from client :data= 4040180001010d250a1b0917010000000000010000000000000003962323
+I0927 10:37:13.905812   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:37:13.905882   38720 msghandler.go:61] DoMsgDataHandler = 0
+I0927 10:37:13.905897   38720 firerouter.go:30] Call fireRouter DataHandle
+I0927 10:37:13.905909   38720 firerouter.go:34] DataHandle recv from client :data= 180101011e240a1b0917
+I0927 10:37:17.543908   38720 datapack.go:52] Unpack read startData [64 64]
+I0927 10:37:17.544126   38720 datapack.go:66] Unpack read Data First [10][1900010123240a1b0917]
+I0927 10:37:17.544175   38720 datapack.go:83] Unpack read Data Two [25][0100000000000100000000000a0002]
+I0927 10:37:17.544392   38720 datapack.go:102] Unpack read Data [10][1801010122240a1b0917]
+I0927 10:37:17.544617   38720 datapack.go:123] Unpack CRC Data:Len:[1900010123240a1b09170100000000000100000000000a00021801010122240a1b0917]
+I0927 10:37:17.544686   38720 datapack.go:124] Unpack CRC[5b:5b]
+I0927 10:37:17.544712   38720 firemessage.go:54] FireMessage.SetData:len[10][1801010122240a1b0917]
+I0927 10:37:17.544746   38720 datapack.go:130] Unpack Fire[&{Start:[64 64] Control:{SerialNumber:{SerialNumber:25} ProtocolVersion:{ProtocolVersion:[1 1]} TimeLabels:{TimeLabels:[35 36 10 27 9 23]} SourceAddress:{Address:{Address:[1 0 0 0 0 0]}} TargetAddress:{Address:{Address:[1 0 0 0 0 0]}} AppDataLen:{AppDataLen:10} ControlCommand:2} Data:[24 1 1 1 34 36 10 27 9 23] CRC:91 End:[35 35]}]
+I0927 10:37:17.544938   38720 msghandler.go:46] DoMsgRequestHandler = 0
+I0927 10:37:17.544963   38720 firerouter.go:17] Call fireRouter RequestHandle
+I0927 10:37:17.544981   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:37:17.545131   38720 firerouter.go:20] RequestHandle recv from client :data= 40401900010111250a1b09170100000000000100000000000000039b2323
+I0927 10:37:17.545147   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:37:17.545402   38720 msghandler.go:61] DoMsgDataHandler = 0
+I0927 10:37:17.545430   38720 firerouter.go:30] Call fireRouter DataHandle
+I0927 10:37:17.545447   38720 firerouter.go:34] DataHandle recv from client :data= 1801010122240a1b0917
+I0927 10:37:22.032747   38720 datapack.go:52] Unpack read startData [64 64]
+I0927 10:37:22.032839   38720 datapack.go:66] Unpack read Data First [10][1a00010127240a1b0917]
+I0927 10:37:22.032884   38720 datapack.go:83] Unpack read Data Two [25][010000000000010000000000090002]
+I0927 10:37:22.033213   38720 datapack.go:102] Unpack read Data [9][15014127240a1b0917]
+I0927 10:37:22.033299   38720 datapack.go:123] Unpack CRC Data:Len:[1a00010127240a1b091701000000000001000000000009000215014127240a1b0917]
+I0927 10:37:22.033398   38720 datapack.go:124] Unpack CRC[a0:a0]
+I0927 10:37:22.033419   38720 firemessage.go:54] FireMessage.SetData:len[9][15014127240a1b0917]
+I0927 10:37:22.033451   38720 datapack.go:130] Unpack Fire[&{Start:[64 64] Control:{SerialNumber:{SerialNumber:26} ProtocolVersion:{ProtocolVersion:[1 1]} TimeLabels:{TimeLabels:[39 36 10 27 9 23]} SourceAddress:{Address:{Address:[1 0 0 0 0 0]}} TargetAddress:{Address:{Address:[1 0 0 0 0 0]}} AppDataLen:{AppDataLen:9} ControlCommand:2} Data:[21 1 65 39 36 10 27 9 23] CRC:160 End:[35 35]}]
+I0927 10:37:22.033549   38720 msghandler.go:46] DoMsgRequestHandler = 0
+I0927 10:37:22.033565   38720 firerouter.go:17] Call fireRouter RequestHandle
+I0927 10:37:22.033577   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:37:22.033635   38720 firerouter.go:20] RequestHandle recv from client :data= 40401a00010116250a1b0917010000000000010000000000000003a12323
+I0927 10:37:22.033794   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:37:22.033865   38720 msghandler.go:61] DoMsgDataHandler = 0
+I0927 10:37:22.033879   38720 firerouter.go:30] Call fireRouter DataHandle
+I0927 10:37:22.033890   38720 firerouter.go:34] DataHandle recv from client :data= 15014127240a1b0917
+I0927 10:37:47.039450   38720 datapack.go:52] Unpack read startData [64 64]
+I0927 10:37:47.039520   38720 datapack.go:66] Unpack read Data First [10][1b00010105250a1b0917]
+I0927 10:37:47.039554   38720 datapack.go:83] Unpack read Data Two [25][010000000000010000000000080002]
+I0927 10:37:47.039668   38720 datapack.go:102] Unpack read Data [8][1c0105250a1b0917]
+I0927 10:37:47.039742   38720 datapack.go:123] Unpack CRC Data:Len:[1b00010105250a1b09170100000000000100000000000800021c0105250a1b0917]
+I0927 10:37:47.039774   38720 datapack.go:124] Unpack CRC[24:24]
+I0927 10:37:47.039825   38720 firemessage.go:54] FireMessage.SetData:len[8][1c0105250a1b0917]
+I0927 10:37:47.039860   38720 datapack.go:130] Unpack Fire[&{Start:[64 64] Control:{SerialNumber:{SerialNumber:27} ProtocolVersion:{ProtocolVersion:[1 1]} TimeLabels:{TimeLabels:[5 37 10 27 9 23]} SourceAddress:{Address:{Address:[1 0 0 0 0 0]}} TargetAddress:{Address:{Address:[1 0 0 0 0 0]}} AppDataLen:{AppDataLen:8} ControlCommand:2} Data:[28 1 5 37 10 27 9 23] CRC:36 End:[35 35]}]
+I0927 10:37:47.039965   38720 msghandler.go:46] DoMsgRequestHandler = 0
+I0927 10:37:47.039983   38720 firerouter.go:17] Call fireRouter RequestHandle
+I0927 10:37:47.039996   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:37:47.040056   38720 firerouter.go:20] RequestHandle recv from client :data= 40401b0001012f250a1b0917010000000000010000000000000003bb2323
+I0927 10:37:47.040070   38720 encoding.go:289] MarshalResp ControlCommand = 2
+I0927 10:37:47.040132   38720 msghandler.go:61] DoMsgDataHandler = 0
+I0927 10:37:47.040146   38720 firerouter.go:30] Call fireRouter DataHandle
+I0927 10:37:47.040158   38720 firerouter.go:34] DataHandle recv from client :data= 1c0105250a1b0917

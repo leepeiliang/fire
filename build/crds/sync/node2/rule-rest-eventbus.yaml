@@ -1,0 +1,12 @@
+apiVersion: rules.kubeedge.io/v1
+kind: Rule
+metadata:
+  name: config-rule
+  namespace: node2
+  labels:
+    description: restToEventbus
+spec:
+  source: "config-rest"
+  sourceResource: {"path":"/configmap"}
+  target: "config-eventbus"
+  targetResource: {"topic":"node2/devices-data-update"}

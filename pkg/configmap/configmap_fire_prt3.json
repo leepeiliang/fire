@@ -1,0 +1,113 @@
+{
+  "deviceInstances": [{
+    "id": "2.1907.1.2.3.1",
+    "name": "2.1907.1.2.3.1",
+    "protocol": "customized-protocol-2.1907.1.2.3.1",
+    "model": "2.1907.1.2.3.1-fire",
+    "data": {
+      "dataProperties": [{
+        "propertyName": "2.1907.1.2.3.1.2.12.2.1",
+        "metadata": {
+          "deviceID": "2.1907.1.2.3.1",
+          "deviceType": "1.2.3.1",
+          "multi": "false"
+        }
+      }, {
+        "propertyName": "2.1907.1.2.3.1.2.12.2.2",
+        "metadata": {
+          "deviceID": "2.1907.1.2.3.1",
+          "deviceType": "1.2.3.1",
+          "multi": "false"
+        }
+      }, {
+        "propertyName": "2.1907.1.2.3.1.2.12.2.3",
+        "metadata": {
+          "deviceID": "2.1907.1.2.3.1",
+          "deviceType": "1.2.3.1",
+          "multi": "false"
+        }
+      }, {
+        "propertyName": "2.1907.1.2.3.1.2.12.2.4",
+        "metadata": {
+          "deviceID": "2.1907.1.2.3.1",
+          "deviceType": "1.2.3.1",
+          "multi": "false"
+        }
+      }],
+      "dataTopic": "edgeplanet/groups-devices-data-update"
+    },
+    "propertyVisitors": [{
+      "name": "2.1907.1.2.3.1.2.12.2.1",
+      "propertyName": "2.1907.1.2.3.1.2.12.2.1",
+      "modelName": "2.1907.1.2.3.1-fire",
+      "customizedValues": {
+        "cmdbName": "A项电能-设备状态",
+        "fireAddress": "9-#-#-#-0-0-#-#-#-#-13160-#-#-#-0-#",
+        "multi": false
+      }
+    }, {
+      "name": "2.1907.1.2.3.1.2.12.2.2",
+      "propertyName": "2.1907.1.2.3.1.2.12.2.2",
+      "modelName": "2.1907.1.2.3.1-fire",
+      "customizedValues": {
+        "cmdbName": "A项电能-设备告警状态",
+        "fireAddress": "9-#-#-#-0-0-#-#-#-#-13160-#-#-#-1-#",
+        "multi": false
+      }
+    }, {
+      "name": "2.1907.1.2.3.1.2.12.2.3",
+      "propertyName": "2.1907.1.2.3.1.2.12.2.3",
+      "modelName": "2.1907.1.2.3.1-fire",
+      "customizedValues": {
+        "cmdbName": "A项电能-设备故障",
+        "fireAddress": "9-#-#-#-0-0-#-#-#-#-13160-#-#-#-2-#",
+        "multi": false
+      }
+    }, {
+      "name": "2.1907.1.2.3.1.2.12.2.4",
+      "propertyName": "2.1907.1.2.3.1.2.12.2.4",
+      "modelName": "2.1907.1.2.3.1-fire",
+      "customizedValues": {
+        "cmdbName": "A项电能-操作设备",
+        "fireAddress": "9-#-#-#-0-0-#-#-#-#-13160-#-#-#-3-#",
+        "multi": false
+      }
+    }]
+  }],
+  "deviceModels": [{
+    "name": "2.1907.1.2.3.1-fire",
+    "properties": [{
+      "name": "2.1907.1.2.3.1.2.12.2.1",
+      "dataType": "boolean",
+      "description": "A项电能-设备状态",
+      "accessMode": "ReadOnly",
+      "defaultValue": false
+    }, {
+      "name": "2.1907.1.2.3.1.2.12.2.2",
+      "dataType": "boolean",
+      "description": "A项电能-设备告警状态",
+      "accessMode": "ReadOnly",
+      "defaultValue": false
+    }, {
+      "name": "2.1907.1.2.3.1.2.12.2.3",
+      "dataType": "boolean",
+      "description": "A项电能-设备故障",
+      "accessMode": "ReadOnly",
+      "defaultValue": false
+    }, {
+      "name": "2.1907.1.2.3.1.2.12.2.4",
+      "dataType": "boolean",
+      "description": "A项电能-操作设备",
+      "accessMode": "ReadOnly",
+      "defaultValue": false
+    }]
+  }],
+  "protocols": [{
+    "name": "customized-protocol-2.1907.1.2.3.1",
+    "protocol": "customized-protocol",
+    "protocolConfig": {
+      "protocolName": "fire"
+    },
+    "protocolCommonConfig": {}
+  }]
+}

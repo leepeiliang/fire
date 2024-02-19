@@ -1,0 +1,654 @@
+{
+  "deviceInstances": [{
+    "id": "2.1907.1.2.3.1",
+    "name": "2.1907.1.2.3.1",
+    "protocol": "customized-protocol-2.1907.1.2.3.1",
+    "model": "2.1907.1.2.3.1-fire",
+    "data": {
+      "dataProperties": [
+        {
+        "propertyName": "2.1907.1.2.3.1.2.1.2.130",
+        "metadata": {
+          "deviceId": "2.1907.1.2.3.1",
+          "deviceType": "1.2.3.1",
+          "multi": "false"
+        }
+      }, {
+        "propertyName": "2.1907.1.2.3.1.2.1.2.134",
+        "metadata": {
+          "deviceId": "2.1907.1.2.3.1",
+          "deviceType": "1.2.3.1",
+          "multi": "false"
+        }
+      }, {
+        "propertyName": "2.1907.1.2.3.1.2.1.2.141",
+        "metadata": {
+          "deviceId": "2.1907.1.2.3.1",
+          "deviceType": "1.2.3.1",
+          "multi": "false"
+        }
+      }, {
+        "propertyName": "2.1907.1.2.3.1.2.1.2.143",
+        "metadata": {
+          "deviceId": "2.1907.1.2.3.1",
+          "deviceType": "1.2.3.1",
+          "multi": "false"
+        }
+      }, {
+        "propertyName": "2.1907.1.2.3.1.2.1.2.144",
+        "metadata": {
+          "deviceId": "2.1907.1.2.3.1",
+          "deviceType": "1.2.3.1",
+          "multi": "false"
+        }
+      }, {
+        "propertyName": "2.1907.1.2.3.1.2.1.2.148",
+        "metadata": {
+          "deviceId": "2.1907.1.2.3.1",
+          "deviceType": "1.2.3.1",
+          "multi": "false"
+        }
+      }, {
+        "propertyName": "2.1907.1.2.3.1.2.1.2.149",
+        "metadata": {
+          "deviceId": "2.1907.1.2.3.1",
+          "deviceType": "1.2.3.1",
+          "multi": "false"
+        }
+      }, {
+        "propertyName": "2.1907.1.2.3.1.2.1.2.150",
+        "metadata": {
+          "deviceId": "2.1907.1.2.3.1",
+          "deviceType": "1.2.3.1",
+          "multi": "false"
+        }
+      }, {
+        "propertyName": "2.1907.1.2.3.1.2.1.2.151",
+        "metadata": {
+          "deviceId": "2.1907.1.2.3.1",
+          "deviceType": "1.2.3.1",
+          "multi": "false"
+        }
+      }, {
+        "propertyName": "2.1907.1.2.3.1.2.1.2.152",
+        "metadata": {
+          "deviceId": "2.1907.1.2.3.1",
+          "deviceType": "1.2.3.1",
+          "multi": "false"
+        }
+      }, {
+        "propertyName": "2.1907.1.2.3.1.2.1.2.153",
+        "metadata": {
+          "deviceId": "2.1907.1.2.3.1",
+          "deviceType": "1.2.3.1",
+          "multi": "false"
+        }
+      }, {
+        "propertyName": "2.1907.1.2.3.1.2.1.0.177",
+        "metadata": {
+          "deviceId": "2.1907.1.2.3.1",
+          "deviceType": "1.2.3.1",
+          "multi": "false"
+        }
+      }, {
+        "propertyName": "2.1907.1.2.3.1.2.1.1.177",
+        "metadata": {
+          "deviceId": "2.1907.1.2.3.1",
+          "deviceType": "1.2.3.1",
+          "multi": "false"
+        }
+      }, {
+        "propertyName": "2.1907.1.2.3.1.2.1.2.177",
+        "metadata": {
+          "deviceId": "2.1907.1.2.3.1",
+          "deviceType": "1.2.3.1",
+          "multi": "false"
+        }
+      }, {
+        "propertyName": "2.1907.1.2.3.1.2.1.3.177",
+        "metadata": {
+          "deviceId": "2.1907.1.2.3.1",
+          "deviceType": "1.2.3.1",
+          "multi": "false"
+        }
+      }, {
+        "propertyName": "2.1907.1.2.3.1.2.1.4.177",
+        "metadata": {
+          "deviceId": "2.1907.1.2.3.1",
+          "deviceType": "1.2.3.1",
+          "multi": "false"
+        }
+      }, {
+        "propertyName": "2.1907.1.2.3.1.2.1.5.177",
+        "metadata": {
+          "deviceId": "2.1907.1.2.3.1",
+          "deviceType": "1.2.3.1",
+          "multi": "false"
+        }
+      }, {
+        "propertyName": "2.1907.1.2.3.1.2.1.6.177",
+        "metadata": {
+          "deviceId": "2.1907.1.2.3.1",
+          "deviceType": "1.2.3.1",
+          "multi": "false"
+        }
+      }, {
+        "propertyName": "2.1907.1.2.3.1.2.1.7.177",
+        "metadata": {
+          "deviceId": "2.1907.1.2.3.1",
+          "deviceType": "1.2.3.1",
+          "multi": "false"
+        }
+      }, {
+        "propertyName": "2.1907.1.2.3.1.2.1.8.177",
+        "metadata": {
+          "deviceId": "2.1907.1.2.3.1",
+          "deviceType": "1.2.3.1",
+          "multi": "false"
+        }
+      }, {
+        "propertyName": "2.1907.1.2.3.1.2.1.9.177",
+        "metadata": {
+          "deviceId": "2.1907.1.2.3.1",
+          "deviceType": "1.2.3.1",
+          "multi": "false"
+        }
+      }, {
+        "propertyName": "2.1907.1.2.3.1.2.1.10.177",
+        "metadata": {
+          "deviceId": "2.1907.1.2.3.1",
+          "deviceType": "1.2.3.1",
+          "multi": "false"
+        }
+      }, {
+        "propertyName": "2.1907.1.2.3.1.2.1.11.177",
+        "metadata": {
+          "deviceId": "2.1907.1.2.3.1",
+          "deviceType": "1.2.3.1",
+          "multi": "false"
+        }
+      }, {
+        "propertyName": "2.1907.1.2.3.1.2.1.12.177",
+        "metadata": {
+          "deviceId": "2.1907.1.2.3.1",
+          "deviceType": "1.2.3.1",
+          "multi": "false"
+        }
+      }, {
+        "propertyName": "2.1907.1.2.3.1.2.1.13.177",
+        "metadata": {
+          "deviceId": "2.1907.1.2.3.1",
+          "deviceType": "1.2.3.1",
+          "multi": "false"
+        }
+      }, {
+        "propertyName": "2.1907.1.2.3.1.2.1.14.177",
+        "metadata": {
+          "deviceId": "2.1907.1.2.3.1",
+          "deviceType": "1.2.3.1",
+          "multi": "false"
+        }
+      }, {
+        "propertyName": "2.1907.1.2.3.1.2.1.15.177",
+        "metadata": {
+          "deviceId": "2.1907.1.2.3.1",
+          "deviceType": "1.2.3.1",
+          "multi": "false"
+        }
+      }
+      ],
+      "dataTopic": "edgeplanet/groups-devices-data-update"
+    },
+    "propertyVisitors": [
+      {
+      "name": "2.1907.1.2.3.1.2.1.2.130",
+      "propertyName": "2.1907.1.2.3.1.2.1.2.130",
+      "modelName": "2.1907.1.2.3.1-fire",
+      "protocol": "customized-protocol",
+      "customizedValues": {
+        "cmdbName": "剩余电流i1",
+        "multi": false,
+        "fireAddress": "3-129-3-#-#-17-15270820-#-#-#-#-#-#-#-#-130"
+      }
+    }, {
+      "name": "2.1907.1.2.3.1.2.1.2.134",
+      "propertyName": "2.1907.1.2.3.1.2.1.2.134",
+      "modelName": "2.1907.1.2.3.1-fire",
+      "protocol": "customized-protocol",
+      "customizedValues": {
+        "cmdbName": "温度T1",
+        "multi": false,
+        "fireAddress": "3-129-3-#-#-17-15270820-#-#-#-#-#-#-#-#-134"
+      }
+    }, {
+      "name": "2.1907.1.2.3.1.2.1.2.141",
+      "propertyName": "2.1907.1.2.3.1.2.1.2.141",
+      "modelName": "2.1907.1.2.3.1-fire",
+      "protocol": "customized-protocol",
+      "customizedValues": {
+        "cmdbName": "温度T2",
+        "multi": false,
+        "fireAddress": "3-129-3-#-#-17-15270820-#-#-#-#-#-#-#-#-141"
+      }
+    }, {
+        "name": "2.1907.1.2.3.1.2.1.2.143",
+        "propertyName": "2.1907.1.2.3.1.2.1.2.143",
+        "modelName": "2.1907.1.2.3.1-fire",
+        "protocol": "customized-protocol",
+        "customizedValues": {
+          "cmdbName": "温度T3",
+          "multi": false,
+          "fireAddress": "3-129-3-#-#-17-15270820-#-#-#-#-#-#-#-#-143"
+        }
+      }, {
+        "name": "2.1907.1.2.3.1.2.1.2.144",
+        "propertyName": "2.1907.1.2.3.1.2.1.2.144",
+        "modelName": "2.1907.1.2.3.1-fire",
+        "protocol": "customized-protocol",
+        "customizedValues": {
+          "cmdbName": "温度T4",
+          "multi": false,
+          "fireAddress": "3-129-3-#-#-17-15270820-#-#-#-#-#-#-#-#-144"
+        }
+      }, {
+        "name": "2.1907.1.2.3.1.2.1.2.148",
+        "propertyName": "2.1907.1.2.3.1.2.1.2.148",
+        "modelName": "2.1907.1.2.3.1-fire",
+        "protocol": "customized-protocol",
+        "customizedValues": {
+          "cmdbName": "Ua",
+          "multi": false,
+          "fireAddress": "3-129-3-#-#-17-15270820-#-#-#-#-#-#-#-#-148"
+        }
+      }, {
+        "name": "2.1907.1.2.3.1.2.1.2.149",
+        "propertyName": "2.1907.1.2.3.1.2.1.2.149",
+        "modelName": "2.1907.1.2.3.1-fire",
+        "protocol": "customized-protocol",
+        "customizedValues": {
+          "cmdbName": "Ub",
+          "multi": false,
+          "fireAddress": "3-129-3-#-#-17-15270820-#-#-#-#-#-#-#-#-149"
+        }
+      }, {
+        "name": "2.1907.1.2.3.1.2.1.2.150",
+        "propertyName": "2.1907.1.2.3.1.2.1.2.150",
+        "modelName": "2.1907.1.2.3.1-fire",
+        "protocol": "customized-protocol",
+        "customizedValues": {
+          "cmdbName": "Uc",
+          "multi": false,
+          "fireAddress": "3-129-3-#-#-17-15270820-#-#-#-#-#-#-#-#-150"
+        }
+      }, {
+        "name": "2.1907.1.2.3.1.2.1.2.151",
+        "propertyName": "2.1907.1.2.3.1.2.1.2.151",
+        "modelName": "2.1907.1.2.3.1-fire",
+        "protocol": "customized-protocol",
+        "customizedValues": {
+          "cmdbName": "Ia",
+          "multi": false,
+          "fireAddress": "3-129-3-#-#-17-15270820-#-#-#-#-#-#-#-#-151"
+        }
+      }, {
+        "name": "2.1907.1.2.3.1.2.1.2.152",
+        "propertyName": "2.1907.1.2.3.1.2.1.2.152",
+        "modelName": "2.1907.1.2.3.1-fire",
+        "protocol": "customized-protocol",
+        "customizedValues": {
+          "cmdbName": "Ib",
+          "multi": false,
+          "fireAddress": "3-129-3-#-#-17-15270820-#-#-#-#-#-#-#-#-152"
+        }
+      }, {
+        "name": "2.1907.1.2.3.1.2.1.2.153",
+        "propertyName": "2.1907.1.2.3.1.2.1.2.153",
+        "modelName": "2.1907.1.2.3.1-fire",
+        "protocol": "customized-protocol",
+        "customizedValues": {
+          "cmdbName": "Ic",
+          "multi": false,
+          "fireAddress": "3-129-3-#-#-17-15270820-#-#-#-#-#-#-#-#-153"
+        }
+      }, {
+        "name": "2.1907.1.2.3.1.2.1.0.177",
+        "propertyName": "2.1907.1.2.3.1.2.1.0.177",
+        "modelName": "2.1907.1.2.3.1-fire",
+        "protocol": "customized-protocol",
+        "customizedValues": {
+          "cmdbName": "i1路剩余电流报警",
+          "multi": false,
+          "fireAddress": "3-129-3-#-#-17-15270820-#-#-#-#-#-#-#-0-177"
+        }
+      }, {
+        "name": "2.1907.1.2.3.1.2.1.1.177",
+        "propertyName": "2.1907.1.2.3.1.2.1.1.177",
+        "modelName": "2.1907.1.2.3.1-fire",
+        "protocol": "customized-protocol",
+        "customizedValues": {
+          "cmdbName": "i2路剩余电流报警",
+          "multi": false,
+          "fireAddress": "3-129-3-#-#-17-15270820-#-#-#-#-#-#-#-1-177"
+        }
+      },{
+        "name": "2.1907.1.2.3.1.2.1.2.177",
+        "propertyName": "2.1907.1.2.3.1.2.1.2.177",
+        "modelName": "2.1907.1.2.3.1-fire",
+        "protocol": "customized-protocol",
+        "customizedValues": {
+          "cmdbName": "i3路剩余电流报警",
+          "multi": false,
+          "fireAddress": "3-129-3-#-#-17-15270820-#-#-#-#-#-#-#-2-177"
+        }
+      },{
+        "name": "2.1907.1.2.3.1.2.1.3.177",
+        "propertyName": "2.1907.1.2.3.1.2.1.3.177",
+        "modelName": "2.1907.1.2.3.1-fire",
+        "protocol": "customized-protocol",
+        "customizedValues": {
+          "cmdbName": "i4路剩余电流报警",
+          "multi": false,
+          "fireAddress": "3-129-3-#-#-17-15270820-#-#-#-#-#-#-#-3-177"
+        }
+      },{
+        "name": "2.1907.1.2.3.1.2.1.4.177",
+        "propertyName": "2.1907.1.2.3.1.2.1.4.177",
+        "modelName": "2.1907.1.2.3.1-fire",
+        "protocol": "customized-protocol",
+        "customizedValues": {
+          "cmdbName": "i5路剩余电流报警",
+          "multi": false,
+          "fireAddress": "3-129-3-#-#-17-15270820-#-#-#-#-#-#-#-4-177"
+        }
+      },{
+        "name": "2.1907.1.2.3.1.2.1.5.177",
+        "propertyName": "2.1907.1.2.3.1.2.1.5.177",
+        "modelName": "2.1907.1.2.3.1-fire",
+        "protocol": "customized-protocol",
+        "customizedValues": {
+          "cmdbName": "i6路剩余电流报警",
+          "multi": false,
+          "fireAddress": "3-129-3-#-#-17-15270820-#-#-#-#-#-#-#-5-177"
+        }
+      },{
+        "name": "2.1907.1.2.3.1.2.1.6.177",
+        "propertyName": "2.1907.1.2.3.1.2.1.6.177",
+        "modelName": "2.1907.1.2.3.1-fire",
+        "protocol": "customized-protocol",
+        "customizedValues": {
+          "cmdbName": "i7路剩余电流报警",
+          "multi": false,
+          "fireAddress": "3-129-3-#-#-17-15270820-#-#-#-#-#-#-#-6-177"
+        }
+      },{
+        "name": "2.1907.1.2.3.1.2.1.7.177",
+        "propertyName": "2.1907.1.2.3.1.2.1.7.177",
+        "modelName": "2.1907.1.2.3.1-fire",
+        "protocol": "customized-protocol",
+        "customizedValues": {
+          "cmdbName": "i8路剩余电流报警",
+          "multi": false,
+          "fireAddress": "3-129-3-#-#-17-15270820-#-#-#-#-#-#-#-7-177"
+        }
+      },{
+        "name": "2.1907.1.2.3.1.2.1.8.177",
+        "propertyName": "2.1907.1.2.3.1.2.1.8.177",
+        "modelName": "2.1907.1.2.3.1-fire",
+        "protocol": "customized-protocol",
+        "customizedValues": {
+          "cmdbName": "i1路剩余电流故障",
+          "multi": false,
+          "fireAddress": "3-129-3-#-#-17-15270820-#-#-#-#-#-#-#-8-177"
+        }
+      }, {
+        "name": "2.1907.1.2.3.1.2.1.9.177",
+        "propertyName": "2.1907.1.2.3.1.2.1.9.177",
+        "modelName": "2.1907.1.2.3.1-fire",
+        "protocol": "customized-protocol",
+        "customizedValues": {
+          "cmdbName": "i2路剩余电流故障",
+          "multi": false,
+          "fireAddress": "3-129-3-#-#-17-15270820-#-#-#-#-#-#-#-9-177"
+        }
+      }, {
+        "name": "2.1907.1.2.3.1.2.1.10.177",
+        "propertyName": "2.1907.1.2.3.1.2.1.10.177",
+        "modelName": "2.1907.1.2.3.1-fire",
+        "protocol": "customized-protocol",
+        "customizedValues": {
+          "cmdbName": "i3路剩余电流故障",
+          "multi": false,
+          "fireAddress": "3-129-3-#-#-17-15270820-#-#-#-#-#-#-#-10-177"
+        }
+      }, {
+        "name": "2.1907.1.2.3.1.2.1.11.177",
+        "propertyName": "2.1907.1.2.3.1.2.1.11.177",
+        "modelName": "2.1907.1.2.3.1-fire",
+        "protocol": "customized-protocol",
+        "customizedValues": {
+          "cmdbName": "i4路剩余电流故障",
+          "multi": false,
+          "fireAddress": "3-129-3-#-#-17-15270820-#-#-#-#-#-#-#-11-177"
+        }
+      }, {
+        "name": "2.1907.1.2.3.1.2.1.12.177",
+        "propertyName": "2.1907.1.2.3.1.2.1.12.177",
+        "modelName": "2.1907.1.2.3.1-fire",
+        "protocol": "customized-protocol",
+        "customizedValues": {
+          "cmdbName": "i5路剩余电流故障",
+          "multi": false,
+          "fireAddress": "3-129-3-#-#-17-15270820-#-#-#-#-#-#-#-12-177"
+        }
+      }, {
+        "name": "2.1907.1.2.3.1.2.1.13.177",
+        "propertyName": "2.1907.1.2.3.1.2.1.13.177",
+        "modelName": "2.1907.1.2.3.1-fire",
+        "protocol": "customized-protocol",
+        "customizedValues": {
+          "cmdbName": "i6路剩余电流故障",
+          "multi": false,
+          "fireAddress": "3-129-3-#-#-17-15270820-#-#-#-#-#-#-#-13-177"
+        }
+      }, {
+        "name": "2.1907.1.2.3.1.2.1.14.177",
+        "propertyName": "2.1907.1.2.3.1.2.1.14.177",
+        "modelName": "2.1907.1.2.3.1-fire",
+        "protocol": "customized-protocol",
+        "customizedValues": {
+          "cmdbName": "i7路剩余电流故障",
+          "multi": false,
+          "fireAddress": "3-129-3-#-#-17-15270820-#-#-#-#-#-#-#-14-177"
+        }
+      }, {
+        "name": "2.1907.1.2.3.1.2.1.15.177",
+        "propertyName": "2.1907.1.2.3.1.2.1.15.177",
+        "modelName": "2.1907.1.2.3.1-fire",
+        "protocol": "customized-protocol",
+        "customizedValues": {
+          "cmdbName": "i8路剩余电流故障",
+          "multi": false,
+          "fireAddress": "3-129-3-#-#-17-15270820-#-#-#-#-#-#-#-15-177"
+        }
+      }]
+  }
+  ],
+  "deviceModels": [
+    {
+    "name": "2.1907.1.2.3.1-fire",
+    "properties": [{
+      "name": "2.1907.1.2.3.1.2.1.2.130",
+      "dataType": "float",
+      "description": "运行状态",
+      "accessMode": "ReadOnly"
+    }, {
+      "name": "2.1907.1.2.3.1.2.1.2.134",
+      "dataType": "float",
+      "description": "火警",
+      "accessMode": "ReadOnly"
+
+    }, {
+      "name": "2.1907.1.2.3.1.2.1.2.141",
+      "dataType": "float",
+      "description": "故障",
+      "accessMode": "ReadOnly"
+
+    }, {
+      "name": "2.1907.1.2.3.1.2.1.2.143",
+      "dataType": "float",
+      "description": "屏蔽",
+      "accessMode": "ReadOnly"
+
+    }, {
+        "name": "2.1907.1.2.3.1.2.1.2.144",
+        "dataType": "float",
+        "description": "监管",
+        "accessMode": "ReadOnly"
+
+      }, {
+        "name": "2.1907.1.2.3.1.2.1.2.148",
+        "dataType": "float",
+        "description": "启动",
+        "accessMode": "ReadOnly"
+
+      }
+    , {
+        "name": "2.1907.1.2.3.1.2.1.2.149",
+        "dataType": "float",
+        "description": "反馈",
+        "accessMode": "ReadOnly"
+
+      }, {
+        "name": "2.1907.1.2.3.1.2.1.2.150",
+        "dataType": "float",
+        "description": "延时状态",
+        "accessMode": "ReadOnly"
+
+      }, {
+        "name": "2.1907.1.2.3.1.2.1.2.151",
+        "dataType": "float",
+        "description": "Ia",
+        "accessMode": "ReadOnly"
+
+      }, {
+        "name": "2.1907.1.2.3.1.2.1.2.152",
+        "dataType": "float",
+        "description": "Ib",
+        "accessMode": "ReadOnly"
+
+      },
+      {
+        "name": "2.1907.1.2.3.1.2.1.2.153",
+        "dataType": "float",
+        "description": "Ic",
+        "accessMode": "ReadOnly"
+
+      },
+      {
+        "name": "2.1907.1.2.3.1.2.1.0.177",
+        "dataType": "bool",
+        "description": "i1路剩余电流报警",
+        "accessMode": "ReadOnly"
+
+      },{
+        "name": "2.1907.1.2.3.1.2.1.1.177",
+        "dataType": "bool",
+        "description": "i2路剩余电流报警",
+        "accessMode": "ReadOnly"
+
+      },{
+        "name": "2.1907.1.2.3.1.2.1.2.177",
+        "dataType": "bool",
+        "description": "i3路剩余电流报警",
+        "accessMode": "ReadOnly"
+
+      },{
+        "name": "2.1907.1.2.3.1.2.1.3.177",
+        "dataType": "bool",
+        "description": "i4路剩余电流报警",
+        "accessMode": "ReadOnly"
+
+      },{
+        "name": "2.1907.1.2.3.1.2.1.4.177",
+        "dataType": "bool",
+        "description": "i5路剩余电流报警",
+        "accessMode": "ReadOnly"
+
+      },{
+        "name": "2.1907.1.2.3.1.2.1.5.177",
+        "dataType": "bool",
+        "description": "i6路剩余电流报警",
+        "accessMode": "ReadOnly"
+
+      },{
+        "name": "2.1907.1.2.3.1.2.1.6.177",
+        "dataType": "bool",
+        "description": "i7路剩余电流报警",
+        "accessMode": "ReadOnly"
+
+      },{
+        "name": "2.1907.1.2.3.1.2.1.7.177",
+        "dataType": "bool",
+        "description": "i8路剩余电流报警",
+        "accessMode": "ReadOnly"
+
+      },{
+        "name": "2.1907.1.2.3.1.2.1.8.177",
+        "dataType": "bool",
+        "description": "i1路剩余电流故障",
+        "accessMode": "ReadOnly"
+
+      },{
+        "name": "2.1907.1.2.3.1.2.1.9.177",
+        "dataType": "bool",
+        "description": "i2路剩余电流故障",
+        "accessMode": "ReadOnly"
+
+      },{
+        "name": "2.1907.1.2.3.1.2.1.10.177",
+        "dataType": "bool",
+        "description": "i3路剩余电流故障",
+        "accessMode": "ReadOnly"
+
+      },{
+        "name": "2.1907.1.2.3.1.2.1.11.177",
+        "dataType": "bool",
+        "description": "i4路剩余电流故障",
+        "accessMode": "ReadOnly"
+
+      },{
+        "name": "2.1907.1.2.3.1.2.1.12.177",
+        "dataType": "bool",
+        "description": "i5路剩余电流故障",
+        "accessMode": "ReadOnly"
+
+      },{
+        "name": "2.1907.1.2.3.1.2.1.13.177",
+        "dataType": "bool",
+        "description": "i6路剩余电流报警",
+        "accessMode": "ReadOnly"
+
+      },{
+        "name": "2.1907.1.2.3.1.2.1.14.177",
+        "dataType": "bool",
+        "description": "i7路剩余电流报警",
+        "accessMode": "ReadOnly"
+
+      },{
+        "name": "2.1907.1.2.3.1.2.1.15.177",
+        "dataType": "bool",
+        "description": "i8路剩余电流报警",
+        "accessMode": "ReadOnly"
+
+      }]
+  }],
+  "protocols": [{
+    "name": "customized-protocol-2.1907.1.2.3.1",
+    "protocol": "customized-protocol",
+    "protocolConfig": {
+      "protocolName": "fire"
+    },
+    "protocolCommonConfig": {
+    }
+  }]
+}

@@ -1,0 +1,12 @@
+apiVersion: rules.kubeedge.io/v1
+kind: Rule
+metadata:
+  name: fire-rule
+  namespace: up
+  labels:
+    description: restToEventbus
+spec:
+  source: "fire-rest"
+  sourceResource: {"path":"/fire"}
+  target: "fire-eventbus"
+  targetResource: {"topic":"m6v3floors12/groups-devices-data-update"}

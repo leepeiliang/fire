@@ -1,0 +1,5132 @@
+?n??>W?n?n0?=??>Z?ZnZnZn1?¿È?>?Z?nZ.?Z.?=·ÈZ>?±Ú>Wn<?nÇÆ>óÚC>W?n?.1=ÇÆ???Zn?>?>?<ÇÆn?±Ú.?.>ÂÚn¿È?n?±Ú>W>?>?n??>?Z?ZnZ.?=BZ.ÇÆn?Z?nZnn2Z.ÇÆ?n?>Wn>?n¿îÒÒn?C<Wn>BZn¿ÈB=?Z?ZnZnZ.½Æ??n?Z?Z>W>?Z>?<ÇÆn?CWnnZn??=?³Ún>ÒÚn0>ÇÆZn?C>Wn=Z.½ÆZn?>Wn>?n·Ê??³Ún?>ÒÚ>?n??>óÚC?nW?n?n2?>ÇÆ>?Z?nZn<?n?ÊÚn?±Ún>ÒÚ>?nÇÎ?>óÚ?=?.?n2>ÇÆn?£Ú.>ÒÚn2>ÇÆn?³Ú.W>ÒÚn2?n½ÆZ.?ZC?>WZn?n2?>ÇÆn??>W>?>?nÇÎ>?Zn.R<?Zn¿È?nµÚC=Wn<"?n·È[=óÚ?n?n?n2<??BB???>?Z?n?nn">ÇÆ>?RC=RnnBRn??R>óÒC>WnnB?n½ÆR.?R?Rn>?R.?=ÇÈn?RC>W<?R.?<??n?C=?n<ÂÒ.?n??RnRnRn2?.ÇÆ?n?RC?>W?<?n"?<ÇÎR.?R?nRn?n"?=ÇÆ?n??R.W?nR?>BRn½ÆRn??>W?>?Rn2?n??R.?RC?>W?<?=?n??n??n?nn?n½î?>?RC?=?n??Rn¿ÆRn??>W?nRnRn¿È?.??>W?<?=?Rn·Ên?CR.>?>???BB?V.?C?.W=?V.?n½Èc?c??c??C?Ëãcc;>óÖC?n?.ÇÆn?³Ön>ÒÖ.1>ÇÆVn??V.>?>?Vn·È?=óÖ³Ön?.n2?<ÇÆ?n?±Ö>W?>ÒÖn2?>ÇÆ?=óÖ£Ön?n?n2?>ÇÆ?n?C?.?=?n2?<ÇÆ?cÖÓ???n?.?>?>ÇÆn³ÖC?n?>ÒÖn0?>ÇÆo????<?³Ö>W?nÒÖ>?=??c+?gÃïc?V.VC?=VnVn2?<ÇÆ?c???co?Kg?Ó§Ëê+?S?gË×???????÷ï???Áã????g?§ÀO?ËêAS?S???³Ö.?>ÒÖ.1?n·È?k?F?occ?Ãã??og?ëãw??S?Ëï<?V?nW?<"o???cV>ÇÆ??##c;oc?[?c?>?=WnV.0?cnÇÆ?co#n?±Ö.>ÒÖ.?c?o??S??o?c??c?o?G?So??coc?oc???S?c?o?ãê??R????Ò£???o#??R?BB??BBVRR???BJB?1BB?R????B?BB??c?¹Ò?BB?2BB6R???R?+??k??k?V??V?+???????VnVn?B?cVn½Æ??V>WV>?V.ÂÖ>ÇÆ?oc?o?G?n??^n^n?n2[2023-08-07 14:54:01.228] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+[2023-08-07 14:54:14.225] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 14:54:14.226] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 14:54:14.226] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.82
+
+[2023-08-07 14:54:14.226] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 14:54:14.226] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 14:54:14.844] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 14:54:24.869] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 14:54:24.869] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 14:54:24.870] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.82
+
+[2023-08-07 14:54:24.870] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 14:54:24.870] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+[2023-08-07 14:54:24.504] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 14:54:31.525] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 14:54:31.525] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 14:54:31.526] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.82
+
+[2023-08-07 14:54:31.526] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 14:54:31.526] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+[2023-08-07 14:54:31.528] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+[2023-08-07 14:54:44.829] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 14:54:44.829] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 14:54:44.829] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.82
+
+[2023-08-07 14:54:44.830] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 14:54:44.830] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+[2023-08-07 14:54:44.997] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 14:55:00.021] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 14:55:00.022] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 14:55:00.022] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.82
+
+[2023-08-07 14:55:00.022] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 14:55:00.022] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 14:55:00.280] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 14:55:16.277] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 14:55:16.277] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 14:55:16.278] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.82
+
+[2023-08-07 14:55:16.278] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 14:55:16.278] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+[2023-08-07 14:55:16.292] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+[2023-08-07 14:55:35.273] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 14:55:35.273] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 14:55:35.274] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.82
+
+[2023-08-07 14:55:35.274] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 14:55:35.274] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+signalling USER1
+
+*** services stop_prc_app
+*** services stop_prc_app
+*** services start_prc_app
+*** services start_prc_app ... 
+[0000-00-00 00:00:00.586] dev0 path is :/dev/ttyS2
+
+[0000-00-00 00:00:00.587] fcntl=0
+[0000-00-00 00:00:00.587] isatty success!
+[0000-00-00 00:00:00.588] fd->open=6
+[0000-00-00 00:00:00.588] Set Port /dev/ttyS2 Exactly!
+[0000-00-00 00:00:00.588] ########## create pthread Mid_DT_Thread_ttyS0Rec ##########
+[0000-00-00 00:00:00.588] MID-DATATRANS INIT OK!!!
+
+devaddr=FF1280512511
+[0000-00-00 00:00:00.180] Ïò²É¼¯°å·¢ËÍ²ÎÊý³É¹¦!!!
+
+[0000-00-00 00:00:00.180]  
+
+
+
+00 00 00 25 80 08 4E 01 4E                      |...%..N.N
+
+[0000-00-00 00:00:00.281] ¡ü¡ü¡üÊÕµ½²É¼¯°å»ØÓ¦µÄÊý¾Ý
+
+
+
+03 03 00                                        |...
+
+[0000-00-00 00:00:00.360] 
+
+[0000-00-00 00:00:00.360] ´®¿Ú 3 ²ÎÊýÉèÖÃ³É¹¦
+
+[0000-00-00 00:00:00.564] Ïò²É¼¯°å·¢ËÍ²ÎÊý³É¹¦!!!
+
+[0000-00-00 00:00:00.564]  
+
+
+
+00 00 00 25 80 08 4E 01 4E                      |...%..N.N
+
+[0000-00-00 00:00:00.697] ¡ü¡ü¡üÊÕµ½²É¼¯°å»ØÓ¦µÄÊý¾Ý
+
+
+
+03 03 00                                        |...
+
+[0000-00-00 00:00:00.776] 
+
+[0000-00-00 00:00:00.776] ´®¿Ú 6 ²ÎÊýÉèÖÃ³É¹¦
+
+[0000-00-00 00:00:00.980] Ïò²É¼¯°å·¢ËÍ²ÎÊý³É¹¦!!!
+
+[0000-00-00 00:00:00.980]  
+
+
+
+00 05 00                                        |...
+
+[0000-00-00 00:00:00.113] ¡ü¡ü¡üÊÕµ½²É¼¯°å»ØÓ¦µÄÊý¾Ý
+
+
+
+03 03 00                                        |...
+
+[0000-00-00 00:00:00.192] 
+
+[0000-00-00 00:00:00.192] CAN ²¨ÌØÂÊÉèÖÃ³É¹¦
+
+[0000-00-00 00:00:00.600] Ïò²É¼¯°å·¢ËÍ²ÎÊý³É¹¦!!!
+
+[0000-00-00 00:00:00.600]  
+
+
+
+00 C8 00                                        |.?.
+
+[0000-00-00 00:00:00.713] ¡ü¡ü¡üÊÕµ½²É¼¯°å»ØÓ¦µÄÊý¾Ý
+
+
+
+03 03 00                                        |...
+
+[0000-00-00 00:00:00.792] 
+
+[0000-00-00 00:00:00.792] ²É¼¯°åÉÏ±¨Êý¾Ý¼ä¸ôÊ±¼äÉèÖÃ³É¹¦
+
+[0000-00-00 00:00:00.200] create task
+[0000-00-00 00:00:00.200] ########## create pthread Thread_mainFun ##########
+[0000-00-00 00:00:00.200] ########## create pthread Thread_userFire ##########
+[0000-00-00 00:00:00.201] ########## create pthread Thread_userFireSec ##########
+[0000-00-00 00:00:00.201] ########## create pthread Thread_timeSyn ##########
+[2023-08-07 14:56:09.201] ########## create pthread Thread_userinput ##########
+[2023-08-07 14:56:09.202] ########## create pthread Thread_usercmdproc ##########
+[2023-08-07 14:56:09.202] ########## create pthread Thread_tcp_servcer_at_cmd ##########
+[2023-08-07 14:56:09.202] tcp server init ok
+[2023-08-07 14:56:10.204] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 14:56:10.204] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 14:56:10.204] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 14:56:10.204] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+[2023-08-07 14:56:10.240] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 14:56:16.005] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 14:56:16.006] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 14:56:16.006] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 14:56:16.006] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 14:56:16.006] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+[2023-08-07 14:56:16.588] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 14:56:24.653] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 14:56:24.654] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 14:56:24.654] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 14:56:24.654] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 14:56:24.654] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 14:56:24.072] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 14:56:34.109] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 14:56:34.110] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 14:56:34.110] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 14:56:34.110] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 14:56:34.110] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 14:56:34.468] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+[2023-08-07 14:57:26.501] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 14:57:26.502] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 14:57:26.502] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 14:57:26.502] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 14:57:26.502] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 14:57:26.604] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 14:57:54.685] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 14:57:54.686] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 14:57:54.686] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 14:57:54.686] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 14:57:54.686] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+[2023-08-07 14:57:54.808] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+[2023-08-07 14:58:13.185] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 14:58:13.185] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 14:58:13.186] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 14:58:13.186] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 14:58:13.186] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+[2023-08-07 14:58:13.928] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 14:58:21.925] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 14:58:21.926] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 14:58:21.926] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 14:58:21.926] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 14:58:21.926] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 14:58:21.040] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 14:58:37.045] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 14:58:37.046] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 14:58:37.046] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 14:58:37.046] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 14:58:37.046] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+[2023-08-07 14:58:37.592] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+[2023-08-07 14:58:44.569] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 14:58:44.570] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 14:58:44.570] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 14:58:44.570] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 14:58:44.570] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+[2023-08-07 14:58:44.112] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+[2023-08-07 14:58:52.141] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 14:58:52.141] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 14:58:52.142] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 14:58:52.142] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 14:58:52.142] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+[2023-08-07 14:58:52.608] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 14:59:02.993] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 14:59:02.994] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 14:59:02.994] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 14:59:02.994] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 14:59:02.994] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+[2023-08-07 14:59:02.272] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 14:59:09.249] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 14:59:09.250] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 14:59:09.250] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 14:59:09.250] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 14:59:09.250] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 14:59:09.304] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+[2023-08-07 14:59:25.333] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 14:59:25.334] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 14:59:25.334] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 14:59:25.334] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 14:59:25.334] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+[2023-08-07 14:59:25.636] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 14:59:41.669] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 14:59:41.670] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 14:59:41.670] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 14:59:41.670] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 14:59:41.670] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 14:59:41.728] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 14:59:57.745] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 14:59:57.746] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 14:59:57.746] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 14:59:57.746] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 14:59:57.746] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+[2023-08-07 14:59:57.884] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:00:16.241] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 15:00:16.241] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 15:00:16.242] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 15:00:16.242] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 15:00:16.242] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+[2023-08-07 15:00:16.340] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:00:23.357] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 15:00:23.357] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 15:00:23.358] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 15:00:23.358] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 15:00:23.358] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+[2023-08-07 15:00:23.252] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+[2023-08-07 15:00:52.305] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 15:00:52.305] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 15:00:52.306] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 15:00:52.306] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 15:00:52.306] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:00:52.316] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:01:05.317] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 15:01:05.317] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 15:01:05.318] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 15:01:05.318] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 15:01:05.318] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:01:05.748] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:01:15.777] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 15:01:15.777] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 15:01:15.778] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 15:01:15.778] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 15:01:15.778] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+[2023-08-07 15:01:15.556] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+[2023-08-07 15:01:25.901] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 15:01:25.902] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 15:01:25.902] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 15:01:25.902] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 15:01:25.902] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+[2023-08-07 15:01:25.192] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+[2023-08-07 15:01:33.193] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 15:01:33.193] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 15:01:33.194] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 15:01:33.194] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 15:01:33.194] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+[2023-08-07 15:01:33.768] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:01:42.797] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 15:01:42.797] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 15:01:42.798] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 15:01:42.798] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 15:01:42.798] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+[2023-08-07 15:01:42.800] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:01:51.753] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 15:01:51.753] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 15:01:51.754] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 15:01:51.754] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 15:01:51.754] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+[2023-08-07 15:01:51.332] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+[2023-08-07 15:02:08.377] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 15:02:08.378] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 15:02:08.378] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 15:02:08.378] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 15:02:08.378] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+[2023-08-07 15:02:08.980] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:02:20.337] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 15:02:20.337] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 15:02:20.338] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 15:02:20.338] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 15:02:20.338] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+[2023-08-07 15:02:20.800] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:02:28.817] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 15:02:28.817] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 15:02:28.818] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 15:02:28.818] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 15:02:28.818] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+[2023-08-07 15:02:28.236] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:02:56.273] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 15:02:56.273] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 15:02:56.274] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 15:02:56.274] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 15:02:56.274] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:02:56.840] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:03:13.885] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 15:03:13.886] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 15:03:13.886] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 15:03:13.886] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 15:03:13.886] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+[2023-08-07 15:03:13.976] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+[2023-08-07 15:03:29.053] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 15:03:29.054] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 15:03:29.054] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 15:03:29.054] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 15:03:29.054] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+[2023-08-07 15:03:29.504] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:03:39.905] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 15:03:39.906] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 15:03:39.906] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 15:03:39.906] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 15:03:39.906] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+[2023-08-07 15:03:39.564] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:03:46.561] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 15:03:46.561] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 15:03:46.562] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 15:03:46.562] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 15:03:46.562] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+[2023-08-07 15:03:46.804] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:03:57.789] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 15:03:57.790] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 15:03:57.790] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 15:03:57.790] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 15:03:57.790] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+[2023-08-07 15:03:57.944] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+[2023-08-07 15:04:13.949] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 15:04:13.950] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 15:04:13.950] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 15:04:13.950] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 15:04:13.950] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:04:13.204] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:05:05.257] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 15:05:05.257] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 15:05:05.258] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 15:05:05.258] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 15:05:05.258] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:05:05.680] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:05:17.093] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 15:05:17.094] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 15:05:17.094] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 15:05:17.094] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 15:05:17.094] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+[2023-08-07 15:05:17.104] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+[2023-08-07 15:05:34.153] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 15:05:34.154] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 15:05:34.154] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 15:05:34.154] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 15:05:34.154] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:05:34.364] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:07:16.361] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 15:07:16.361] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 15:07:16.362] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 15:07:16.362] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 15:07:16.362] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:07:16.956] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+[2023-08-07 15:07:24.973] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 15:07:24.974] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 15:07:24.974] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 15:07:24.974] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 15:07:24.974] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+[2023-08-07 15:07:24.977] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+[2023-08-07 15:09:13.792] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+[2023-08-07 15:10:56.825] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 15:10:56.826] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 15:10:56.826] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 15:10:56.826] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 15:10:56.826] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:10:56.544] ¡ü¡ü¡üÊÕµ½´ý½âÎöÉè±¸µÄÊý¾Ý
+
+
+
+1B 39 32 30 32 33 2F 30 38 2F 30 37 20 31 34 3A |.92023/08/07 14:
+
+35 31 0A 30 C7 F8 D3 F2 30 C2 A5 B2 E3 30 B7 BF |51.0ÇøÓò0Â¥²ã0·¿
+
+BC E4 0A D2 BB B2 E3 B5 E7 B3 D8 BC E4 A3 B1 A3 |¼ä.Ò»²ãµç³Ø¼ä£±?
+
+B0 A3 B2 0A 30 30 39 BB D8 C2 B7 30 33 37 B5 D8 |?£².009»ØÂ·037µØ
+
+D6 B7 0A B7 B4 C0 A1 CA D5 B5 BD 0A C5 C5 C6 F8 |Ö·.·´À¡ÊÕµ½.ÅÅÆø
+
+B7 E7 BB FA 0A 0A                               |·ç»ú..
+
+[2023-08-07 15:10:56.620] 
+
+[2023-08-07 15:10:56.620] Àû´ï 128II PRT V5 ½âÎöµÄÊý¾Ý°üÎ´ÍêÕû
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:10:56.192] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:11:12.221] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 15:11:12.222] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 15:11:12.222] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 15:11:12.222] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 15:11:12.222] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:11:12.400] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+[2023-08-07 15:11:28.337] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 15:11:28.338] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 15:11:28.338] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 15:11:28.338] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 15:11:28.338] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+[2023-08-07 15:11:28.916] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:12:23.277] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 15:12:23.278] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 15:12:23.278] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 15:12:23.278] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 15:12:23.278] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+signalling USER1
+
+*** services stop_prc_app*** services stop_prc_app
+
+*** services start_prc_app
+*** services start_prc_app ... 
+[0000-00-00 00:00:00.558] dev0 path is :/dev/ttyS2
+
+[0000-00-00 00:00:00.559] fcntl=0
+[0000-00-00 00:00:00.559] isatty success!
+[0000-00-00 00:00:00.559] fd->open=6
+[0000-00-00 00:00:00.559] Set Port /dev/ttyS2 Exactly!
+[0000-00-00 00:00:00.560] ########## create pthread Mid_DT_Thread_ttyS0Rec ##########
+[0000-00-00 00:00:00.560] MID-DATATRANS INIT OK!!!
+
+devaddr=FF1280512511
+[0000-00-00 00:00:00.152] Ïò²É¼¯°å·¢ËÍ²ÎÊý³É¹¦!!!
+
+[0000-00-00 00:00:00.152]  
+
+
+
+00 00 00 25 80 08 4E 01 4E                      |...%..N.N
+
+[0000-00-00 00:00:00.241] ¡ü¡ü¡üÊÕµ½²É¼¯°å»ØÓ¦µÄÊý¾Ý
+
+
+
+03 03 00                                        |...
+
+[0000-00-00 00:00:00.320] 
+
+[0000-00-00 00:00:00.320] ´®¿Ú 3 ²ÎÊýÉèÖÃ³É¹¦
+
+[0000-00-00 00:00:00.524] Ïò²É¼¯°å·¢ËÍ²ÎÊý³É¹¦!!!
+
+[0000-00-00 00:00:00.524]  
+
+
+
+00 00 00 25 80 08 4E 01 4E                      |...%..N.N
+
+[0000-00-00 00:00:00.661] ¡ü¡ü¡üÊÕµ½²É¼¯°å»ØÓ¦µÄÊý¾Ý
+
+
+
+03 03 00                                        |...
+
+[0000-00-00 00:00:00.740] 
+
+[0000-00-00 00:00:00.740] ´®¿Ú 6 ²ÎÊýÉèÖÃ³É¹¦
+
+[0000-00-00 00:00:00.944] Ïò²É¼¯°å·¢ËÍ²ÎÊý³É¹¦!!!
+
+[0000-00-00 00:00:00.944]  
+
+
+
+00 05 00                                        |...
+
+[0000-00-00 00:00:00.073] ¡ü¡ü¡üÊÕµ½²É¼¯°å»ØÓ¦µÄÊý¾Ý
+
+
+
+03 03 00                                        |...
+
+[0000-00-00 00:00:00.152] 
+
+[0000-00-00 00:00:00.152] CAN ²¨ÌØÂÊÉèÖÃ³É¹¦
+
+[0000-00-00 00:00:00.560] Ïò²É¼¯°å·¢ËÍ²ÎÊý³É¹¦!!!
+
+[0000-00-00 00:00:00.560]  
+
+
+
+00 C8 00                                        |.?.
+
+[0000-00-00 00:00:00.669] ¡ü¡ü¡üÊÕµ½²É¼¯°å»ØÓ¦µÄÊý¾Ý
+
+
+
+03 03 00                                        |...
+
+[0000-00-00 00:00:00.748] 
+
+[0000-00-00 00:00:00.748] ²É¼¯°åÉÏ±¨Êý¾Ý¼ä¸ôÊ±¼äÉèÖÃ³É¹¦
+
+[0000-00-00 00:00:00.156] create task
+[0000-00-00 00:00:00.156] ########## create pthread Thread_mainFun ##########
+[0000-00-00 00:00:00.157] ########## create pthread Thread_userFire ##########
+[0000-00-00 00:00:00.157] ########## create pthread Thread_userFireSec ##########
+[0000-00-00 00:00:00.157] ########## create pthread Thread_timeSyn ##########
+[0000-00-00 00:00:00.157] ########## create pthread Thread_userinput ##########
+[2023-08-07 15:12:49.158] ########## create pthread Thread_usercmdproc ##########
+[2023-08-07 15:12:49.158] ########## create pthread Thread_tcp_servcer_at_cmd ##########
+[2023-08-07 15:12:49.158] tcp server init ok
+[2023-08-07 15:12:50.160] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 15:12:50.160] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 15:12:50.160] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 15:12:50.160] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+[2023-08-07 15:12:56.965] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 15:12:56.966] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 15:12:56.966] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 15:12:56.966] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 15:12:56.966] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:12:56.248] ¡ü¡ü¡üÊÕµ½´ý½âÎöÉè±¸µÄÊý¾Ý
+
+
+
+1B 39 32 30 32 33 2F 30 38 2F 30 37 20 31 34 3A |.92023/08/07 14:
+
+35 34 0A 30 C7 F8 D3 F2 30 C2 A5 B2 E3 30 B7 BF |54.0ÇøÓò0Â¥²ã0·¿
+
+BC E4 0A D2 BB B2 E3 B5 E7 B3 D8 BC E4 A3 B1 A3 |¼ä.Ò»²ãµç³Ø¼ä£±?
+
+B0 A3 B2 0A 30 30 39 BB D8 C2 B7 30 33 37 B5 D8 |?£².009»ØÂ·037µØ
+
+D6 B7 0A B7 B4 C0 A1 CA D5 B5 BD 0A C5 C5 C6 F8 |Ö·.·´À¡ÊÕµ½.ÅÅÆø
+
+B7 E7 BB FA 0A 0A                               |·ç»ú..
+
+[2023-08-07 15:12:56.324] 
+
+[2023-08-07 15:12:56.324] Àû´ï 128II V6 ½âÎöµÄÊý¾Ý°üÎ´ÍêÕû
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:12:56.340] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+[2023-08-07 15:13:24.357] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 15:13:24.357] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 15:13:24.358] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 15:13:24.358] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 15:13:24.358] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+[2023-08-07 15:13:24.724] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:13:40.749] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 15:13:40.750] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 15:13:40.750] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 15:13:40.750] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 15:13:40.750] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:13:40.140] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:13:57.185] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 15:13:57.185] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 15:13:57.185] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 15:13:57.186] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 15:13:57.186] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+signalling USER1
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+*** services stop_prc_app
+*** services stop_prc_app
+*** services start_prc_app
+*** services start_prc_app ... 
+[0000-00-00 00:00:00.122] dev0 path is :/dev/ttyS2
+
+[0000-00-00 00:00:00.123] fcntl=0
+[0000-00-00 00:00:00.124] isatty success!
+[0000-00-00 00:00:00.124] fd->open=6
+[0000-00-00 00:00:00.124] Set Port /dev/ttyS2 Exactly!
+[0000-00-00 00:00:00.124] ########## create pthread Mid_DT_Thread_ttyS0Rec ##########
+[0000-00-00 00:00:00.124] MID-DATATRANS INIT OK!!!
+
+devaddr=FF1280512511
+[0000-00-00 00:00:00.724] Ïò²É¼¯°å·¢ËÍ²ÎÊý³É¹¦!!!
+
+[0000-00-00 00:00:00.724]  
+
+
+
+00 00 00 25 80 08 4E 01 4E                      |...%..N.N
+
+[0000-00-00 00:00:00.833] ¡ü¡ü¡üÊÕµ½²É¼¯°å»ØÓ¦µÄÊý¾Ý
+
+
+
+03 03 00                                        |...
+
+[0000-00-00 00:00:00.912] 
+
+[0000-00-00 00:00:00.912] ´®¿Ú 3 ²ÎÊýÉèÖÃ³É¹¦
+
+[0000-00-00 00:00:00.116] Ïò²É¼¯°å·¢ËÍ²ÎÊý³É¹¦!!!
+
+[0000-00-00 00:00:00.116]  
+
+
+
+00 00 00 25 80 08 4E 01 4E                      |...%..N.N
+
+[0000-00-00 00:00:00.205] ¡ü¡ü¡üÊÕµ½²É¼¯°å»ØÓ¦µÄÊý¾Ý
+
+
+
+03 03 00                                        |...
+
+[0000-00-00 00:00:00.284] 
+
+[0000-00-00 00:00:00.284] ´®¿Ú 6 ²ÎÊýÉèÖÃ³É¹¦
+
+[0000-00-00 00:00:00.488] Ïò²É¼¯°å·¢ËÍ²ÎÊý³É¹¦!!!
+
+[0000-00-00 00:00:00.488]  
+
+
+
+00 05 00                                        |...
+
+[0000-00-00 00:00:00.621] ¡ü¡ü¡üÊÕµ½²É¼¯°å»ØÓ¦µÄÊý¾Ý
+
+
+
+03 03 00                                        |...
+
+[0000-00-00 00:00:00.700] 
+
+[0000-00-00 00:00:00.700] CAN ²¨ÌØÂÊÉèÖÃ³É¹¦
+
+[0000-00-00 00:00:00.108] Ïò²É¼¯°å·¢ËÍ²ÎÊý³É¹¦!!!
+
+[0000-00-00 00:00:00.108]  
+
+
+
+00 C8 00                                        |.?.
+
+[0000-00-00 00:00:00.217] ¡ü¡ü¡üÊÕµ½²É¼¯°å»ØÓ¦µÄÊý¾Ý
+
+
+
+03 03 00                                        |...
+
+[0000-00-00 00:00:00.296] 
+
+[0000-00-00 00:00:00.296] ²É¼¯°åÉÏ±¨Êý¾Ý¼ä¸ôÊ±¼äÉèÖÃ³É¹¦
+
+[0000-00-00 00:00:00.704] create task
+[0000-00-00 00:00:00.704] ########## create pthread Thread_mainFun ##########
+[0000-00-00 00:00:00.704] ########## create pthread Thread_userFire ##########
+[0000-00-00 00:00:00.705] ########## create pthread Thread_userFireSec ##########
+[0000-00-00 00:00:00.705] ########## create pthread Thread_timeSyn ##########
+[2023-08-07 15:14:08.705] ########## create pthread Thread_userinput ##########
+[2023-08-07 15:14:08.706] ########## create pthread Thread_usercmdproc ##########
+[2023-08-07 15:14:08.706] ########## create pthread Thread_tcp_servcer_at_cmd ##########
+[2023-08-07 15:14:08.706] tcp server init ok
+[2023-08-07 15:14:08.708] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 15:14:08.708] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 15:14:08.708] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 15:14:08.708] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+[2023-08-07 15:14:13.165] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+[2023-08-07 15:14:14.553] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 15:14:14.554] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 15:14:14.554] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 15:14:14.554] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 15:14:14.554] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+[2023-08-07 15:14:14.168] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:14:23.724] ¡ü¡ü¡üÊÕµ½´ý½âÎöÉè±¸µÄÊý¾Ý
+
+
+
+1B 39 32 30 32 33 2F 30 38 2F 30 37 20 31 34 3A |.92023/08/07 14:
+
+35 35 0A 30 C7 F8 D3 F2 30 C2 A5 B2 E3 30 B7 BF |55.0ÇøÓò0Â¥²ã0·¿
+
+BC E4 0A D2 BB B2 E3 B5 E7 B3 D8 BC E4 A3 B1 A3 |¼ä.Ò»²ãµç³Ø¼ä£±?
+
+B0 A3 B2 0A 30 30 39 BB D8 C2 B7 30 33 37 B5 D8 |?£².009»ØÂ·037µØ
+
+D6 B7 0A B7 B4 C0 A1 CA D5 B5 BD 0A C5 C5 C6 F8 |Ö·.·´À¡ÊÕµ½.ÅÅÆø
+
+B7 E7 BB FA 0A 0A                               |·ç»ú..
+
+[2023-08-07 15:14:23.800] 
+
+[2023-08-07 15:14:23.800] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:14:23.801] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:14:23.801] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:14:23.801] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:14:23.801] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:14:23.801] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:14:23.801] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:14:23.801] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:14:23.801] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:14:23.801] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:14:23.801] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:14:23.801] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:14:23.860] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:14:23.860] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:14:23.860] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:14:23.860] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:14:23.860] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:14:23.860] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:14:23.864] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:14:23.864] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:14:23.864] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:14:23.864] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:14:23.864] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:14:23.864] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:14:23.197] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 15:14:23.198] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 15:14:23.198] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 15:14:23.198] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 15:14:23.198] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+[2023-08-07 15:14:23.424] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:14:23.424] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:14:23.424] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:14:23.424] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:14:23.424] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:14:23.424] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:14:23.424] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:14:23.424] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:14:23.424] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:14:23.424] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:14:23.424] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:14:23.425] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:14:23.520] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:14:23.520] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:14:23.520] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:14:23.520] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:14:23.520] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:14:23.520] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:14:23.524] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:14:23.524] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:14:23.524] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:14:23.524] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:14:23.524] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:14:23.524] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:14:23.048] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:14:23.048] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:14:23.048] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:14:23.048] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:14:23.068] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:14:23.068] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:14:23.068] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:14:23.068] FFÍ¨ÐÅÐ­Òé×é°ü
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:14:23.205] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:14:41.317] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 15:14:41.317] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 15:14:41.317] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 15:14:41.318] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 15:14:41.318] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+[2023-08-07 15:14:41.764] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+[2023-08-07 15:14:54.885] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 15:14:54.885] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 15:14:54.886] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 15:14:54.886] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 15:14:54.886] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:14:54.892] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:15:07.989] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 15:15:07.989] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 15:15:07.990] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 15:15:07.990] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 15:15:07.990] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:15:07.996] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:17:19.201] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 15:17:19.201] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 15:17:19.202] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 15:17:19.202] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 15:17:19.202] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+[2023-08-07 15:17:19.472] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+[2023-08-07 15:18:11.601] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 15:18:11.601] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 15:18:11.602] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 15:18:11.602] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 15:18:11.602] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:18:11.952] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:18:33.033] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 15:18:33.034] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 15:18:33.034] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 15:18:33.034] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 15:18:33.034] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+[2023-08-07 15:18:33.788] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:18:41.825] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 15:18:41.826] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 15:18:41.826] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 15:18:41.826] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 15:18:41.826] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+[2023-08-07 15:18:41.316] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:18:59.721] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 15:18:59.722] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 15:18:59.722] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 15:18:59.722] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 15:18:59.722] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+[2023-08-07 15:18:59.008] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:19:07.977] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 15:19:07.977] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 15:19:07.977] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 15:19:07.978] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 15:19:07.978] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+[2023-08-07 15:19:07.000] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:19:14.093] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 15:19:14.094] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 15:19:14.094] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 15:19:14.094] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 15:19:14.094] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+[2023-08-07 15:19:14.884] ¡ü¡ü¡üÊÕµ½´ý½âÎöÉè±¸µÄÊý¾Ý
+
+
+
+1B 39 32 30 32 33 2F 30 38 2F 30 37 20 31 35 3A |.92023/08/07 15:
+
+30 30 0A 30 C7 F8 D3 F2 30 C2 A5 B2 E3 30 B7 BF |00.0ÇøÓò0Â¥²ã0·¿
+
+BC E4 0A D2 BB B2 E3 0A 30 30 39 BB D8 C2 B7 31 |¼ä.Ò»²ã.009»ØÂ·1
+
+33 31 B5 D8 D6 B7 0A CA D7 B4 CE BB F0 BE AF 0A |31µØÖ·.Ê×´Î»ð¾¯.
+
+CA D6 B6 AF B0 B4 C5 A5 0A 0A                   |ÊÖ¶¯°´Å¥..
+
+[2023-08-07 15:19:14.960] 
+
+[2023-08-07 15:19:14.960] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:19:14.960] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:19:14.960] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:19:14.960] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:19:14.961] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:19:14.961] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:19:14.961] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:19:14.961] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:19:14.961] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:19:14.961] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:19:14.961] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:19:14.961] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:19:14.032] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:14.032] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:14.032] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:14.032] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:14.032] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:14.032] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:14.036] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:14.036] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:14.036] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:14.036] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:14.036] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:14.036] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:14.584] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:19:14.584] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:19:14.584] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:19:14.584] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:19:14.584] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:19:14.584] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:19:14.584] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:19:14.584] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:19:14.584] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:19:14.584] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:19:14.584] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:19:14.585] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:19:14.688] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:14.688] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:14.688] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:14.688] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:14.688] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:14.688] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:14.692] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:14.692] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:14.692] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:14.692] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:14.692] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:14.692] FFÍ¨ÐÅÐ­Òé×é°ü
+
+remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:19:14.812] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+[2023-08-07 15:19:38.372] ¡ü¡ü¡üÊÕµ½´ý½âÎöÉè±¸µÄÊý¾Ý
+
+
+
+1B 39 32 30 32 33 2F 30 38 2F 30 37 20 31 35 3A |.92023/08/07 15:
+
+30 30 0A 30 C7 F8 D3 F2 30 C2 A5 B2 E3 30 B7 BF |00.0ÇøÓò0Â¥²ã0·¿
+
+BC E4 0A CE E5 B2 E3 0A B5 E7 CC DD C6 C8 BD B5 |¼ä.Îå²ã.µçÌÝÆÈ½µ
+
+0A 30 31 33 BB D8 C2 B7 31 38 33 B5 D8 D6 B7 0A |.013»ØÂ·183µØÖ·.
+
+C1 AA B6 AF C7 EB C7 F3 0A B5 E7 D4 B4 0A 0A    |Áª¶¯ÇëÇó.µçÔ´..
+
+[2023-08-07 15:19:38.448] 
+
+[2023-08-07 15:19:38.448] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:19:38.448] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:19:38.448] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:19:38.448] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:19:38.449] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:19:38.449] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:19:38.449] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:19:38.449] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:19:38.449] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:19:38.449] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:19:38.449] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:19:38.449] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:19:38.536] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:38.536] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:38.536] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:38.536] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:38.536] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:38.536] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:38.540] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:38.540] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:38.540] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:38.540] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:38.540] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:38.540] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:39.072] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:19:39.072] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:19:39.072] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:19:39.072] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:19:39.072] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:19:39.072] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:19:39.072] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:19:39.072] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:19:39.072] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:19:39.073] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:19:39.073] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:19:39.073] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:19:39.084] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:39.084] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:39.084] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:39.084] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:39.084] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:39.084] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:39.088] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:39.088] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:39.088] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:39.088] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:39.088] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:39.088] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:40.696] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:19:40.740] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:41.796] ¡ü¡ü¡üÊÕµ½´ý½âÎöÉè±¸µÄÊý¾Ý
+
+
+
+1B 39 32 30 32 33 2F 30 38 2F 30 37 20 31 35 3A |.92023/08/07 15:
+
+30 30 0A 30 C7 F8 D3 F2 30 C2 A5 B2 E3 30 B7 BF |00.0ÇøÓò0Â¥²ã0·¿
+
+BC E4 0A C0 E4 CB AE BB FA B7 BF 0A 30 30 39 BB |¼ä.ÀäË®»ú·¿.009?
+
+D8 C2 B7 30 32 37 B5 D8 D6 B7 0A C1 AA B6 AF C7 |?Â·027µØÖ·.Áª¶¯?
+
+EB C7 F3 0A A3 B2 A3 B8 A3 B0 B6 C8 B7 C0 0A 0A |?Çó.£²£¸£°¶È·À..
+
+[2023-08-07 15:19:41.872] 
+
+[2023-08-07 15:19:41.872] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:19:41.872] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:19:41.872] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:19:41.873] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:19:41.873] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:19:41.873] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:19:41.873] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:19:41.873] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:19:41.873] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:19:41.873] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:19:41.873] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:19:41.873] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:19:41.932] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:41.932] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:41.932] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:41.932] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:41.932] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:41.932] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:41.936] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:41.936] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:41.936] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:41.936] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:41.936] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:41.936] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:41.496] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:19:41.496] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:19:41.496] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:19:41.496] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:19:41.496] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:19:41.496] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:19:41.496] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:19:41.496] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:19:41.496] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:19:41.496] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:19:41.497] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:19:41.497] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:19:41.588] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:41.588] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:41.588] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:41.588] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:41.588] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:41.588] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:41.592] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:41.592] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:41.592] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:41.592] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:41.592] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:41.592] FFÍ¨ÐÅÐ­Òé×é°ü
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:19:42.124] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:19:42.124] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:19:42.136] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:42.136] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:43.924] ¡ü¡ü¡üÊÕµ½´ý½âÎöÉè±¸µÄÊý¾Ý
+
+
+
+1B 39 32 30 32 33 2F 30 38 2F 30 37 20 31 35 3A |.92023/08/07 15:
+
+30 30 0A 30 C7 F8 D3 F2 30 C2 A5 B2 E3 30 B7 BF |00.0ÇøÓò0Â¥²ã0·¿
+
+BC E4 0A C0 E4 CB AE BB FA B7 BF 0A 30 30 39 BB |¼ä.ÀäË®»ú·¿.009?
+
+D8 C2 B7 30 32 38 B5 D8 D6 B7 0A C1 AA B6 AF C7 |?Â·028µØÖ·.Áª¶¯?
+
+EB C7 F3 0A A3 B2 A3 B8 A3 B0 B6 C8 B7 C0 0A 0A |?Çó.£²£¸£°¶È·À..
+
+[2023-08-07 15:19:43.000] 
+
+[2023-08-07 15:19:43.000] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:19:43.000] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:19:43.000] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:19:43.000] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:19:43.001] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:19:43.001] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:19:43.001] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:19:43.001] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:19:43.001] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:19:43.001] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:19:43.001] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:19:43.001] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:19:43.004] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:43.004] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:43.004] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:43.004] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:43.004] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:43.004] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:43.008] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:43.008] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:43.008] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:43.008] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:43.008] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:43.008] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:43.624] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:19:43.624] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:19:43.624] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:19:43.624] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:19:43.624] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:19:43.624] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:19:43.624] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:19:43.624] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:19:43.624] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:19:43.624] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:19:43.625] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:19:43.625] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:19:43.660] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:43.660] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:43.660] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:43.660] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:43.660] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:43.660] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:43.664] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:43.664] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:43.664] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:43.664] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:43.664] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:43.664] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.861] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 15:19:44.861] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 15:19:44.862] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 15:19:44.862] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 15:19:44.862] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+[2023-08-07 15:19:44.248] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:19:44.248] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:19:44.316] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.316] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.208] ¡ü¡ü¡üÊÕµ½´ý½âÎöÉè±¸µÄÊý¾Ý
+
+
+
+1B 39 32 30 32 33 2F 30 38 2F 30 37 20 31 35 3A |.92023/08/07 15:
+
+30 30 0A 30 C7 F8 D3 F2 30 C2 A5 B2 E3 30 B7 BF |00.0ÇøÓò0Â¥²ã0·¿
+
+BC E4 0A C0 E4 CB AE BB FA B7 BF 0A 30 30 39 BB |¼ä.ÀäË®»ú·¿.009?
+
+D8 C2 B7 30 33 30 B5 D8 D6 B7 0A C1 AA B6 AF C7 |?Â·030µØÖ·.Áª¶¯?
+
+EB C7 F3 0A A3 B2 A3 B8 A3 B0 B6 C8 B7 C0 0A 0A |?Çó.£²£¸£°¶È·À..
+
+[2023-08-07 15:19:44.284] 
+
+[2023-08-07 15:19:44.284] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:19:44.284] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:19:44.284] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:19:44.285] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:19:44.285] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:19:44.285] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:19:44.285] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:19:44.285] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:19:44.285] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:19:44.285] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:19:44.285] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:19:44.285] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:19:44.300] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.300] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.300] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.300] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.300] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.300] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.304] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.304] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.304] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.304] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.304] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.304] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.912] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:19:44.912] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:19:44.912] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:19:44.912] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:19:44.912] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:19:44.912] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:19:44.912] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:19:44.912] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:19:44.912] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:19:44.912] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:19:44.912] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:19:44.913] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:19:44.956] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.956] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.956] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.956] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.956] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.956] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.960] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.960] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.960] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.960] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.960] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.960] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.536] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:19:44.536] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:19:44.612] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.612] FFÍ¨ÐÅÐ­Òé×é°ü
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:19:44.528] ¡ü¡ü¡üÊÕµ½´ý½âÎöÉè±¸µÄÊý¾Ý
+
+
+
+1B 39 32 30 32 33 2F 30 38 2F 30 37 20 31 35 3A |.92023/08/07 15:
+
+30 30 0A 30 C7 F8 D3 F2 30 C2 A5 B2 E3 30 B7 BF |00.0ÇøÓò0Â¥²ã0·¿
+
+BC E4 0A D2 BB B2 E3 D6 B5 B0 E0 CA D2 BF D5 B5 |¼ä.Ò»²ãÖµ°àÊÒ¿Õ?
+
+F7 A3 A0 0A 30 30 39 BB D8 C2 B7 30 36 32 B5 D8 |??.009»ØÂ·062µØ
+
+D6 B7 0A C1 AA B6 AF C7 EB C7 F3 0A BF D5 B5 F7 |Ö·.Áª¶¯ÇëÇó.¿Õµ÷
+
+D0 C2 B7 E7 0A 0A                               |ÐÂ·ç..
+
+[2023-08-07 15:19:44.604] 
+
+[2023-08-07 15:19:44.604] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:19:44.604] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:19:44.604] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:19:44.605] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:19:44.605] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:19:44.605] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:19:44.605] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:19:44.605] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:19:44.605] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:19:44.605] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:19:44.605] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:19:44.605] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:19:44.700] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.700] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.700] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.700] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.700] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.700] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.704] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.704] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.704] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.704] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.704] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.704] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.228] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:19:44.228] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:19:44.228] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:19:44.228] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:19:44.228] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:19:44.228] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:19:44.228] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:19:44.228] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:19:44.228] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:19:44.228] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:19:44.229] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:19:44.229] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:19:44.248] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.248] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.248] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.248] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.248] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.248] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.252] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.252] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.252] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.252] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.252] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.252] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.852] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:19:44.852] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:19:44.852] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:19:44.852] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:19:44.904] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.904] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.904] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.904] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.740] ¡ü¡ü¡üÊÕµ½´ý½âÎöÉè±¸µÄÊý¾Ý
+
+
+
+1B 39 32 30 32 33 2F 30 38 2F 30 37 20 31 35 3A |.92023/08/07 15:
+
+30 30 0A 30 C7 F8 D3 F2 30 C2 A5 B2 E3 30 B7 BF |00.0ÇøÓò0Â¥²ã0·¿
+
+BC E4 0A D2 BB B2 E3 B9 AB B9 B2 C7 F8 0A 30 30 |¼ä.Ò»²ã¹«¹²Çø.00
+
+39 BB D8 C2 B7 31 38 35 B5 D8 D6 B7 0A C1 AA B6 |9»ØÂ·185µØÖ·.Áª?
+
+AF C7 EB C7 F3 0A B7 C0 C5 C5 D1 CC 0A 0A       |?ÇëÇó.·ÀÅÅÑÌ..
+
+[2023-08-07 15:19:44.816] 
+
+[2023-08-07 15:19:44.816] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:19:44.816] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:19:44.816] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:19:44.816] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:19:44.817] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:19:44.817] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:19:44.817] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:19:44.817] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:19:44.817] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:19:44.817] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:19:44.817] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:19:44.817] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:19:44.884] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.884] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.884] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.884] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.884] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.884] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.888] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.888] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.888] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.888] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.888] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.888] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.444] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:19:44.444] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:19:44.444] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:19:44.444] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:19:44.444] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:19:44.444] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:19:44.444] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:19:44.444] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:19:44.444] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:19:44.444] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:19:44.444] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:19:44.445] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:19:44.540] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.540] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.540] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.540] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.540] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.540] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.544] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.544] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.544] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.544] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.544] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.544] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.080] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:19:44.088] FFÍ¨ÐÅÐ­Òé×é°ü
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:19:44.024] ¡ü¡ü¡üÊÕµ½´ý½âÎöÉè±¸µÄÊý¾Ý
+
+
+
+1B 39 32 30 32 33 2F 30 38 2F 30 37 20 31 35 3A |.92023/08/07 15:
+
+30 30 0A 30 C7 F8 D3 F2 30 C2 A5 B2 E3 30 B7 BF |00.0ÇøÓò0Â¥²ã0·¿
+
+BC E4 0A D2 BB B2 E3 B9 AB B9 B2 C7 F8 0A 30 30 |¼ä.Ò»²ã¹«¹²Çø.00
+
+39 BB D8 C2 B7 31 38 36 B5 D8 D6 B7 0A C1 AA B6 |9»ØÂ·186µØÖ·.Áª?
+
+AF C7 EB C7 F3 0A B7 C0 C5 C5 D1 CC 0A 0A       |?ÇëÇó.·ÀÅÅÑÌ..
+
+[2023-08-07 15:19:44.100] 
+
+[2023-08-07 15:19:44.100] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:19:44.100] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:19:44.101] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:19:44.101] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:19:44.101] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:19:44.101] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:19:44.101] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:19:44.101] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:19:44.101] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:19:44.101] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:19:44.101] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:19:44.101] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:19:44.176] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.176] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.176] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.176] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.176] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.176] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.180] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.180] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.180] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.180] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.180] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.180] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.724] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:19:44.724] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:19:44.724] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:19:44.724] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:19:44.724] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:19:44.724] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:19:44.724] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:19:44.724] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:19:44.724] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:19:44.724] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:19:44.725] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:19:44.725] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:19:44.728] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.728] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.728] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.728] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.728] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.728] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.732] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.732] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.732] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.732] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.732] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.732] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:44.216] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+[2023-08-07 15:19:53.348] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:19:53.388] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:54.308] ¡ü¡ü¡üÊÕµ½´ý½âÎöÉè±¸µÄÊý¾Ý
+
+
+
+1B 39 32 30 32 33 2F 30 38 2F 30 37 20 31 35 3A |.92023/08/07 15:
+
+30 30 0A 30 C7 F8 D3 F2 30 C2 A5 B2 E3 30 B7 BF |00.0ÇøÓò0Â¥²ã0·¿
+
+BC E4 0A D2 BB B2 E3 C0 CF D6 D0 BF D8 CA D2 C1 |¼ä.Ò»²ãÀÏÖÐ¿ØÊÒ?
+
+AA BB FA 0A 30 31 30 BB D8 C2 B7 30 39 35 B5 D8 |?»ú.010»ØÂ·095µØ
+
+D6 B7 0A C1 AA B6 AF C7 EB C7 F3 0A B5 E7 D4 B4 |Ö·.Áª¶¯ÇëÇó.µçÔ´
+
+0A 0A                                           |..
+
+[2023-08-07 15:19:54.384] 
+
+[2023-08-07 15:19:54.384] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:19:54.384] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:19:54.385] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:19:54.385] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:19:54.385] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:19:54.385] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:19:54.385] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:19:54.385] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:19:54.385] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:19:54.385] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:19:54.385] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:19:54.385] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:19:54.476] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:54.476] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:54.476] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:54.476] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:54.476] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:54.476] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:54.480] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:54.480] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:54.480] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:54.480] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:54.480] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:54.480] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:55.008] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:19:55.008] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:19:55.008] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:19:55.008] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:19:55.008] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:19:55.008] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:19:55.008] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:19:55.008] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:19:55.008] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:19:55.008] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:19:55.008] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:19:55.009] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:19:55.032] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:55.032] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:55.032] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:55.032] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:55.032] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:55.032] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:55.036] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:55.036] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:55.036] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:55.036] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:55.036] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:55.036] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:55.632] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:19:55.632] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:19:55.688] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:55.688] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:56.560] ¡ü¡ü¡üÊÕµ½´ý½âÎöÉè±¸µÄÊý¾Ý
+
+
+
+1B 39 32 30 32 33 2F 30 38 2F 30 37 20 31 35 3A |.92023/08/07 15:
+
+30 30 0A 30 C7 F8 D3 F2 30 C2 A5 B2 E3 30 B7 BF |00.0ÇøÓò0Â¥²ã0·¿
+
+BC E4 0A D2 BB B2 E3 0A 30 30 39 BB D8 C2 B7 31 |¼ä.Ò»²ã.009»ØÂ·1
+
+34 33 B5 D8 D6 B7 0A C1 AA B6 AF C7 EB C7 F3 0A |43µØÖ·.Áª¶¯ÇëÇó.
+
+C9 F9 B9 E2 BE AF B1 A8 0A 0A                   |Éù¹â¾¯±¨..
+
+[2023-08-07 15:19:56.636] 
+
+[2023-08-07 15:19:56.636] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:19:56.636] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:19:56.636] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:19:56.637] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:19:56.637] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:19:56.637] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:19:56.637] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:19:56.637] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:19:56.637] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:19:56.637] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:19:56.637] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:19:56.637] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:19:56.664] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:56.664] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:56.664] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:56.664] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:56.664] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:56.664] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:56.668] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:56.668] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:56.668] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:56.668] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:56.668] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:56.668] FFÍ¨ÐÅÐ­Òé×é°ü
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:19:57.260] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:19:57.260] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:19:57.260] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:19:57.260] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:19:57.260] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:19:57.260] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:19:57.260] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:19:57.260] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:19:57.260] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:19:57.260] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:19:57.261] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:19:57.261] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:19:57.320] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:57.320] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:57.320] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:57.320] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:57.320] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:57.320] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:57.324] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:57.324] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:57.324] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:57.324] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:57.324] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:57.324] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:59.772] ¡ü¡ü¡üÊÕµ½´ý½âÎöÉè±¸µÄÊý¾Ý
+
+
+
+1B 39 32 30 32 33 2F 30 38 2F 30 37 20 31 35 3A |.92023/08/07 15:
+
+30 30 0A 30 C7 F8 D3 F2 30 C2 A5 B2 E3 30 B7 BF |00.0ÇøÓò0Â¥²ã0·¿
+
+BC E4 0A D2 BB B2 E3 0A 30 30 39 BB D8 C2 B7 31 |¼ä.Ò»²ã.009»ØÂ·1
+
+34 34 B5 D8 D6 B7 0A C1 AA B6 AF C7 EB C7 F3 0A |44µØÖ·.Áª¶¯ÇëÇó.
+
+C9 F9 B9 E2 BE AF B1 A8 0A 0A                   |Éù¹â¾¯±¨..
+
+[2023-08-07 15:19:59.848] 
+
+[2023-08-07 15:19:59.849] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:19:59.849] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:19:59.849] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:19:59.849] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:19:59.849] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:19:59.849] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:19:59.849] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:19:59.849] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:19:59.849] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:19:59.850] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:19:59.850] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:19:59.850] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:19:59.956] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:59.956] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:59.956] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:59.956] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:59.956] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:59.956] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:59.960] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:59.960] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:59.960] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:59.960] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:59.960] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:59.960] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:59.472] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:19:59.472] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:19:59.472] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:19:59.472] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:19:59.472] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:19:59.472] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:19:59.472] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:19:59.472] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:19:59.472] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:19:59.472] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:19:59.472] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:19:59.473] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:19:59.504] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:59.504] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:59.504] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:59.504] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:59.504] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:59.504] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:59.508] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:59.508] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:59.508] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:59.508] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:59.508] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:19:59.508] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.189] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 15:20:00.190] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 15:20:00.190] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 15:20:00.190] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 15:20:00.190] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+[2023-08-07 15:20:00.032] ¡ü¡ü¡üÊÕµ½´ý½âÎöÉè±¸µÄÊý¾Ý
+
+
+
+1B 39 32 30 32 33 2F 30 38 2F 30 37 20 31 35 3A |.92023/08/07 15:
+
+30 30 0A 30 C7 F8 D3 F2 30 C2 A5 B2 E3 30 B7 BF |00.0ÇøÓò0Â¥²ã0·¿
+
+BC E4 0A D2 BB B2 E3 0A 30 30 39 BB D8 C2 B7 31 |¼ä.Ò»²ã.009»ØÂ·1
+
+34 35 B5 D8 D6 B7 0A C1 AA B6 AF C7 EB C7 F3 0A |45µØÖ·.Áª¶¯ÇëÇó.
+
+C9 F9 B9 E2 BE AF B1 A8 0A 0A                   |Éù¹â¾¯±¨..
+
+[2023-08-07 15:20:00.108] 
+
+[2023-08-07 15:20:00.108] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:00.108] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:00.108] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:00.109] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:00.109] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:00.109] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:00.109] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:00.109] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:00.109] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:00.109] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:00.109] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:00.109] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:00.140] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.140] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.140] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.140] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.140] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.140] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.144] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.144] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.144] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.144] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.144] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.144] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.732] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:00.732] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:00.732] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:00.732] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:00.732] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:00.732] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:00.732] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:00.732] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:00.732] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:00.732] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:00.732] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:00.733] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:00.804] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.804] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.804] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.804] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.804] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.804] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.808] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.808] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.808] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.808] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.808] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.808] FFÍ¨ÐÅÐ­Òé×é°ü
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+[2023-08-07 15:20:00.272] ¡ü¡ü¡üÊÕµ½´ý½âÎöÉè±¸µÄÊý¾Ý
+
+
+
+1B 39 32 30 32 33 2F 30 38 2F 30 37 20 31 35 3A |.92023/08/07 15:
+
+30 30 0A 30 C7 F8 D3 F2 30 C2 A5 B2 E3 30 B7 BF |00.0ÇøÓò0Â¥²ã0·¿
+
+BC E4 0A D2 BB B2 E3 0A 30 30 39 BB D8 C2 B7 31 |¼ä.Ò»²ã.009»ØÂ·1
+
+34 36 B5 D8 D6 B7 0A C1 AA B6 AF C7 EB C7 F3 0A |46µØÖ·.Áª¶¯ÇëÇó.
+
+C9 F9 B9 E2 BE AF B1 A8 0A 0A                   |Éù¹â¾¯±¨..
+
+[2023-08-07 15:20:00.348] 
+
+[2023-08-07 15:20:00.348] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:00.348] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:00.348] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:00.348] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:00.349] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:00.349] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:00.349] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:00.349] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:00.349] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:00.349] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:00.349] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:00.349] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:00.436] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.436] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.436] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.436] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.436] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.436] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.440] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.440] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.440] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.440] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.440] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.440] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.972] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:00.972] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:00.972] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:00.972] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:00.972] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:00.972] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:00.972] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:00.972] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:00.972] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:00.972] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:00.973] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:00.973] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:00.984] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.984] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.984] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.984] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.984] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.984] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.988] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.988] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.988] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.988] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.988] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.988] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.536] ¡ü¡ü¡üÊÕµ½´ý½âÎöÉè±¸µÄÊý¾Ý
+
+
+
+1B 39 32 30 32 33 2F 30 38 2F 30 37 20 31 35 3A |.92023/08/07 15:
+
+30 30 0A 30 C7 F8 D3 F2 30 C2 A5 B2 E3 30 B7 BF |00.0ÇøÓò0Â¥²ã0·¿
+
+BC E4 0A B6 FE B2 E3 0A 30 30 39 BB D8 C2 B7 31 |¼ä.¶þ²ã.009»ØÂ·1
+
+34 37 B5 D8 D6 B7 0A C1 AA B6 AF C7 EB C7 F3 0A |47µØÖ·.Áª¶¯ÇëÇó.
+
+C9 F9 B9 E2 BE AF B1 A8 0A 0A                   |Éù¹â¾¯±¨..
+
+[2023-08-07 15:20:00.612] 
+
+[2023-08-07 15:20:00.612] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:00.612] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:00.612] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:00.613] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:00.613] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:00.613] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:00.613] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:00.613] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:00.613] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:00.613] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:00.613] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:00.613] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:00.616] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.616] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.616] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.616] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.616] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.616] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.620] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.620] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.620] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.620] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.620] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.620] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.240] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:00.240] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:00.240] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:00.240] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:00.240] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:00.240] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:00.240] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:00.240] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:00.240] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:00.240] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:00.241] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:00.241] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:00.272] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.272] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.272] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.272] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.272] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.272] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.276] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.276] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.276] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.276] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.276] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.276] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.756] ¡ü¡ü¡üÊÕµ½´ý½âÎöÉè±¸µÄÊý¾Ý
+
+
+
+1B 39 32 30 32 33 2F 30 38 2F 30 37 20 31 35 3A |.92023/08/07 15:
+
+30 30 0A 30 C7 F8 D3 F2 30 C2 A5 B2 E3 30 B7 BF |00.0ÇøÓò0Â¥²ã0·¿
+
+BC E4 0A B6 FE B2 E3 0A 30 30 39 BB D8 C2 B7 31 |¼ä.¶þ²ã.009»ØÂ·1
+
+34 38 B5 D8 D6 B7 0A C1 AA B6 AF C7 EB C7 F3 0A |48µØÖ·.Áª¶¯ÇëÇó.
+
+C9 F9 B9 E2 BE AF B1 A8 0A 0A                   |Éù¹â¾¯±¨..
+
+[2023-08-07 15:20:00.832] 
+
+[2023-08-07 15:20:00.832] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:00.832] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:00.832] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:00.832] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:00.833] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:00.833] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:00.833] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:00.833] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:00.833] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:00.833] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:00.833] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:00.833] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:00.900] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.900] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.900] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.900] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.900] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.900] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.904] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.904] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.904] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.904] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.904] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.904] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.456] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:00.456] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:00.456] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:00.456] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:00.456] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:00.456] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:00.456] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:00.456] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:00.456] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:00.456] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:00.457] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:00.457] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:00.556] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.556] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.556] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.556] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.556] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.556] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.560] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.560] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.560] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.560] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.560] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.560] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:00.488] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+[2023-08-07 15:20:10.984] ¡ü¡ü¡üÊÕµ½´ý½âÎöÉè±¸µÄÊý¾Ý
+
+
+
+1B 39 32 30 32 33 2F 30 38 2F 30 37 20 31 35 3A |.92023/08/07 15:
+
+30 30 0A 30 C7 F8 D3 F2 30 C2 A5 B2 E3 30 B7 BF |00.0ÇøÓò0Â¥²ã0·¿
+
+BC E4 0A B6 FE B2 E3 0A 30 30 39 BB D8 C2 B7 31 |¼ä.¶þ²ã.009»ØÂ·1
+
+34 39 B5 D8 D6 B7 0A C1 AA B6 AF C7 EB C7 F3 0A |49µØÖ·.Áª¶¯ÇëÇó.
+
+C9 F9 B9 E2 BE AF B1 A8 0A 0A                   |Éù¹â¾¯±¨..
+
+[2023-08-07 15:20:10.060] 
+
+[2023-08-07 15:20:10.061] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:10.061] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:10.061] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:10.061] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:10.061] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:10.061] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:10.061] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:10.061] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:10.061] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:10.061] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:10.061] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:10.061] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:10.080] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:10.080] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:10.080] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:10.080] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:10.080] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:10.080] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:10.084] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:10.084] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:10.084] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:10.084] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:10.084] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:10.084] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:11.688] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:11.688] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:11.688] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:11.688] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:11.688] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:11.688] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:11.688] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:11.688] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:11.688] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:11.688] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:11.689] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:11.689] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:11.736] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:11.736] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:11.736] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:11.736] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:11.736] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:11.736] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:11.740] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:11.740] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:11.740] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:11.740] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:11.740] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:11.740] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:12.252] ¡ü¡ü¡üÊÕµ½´ý½âÎöÉè±¸µÄÊý¾Ý
+
+
+
+1B 39 32 30 32 33 2F 30 38 2F 30 37 20 31 35 3A |.92023/08/07 15:
+
+30 30 0A 30 C7 F8 D3 F2 30 C2 A5 B2 E3 30 B7 BF |00.0ÇøÓò0Â¥²ã0·¿
+
+BC E4 0A B6 FE B2 E3 0A 30 30 39 BB D8 C2 B7 31 |¼ä.¶þ²ã.009»ØÂ·1
+
+35 30 B5 D8 D6 B7 0A C1 AA B6 AF C7 EB C7 F3 0A |50µØÖ·.Áª¶¯ÇëÇó.
+
+C9 F9 B9 E2 BE AF B1 A8 0A 0A                   |Éù¹â¾¯±¨..
+
+[2023-08-07 15:20:12.328] 
+
+[2023-08-07 15:20:12.328] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:12.328] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:12.328] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:12.328] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:12.329] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:12.329] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:12.329] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:12.329] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:12.329] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:12.329] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:12.329] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:12.329] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:12.364] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:12.364] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:12.364] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:12.364] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:12.364] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:12.364] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:12.368] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:12.368] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:12.368] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:12.368] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:12.368] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:12.368] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:13.952] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:13.952] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:13.952] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:13.952] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:13.952] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:13.952] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:13.952] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:13.952] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:13.952] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:13.952] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:13.953] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:13.953] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:13.020] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:13.020] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:13.020] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:13.020] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:13.020] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:13.020] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:13.024] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:13.024] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:13.024] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:13.024] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:13.024] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:13.024] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.496] ¡ü¡ü¡üÊÕµ½´ý½âÎöÉè±¸µÄÊý¾Ý
+
+
+
+1B 39 32 30 32 33 2F 30 38 2F 30 37 20 31 35 3A |.92023/08/07 15:
+
+30 30 0A 30 C7 F8 D3 F2 30 C2 A5 B2 E3 30 B7 BF |00.0ÇøÓò0Â¥²ã0·¿
+
+BC E4 0A B6 FE B2 E3 0A 30 30 39 BB D8 C2 B7 31 |¼ä.¶þ²ã.009»ØÂ·1
+
+35 31 B5 D8 D6 B7 0A C1 AA B6 AF C7 EB C7 F3 0A |51µØÖ·.Áª¶¯ÇëÇó.
+
+C9 F9 B9 E2 BE AF B1 A8 0A 0A                   |Éù¹â¾¯±¨..
+
+[2023-08-07 15:20:14.572] 
+
+[2023-08-07 15:20:14.572] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:14.572] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:14.572] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:14.572] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:14.573] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:14.573] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:14.573] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:14.573] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:14.573] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:14.573] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:14.573] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:14.573] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:14.656] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.656] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.656] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.656] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.656] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.656] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.660] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.660] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.660] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.660] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.660] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.660] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.196] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:14.196] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:14.196] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:14.196] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:14.196] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:14.196] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:14.197] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:14.197] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:14.197] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:14.197] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:14.197] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:14.197] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:14.208] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.208] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.208] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.208] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.208] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.208] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.212] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.212] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.212] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.212] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.212] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.212] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.748] ¡ü¡ü¡üÊÕµ½´ý½âÎöÉè±¸µÄÊý¾Ý
+
+
+
+1B 39 32 30 32 33 2F 30 38 2F 30 37 20 31 35 3A |.92023/08/07 15:
+
+30 30 0A 30 C7 F8 D3 F2 30 C2 A5 B2 E3 30 B7 BF |00.0ÇøÓò0Â¥²ã0·¿
+
+BC E4 0A B6 FE B2 E3 0A 30 30 39 BB D8 C2 B7 31 |¼ä.¶þ²ã.009»ØÂ·1
+
+35 32 B5 D8 D6 B7 0A C1 AA B6 AF C7 EB C7 F3 0A |52µØÖ·.Áª¶¯ÇëÇó.
+
+C9 F9 B9 E2 BE AF B1 A8 0A 0A                   |Éù¹â¾¯±¨..
+
+[2023-08-07 15:20:14.824] 
+
+[2023-08-07 15:20:14.825] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:14.825] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:14.825] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:14.825] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:14.825] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:14.825] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:14.825] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:14.825] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:14.825] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:14.826] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:14.826] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:14.826] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:14.836] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.836] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.836] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.836] FFÍ¨ÐÅÐ­Òé×é°ü
+
+remote_mgr_v2: wan is online[2023-08-07 15:20:14.836] FFÍ¨ÐÅÐ­Òé×é°ü
+
+
+[2023-08-07 15:20:14.836] FFÍ¨ÐÅÐ­Òé×é°ü
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:20:14.840] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.840] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.840] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.840] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.840] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.840] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.452] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:14.452] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:14.452] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:14.452] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:14.452] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:14.452] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:14.453] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:14.453] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:14.453] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:14.453] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:14.453] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:14.453] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:14.492] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.492] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.492] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.492] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.492] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.492] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.496] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.496] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.496] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.496] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.496] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.496] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.020] ¡ü¡ü¡üÊÕµ½´ý½âÎöÉè±¸µÄÊý¾Ý
+
+
+1B 39 32 30 32 33 2F 30 38 2F 30 37 20 31 35 3A
+
+30 30 0A 30 C7 F8 D3 F2 30 C2 A5 B2 E3 30 B7 BF
+
+BC E4 0A B6 FE B2 E3 0A 30 30 39 BB D8 C2 B7 31
+
+35 33 B5 D8 D6 B7 0A C1 AA B6 AF C7 EB C7 F3 0A
+
+C9 F9 B9 E2 BE AF B1 A8 0A 0A
+
+[2023-08-07 15:20:14.096] 
+
+[2023-08-07 15:20:14.096] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:14.096] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:14.097] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:14.097] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:14.097] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:14.097] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:14.097] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:14.097] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:14.097] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:14.097] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:14.097] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:14.097] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:14.132] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.132] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.132] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.132] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.132] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.132] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.136] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.136] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.136] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.136] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.136] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:14.136] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:20.720] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:20.720] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:20.720] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:20.720] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:20.720] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:20.720] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:20.720] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:20.720] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:20.720] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:20.720] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:20.721] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:20.721] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:20.788] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:20.788] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:20.788] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:20.788] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:20.788] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:20.788] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:20.792] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:20.792] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:20.792] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:20.792] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:20.792] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:20.792] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:21.248] ¡ü¡ü¡üÊÕµ½´ý½âÎöÉè±¸µÄÊý¾Ý
+
+
+
+1B 39 32 30 32 33 2F 30 38 2F 30 37 20 31 35 3A |.92023/08/07 15:
+
+30 30 0A 30 C7 F8 D3 F2 30 C2 A5 B2 E3 30 B7 BF |00.0ÇøÓò0Â¥²ã0·¿
+
+BC E4 0A B6 FE B2 E3 0A 30 30 39 BB D8 C2 B7 31 |¼ä.¶þ²ã.009»ØÂ·1
+
+35 34 B5 D8 D6 B7 0A C1 AA B6 AF C7 EB C7 F3 0A |54µØÖ·.Áª¶¯ÇëÇó.
+
+C9 F9 B9 E2 BE AF B1 A8 0A 0A                   |Éù¹â¾¯±¨..
+
+[2023-08-07 15:20:21.324] 
+
+[2023-08-07 15:20:21.324] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:21.324] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:21.324] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:21.325] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:21.325] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:21.325] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:21.325] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:21.325] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:21.325] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:21.325] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:21.325] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:21.325] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:21.420] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:21.420] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:21.420] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:21.420] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:21.420] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:21.420] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:21.424] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:21.424] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:21.424] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:21.424] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:21.424] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:21.424] FFÍ¨ÐÅÐ­Òé×é°ü
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:20:22.948] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:22.948] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:22.948] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:22.948] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:22.948] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:22.948] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:22.948] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:22.948] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:22.948] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:22.948] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:22.948] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:22.949] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:22.968] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:22.968] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:22.968] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:22.968] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:22.968] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:22.968] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:22.972] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:22.972] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:22.972] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:22.972] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:22.972] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:22.972] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.556] ¡ü¡ü¡üÊÕµ½´ý½âÎöÉè±¸µÄÊý¾Ý
+
+
+
+1B 39 32 30 32 33 2F 30 38 2F 30 37 20 31 35 3A |.92023/08/07 15:
+
+30 30 0A 30 C7 F8 D3 F2 30 C2 A5 B2 E3 30 B7 BF |00.0ÇøÓò0Â¥²ã0·¿
+
+BC E4 0A D2 BB B2 E3 C0 E4 CB AE BB FA B7 BF D5 |¼ä.Ò»²ãÀäË®»ú·¿?
+
+D5 C3 F7 0A 30 30 39 BB D8 C2 B7 30 34 36 B5 D8 |?Ã÷.009»ØÂ·046µØ
+
+D6 B7 0A C1 AA B6 AF C7 EB C7 F3 0A D3 A6 BC B1 |Ö·.Áª¶¯ÇëÇó.Ó¦¼±
+
+D5 D5 C3 F7 0A 0A                               |ÕÕÃ÷..
+
+[2023-08-07 15:20:23.632] 
+
+[2023-08-07 15:20:23.632] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:23.632] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:23.633] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:23.633] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:23.633] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:23.633] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:23.633] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:23.633] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:23.633] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:23.633] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:23.633] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:23.633] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:23.704] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.704] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.704] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.704] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.704] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.704] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.708] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.708] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.708] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.708] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.708] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.708] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.765] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 15:20:23.765] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 15:20:23.765] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 15:20:23.766] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 15:20:23.766] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+[2023-08-07 15:20:23.256] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:23.256] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:23.256] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:23.256] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:23.256] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:23.256] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:23.256] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:23.256] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:23.256] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:23.256] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:23.257] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:23.257] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:23.360] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.360] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.360] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.360] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.360] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.360] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.364] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.364] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.364] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.364] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.364] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.364] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.880] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:23.880] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:23.880] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:23.880] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:23.908] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.908] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.908] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.908] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.772] ¡ü¡ü¡üÊÕµ½´ý½âÎöÉè±¸µÄÊý¾Ý
+
+
+
+1B 39 32 30 32 33 2F 30 38 2F 30 37 20 31 35 3A |.92023/08/07 15:
+
+30 30 0A 30 C7 F8 D3 F2 30 C2 A5 B2 E3 30 B7 BF |00.0ÇøÓò0Â¥²ã0·¿
+
+BC E4 0A D2 BB B2 E3 B9 AB B9 B2 D5 D5 C3 F7 0A |¼ä.Ò»²ã¹«¹²ÕÕÃ÷.
+
+30 30 39 BB D8 C2 B7 30 34 37 B5 D8 D6 B7 0A C1 |009»ØÂ·047µØÖ·.?
+
+AA B6 AF C7 EB C7 F3 0A D3 A6 BC B1 D5 D5 C3 F7 |?¶¯ÇëÇó.Ó¦¼±ÕÕÃ÷
+
+0A 0A                                           |..
+
+[2023-08-07 15:20:23.848] 
+
+[2023-08-07 15:20:23.848] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:23.848] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:23.848] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:23.849] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:23.849] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:23.849] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:23.849] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:23.849] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:23.849] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:23.849] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:23.849] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:23.849] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:23.884] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.884] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.884] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.884] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.884] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.884] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.888] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.888] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.888] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.888] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.888] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.888] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.472] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:23.472] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:23.472] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:23.472] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:23.472] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:23.472] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:23.472] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:23.472] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:23.472] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:23.472] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:23.473] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:23.473] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:23.540] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.540] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.540] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.540] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.540] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.540] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.544] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.544] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.544] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.544] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.544] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.544] FFÍ¨ÐÅÐ­Òé×é°ü
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:20:23.096] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:23.096] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:23.196] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.196] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.080] ¡ü¡ü¡üÊÕµ½´ý½âÎöÉè±¸µÄÊý¾Ý
+
+
+
+1B 39 32 30 32 33 2F 30 38 2F 30 37 20 31 35 3A |.92023/08/07 15:
+
+30 30 0A 30 C7 F8 D3 F2 30 C2 A5 B2 E3 30 B7 BF |00.0ÇøÓò0Â¥²ã0·¿
+
+BC E4 0A D2 BB B2 E3 B4 F3 CC FC D6 B5 B0 E0 D5 |¼ä.Ò»²ã´óÌüÖµ°à?
+
+D5 C3 F7 0A 30 30 39 BB D8 C2 B7 30 34 38 B5 D8 |?Ã÷.009»ØÂ·048µØ
+
+D6 B7 0A C1 AA B6 AF C7 EB C7 F3 0A D3 A6 BC B1 |Ö·.Áª¶¯ÇëÇó.Ó¦¼±
+
+D5 D5 C3 F7 0A 0A                               |ÕÕÃ÷..
+
+[2023-08-07 15:20:23.156] 
+
+[2023-08-07 15:20:23.156] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:23.156] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:23.156] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:23.157] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:23.157] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:23.157] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:23.157] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:23.157] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:23.157] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:23.157] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:23.157] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:23.157] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:23.180] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.180] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.180] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.180] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.180] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.180] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.184] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.184] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.184] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.184] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.184] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.184] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.780] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:23.780] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:23.780] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:23.780] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:23.780] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:23.780] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:23.780] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:23.780] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:23.780] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:23.780] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:23.781] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:23.781] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:23.836] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.836] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.836] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.836] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.836] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.836] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.840] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.840] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.840] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.840] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.840] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.840] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.404] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:23.404] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:23.404] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:23.404] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:23.492] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.492] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.492] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.492] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:23.736] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+[2023-08-07 15:20:30.308] ¡ü¡ü¡üÊÕµ½´ý½âÎöÉè±¸µÄÊý¾Ý
+
+
+
+1B 39 32 30 32 33 2F 30 38 2F 30 37 20 31 35 3A |.92023/08/07 15:
+
+30 30 0A 30 C7 F8 D3 F2 30 C2 A5 B2 E3 30 B7 BF |00.0ÇøÓò0Â¥²ã0·¿
+
+BC E4 0A D2 BB B2 E3 C3 C5 BD FB 0A 30 30 39 BB |¼ä.Ò»²ãÃÅ½û.009?
+
+D8 C2 B7 30 34 39 B5 D8 D6 B7 0A C1 AA B6 AF C7 |?Â·049µØÖ·.Áª¶¯?
+
+EB C7 F3 0A C5 C5 C6 F8 B7 E7 BB FA 0A 0A       |?Çó.ÅÅÆø·ç»ú..
+
+[2023-08-07 15:20:30.384] 
+
+[2023-08-07 15:20:30.384] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:30.384] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:30.384] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:30.385] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:30.385] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:30.385] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:30.385] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:30.385] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:30.385] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:30.385] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:30.385] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:30.385] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:30.468] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:30.468] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:30.468] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:30.468] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:30.468] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:30.468] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:30.472] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:30.472] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:30.472] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:30.472] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:30.472] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:30.472] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:31.008] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:31.008] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:31.008] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:31.008] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:31.008] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:31.008] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:31.008] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:31.008] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:31.008] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:31.008] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:31.008] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:31.009] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:31.016] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:31.016] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:31.016] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:31.016] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:31.016] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:31.016] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:31.020] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:31.020] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:31.020] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:31.020] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:31.020] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:31.020] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:31.632] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:31.672] FFÍ¨ÐÅÐ­Òé×é°ü
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:20:32.616] ¡ü¡ü¡üÊÕµ½´ý½âÎöÉè±¸µÄÊý¾Ý
+
+
+
+1B 39 32 30 32 33 2F 30 38 2F 30 37 20 31 35 3A |.92023/08/07 15:
+
+30 30 0A 30 C7 F8 D3 F2 30 C2 A5 B2 E3 30 B7 BF |00.0ÇøÓò0Â¥²ã0·¿
+
+BC E4 0A B6 E0 CF DF B9 E3 B2 A5 C5 CC 0A 30 31 |¼ä.¶àÏß¹ã²¥ÅÌ.01
+
+31 BB D8 C2 B7 30 30 31 B5 D8 D6 B7 0A C1 AA B6 |1»ØÂ·001µØÖ·.Áª?
+
+AF C7 EB C7 F3 0A CF FB B7 C0 B9 E3 B2 A5 50 0A |?ÇëÇó.Ïû·À¹ã²¥P.
+
+0A                                              |.
+
+[2023-08-07 15:20:32.692] 
+
+[2023-08-07 15:20:32.692] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:32.692] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:32.693] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:32.693] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:32.693] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:32.693] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:32.693] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:32.693] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:32.693] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:32.693] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:32.693] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:32.693] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:33.756] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:33.756] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:33.756] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:33.756] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:33.756] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:33.756] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:33.760] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:33.760] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:33.760] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:33.760] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:33.760] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:33.760] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:33.316] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:33.316] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:33.316] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:33.316] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:33.316] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:33.316] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:33.316] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:33.316] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:33.316] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:33.316] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:33.317] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:33.317] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:33.412] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:33.412] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:33.412] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:33.412] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:33.412] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:33.412] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:33.416] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:33.416] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:33.416] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:33.416] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:33.416] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:33.416] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:34.940] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:34.940] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:34.960] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:34.960] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:35.884] ¡ü¡ü¡üÊÕµ½´ý½âÎöÉè±¸µÄÊý¾Ý
+
+
+
+1B 39 32 30 32 33 2F 30 38 2F 30 37 20 31 35 3A |.92023/08/07 15:
+
+30 30 0A 30 C7 F8 D3 F2 30 C2 A5 B2 E3 30 B7 BF |00.0ÇøÓò0Â¥²ã0·¿
+
+BC E4 0A B6 E0 CF DF B9 E3 B2 A5 C5 CC 0A 30 31 |¼ä.¶àÏß¹ã²¥ÅÌ.01
+
+31 BB D8 C2 B7 30 30 32 B5 D8 D6 B7 0A C1 AA B6 |1»ØÂ·002µØÖ·.Áª?
+
+AF C7 EB C7 F3 0A CF FB B7 C0 B9 E3 B2 A5 50 0A |?ÇëÇó.Ïû·À¹ã²¥P.
+
+0A                                              |.
+
+[2023-08-07 15:20:35.960] 
+
+[2023-08-07 15:20:35.960] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:35.960] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:35.960] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:35.961] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:35.961] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:35.961] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:35.961] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:35.961] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:35.961] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:35.961] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:35.961] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:35.961] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:35.044] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:35.044] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:35.044] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:35.044] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:35.044] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:35.044] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:35.048] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:35.048] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:35.048] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:35.048] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:35.048] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:35.048] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:35.584] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:35.584] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:35.584] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:35.584] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:35.584] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:35.584] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:35.584] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:35.584] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:35.584] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:35.584] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:35.585] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:35.585] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:35.592] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:35.592] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:35.592] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:35.592] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:35.592] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:35.592] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:35.596] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:35.596] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:35.596] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:35.596] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:35.596] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:35.596] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:36.208] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:36.208] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:36.248] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:36.248] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:37.785] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 15:20:37.786] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 15:20:37.786] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 15:20:37.786] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 15:20:37.786] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:20:37.136] ¡ü¡ü¡üÊÕµ½´ý½âÎöÉè±¸µÄÊý¾Ý
+
+
+
+1B 39 32 30 32 33 2F 30 38 2F 30 37 20 31 35 3A |.92023/08/07 15:
+
+30 30 0A 30 C7 F8 D3 F2 30 C2 A5 B2 E3 30 B7 BF |00.0ÇøÓò0Â¥²ã0·¿
+
+BC E4 0A B6 E0 CF DF B9 E3 B2 A5 C5 CC 0A 30 31 |¼ä.¶àÏß¹ã²¥ÅÌ.01
+
+31 BB D8 C2 B7 30 30 33 B5 D8 D6 B7 0A C1 AA B6 |1»ØÂ·003µØÖ·.Áª?
+
+AF C7 EB C7 F3 0A CF FB B7 C0 B9 E3 B2 A5 50 0A |?ÇëÇó.Ïû·À¹ã²¥P.
+
+0A                                              |.
+
+[2023-08-07 15:20:37.212] 
+
+[2023-08-07 15:20:37.212] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:37.212] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:37.212] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:37.213] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:37.213] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:37.213] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:37.213] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:37.213] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:37.213] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:37.213] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:37.213] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:37.213] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:37.228] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:37.228] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:37.228] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:37.228] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:37.228] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:37.228] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:37.232] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:37.232] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:37.232] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:37.232] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:37.232] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:37.232] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:37.836] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:37.836] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:37.836] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:37.836] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:37.836] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:37.836] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:37.836] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:37.836] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:37.836] ÐòºÅ2´æ´¢Íê³É
+
+[2023-08-07 15:20:37.836] ÐòºÅ3´æ´¢Íê³É
+
+[2023-08-07 15:20:37.837] ÐòºÅ4´æ´¢Íê³É
+
+[2023-08-07 15:20:37.837] ÐòºÅ5´æ´¢Íê³É
+
+[2023-08-07 15:20:37.884] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:37.884] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:37.884] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:37.884] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:37.884] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:37.884] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:37.888] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:37.888] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:37.888] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:37.888] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:37.888] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:37.888] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:37.460] ÐòºÅ0´æ´¢Íê³É
+
+[2023-08-07 15:20:37.460] ÐòºÅ1´æ´¢Íê³É
+
+[2023-08-07 15:20:37.544] FFÍ¨ÐÅÐ­Òé×é°ü
+
+[2023-08-07 15:20:37.544] FFÍ¨ÐÅÐ­Òé×é°ü
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+[2023-08-07 15:20:37.601] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+[2023-08-07 15:20:54.565] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 15:20:54.566] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 15:20:54.566] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 15:20:54.566] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 15:20:54.566] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:20:54.032] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2023-08-07 15:21:16.949] µÚÒ»Í¨Ñ¶ÍøÂçÊ§°Ü ÖØÐÂ³õÊ¼»¯ÍøÂç
+
+[2023-08-07 15:21:16.949] ×¼±¸Á¬½ÓµÚÒ»Í¨ÐÅÖÐÐÄ
+
+[2023-08-07 15:21:16.950] µÚÒ»Í¨ÐÅÖÐÐÄ IP:192.168.210.12
+
+[2023-08-07 15:21:16.950] µÚÒ»Í¨ÐÅÖÐÐÄ ¶Ë¿Ú:30119
+
+[2023-08-07 15:21:16.950] µÚÒ»Í¨ÐÅÖÐÐÄ ³¢ÊÔÁ¬½Ó
+
+[2023-08-07 15:21:16.844] µÚÒ»Í¨ÐÅÖÐÐÄ Á¬½ÓÊ§°Ü(×´Ì¬ = -1)
+
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
