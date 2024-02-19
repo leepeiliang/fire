@@ -153,8 +153,8 @@ var HeartCode = map[string]string{
 
 	WULANB1: "51.1", //51 乌兰4号数据中心_B1
 }
-var HeartModelID = "1.4.1.1"       //2.3.1.1
-var HeartPropertyID = "1.5.9998.1" //1.2.1.1
+var HeartModelID = "1.4.1.1"       // 2.3.1.1
+var HeartPropertyID = "1.5.9998.1" // 1.2.1.1
 
 const DOT = "."
 
