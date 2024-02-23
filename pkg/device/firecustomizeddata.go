@@ -36,7 +36,7 @@ func ParseFireToSouth(dvs []fire.Data) {
 		updateMsg.Timestamp = common.GetTimestamp()
 		updateMsg.Data = map[string]*common.DataValue{}
 
-		//klog.V(3).Infof("Address: %s", globals.GetHostReSetCodeInfo())
+		klog.V(3).Infof("ReSetCode Adress: %s", globals.GetHostReSetCodeInfo())
 		for key, val := range dvtemp.Data {
 			klog.V(3).Infof("fire.Properties: %s-----%v", key, val)
 			if strings.EqualFold(string(key), globals.GetHostReSetCodeInfo()) {

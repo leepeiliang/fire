@@ -1,0 +1,293 @@
+
+[17:37:58.822]收←◆remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[17:38:03.831]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[17:38:08.824]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[17:38:13.827]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[17:38:18.842]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[17:38:23.849]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+
+[17:38:38.847]收←◆remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[17:38:43.845]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[17:38:48.843]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[17:38:53.848]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[17:38:58.857]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[17:39:03.872]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+
+[17:39:18.875]收←◆remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[17:39:23.876]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[17:39:28.875]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[17:39:33.883]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[17:39:38.885]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[17:39:43.895]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+
+[17:39:58.885]收←◆remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[17:40:03.895]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[17:40:08.906]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[17:40:13.895]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[17:40:18.643]收←◆[2024-02-20 09:34:37.364] ↑↑↑收到待解析设备的数据
+
+
+[17:40:18.721]收←◆0A 0B 0A 0A 0A
+[17:40:18.768]收←◆ 0A 0A 0B 0B 0B 0A 0A 0A 0A 0A 0A |................
+0A 0A 0A 0A 0A 0A 0A 0A 0A 0A 0A 0A 0A 0A 0A 0A |................
+0A 0A 0A 0A 0A 0A 0A 0A 0A 0A 0A 0A 0A 0A 0A 0A |................
+0A                                              |.
+[2024-02-20 09:34:37.444] 
+[2024-02-20 09:34:37.444] 序号0存储完成
+[2024-02-20 09:34:37.476] 第一通信中心发送数据
+[2024-02-20 09:34:37.476] 第一通讯发送消防协议的数据包->->
+
+
+[17:40:18.877]收←◆40 40 01 00 02 03 25 22 09 14 02 18 16 25 51 80 |@@....%".....%Q.
+12 FF 00 00 00 00 00 00 36 00 02 8D 01 88 31 00 |........6.....1.
+0A 0B 0A 0A 0A 0A 0A 0B 0B 0B 0A 0A 0A 0A 0A 0A |................
+0A 0A 0A 0A 0A 0A 0A 0A 0A 0A 0A 0A 0A 0A 0A 0A |................
+0A 0A 0A 0A 0A 0A 0A 0A 0A 0A 0A 0A 0A 0A 0A 0A |................
+0A 0E 23 23                                     |..##
+[2024-02-20 09:34:38.568] ->->收到平台的数据包
+
+
+[17:40:18.909]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+40 40 01 00 02 03 26 22 09 14 02 18 00 00 00 00 |@@....&"...
+[17:40:18.956]收←◆.....
+00 00 16 25 51 80 12 FF 00 00 03 A5 23 23       |...%Q......?##
+[2024-02-20 09:34:38.644] 数据全部解析完成
+[2024-02-20 09:34:38.644] 第一通信中心通讯完成
+[2024-02-20 09:34:38.668] ↑↑↑收到待解析设备的数据
+
+
+[17:40:19.018]收←◆0A 0A 0A                                        |...
+[2024-
+[17:40:19.049]收←◆02-20 09:34:38.744] 
+[2024-02-20 09:34:38.744] 序号0存储完成
+
+[17:40:19.252]收←◆[2024-02-20 09:34:38.956] 第一通信中心发送数据
+[2024-02-20 09:34:38.956] 第一通讯发送消防协议的数据包->->
+
+
+[17:40:19.330]收←◆40 40 02 00 02 03 26 22 09 14 02 18 16 25 51 80 |@@....&".....%Q.
+12 FF 00 00 00 00 00 00 08 00 02 8D 01 88 03 00 |................
+0A 0A 0A E4 23 23                               |...?##
+[2024-02-20 09:34:38.048] ->->收到平台的数据包
+
+
+[17:40:19.408]收←◆40
+[17:40:19.440]收←◆ 40 02 00 02 03 27 22 09 14 02 18 00 00 00 00 |@@....'"........
+00 00 16 25 51 80 12 FF 00 00 03 A7 23 23       |...%Q......?##
+[2024-02-20 09:34:38.128] 数据全部解析完成
+[2024-02-20 09:34:38.128] 第一通信中心通讯完成
+
+[17:40:23.913]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+
+[17:40:32.392]收←◆[2024-02-20 09:34:51.108] ↑↑↑收到待解析设备的数据
+
+
+[17:40:32.454]收←◆00                                 
+[17:40:32.485]收←◆             |.
+[2024-02-20 09:34:51.184] 
+[2024-02-20 09:34:51.184] 序号0存储完成
+
+[17:40:32.688]收←◆[2024-02-20 09:34:51.388] 第一通信中心发送数据
+[2024-02-20 09:34:51.388] 第一通讯发送消防协议的数据包->->
+
+
+[17:40:32.767]收←◆40 40 03 00 02 03 33 22 09 14 02 18 16 25 51 80 |@@....3".....%Q.
+12 FF 00 00 00 00 00 00 06 00 02 8D 01 88 01 00 |................
+00 D0 23 23                                     |.?##
+[2024-02-20 09:34:51.480] ->->收到平台的数据包
+
+
+[17:40:32.829]收←◆40 40 03 00 02 03 34 22 09 14 02 18 00 00 00 00
+[17:40:32.861]收←◆ |@@....4"........
+00 00 16 25 51 80 12 FF 00 00 03 B5 23 23       |...%Q......?##
+[2024-02-20 09:34:51.556] 数据全部解析完成
+[2024-02-20 09:34:51.556] 第一通信中心通讯完成
+
+[17:40:38.915]收←◆remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[17:40:43.916]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[17:40:48.927]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[17:40:53.917]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[17:40:58.932]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[17:41:03.944]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+
+[17:41:18.938]收←◆remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[17:41:23.940]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[17:41:28.939]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[17:41:33.939]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[17:41:38.943]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[17:41:43.958]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+
+[17:41:58.953]收←◆remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[17:42:00.744]收←◆[2024-02-20 09:36:19.468] ↑↑↑收到待解析设备的数据
+
+
+[17:42:00.806]收←◆
+0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA D6 F7 B5 E7 0A 1C 26 D7 B4 |&回路：主电..&状
+CC AC 20 B9 CA D5 CF 0A 1C 26 CA B1 BC E4 A3 BA |态 故障..&时间：
+1C 2E 32 30 32 34 2E 30 32 2E 32 30 20 31 37 3A |..2024.02.20 17:
+35 33 0A C3 E8 CA F6 A3 BA 20 0A                |53.描述： .
+[2024-02-20 09:36:19.544] 
+[2024-02-20 09:36:19.544] 序号0存储完成
+
+0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C
+26 BB D8 C2 B7 A3 BA D6 F7 B5 E7 0A 1C 26 D7 B4
+CC AC 20 B9 CA D5 CF 0A 1C 26 CA B1 BC E4 A3 BA
+1C 2E 32 30 32 34 2E 30 32 2E 32 30 20 31 37 3A
+35 33 0A C3 E8 CA F6 A3 BA 20 0A
+
+[17:42:01.025]收←◆[2024-02-20 09:36:20.748] 第一通信中心发送数据
+[2024-02-20 09:36:20.748] 第一通讯发送消防协议的数据包->->
+
+
+[17:42:01.150]收←◆
+40 40 04 00 02 03 14 24 09 14 02 18 16 25 51 80 |@@.....$.....%Q.
+12 FF 00 00 00 00 00 00 50 00 02 8D 01 88 4B 00 |........P.....K.
+0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA D6 F7 B5 E7 0A 1C 26 D7 B4 |&回路：主电..&状
+CC AC 20 B9 CA D5 CF 0A 1C 26 CA B1 BC E4 A3 BA |态 故障..&时间：
+1C 2E 32 30 32 34 2E 30 32 2E 32 30 20 31 37 3A |..2024.02.20 17:
+35 33 0A C3 E8 CA F6 A3 BA 20 0A D6 23 23       |53.描述： .?##
+[2024-02-20 09:36:20.840] ->->收到平台的数据包
+
+
+[17:42:01.212]收←◆40 40 04 00 02 03 15 24 09 14 02 18 00 00 00 00 |@@.....$........
+00 00 16 25 51 80 12 FF 00 00 03 99 23 23       |...%Q.......##
+[2024-02-20 09:36:20.916] 数据全部解析完成
+[2024-02-20 09:36:20.916] 第一通信中心通讯完成
+
+[17:42:03.957]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[17:42:08.958]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[17:42:13.969]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[17:42:18.968]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[17:42:19.741]收←◆[2024-02-20 09:36:38.464] ↑↑↑收到待解析设备的数据
+
+
+[17:42:19.850]收←◆00                                              |.
+[2024-02-20 09:36:39.540] 
+[2024-02-20 09:36:39.540] 序号0存储完成
+
+[17:42:20.007]收←◆[2024-02-20 09:36:39.716] 第一通信中心发送数据
+[2024-02-20 09:36:39.716] 第一通讯发送消防协议的数据包->->
+
+
+[17:42:20.085]收←◆40 40 05 00 02 03 27 24 09 14 02 18 16 25 51 80 |@@....'$.....%Q.
+12 FF 00 00 00 00 00 00 06 00 02 8D 01 88 01 00 |................
+00 C8 23 23                                     |.?##
+[2024-02-20 09:36:39.808] ->->收到平台的数据包
+
+
+[17:42:20.147]收←◆40 40 05 00 02 03 28 24 09 14 02 18 00 00 00 00 |@
+[17:42:20.178]收←◆@....($........
+00 00 16 25 51 80 12 FF 00 00 03 AD 23 23       |...%Q......?##
+[2024-02-20 09:36:39.884] 数据全部解析完成
+[2024-02-20 09:36:39.884] 第一通信中心通讯完成
+
+[17:42:23.979]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+
+[17:42:38.979]收←◆remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[17:42:43.980]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[17:42:48.982]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com

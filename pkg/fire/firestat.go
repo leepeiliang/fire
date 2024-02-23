@@ -197,7 +197,7 @@ const (
 	OperateSYS                //3 屏蔽/操作/
 	RegulatorySYS             //4 监管
 	StartSYS                  //5 启动
-	FeedbackSYS               //6 反馈/停止/恢复 //延时
+	FeedbackSYS               //6 反馈/停止/恢复 //延时 允许
 	DeferStateSYS             //7 延时状态
 	MainPowerFailSYS          //8 主电故障
 	BackupPowerFailSYS        //9 备电故障
@@ -428,12 +428,15 @@ func (ss *PropertyStat) StringStripDefaultPropertyStat(name, place, msg string) 
 	if strings.Contains(name, "恢复") ||
 		strings.Contains(name, "停止") ||
 		strings.Contains(name, "反馈") ||
+		strings.Contains(name, "允许") ||
 		strings.Contains(place, "恢复") ||
 		strings.Contains(place, "停止") ||
 		strings.Contains(place, "反馈") ||
+		strings.Contains(place, "允许") ||
 		strings.Contains(msg, "恢复") ||
 		strings.Contains(msg, "停止") ||
-		strings.Contains(msg, "反馈") {
+		strings.Contains(msg, "反馈") ||
+		strings.Contains(msg, "允许") {
 		if strings.Contains(name, "解除") ||
 			strings.Contains(place, "解除") ||
 			strings.Contains(msg, "解除") ||
@@ -443,6 +446,16 @@ func (ss *PropertyStat) StringStripDefaultPropertyStat(name, place, msg string) 
 			return
 		}
 
+		klog.Infof("恢复状态转换msg: status[%x]", ss.Status)
+		ss.Status = 0x00
+		ss.SetBit(OperateSYS)
+		ss.SetBit(FeedbackSYS) //状态位-正常
+		return
+
+	}
+	if strings.Contains(name, "自动允许") ||
+		strings.Contains(place, "自动允许") ||
+		strings.Contains(msg, "自动允许") {
 		klog.Infof("恢复状态转换msg: status[%x]", ss.Status)
 		ss.Status = 0x00
 		ss.SetBit(OperateSYS)

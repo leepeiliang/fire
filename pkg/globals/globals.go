@@ -86,7 +86,7 @@ const (
 	TengrenHostName      = "tengren-a"         //40 腾仁数据中心_A
 	SANHE7               = "sanhe7"            //20 三河7#数据中心
 	WULANB1              = "wulan4-b1"         //51 乌兰4号数据中心_B1
-	TEST                 = "lipeiliangdeMacBook-Pro.local"
+	TEST                 = "lipeiliangdeMBP"
 )
 
 var defaultReSetCode = "9-#-#-#-0-0-#-#-#-#--#-#-#-0-#"
@@ -105,7 +105,8 @@ var ReSetCode = map[string]string{
 	XIASHAHostName:       "9-#-#-#-0-0-#-#-#-#-000000-#-#-#-0-#",
 
 	BEIJINGB28: "9-#-#-#-0-0-#-#-#-#-#-#-#-#-0-#",
-	TEST:       "9-#-#-#-0-0-#-#-#-#-#-#-#-#-0-#",
+	GZFOUSHAN:  "9-#-#-#-0-1-#-#-#-#-#-#-#-#-0-#",
+	TEST:       "9-#-#-#-0-1-#-#-#-#-#-#-#-#-0-#",
 }
 var HeartCode = map[string]string{
 	TEST:                 "0.1",
