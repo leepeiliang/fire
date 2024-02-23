@@ -86,7 +86,7 @@ const (
 	TengrenHostName      = "tengren-a"         //40 腾仁数据中心_A
 	SANHE7               = "sanhe7"            //20 三河7#数据中心
 	WULANB1              = "wulan4-b1"         //51 乌兰4号数据中心_B1
-	TEST                 = "lipeiliangdeMBP"
+	TEST                 = "lipeiliangdeMacBook-Pro.local"
 )
 
 var defaultReSetCode = "9-#-#-#-0-0-#-#-#-#--#-#-#-0-#"
@@ -168,7 +168,7 @@ func GetHostReSetCodeInfo() string {
 	}
 	klog.Infof("HostName:[%s]", hostInfo.Hostname)
 	if code, ok := ReSetCode[hostInfo.Hostname]; ok {
-		klog.Infof("ReSetCode:[%s]", code)
+		//		klog.Infof("ReSetCode:[%s]", code)
 		return code
 	}
 	return defaultReSetCode

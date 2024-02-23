@@ -1228,6 +1228,7 @@ func (m FireData) FireParseCardAlarmStatDecode() []FireParseCardPRTAlarmStat {
 
 	buf := data.NewBuffer(m.Data)
 	klog.Infof("FireBuildElectricityDecode-ObjectNum:[%d]", m.ObjectNum)
+	klog.Infof("FireBuildElectricityDecode-datalen:[%d]", len(m.Data))
 	enc := mahonia.NewDecoder("gbk")
 	for i := 0; i < int(m.ObjectNum); i++ {
 		var f FireParseCardPRTAlarmStat
@@ -1322,6 +1323,10 @@ func (m FireData) FireParseCardAlarmStatDecodeToData() []Data {
 		case globals.BEIJINGB28:
 			params = StringStripbtobaone(f.Place.Msg, f.Msg.Msg)
 			klog.Infof("b28清洗结果: %s", params)
+			f.PropertyStat.StringStripDefaultPropertyStat(f.Name.Msg, f.Place.Msg, f.Msg.Msg)
+		case globals.TEST:
+			params = StringStriphedan(f.Place.Msg, f.Msg.Msg)
+			klog.Infof("hedan清洗结果: %s", params)
 			f.PropertyStat.StringStripDefaultPropertyStat(f.Name.Msg, f.Place.Msg, f.Msg.Msg)
 		default:
 			params = StringStripDefault(f.Name.Msg, f.Place.Msg, f.Msg.Msg)
@@ -2300,6 +2305,17 @@ func StringStripbtobaone(place, msg string) string {
 	place = strings.TrimSpace(place)
 	reg := regexp.MustCompile(`[\W|_]{1,}`)
 	return reg.ReplaceAllString(place, "")
+}
+func StringStriphedan(place, msg string) string {
+	klog.Infof("荷担清洗: place[%s]", place)
+	klog.Infof("荷担清洗: msg[%s]", msg)
+	if place == "" {
+		return ""
+	}
+	place = strings.TrimSpace(place)
+	reg := regexp.MustCompile(`[\W|_]{1,}`)
+	infos := strings.SplitN(place, ":", 2)
+	return reg.ReplaceAllString(infos[0], "")
 }
 func StringStrip(str string) string {
 	if str == "" {
