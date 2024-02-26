@@ -68,9 +68,9 @@ type DomanCode struct {
 // ErrConfigCert error of certification configuration.
 var ErrConfigCert = errors.New("Both certification and private key must be provided")
 
-var defaultConfigFile = "/Users/lipeiliang/go/bak/metaedge/mappers-fire/config/config.yaml"
+//var defaultConfigFile = "/Users/lipeiliang/go/bak/metaedge/mappers-fire/config/config.yaml"
 
-//var defaultConfigFile = "kubeedge/config.yaml"
+var defaultConfigFile = "kubeedge/config.yaml"
 
 // Parse parse the configuration file. If failed, return error.
 func (c *Config) Parse() error {
