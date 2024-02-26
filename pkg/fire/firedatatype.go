@@ -1324,7 +1324,7 @@ func (m FireData) FireParseCardAlarmStatDecodeToData() []Data {
 			params = StringStripbtobaone(f.Place.Msg, f.Msg.Msg)
 			klog.Infof("b28清洗结果: %s", params)
 			f.PropertyStat.StringStripDefaultPropertyStat(f.Name.Msg, f.Place.Msg, f.Msg.Msg)
-		case globals.TEST:
+		case globals.HEDAN:
 			params = StringStriphedan(f.Place.Msg, f.Msg.Msg)
 			klog.Infof("hedan清洗结果: %s", params)
 			f.PropertyStat.StringStripDefaultPropertyStat(f.Name.Msg, f.Place.Msg, f.Msg.Msg)
@@ -2258,19 +2258,19 @@ func StringStripDefault(name, place, msg string) string {
 	}
 	if strings.Contains(name, "回路") {
 		reg := regexp.MustCompile(`[\W|_]{1,}`)
-		return reg.ReplaceAllString(place, "")
+		return reg.ReplaceAllString(name, "")
 	}
 	if strings.Contains(place, "QN01") {
 		infos := strings.SplitN(place, ",", 4)
 		reg := regexp.MustCompile(`[\W|_]{1,}`)
-		return reg.ReplaceAllString(strings.Join(infos[2:], ""), "")
+		return strings.TrimPrefix(reg.ReplaceAllString(strings.Join(infos[2:], ""), ""), "QN01")
 	}
 	if strings.Contains(place, "回路") {
 		reg := regexp.MustCompile(`[\W|_]{1,}`)
 		return reg.ReplaceAllString(place, "")
 	}
 	if strings.Contains(msg, "QN01") {
-		infos := strings.SplitN(place, ",", 4)
+		infos := strings.SplitN(msg, ",", 4)
 		reg := regexp.MustCompile(`[\W|_]{1,}`)
 		return reg.ReplaceAllString(strings.Join(infos[2:], ""), "")
 	}
