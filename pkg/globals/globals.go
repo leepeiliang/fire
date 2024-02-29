@@ -106,6 +106,7 @@ var ReSetCode = map[string]string{
 
 	BEIJINGB28: "9-#-#-#-0-0-#-#-#-#-#-#-#-#-0-#",
 	GZFOUSHAN:  "9-#-#-#-0-1-#-#-#-#-#-#-#-#-0-#",
+	BJM6:       "9-#-#-#-0-0-#-#-#-#-#-#-#-#-0-#",
 	TEST:       "9-#-#-#-0-1-#-#-#-#-#-#-#-#-0-#",
 }
 var HeartCode = map[string]string{
