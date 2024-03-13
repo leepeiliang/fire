@@ -1516,7 +1516,8 @@ unknown host cloud.fourfaith.com
 [10:55:06.037]收←◆[2024-02-22 10:59:28.168] ↑↑↑收到待解析设备的数据
 
 
-[10:55:06.163]收←◆D3 F2 30 C2 A5 B2 E3 30 B7 BF BC E4 0A A3 B2 C2 |域0楼层0房间.２?
+[10:55:06.163]收←◆
+D3 F2 30 C2 A5 B2 E3 30 B7 BF BC E4 0A A3 B2 C2 |域0楼层0房间.２?
 A5 B1 B1 B5 E7 C1 A6 B5 E7 B3 D8 CA D2 0A 30 30 |?北电力电池室.00
 33 BB D8 C2 B7 30 38 39 B5 D8 D6 B7 0A BB F0 BE |3回路089地址.火?
 AF BA F3 D0 F8 0A B8 D0 D1 CC CC BD B2 E2 C6 F7 |?后续.感烟探测器
