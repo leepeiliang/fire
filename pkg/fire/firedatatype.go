@@ -1328,6 +1328,10 @@ func (m FireData) FireParseCardAlarmStatDecodeToData() []Data {
 			params = StringStriphedan(f.Place.Msg, f.Msg.Msg)
 			klog.Infof("hedan清洗结果: %s", params)
 			f.PropertyStat.StringStripDefaultPropertyStat(f.Name.Msg, f.Place.Msg, f.Msg.Msg)
+		case globals.TongZhouB:
+			params = StringStripTongZhou(f.Name.Msg, f.Place.Msg, f.Msg.Msg)
+			klog.Infof("通州清洗结果: %s", params)
+			f.PropertyStat.StringStripDefaultPropertyStat(f.Name.Msg, f.Place.Msg, f.Msg.Msg)
 		default:
 			params = StringStripDefault(f.Name.Msg, f.Place.Msg, f.Msg.Msg)
 			klog.Infof("测试清洗结果: %s", params)
@@ -2273,6 +2277,47 @@ func StringStripDefault(name, place, msg string) string {
 		infos := strings.SplitN(msg, ",", 4)
 		reg := regexp.MustCompile(`[\W|_]{1,}`)
 		return reg.ReplaceAllString(strings.Join(infos[2:], ""), "")
+	}
+	if strings.Contains(msg, "回路") {
+		reg := regexp.MustCompile(`[\W|_]{1,}`)
+		return reg.ReplaceAllString(msg, "")
+	}
+	return ""
+}
+
+func StringStripTongZhou(name, place, msg string) string {
+	klog.Infof("通州清洗: name[%s]", name)
+	klog.Infof("通州清洗: place[%s]", place)
+	klog.Infof("通州清洗: msg[%s]", msg)
+	if name == "" && place == "" && msg == "" {
+		return ""
+	}
+	name = strings.TrimSpace(name)
+	place = strings.TrimSpace(place)
+	msg = strings.TrimSpace(msg)
+
+	if strings.ContainsAny(name, "AL") {
+		reg := regexp.MustCompile(`[\W|_]{1,}`)
+		start := strings.IndexAny(name, "AL")
+		return reg.ReplaceAllString(name[start:], "")
+	}
+	if strings.Contains(name, "回路") {
+		reg := regexp.MustCompile(`[\W|_]{1,}`)
+		return reg.ReplaceAllString(name, "")
+	}
+	if strings.Contains(place, "QN01") {
+		infos := strings.SplitN(place, ",", 4)
+		reg := regexp.MustCompile(`[\W|_]{1,}`)
+		return strings.TrimPrefix(reg.ReplaceAllString(strings.Join(infos[1:], ""), ""), "QN01")
+	}
+	if strings.Contains(place, "回路") {
+		reg := regexp.MustCompile(`[\W|_]{1,}`)
+		return reg.ReplaceAllString(place, "")
+	}
+	if strings.Contains(msg, "QN01") {
+		infos := strings.SplitN(msg, ",", 4)
+		reg := regexp.MustCompile(`[\W|_]{1,}`)
+		return reg.ReplaceAllString(strings.Join(infos[1:], ""), "")
 	}
 	if strings.Contains(msg, "回路") {
 		reg := regexp.MustCompile(`[\W|_]{1,}`)

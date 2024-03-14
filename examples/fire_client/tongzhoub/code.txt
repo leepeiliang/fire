@@ -1,0 +1,239 @@
+I0313 07:46:24.105568       1 firedatadecode.go:22] DecodeSwitchDataTypeToData= &{9 1 [0 0 51 51 5 0 28 38 38 81 78 48 49 44 187 250 198 247 48 49 44 187 216 194 183 49 49 44 178 191 188 254 48 55 51 4 185 202 213 207 47 49 15 13 3 24]}
+I0313 07:46:24.105608       1 firedatadecode.go:23] DecodeSwitchDataType= 0x9
+I0313 07:46:24.105618       1 firedatatype.go:1263] FireParseCardAlarmStatDecodeToData:Type:9,46
+I0313 07:46:24.105627       1 firedatatype.go:1230] FireBuildElectricityDecode-ObjectNum:[1]
+I0313 07:46:24.105635       1 firedatatype.go:1231] FireBuildElectricityDecode-datalen:[46]
+I0313 07:46:24.105684       1 firedatatype.go:1251] FireBuildUserConfigStatDecode status:[5]
+I0313 07:46:24.105719       1 firedatatype.go:1252] FireBuildUserConfigStatDecode Name:0--
+I0313 07:46:24.105740       1 firedatatype.go:1253] FireBuildUserConfigStatDecode Place:28--&&QN01,机器01,回路11,部件073
+I0313 07:46:24.105758       1 firedatatype.go:1254] FireBuildUserConfigStatDecode Msg:4--故障
+I0313 07:46:24.105776       1 firedatatype.go:1256] FireBuildUserConfigStatDecode Pos:46--{ChannelID:0 FireHostNum:0 Reserved:[51 51] PropertyStat:{Status:5} Name:{MsgLen:0 Msg:} Place:{MsgLen:28 Msg:&&QN01,机器01,回路11,部件073} Msg:{MsgLen:4 Msg:故障} TimeLabels:{TimeLabels:[47 49 15 13 3 24]}}
+I0313 07:46:24.105801       1 firedatatype.go:1267] FireParseCardAlarmStatDecode :[{ChannelID:0 FireHostNum:0 Reserved:[51 51] PropertyStat:{Status:5} Name:{MsgLen:0 Msg:} Place:{MsgLen:28 Msg:&&QN01,机器01,回路11,部件073} Msg:{MsgLen:4 Msg:故障} TimeLabels:{TimeLabels:[47 49 15 13 3 24]}}]
+I0313 07:46:24.106126       1 firedatatype.go:2244] 通用清洗: name[]
+I0313 07:46:24.106139       1 firedatatype.go:2245] 通用清洗: place[&&QN01,机器01,回路11,部件073]
+I0313 07:46:24.106146       1 firedatatype.go:2246] 通用清洗: msg[故障]
+I0313 07:46:24.106243       1 firedatatype.go:1333] 测试清洗结果: 11073
+I0313 07:46:24.106254       1 firestat.go:301] 通用状态转换name: name[&&QN01,机器01,回路11,部件073]
+I0313 07:46:24.106261       1 firestat.go:302] 通用状态转换place: place[&&QN01,机器01,回路11,部件073]
+I0313 07:46:24.106268       1 firestat.go:303] 通用状态转换msg: msg[故障]
+I0313 07:46:24.106610       1 globals.go:219] HostName:[tongzhoubedge]
+I0313 07:46:24.106629       1 firecustomizeddata.go:24] ParseFireToSouth Device:[0]---len:[9]
+I0313 07:46:24.106654       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:&{Value:1 Timestamp:1710315984 Metadata:{Timestamp:1710344987 Type:boolean}}
+I0313 07:46:24.106712       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:&{Value:0 Timestamp:1710315984 Metadata:{Timestamp:1710344987 Type:boolean}}
+I0313 07:46:24.106729       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:&{Value:0 Timestamp:1710315984 Metadata:{Timestamp:1710344987 Type:boolean}}
+I0313 07:46:24.106745       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:&{Value:0 Timestamp:1710315984 Metadata:{Timestamp:1710344987 Type:boolean}}
+I0313 07:46:24.106760       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:&{Value:故障 Timestamp:1710315984 Metadata:{Timestamp:1710344987 Type:string}}
+I0313 07:46:24.106775       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:&{Value:1 Timestamp:1710315984 Metadata:{Timestamp:1710344987 Type:boolean}}
+I0313 07:46:24.106790       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:&{Value:0 Timestamp:1710315984 Metadata:{Timestamp:1710344987 Type:boolean}}
+I0313 07:46:24.106811       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:&{Value:0 Timestamp:1710315984 Metadata:{Timestamp:1710344987 Type:boolean}}
+I0313 07:46:24.106828       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:&{Value:0 Timestamp:1710315984 Metadata:{Timestamp:1710344987 Type:boolean}}
+I0313 07:46:24.107130       1 globals.go:170] HostName:[tongzhoubedge]
+I0313 07:46:24.107143       1 firecustomizeddata.go:39] ReSetCode Adress: 9-#-#-#-0-0-#-#-#-#--#-#-#-0-#
+I0313 07:46:24.107157       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-11073-#-#-#-0-#-----&{1 1710315984 {1710344987 boolean}}
+I0313 07:46:24.107422       1 globals.go:170] HostName:[tongzhoubedge]
+I0313 07:46:24.107440       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-11073-#-#-#-1-#-----&{0 1710315984 {1710344987 boolean}}
+I0313 07:46:24.107745       1 globals.go:170] HostName:[tongzhoubedge]
+I0313 07:46:24.107765       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-11073-#-#-#-4-#-----&{0 1710315984 {1710344987 boolean}}
+I0313 07:46:24.108026       1 globals.go:170] HostName:[tongzhoubedge]
+I0313 07:46:24.108044       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-11073-#-#-#-7-#-----&{0 1710315984 {1710344987 boolean}}
+I0313 07:46:24.108309       1 globals.go:170] HostName:[tongzhoubedge]
+I0313 07:46:24.108328       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-11073-#-#-#-2-#-----&{1 1710315984 {1710344987 boolean}}
+I0313 07:46:24.108601       1 globals.go:170] HostName:[tongzhoubedge]
+I0313 07:46:24.108619       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-11073-#-#-#-3-#-----&{0 1710315984 {1710344987 boolean}}
+I0313 07:46:24.108908       1 globals.go:170] HostName:[tongzhoubedge]
+I0313 07:46:24.108927       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-11073-#-#-#-5-#-----&{0 1710315984 {1710344987 boolean}}
+I0313 07:46:24.109189       1 globals.go:170] HostName:[tongzhoubedge]
+I0313 07:46:24.109207       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-11073-#-#-#-6-#-----&{0 1710315984 {1710344987 boolean}}
+I0313 07:46:24.109474       1 globals.go:170] HostName:[tongzhoubedge]
+I0313 07:46:24.109492       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-11073-#-#-#-s-#-----&{故障 1710315984 {1710344987 string}}
+
+
+
+
+0313 07:50:42.647972       1 firedatadecode.go:22] DecodeSwitchDataTypeToData= &{9 1 [0 0 51 51 3 0 28 38 38 81 78 48 49 44 187 250 198 247 48 49 44 187 216 194 183 49 49 44 178 191 188 254 49 48 56 4 187 240 190 175 5 54 15 13 3 24]}
+I0313 07:50:42.648038       1 firedatadecode.go:23] DecodeSwitchDataType= 0x9
+I0313 07:50:42.648049       1 firedatatype.go:1263] FireParseCardAlarmStatDecodeToData:Type:9,46
+I0313 07:50:42.648058       1 firedatatype.go:1230] FireBuildElectricityDecode-ObjectNum:[1]
+I0313 07:50:42.648066       1 firedatatype.go:1231] FireBuildElectricityDecode-datalen:[46]
+I0313 07:50:42.648094       1 firedatatype.go:1251] FireBuildUserConfigStatDecode status:[3]
+I0313 07:50:42.648113       1 firedatatype.go:1252] FireBuildUserConfigStatDecode Name:0--
+I0313 07:50:42.648130       1 firedatatype.go:1253] FireBuildUserConfigStatDecode Place:28--&&QN01,机器01,回路11,部件108
+I0313 07:50:42.648149       1 firedatatype.go:1254] FireBuildUserConfigStatDecode Msg:4--火警
+I0313 07:50:42.648168       1 firedatatype.go:1256] FireBuildUserConfigStatDecode Pos:46--{ChannelID:0 FireHostNum:0 Reserved:[51 51] PropertyStat:{Status:3} Name:{MsgLen:0 Msg:} Place:{MsgLen:28 Msg:&&QN01,机器01,回路11,部件108} Msg:{MsgLen:4 Msg:火警} TimeLabels:{TimeLabels:[5 54 15 13 3 24]}}
+I0313 07:50:42.648192       1 firedatatype.go:1267] FireParseCardAlarmStatDecode :[{ChannelID:0 FireHostNum:0 Reserved:[51 51] PropertyStat:{Status:3} Name:{MsgLen:0 Msg:} Place:{MsgLen:28 Msg:&&QN01,机器01,回路11,部件108} Msg:{MsgLen:4 Msg:火警} TimeLabels:{TimeLabels:[5 54 15 13 3 24]}}]
+I0313 07:50:42.648536       1 firedatatype.go:2244] 通用清洗: name[]
+I0313 07:50:42.648548       1 firedatatype.go:2245] 通用清洗: place[&&QN01,机器01,回路11,部件108]
+I0313 07:50:42.648555       1 firedatatype.go:2246] 通用清洗: msg[火警]
+I0313 07:50:42.648608       1 firedatatype.go:1333] 测试清洗结果: 11108
+I0313 07:50:42.648618       1 firestat.go:301] 通用状态转换name: name[&&QN01,机器01,回路11,部件108]
+I0313 07:50:42.648625       1 firestat.go:302] 通用状态转换place: place[&&QN01,机器01,回路11,部件108]
+I0313 07:50:42.648632       1 firestat.go:303] 通用状态转换msg: msg[火警]
+I0313 07:50:42.648956       1 globals.go:219] HostName:[tongzhoubedge]
+I0313 07:50:42.648970       1 firecustomizeddata.go:24] ParseFireToSouth Device:[0]---len:[9]
+I0313 07:50:42.648986       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:&{Value:1 Timestamp:1710316242 Metadata:{Timestamp:1710345245 Type:boolean}}
+I0313 07:50:42.649016       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:&{Value:0 Timestamp:1710316242 Metadata:{Timestamp:1710345245 Type:boolean}}
+I0313 07:50:42.649036       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:&{Value:0 Timestamp:1710316242 Metadata:{Timestamp:1710345245 Type:boolean}}
+I0313 07:50:42.649051       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:&{Value:0 Timestamp:1710316242 Metadata:{Timestamp:1710345245 Type:boolean}}
+I0313 07:50:42.649070       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:&{Value:0 Timestamp:1710316242 Metadata:{Timestamp:1710345245 Type:boolean}}
+I0313 07:50:42.649085       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:&{Value:1 Timestamp:1710316242 Metadata:{Timestamp:1710345245 Type:boolean}}
+I0313 07:50:42.649104       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:&{Value:0 Timestamp:1710316242 Metadata:{Timestamp:1710345245 Type:boolean}}
+I0313 07:50:42.649119       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:&{Value:0 Timestamp:1710316242 Metadata:{Timestamp:1710345245 Type:boolean}}
+I0313 07:50:42.649135       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:&{Value:火警 Timestamp:1710316242 Metadata:{Timestamp:1710345245 Type:string}}
+I0313 07:50:42.649401       1 globals.go:170] HostName:[tongzhoubedge]
+I0313 07:50:42.649413       1 firecustomizeddata.go:39] ReSetCode Adress: 9-#-#-#-0-0-#-#-#-#--#-#-#-0-#
+I0313 07:50:42.649427       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-11108-#-#-#-6-#-----&{0 1710316242 {1710345245 boolean}}
+I0313 07:50:42.649693       1 globals.go:170] HostName:[tongzhoubedge]
+I0313 07:50:42.649712       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-11108-#-#-#-0-#-----&{1 1710316242 {1710345245 boolean}}
+I0313 07:50:42.649964       1 globals.go:170] HostName:[tongzhoubedge]
+I0313 07:50:42.649982       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-11108-#-#-#-2-#-----&{0 1710316242 {1710345245 boolean}}
+I0313 07:50:42.650224       1 globals.go:170] HostName:[tongzhoubedge]
+I0313 07:50:42.650241       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-11108-#-#-#-3-#-----&{0 1710316242 {1710345245 boolean}}
+I0313 07:50:42.650488       1 globals.go:170] HostName:[tongzhoubedge]
+I0313 07:50:42.650506       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-11108-#-#-#-5-#-----&{0 1710316242 {1710345245 boolean}}
+I0313 07:50:42.650766       1 globals.go:170] HostName:[tongzhoubedge]
+I0313 07:50:42.650785       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-11108-#-#-#-1-#-----&{1 1710316242 {1710345245 boolean}}
+I0313 07:50:42.651031       1 globals.go:170] HostName:[tongzhoubedge]
+I0313 07:50:42.651049       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-11108-#-#-#-4-#-----&{0 1710316242 {1710345245 boolean}}
+I0313 07:50:42.651290       1 globals.go:170] HostName:[tongzhoubedge]
+I0313 07:50:42.651307       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-11108-#-#-#-7-#-----&{0 1710316242 {1710345245 boolean}}
+I0313 07:50:42.651552       1 globals.go:170] HostName:[tongzhoubedge]
+I0313 07:50:42.651569       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-11108-#-#-#-s-#-----&{火警 1710316242 {1710345245 string}}
+
+
+
+
+I0313 07:26:17.580298       1 firedatatype.go:2244] 通用清洗: name[控制器]
+I0313 07:26:17.580310       1 firedatatype.go:2245] 通用清洗: place[&&QN01,机器22,回路22,部件000]
+I0313 07:26:17.580316       1 firedatatype.go:2246] 通用清洗: msg[消音]
+I0313 07:26:17.580362       1 firedatatype.go:1333] 测试清洗结果: 22000
+I0313 07:26:17.580371       1 firestat.go:301] 通用状态转换name: name[&&QN01,机器22,回路22,部件000]
+I0313 07:26:17.580378       1 firestat.go:302] 通用状态转换place: place[&&QN01,机器22,回路22,部件000]
+I0313 07:26:17.580385       1 firestat.go:303] 通用状态转换msg: msg[消音]
+I0313 07:26:17.580427       1 firestat.go:466] 特殊处理状态转换-status:[1]
+I0313 07:26:17.580709       1 globals.go:219] HostName:[tongzhoubedge]
+I0313 07:26:17.580723       1 firecustomizeddata.go:24] ParseFireToSouth Device:[0]---len:[9]
+I0313 07:26:17.580738       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:&{Value:0 Timestamp:1710314777 Metadata:{Timestamp:1710343780 Type:boolean}}
+I0313 07:26:17.580757       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:&{Value:0 Timestamp:1710314777 Metadata:{Timestamp:1710343780 Type:boolean}}
+I0313 07:26:17.580775       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:&{Value:消音 Timestamp:1710314777 Metadata:{Timestamp:1710343780 Type:string}}
+I0313 07:26:17.580790       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:&{Value:1 Timestamp:1710314777 Metadata:{Timestamp:1710343780 Type:boolean}}
+I0313 07:26:17.580806       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:&{Value:0 Timestamp:1710314777 Metadata:{Timestamp:1710343780 Type:boolean}}
+I0313 07:26:17.580820       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:&{Value:0 Timestamp:1710314777 Metadata:{Timestamp:1710343780 Type:boolean}}
+I0313 07:26:17.580837       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:&{Value:0 Timestamp:1710314777 Metadata:{Timestamp:1710343780 Type:boolean}}
+I0313 07:26:17.580850       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:&{Value:0 Timestamp:1710314777 Metadata:{Timestamp:1710343780 Type:boolean}}
+I0313 07:26:17.580864       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:&{Value:0 Timestamp:1710314777 Metadata:{Timestamp:1710343780 Type:boolean}}
+I0313 07:26:17.581101       1 globals.go:170] HostName:[tongzhoubedge]
+I0313 07:26:17.581114       1 firecustomizeddata.go:39] ReSetCode Adress: 9-#-#-#-0-0-#-#-#-#--#-#-#-0-#
+I0313 07:26:17.581126       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-22000-#-#-#-0-#-----&{1 1710314777 {1710343780 boolean}}
+I0313 07:26:17.581359       1 globals.go:170] HostName:[tongzhoubedge]
+I0313 07:26:17.581377       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-22000-#-#-#-2-#-----&{0 1710314777 {1710343780 boolean}}
+I0313 07:26:17.581605       1 globals.go:170] HostName:[tongzhoubedge]
+I0313 07:26:17.581622       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-22000-#-#-#-6-#-----&{0 1710314777 {1710343780 boolean}}
+I0313 07:26:17.581865       1 globals.go:170] HostName:[tongzhoubedge]
+I0313 07:26:17.581882       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-22000-#-#-#-7-#-----&{0 1710314777 {1710343780 boolean}}
+I0313 07:26:17.582107       1 globals.go:170] HostName:[tongzhoubedge]
+I0313 07:26:17.582124       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-22000-#-#-#-s-#-----&{消音 1710314777 {1710343780 string}}
+I0313 07:26:17.582351       1 globals.go:170] HostName:[tongzhoubedge]
+I0313 07:26:17.582368       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-22000-#-#-#-1-#-----&{0 1710314777 {1710343780 boolean}}
+I0313 07:26:17.582590       1 globals.go:170] HostName:[tongzhoubedge]
+I0313 07:26:17.582606       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-22000-#-#-#-3-#-----&{0 1710314777 {1710343780 boolean}}
+I0313 07:26:17.582845       1 globals.go:170] HostName:[tongzhoubedge]
+I0313 07:26:17.582861       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-22000-#-#-#-4-#-----&{0 1710314777 {1710343780 boolean}}
+I0313 07:26:17.583081       1 globals.go:170] HostName:[tongzhoubedge]
+I0313 07:26:17.583097       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-22000-#-#-#-5-#-----&{0 1710314777 {1710343780 boolean}}
+
+
+
+
+I0313 07:32:00.317906       1 firedatatype.go:2244] 通用清洗: name[控制器]
+I0313 07:32:00.317919       1 firedatatype.go:2245] 通用清洗: place[&&QN01,机器22,回路00,部件000]
+I0313 07:32:00.317926       1 firedatatype.go:2246] 通用清洗: msg[复位]
+I0313 07:32:00.318022       1 firedatatype.go:1333] 测试清洗结果: 00000
+I0313 07:32:00.318032       1 firestat.go:301] 通用状态转换name: name[&&QN01,机器22,回路00,部件000]
+I0313 07:32:00.318039       1 firestat.go:302] 通用状态转换place: place[&&QN01,机器22,回路00,部件000]
+I0313 07:32:00.318046       1 firestat.go:303] 通用状态转换msg: msg[复位]
+I0313 07:32:00.318084       1 firestat.go:466] 特殊处理状态转换-status:[1]
+I0313 07:32:00.318367       1 globals.go:219] HostName:[tongzhoubedge]
+I0313 07:32:00.318380       1 firecustomizeddata.go:24] ParseFireToSouth Device:[0]---len:[9]
+I0313 07:32:00.318394       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:&{Value:0 Timestamp:1710315120 Metadata:{Timestamp:1710344123 Type:boolean}}
+I0313 07:32:00.318414       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:&{Value:0 Timestamp:1710315120 Metadata:{Timestamp:1710344123 Type:boolean}}
+I0313 07:32:00.318429       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:&{Value:0 Timestamp:1710315120 Metadata:{Timestamp:1710344123 Type:boolean}}
+I0313 07:32:00.318443       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:&{Value:0 Timestamp:1710315120 Metadata:{Timestamp:1710344123 Type:boolean}}
+I0313 07:32:00.318461       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:&{Value:0 Timestamp:1710315120 Metadata:{Timestamp:1710344123 Type:boolean}}
+I0313 07:32:00.318475       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:&{Value:复位 Timestamp:1710315120 Metadata:{Timestamp:1710344123 Type:string}}
+I0313 07:32:00.318488       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:&{Value:1 Timestamp:1710315120 Metadata:{Timestamp:1710344123 Type:boolean}}
+I0313 07:32:00.318502       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:&{Value:0 Timestamp:1710315120 Metadata:{Timestamp:1710344123 Type:boolean}}
+I0313 07:32:00.318515       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:&{Value:0 Timestamp:1710315120 Metadata:{Timestamp:1710344123 Type:boolean}}
+I0313 07:32:00.318790       1 globals.go:170] HostName:[tongzhoubedge]
+I0313 07:32:00.318804       1 firecustomizeddata.go:39] ReSetCode Adress: 9-#-#-#-0-0-#-#-#-#--#-#-#-0-#
+I0313 07:32:00.318816       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-00000-#-#-#-1-#-----&{0 1710315120 {1710344123 boolean}}
+I0313 07:32:00.319059       1 globals.go:170] HostName:[tongzhoubedge]
+I0313 07:32:00.319076       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-00000-#-#-#-3-#-----&{0 1710315120 {1710344123 boolean}}
+I0313 07:32:00.319447       1 globals.go:170] HostName:[tongzhoubedge]
+I0313 07:32:00.319475       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-00000-#-#-#-6-#-----&{0 1710315120 {1710344123 boolean}}
+I0313 07:32:00.319866       1 globals.go:170] HostName:[tongzhoubedge]
+I0313 07:32:00.319892       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-00000-#-#-#-7-#-----&{0 1710315120 {1710344123 boolean}}
+I0313 07:32:00.320272       1 globals.go:170] HostName:[tongzhoubedge]
+I0313 07:32:00.320296       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-00000-#-#-#-s-#-----&{复位 1710315120 {1710344123 string}}
+I0313 07:32:00.320685       1 globals.go:170] HostName:[tongzhoubedge]
+I0313 07:32:00.320708       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-00000-#-#-#-0-#-----&{1 1710315120 {1710344123 boolean}}
+I0313 07:32:00.321065       1 globals.go:170] HostName:[tongzhoubedge]
+I0313 07:32:00.321085       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-00000-#-#-#-2-#-----&{0 1710315120 {1710344123 boolean}}
+I0313 07:32:00.321448       1 globals.go:170] HostName:[tongzhoubedge]
+I0313 07:32:00.321468       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-00000-#-#-#-4-#-----&{0 1710315120 {1710344123 boolean}}
+I0313 07:32:00.321869       1 globals.go:170] HostName:[tongzhoubedge]
+I0313 07:32:00.321891       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-00000-#-#-#-5-#-----&{0 1710315120 {1710344123 boolean}}
+I0313 07:32:00.322253       1 globals.go:170] HostName:[tongzhoubedge]
+I0313 07:32:00.322270       1 firecustomizeddata.go:96] Device payload[{{ 0} []}]
+
+
+
+
+I0313 07:38:35.624511       1 firedatadecode.go:23] DecodeSwitchDataType= 0x9
+I0313 07:38:35.624525       1 firedatatype.go:1263] FireParseCardAlarmStatDecodeToData:Type:9,58
+I0313 07:38:35.624535       1 firedatatype.go:1230] FireBuildElectricityDecode-ObjectNum:[1]
+I0313 07:38:35.624543       1 firedatatype.go:1231] FireBuildElectricityDecode-datalen:[58]
+I0313 07:38:35.624572       1 firedatatype.go:1251] FireBuildUserConfigStatDecode status:[5]
+I0313 07:38:35.624592       1 firedatatype.go:1252] FireBuildUserConfigStatDecode Name:12--单常闭防火门
+I0313 07:38:35.624621       1 firedatatype.go:1253] FireBuildUserConfigStatDecode Place:28--&&QN01,机器60,回路01,部件001
+I0313 07:38:35.624643       1 firedatatype.go:1254] FireBuildUserConfigStatDecode Msg:4--故障
+I0313 07:38:35.624663       1 firedatatype.go:1256] FireBuildUserConfigStatDecode Pos:58--{ChannelID:0 FireHostNum:0 Reserved:[51 51] PropertyStat:{Status:5} Name:{MsgLen:12 Msg:单常闭防火门} Place:{MsgLen:28 Msg:&&QN01,机器60,回路01,部件001} Msg:{MsgLen:4 Msg:故障} TimeLabels:{TimeLabels:[58 41 15 13 3 24]}}
+I0313 07:38:35.624707       1 firedatatype.go:1267] FireParseCardAlarmStatDecode :[{ChannelID:0 FireHostNum:0 Reserved:[51 51] PropertyStat:{Status:5} Name:{MsgLen:12 Msg:单常闭防火门} Place:{MsgLen:28 Msg:&&QN01,机器60,回路01,部件001} Msg:{MsgLen:4 Msg:故障} TimeLabels:{TimeLabels:[58 41 15 13 3 24]}}]
+I0313 07:38:35.625037       1 firedatatype.go:2244] 通用清洗: name[单常闭防火门]
+I0313 07:38:35.625051       1 firedatatype.go:2245] 通用清洗: place[&&QN01,机器60,回路01,部件001]
+I0313 07:38:35.625059       1 firedatatype.go:2246] 通用清洗: msg[故障]
+I0313 07:38:35.625149       1 firedatatype.go:1333] 测试清洗结果: 01001
+I0313 07:38:35.625165       1 firestat.go:301] 通用状态转换name: name[&&QN01,机器60,回路01,部件001]
+I0313 07:38:35.625176       1 firestat.go:302] 通用状态转换place: place[&&QN01,机器60,回路01,部件001]
+I0313 07:38:35.625188       1 firestat.go:303] 通用状态转换msg: msg[故障]
+I0313 07:38:35.625506       1 globals.go:219] HostName:[tongzhoubedge]
+I0313 07:38:35.625520       1 firecustomizeddata.go:24] ParseFireToSouth Device:[0]---len:[9]
+I0313 07:38:35.625544       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:&{Value:0 Timestamp:1710315515 Metadata:{Timestamp:1710344518 Type:boolean}}
+I0313 07:38:35.625570       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:&{Value:0 Timestamp:1710315515 Metadata:{Timestamp:1710344518 Type:boolean}}
+I0313 07:38:35.625586       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:&{Value:0 Timestamp:1710315515 Metadata:{Timestamp:1710344518 Type:boolean}}
+I0313 07:38:35.625602       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:&{Value:0 Timestamp:1710315515 Metadata:{Timestamp:1710344518 Type:boolean}}
+I0313 07:38:35.625625       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:&{Value:故障 Timestamp:1710315515 Metadata:{Timestamp:1710344518 Type:string}}
+I0313 07:38:35.625646       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:&{Value:1 Timestamp:1710315515 Metadata:{Timestamp:1710344518 Type:boolean}}
+I0313 07:38:35.625661       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:&{Value:1 Timestamp:1710315515 Metadata:{Timestamp:1710344518 Type:boolean}}
+I0313 07:38:35.625689       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:&{Value:0 Timestamp:1710315515 Metadata:{Timestamp:1710344518 Type:boolean}}
+I0313 07:38:35.625715       1 firecustomizeddata.go:26] ParseFireToSouth Device msg:&{Value:0 Timestamp:1710315515 Metadata:{Timestamp:1710344518 Type:boolean}}
+I0313 07:38:35.626032       1 globals.go:170] HostName:[tongzhoubedge]
+I0313 07:38:35.626045       1 firecustomizeddata.go:39] ReSetCode Adress: 9-#-#-#-0-0-#-#-#-#--#-#-#-0-#
+I0313 07:38:35.626065       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-01001-#-#-#-7-#-----&{0 1710315515 {1710344518 boolean}}
+I0313 07:38:35.626347       1 globals.go:170] HostName:[tongzhoubedge]
+I0313 07:38:35.626367       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-01001-#-#-#-0-#-----&{1 1710315515 {1710344518 boolean}}
+I0313 07:38:35.626681       1 globals.go:170] HostName:[tongzhoubedge]
+I0313 07:38:35.626701       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-01001-#-#-#-2-#-----&{1 1710315515 {1710344518 boolean}}
+I0313 07:38:35.626985       1 globals.go:170] HostName:[tongzhoubedge]
+I0313 07:38:35.627005       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-01001-#-#-#-6-#-----&{0 1710315515 {1710344518 boolean}}
+I0313 07:38:35.627290       1 globals.go:170] HostName:[tongzhoubedge]
+I0313 07:38:35.627310       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-01001-#-#-#-5-#-----&{0 1710315515 {1710344518 boolean}}
+I0313 07:38:35.627603       1 globals.go:170] HostName:[tongzhoubedge]
+I0313 07:38:35.627623       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-01001-#-#-#-s-#-----&{故障 1710315515 {1710344518 string}}
+I0313 07:38:35.627936       1 globals.go:170] HostName:[tongzhoubedge]
+I0313 07:38:35.627956       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-01001-#-#-#-1-#-----&{0 1710315515 {1710344518 boolean}}
+I0313 07:38:35.628243       1 globals.go:170] HostName:[tongzhoubedge]
+I0313 07:38:35.628261       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-01001-#-#-#-3-#-----&{0 1710315515 {1710344518 boolean}}
+I0313 07:38:35.628566       1 globals.go:170] HostName:[tongzhoubedge]
+I0313 07:38:35.628586       1 firecustomizeddata.go:41] fire.Properties: 9-#-#-#-0-0-#-#-#-#-01001-#-#-#-4-#-----&{0 1710315515 {1710344518 boolean}}
+
+

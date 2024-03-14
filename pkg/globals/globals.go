@@ -77,6 +77,7 @@ const (
 	ZHOULVSHU            = "zongshua"          //31  棕树数据中心_A
 	BJM6                 = "m6a"               //32 M6数据中心_A
 	BJTONGB              = "tongzhoub"         //33 通州一号数据中心_B
+	TongZhouB            = "tongzhouedgeb"     //33 通州一号数据中心_B
 	SoftwareparkHostName = "softwarepark"      //34 软件园数据中心_A
 	GZFOUSHAN            = "foshan-a"          //35 佛山数据中心_A
 	HEDAN                = "hedan-bacnet"      //36 荷丹数据中心_A
@@ -89,7 +90,7 @@ const (
 	TEST                 = "lipeiliangdeMacBook-Pro.local"
 )
 
-var defaultReSetCode = "9-#-#-#-0-0-#-#-#-#--#-#-#-0-#"
+var defaultReSetCode = "9-#-#-#-0-0-#-#-#-#-#-#-#-#-0-#"
 var ReSetCode = map[string]string{
 	M6v3floors12HostName: "9-#-#-#-0-1-#-#-#-#-#-#-#-#-0-#",
 	SoftwareparkHostName: "9-#-#-#-0-0-#-#-#-#-000000-#-#-#-0-#",
@@ -103,6 +104,7 @@ var ReSetCode = map[string]string{
 	BJM3HostName:         "9-#-#-#-0-0-#-#-#-#-#-#-#-#-0-#",
 	SHWAIGAOQIAOHostName: "9-#-#-#-0-0-#-#-#-#-#-#-#-#-0-#",
 	XIASHAHostName:       "9-#-#-#-0-0-#-#-#-#-000000-#-#-#-0-#",
+	TongZhouB:            "9-#-#-#-0-0-#-#-#-#-2200000-#-#-#-0-#",
 
 	BEIJINGB28: "9-#-#-#-0-0-#-#-#-#-#-#-#-#-0-#",
 	GZFOUSHAN:  "9-#-#-#-0-0-#-#-#-#-#-#-#-#-0-#",
@@ -144,6 +146,7 @@ var HeartCode = map[string]string{
 	ZHOULVSHU:            "31.1", //31  棕树数据中心_A +
 	BJM6:                 "32.1", //32 M6数据中心_A +
 	BJTONGB:              "33.1", //33 通州一号数据中心_B +
+	TongZhouB:            "33.1", //33 通州一号数据中心_B +
 	SoftwareparkHostName: "34.1", //34 软件园数据中心_A +
 	GZFOUSHAN:            "35.1", //35 佛山数据中心_A +
 	HEDAN:                "36.1", //36 荷丹数据中心_A +
