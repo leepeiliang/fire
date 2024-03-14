@@ -467,6 +467,16 @@ func (ss *PropertyStat) StringStripDefaultPropertyStat(name, place, msg string) 
 		return
 
 	}
+	if strings.Contains(name, "联动请求") ||
+		strings.Contains(place, "联动请求") ||
+		strings.Contains(msg, "联动请求") {
+		klog.Infof("联动请求msg: status[%x]", ss.Status)
+		ss.Status = 0x00
+		ss.SetBit(OperateSYS)
+		ss.SetBit(FeedbackSYS) //状态位-正常
+		return
+
+	}
 	klog.Infof("特殊处理状态转换-status:[%x]", ss.Status)
 	return
 }
