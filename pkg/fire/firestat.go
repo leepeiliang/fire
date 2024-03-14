@@ -194,7 +194,7 @@ const (
 	RunStateSYS        = iota //0 系统运行正常
 	FireAlarmSYS              //1 火警
 	FireMalfunctionSYS        //2 故障
-	OperateSYS                //3 屏蔽/操作/
+	OperateSYS                //3 屏蔽/操作/联动
 	RegulatorySYS             //4 监管
 	StartSYS                  //5 启动
 	FeedbackSYS               //6 反馈/停止/恢复 //延时 允许
@@ -318,6 +318,10 @@ func (ss *PropertyStat) StringStripDefaultPropertyStat(name, place, msg string) 
 	}
 	ss.Status = 0x00
 	ss.SetBit(RunStateSYS) //状态位-正常
+	// 如果出现四信判断出故障 什么也不考虑 直接返回故障
+	if ss.GetBit(3) {
+		ss.SetBit(OperateSYS) //状态位-正常
+	}
 
 	// 如果出现火警 什么也不考虑 直接返回火警
 	if strings.Contains(name, "火警") ||
