@@ -251,24 +251,24 @@ func (p *Property2Stat) FireReadProperty2Stat(buffer *data.Buffer) {
 }
 
 // GetBit 系统状态数据为 2 字节，低字节传输在前。
-func (ss Property2Stat) GetBit(bit int) bool {
+func (p Property2Stat) GetBit(bit int) bool {
 	if bit < 8 {
-		return (ss.Status[0]&(1<<bit))>>bit == 1
+		return (p.Status[0]&(1<<bit))>>bit == 1
 	}
 
-	return (ss.Status[1]&(1<<(bit-8)))>>(bit-8) == 1
+	return (p.Status[1]&(1<<(bit-8)))>>(bit-8) == 1
 }
 
 // SetBit 系统状态数据为 2 字节，低字节传输在前。
-func (ss *Property2Stat) SetBit(bit int) {
+func (p *Property2Stat) SetBit(bit int) {
 	if bit > 16 || bit < 0 {
 		return
 	}
 	if bit < 8 {
-		ss.Status[0] |= 1 << bit
+		p.Status[0] |= 1 << bit
 		return
 	}
-	ss.Status[1] |= 1 << (bit - 8)
+	p.Status[1] |= 1 << (bit - 8)
 	return
 }
 
@@ -423,9 +423,9 @@ func (ss *PropertyStat) StringStripDefaultPropertyStat(name, place, msg string) 
 			return
 		}
 
-		klog.Infof("启动状态转换msg: status[%x]", ss.Status)
 		ss.SetBit(OperateSYS)
 		ss.SetBit(StartSYS)
+		klog.Infof("启动状态转换msg: status[%x]", ss.Status)
 	}
 
 	// 反馈的是操作停止
@@ -450,20 +450,20 @@ func (ss *PropertyStat) StringStripDefaultPropertyStat(name, place, msg string) 
 			return
 		}
 
-		klog.Infof("恢复状态转换msg: status[%x]", ss.Status)
 		ss.Status = 0x00
 		ss.SetBit(OperateSYS)
 		ss.SetBit(FeedbackSYS) //状态位-正常
+		klog.Infof("恢复状态转换msg: status[%x]", ss.Status)
 		return
 
 	}
 	if strings.Contains(name, "自动允许") ||
 		strings.Contains(place, "自动允许") ||
 		strings.Contains(msg, "自动允许") {
-		klog.Infof("恢复状态转换msg: status[%x]", ss.Status)
 		ss.Status = 0x00
 		ss.SetBit(OperateSYS)
 		ss.SetBit(FeedbackSYS) //状态位-正常
+		klog.Infof("自动允许状态转换msg: status[%x]", ss.Status)
 		return
 
 	}

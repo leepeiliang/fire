@@ -77,7 +77,7 @@ const (
 	ZHOULVSHU            = "zongshua"          //31  棕树数据中心_A
 	BJM6                 = "m6a"               //32 M6数据中心_A
 	BJTONGB              = "tongzhoub"         //33 通州一号数据中心_B
-	TongZhouB            = "tongzhouedgeb"     //33 通州一号数据中心_B
+	TongZhouB            = "tongzhoubedge"     //33 通州一号数据中心_B
 	SoftwareparkHostName = "softwarepark"      //34 软件园数据中心_A
 	GZFOUSHAN            = "foshan-a"          //35 佛山数据中心_A
 	HEDAN                = "hedan-bacnet"      //36 荷丹数据中心_A
