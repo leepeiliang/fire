@@ -1328,9 +1328,9 @@ func (m FireData) FireParseCardAlarmStatDecodeToData() []Data {
 			params = StringStriphedan(f.Place.Msg, f.Msg.Msg)
 			klog.Infof("hedan清洗结果: %s", params)
 			f.PropertyStat.StringStripDefaultPropertyStat(f.Name.Msg, f.Place.Msg, f.Msg.Msg)
-		case globals.TongZhouB:
-			params = StringStripTongZhou(f.Name.Msg, f.Place.Msg, f.Msg.Msg)
-			klog.Infof("通州清洗结果: %s", params)
+		case globals.TongZhouB, globals.SongJiang:
+			params = StringStripBluebird(f.Name.Msg, f.Place.Msg, f.Msg.Msg)
+			klog.Infof("青鸟通用清洗结果: %s", params)
 			f.PropertyStat.StringStripDefaultPropertyStat(f.Name.Msg, f.Place.Msg, f.Msg.Msg)
 		default:
 			params = StringStripDefault(f.Name.Msg, f.Place.Msg, f.Msg.Msg)
@@ -2285,10 +2285,10 @@ func StringStripDefault(name, place, msg string) string {
 	return ""
 }
 
-func StringStripTongZhou(name, place, msg string) string {
-	klog.Infof("通州清洗: name[%s]", name)
-	klog.Infof("通州清洗: place[%s]", place)
-	klog.Infof("通州清洗: msg[%s]", msg)
+func StringStripBluebird(name, place, msg string) string {
+	klog.Infof("青鸟通用清洗: name[%s]", name)
+	klog.Infof("青鸟通用清洗: place[%s]", place)
+	klog.Infof("青鸟通用清洗: msg[%s]", msg)
 	if name == "" && place == "" && msg == "" {
 		return ""
 	}

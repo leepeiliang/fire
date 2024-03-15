@@ -78,6 +78,7 @@ const (
 	BJM6                 = "m6a"               //32 M6数据中心_A
 	BJTONGB              = "tongzhoub"         //33 通州一号数据中心_B
 	TongZhouB            = "tongzhoubedge"     //33 通州一号数据中心_B
+	SongJiang            = "shsjtwo"           //15 松江数据中心
 	SoftwareparkHostName = "softwarepark"      //34 软件园数据中心_A
 	GZFOUSHAN            = "foshan-a"          //35 佛山数据中心_A
 	HEDAN                = "hedan-bacnet"      //36 荷丹数据中心_A
@@ -105,6 +106,7 @@ var ReSetCode = map[string]string{
 	SHWAIGAOQIAOHostName: "9-#-#-#-0-0-#-#-#-#-#-#-#-#-0-#",
 	XIASHAHostName:       "9-#-#-#-0-0-#-#-#-#-000000-#-#-#-0-#",
 	TongZhouB:            "9-#-#-#-0-0-#-#-#-#-2200000-#-#-#-0-#",
+	SongJiang:            "9-#-#-#-0-0-#-#-#-#-0000000-#-#-#-0-#",
 
 	BEIJINGB28: "9-#-#-#-0-0-#-#-#-#-#-#-#-#-0-#",
 	GZFOUSHAN:  "9-#-#-#-0-0-#-#-#-#-#-#-#-#-0-#",
@@ -127,7 +129,7 @@ var HeartCode = map[string]string{
 	JiyunHostName:        "12.1", //12 上海纪蕴数据中心_A +
 	BEIJINGB28:           "13.1", //13 北京 B28 数据中心_A +
 	M6v3floors12HostName: "14.1", //14 M5二期及三期数据中心_B +
-	SONGJIANG:            "15.1", //15 松江数据中心_A +
+	SongJiang:            "15.1", //15 松江数据中心_A +
 	BJTONGA:              "16.1", //33 通州一号数据中心_A
 	TongJiHostName:       "17.1", //17 同济数据中心_A +
 	XIANJKHostName:       "18.1", //18 西安数据中心_A, +
