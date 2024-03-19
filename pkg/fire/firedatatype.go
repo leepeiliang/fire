@@ -127,15 +127,36 @@ func (m FireData) FireBuildFacilitiesSysStatDecodeToData() []Data {
 			if i == 14 || i == 15 {
 				continue
 			}
-			tmp.SetDataBitKey(fmt.Sprintf("%d", i), PropertyIDKey)
-			temp.Data[tmp] = &common.DataValue{
-				Value:     f.Property2Stat.GetBit(i),
-				Timestamp: common.GetTimestamp(),
-				Metadata: common.DataMetadata{
-					Type:      "boolean",
+			if f.Property2Stat.GetBit(i) {
+				tmp.SetDataBitKey(fmt.Sprintf("%d", i), PropertyIDKey)
+				temp.Data[tmp] = &common.DataValue{
+					Value:     1,
 					Timestamp: common.GetTimestamp(),
-				},
+					Metadata: common.DataMetadata{
+						Type:      "boolean",
+						Timestamp: f.TimeLabels.FireToTimeUnixNano(),
+					},
+				}
+			} else {
+				tmp.SetDataBitKey(fmt.Sprintf("%d", i), PropertyIDKey)
+				temp.Data[tmp] = &common.DataValue{
+					Value:     0,
+					Timestamp: common.GetTimestamp(),
+					Metadata: common.DataMetadata{
+						Type:      "boolean",
+						Timestamp: f.TimeLabels.FireToTimeUnixNano(),
+					},
+				}
 			}
+			//tmp.SetDataBitKey(fmt.Sprintf("%d", i), PropertyIDKey)
+			//temp.Data[tmp] = &common.DataValue{
+			//	Value:     f.Property2Stat.GetBit(i),
+			//	Timestamp: common.GetTimestamp(),
+			//	Metadata: common.DataMetadata{
+			//		Type:      "boolean",
+			//		Timestamp: common.GetTimestamp(),
+			//	},
+			//}
 		}
 		back = append(back, temp)
 	}
@@ -224,14 +245,36 @@ func (m FireData) FireBuildFacilitiesPartRunStatDecodeToData() []Data {
 
 		if f.ComponentType == SFMD {
 			for i := 0; i < 4; i++ {
-				tmp.SetDataBitKey(fmt.Sprintf("%d", i), PropertyIDKey)
-				temp.Data[tmp] = &common.DataValue{
-					Value:     f.Property2Stat.GetBit(1 << i),
-					Timestamp: common.GetTimestamp(),
-					Metadata: common.DataMetadata{
-						Type:      "boolean",
-						Timestamp: f.TimeLabels.FireToTimeUnixNano(),
-					},
+				//tmp.SetDataBitKey(fmt.Sprintf("%d", i), PropertyIDKey)
+				//temp.Data[tmp] = &common.DataValue{
+				//	Value:     f.Property2Stat.GetBit(1 << i),
+				//	Timestamp: common.GetTimestamp(),
+				//	Metadata: common.DataMetadata{
+				//		Type:      "boolean",
+				//		Timestamp: f.TimeLabels.FireToTimeUnixNano(),
+				//	},
+				//}
+
+				if f.Property2Stat.GetBit(1 << i) {
+					tmp.SetDataBitKey(fmt.Sprintf("%d", i), PropertyIDKey)
+					temp.Data[tmp] = &common.DataValue{
+						Value:     1,
+						Timestamp: common.GetTimestamp(),
+						Metadata: common.DataMetadata{
+							Type:      "boolean",
+							Timestamp: f.TimeLabels.FireToTimeUnixNano(),
+						},
+					}
+				} else {
+					tmp.SetDataBitKey(fmt.Sprintf("%d", i), PropertyIDKey)
+					temp.Data[tmp] = &common.DataValue{
+						Value:     0,
+						Timestamp: common.GetTimestamp(),
+						Metadata: common.DataMetadata{
+							Type:      "boolean",
+							Timestamp: f.TimeLabels.FireToTimeUnixNano(),
+						},
+					}
 				}
 			}
 			//klog.Infof("FireBuildElectricityDecode Len:%+v", len(temp.Data))
@@ -240,14 +283,36 @@ func (m FireData) FireBuildFacilitiesPartRunStatDecodeToData() []Data {
 		if f.ComponentType == FireDoor {
 			bits := []int{0, 1, 7, 15}
 			for _, num := range bits {
-				tmp.SetDataBitKey(fmt.Sprintf("%d", num), PropertyIDKey)
-				temp.Data[tmp] = &common.DataValue{
-					Value:     f.Property2Stat.GetBit(num),
-					Timestamp: common.GetTimestamp(),
-					Metadata: common.DataMetadata{
-						Type:      "boolean",
+				//tmp.SetDataBitKey(fmt.Sprintf("%d", num), PropertyIDKey)
+				//temp.Data[tmp] = &common.DataValue{
+				//	Value:     f.Property2Stat.GetBit(num),
+				//	Timestamp: common.GetTimestamp(),
+				//	Metadata: common.DataMetadata{
+				//		Type:      "boolean",
+				//		Timestamp: common.GetTimestamp(),
+				//	},
+				//}
+
+				if f.Property2Stat.GetBit(num) {
+					tmp.SetDataBitKey(fmt.Sprintf("%d", num), PropertyIDKey)
+					temp.Data[tmp] = &common.DataValue{
+						Value:     1,
 						Timestamp: common.GetTimestamp(),
-					},
+						Metadata: common.DataMetadata{
+							Type:      "boolean",
+							Timestamp: f.TimeLabels.FireToTimeUnixNano(),
+						},
+					}
+				} else {
+					tmp.SetDataBitKey(fmt.Sprintf("%d", num), PropertyIDKey)
+					temp.Data[tmp] = &common.DataValue{
+						Value:     0,
+						Timestamp: common.GetTimestamp(),
+						Metadata: common.DataMetadata{
+							Type:      "boolean",
+							Timestamp: f.TimeLabels.FireToTimeUnixNano(),
+						},
+					}
 				}
 			}
 			goto NEXT
@@ -255,14 +320,35 @@ func (m FireData) FireBuildFacilitiesPartRunStatDecodeToData() []Data {
 		if f.ComponentType == FireWaterPressure {
 			bits := []int{0, 1, 7}
 			for _, num := range bits {
-				tmp.SetDataBitKey(fmt.Sprintf("%d", num), PropertyIDKey)
-				temp.Data[tmp] = &common.DataValue{
-					Value:     f.Property2Stat.GetBit(num),
-					Timestamp: common.GetTimestamp(),
-					Metadata: common.DataMetadata{
-						Type:      "boolean",
+				//tmp.SetDataBitKey(fmt.Sprintf("%d", num), PropertyIDKey)
+				//temp.Data[tmp] = &common.DataValue{
+				//	Value:     f.Property2Stat.GetBit(num),
+				//	Timestamp: common.GetTimestamp(),
+				//	Metadata: common.DataMetadata{
+				//		Type:      "boolean",
+				//		Timestamp: common.GetTimestamp(),
+				//	},
+				//}
+				if f.Property2Stat.GetBit(num) {
+					tmp.SetDataBitKey(fmt.Sprintf("%d", num), PropertyIDKey)
+					temp.Data[tmp] = &common.DataValue{
+						Value:     1,
 						Timestamp: common.GetTimestamp(),
-					},
+						Metadata: common.DataMetadata{
+							Type:      "boolean",
+							Timestamp: f.TimeLabels.FireToTimeUnixNano(),
+						},
+					}
+				} else {
+					tmp.SetDataBitKey(fmt.Sprintf("%d", num), PropertyIDKey)
+					temp.Data[tmp] = &common.DataValue{
+						Value:     0,
+						Timestamp: common.GetTimestamp(),
+						Metadata: common.DataMetadata{
+							Type:      "boolean",
+							Timestamp: f.TimeLabels.FireToTimeUnixNano(),
+						},
+					}
 				}
 			}
 			goto NEXT
@@ -270,14 +356,36 @@ func (m FireData) FireBuildFacilitiesPartRunStatDecodeToData() []Data {
 		if f.ComponentType == FireProtectionLevel {
 			bits := []int{0, 1, 7}
 			for _, num := range bits {
-				tmp.SetDataBitKey(fmt.Sprintf("%d", num), PropertyIDKey)
-				temp.Data[tmp] = &common.DataValue{
-					Value:     f.Property2Stat.GetBit(num),
-					Timestamp: common.GetTimestamp(),
-					Metadata: common.DataMetadata{
-						Type:      "boolean",
+				//tmp.SetDataBitKey(fmt.Sprintf("%d", num), PropertyIDKey)
+				//temp.Data[tmp] = &common.DataValue{
+				//	Value:     f.Property2Stat.GetBit(num),
+				//	Timestamp: common.GetTimestamp(),
+				//	Metadata: common.DataMetadata{
+				//		Type:      "boolean",
+				//		Timestamp: common.GetTimestamp(),
+				//	},
+				//}
+
+				if f.Property2Stat.GetBit(num) {
+					tmp.SetDataBitKey(fmt.Sprintf("%d", num), PropertyIDKey)
+					temp.Data[tmp] = &common.DataValue{
+						Value:     1,
 						Timestamp: common.GetTimestamp(),
-					},
+						Metadata: common.DataMetadata{
+							Type:      "boolean",
+							Timestamp: f.TimeLabels.FireToTimeUnixNano(),
+						},
+					}
+				} else {
+					tmp.SetDataBitKey(fmt.Sprintf("%d", num), PropertyIDKey)
+					temp.Data[tmp] = &common.DataValue{
+						Value:     0,
+						Timestamp: common.GetTimestamp(),
+						Metadata: common.DataMetadata{
+							Type:      "boolean",
+							Timestamp: f.TimeLabels.FireToTimeUnixNano(),
+						},
+					}
 				}
 			}
 			goto NEXT
@@ -285,27 +393,71 @@ func (m FireData) FireBuildFacilitiesPartRunStatDecodeToData() []Data {
 		if f.ComponentType == IntelligentHoodOfFireHydrant {
 			bits := []int{0, 1, 2, 3, 7}
 			for _, num := range bits {
-				tmp.SetDataBitKey(fmt.Sprintf("%d", num), PropertyIDKey)
-				temp.Data[tmp] = &common.DataValue{
-					Value:     f.Property2Stat.GetBit(num),
-					Timestamp: common.GetTimestamp(),
-					Metadata: common.DataMetadata{
-						Type:      "boolean",
+				//tmp.SetDataBitKey(fmt.Sprintf("%d", num), PropertyIDKey)
+				//temp.Data[tmp] = &common.DataValue{
+				//	Value:     f.Property2Stat.GetBit(num),
+				//	Timestamp: common.GetTimestamp(),
+				//	Metadata: common.DataMetadata{
+				//		Type:      "boolean",
+				//		Timestamp: common.GetTimestamp(),
+				//	},
+				//}
+
+				if f.Property2Stat.GetBit(num) {
+					tmp.SetDataBitKey(fmt.Sprintf("%d", num), PropertyIDKey)
+					temp.Data[tmp] = &common.DataValue{
+						Value:     1,
 						Timestamp: common.GetTimestamp(),
-					},
+						Metadata: common.DataMetadata{
+							Type:      "boolean",
+							Timestamp: f.TimeLabels.FireToTimeUnixNano(),
+						},
+					}
+				} else {
+					tmp.SetDataBitKey(fmt.Sprintf("%d", num), PropertyIDKey)
+					temp.Data[tmp] = &common.DataValue{
+						Value:     0,
+						Timestamp: common.GetTimestamp(),
+						Metadata: common.DataMetadata{
+							Type:      "boolean",
+							Timestamp: f.TimeLabels.FireToTimeUnixNano(),
+						},
+					}
 				}
 			}
 			goto NEXT
 		}
 		for i := 0; i < 10; i++ {
-			tmp.SetDataBitKey(fmt.Sprintf("%d", i), PropertyIDKey)
-			temp.Data[tmp] = &common.DataValue{
-				Value:     f.Property2Stat.GetBit(i),
-				Timestamp: common.GetTimestamp(),
-				Metadata: common.DataMetadata{
-					Type:      "boolean",
+			//tmp.SetDataBitKey(fmt.Sprintf("%d", i), PropertyIDKey)
+			//temp.Data[tmp] = &common.DataValue{
+			//	Value:     f.Property2Stat.GetBit(i),
+			//	Timestamp: common.GetTimestamp(),
+			//	Metadata: common.DataMetadata{
+			//		Type:      "boolean",
+			//		Timestamp: common.GetTimestamp(),
+			//	},
+			//}
+
+			if f.Property2Stat.GetBit(i) {
+				tmp.SetDataBitKey(fmt.Sprintf("%d", i), PropertyIDKey)
+				temp.Data[tmp] = &common.DataValue{
+					Value:     1,
 					Timestamp: common.GetTimestamp(),
-				},
+					Metadata: common.DataMetadata{
+						Type:      "boolean",
+						Timestamp: f.TimeLabels.FireToTimeUnixNano(),
+					},
+				}
+			} else {
+				tmp.SetDataBitKey(fmt.Sprintf("%d", i), PropertyIDKey)
+				temp.Data[tmp] = &common.DataValue{
+					Value:     0,
+					Timestamp: common.GetTimestamp(),
+					Metadata: common.DataMetadata{
+						Type:      "boolean",
+						Timestamp: f.TimeLabels.FireToTimeUnixNano(),
+					},
+				}
 			}
 		}
 	NEXT:
@@ -370,14 +522,35 @@ func (m FireData) FireBuildFacilitiesPartRunStatDecodeToDataRecover() []Data {
 		}
 
 		for i := 0; i < 10; i++ {
-			tmp.SetDataBitKey(fmt.Sprintf("%d", i), PropertyIDKey)
-			temp.Data[tmp] = &common.DataValue{
-				Value:     f.Property2Stat.GetBit(i),
-				Timestamp: common.GetTimestamp(),
-				Metadata: common.DataMetadata{
-					Type:      "boolean",
+			//tmp.SetDataBitKey(fmt.Sprintf("%d", i), PropertyIDKey)
+			//temp.Data[tmp] = &common.DataValue{
+			//	Value:     f.Property2Stat.GetBit(i),
+			//	Timestamp: common.GetTimestamp(),
+			//	Metadata: common.DataMetadata{
+			//		Type:      "boolean",
+			//		Timestamp: common.GetTimestamp(),
+			//	},
+			//}
+			if f.Property2Stat.GetBit(i) {
+				tmp.SetDataBitKey(fmt.Sprintf("%d", i), PropertyIDKey)
+				temp.Data[tmp] = &common.DataValue{
+					Value:     1,
 					Timestamp: common.GetTimestamp(),
-				},
+					Metadata: common.DataMetadata{
+						Type:      "boolean",
+						Timestamp: f.TimeLabels.FireToTimeUnixNano(),
+					},
+				}
+			} else {
+				tmp.SetDataBitKey(fmt.Sprintf("%d", i), PropertyIDKey)
+				temp.Data[tmp] = &common.DataValue{
+					Value:     0,
+					Timestamp: common.GetTimestamp(),
+					Metadata: common.DataMetadata{
+						Type:      "boolean",
+						Timestamp: f.TimeLabels.FireToTimeUnixNano(),
+					},
+				}
 			}
 		}
 		back = append(back, temp)
@@ -421,14 +594,35 @@ func (m FireData) FireBuildFacilitiesUserRunStatDecodeToDataRecover() []Data {
 		tmp.SetDataBitKey(fmt.Sprintf("%d", m.DataBaseType), DataBaseTypeKey)
 
 		for i := 0; i < 8; i++ {
-			tmp.SetDataBitKey(fmt.Sprintf("%d", i), PropertyIDKey)
-			temp.Data[tmp] = &common.DataValue{
-				Value:     f.PropertyStat.GetBit(i),
-				Timestamp: common.GetTimestamp(),
-				Metadata: common.DataMetadata{
-					Type:      "boolean",
+			//tmp.SetDataBitKey(fmt.Sprintf("%d", i), PropertyIDKey)
+			//temp.Data[tmp] = &common.DataValue{
+			//	Value:     f.PropertyStat.GetBit(i),
+			//	Timestamp: common.GetTimestamp(),
+			//	Metadata: common.DataMetadata{
+			//		Type:      "boolean",
+			//		Timestamp: common.GetTimestamp(),
+			//	},
+			//}
+			if f.PropertyStat.GetBit(i) {
+				tmp.SetDataBitKey(fmt.Sprintf("%d", i), PropertyIDKey)
+				temp.Data[tmp] = &common.DataValue{
+					Value:     1,
 					Timestamp: common.GetTimestamp(),
-				},
+					Metadata: common.DataMetadata{
+						Type:      "boolean",
+						Timestamp: f.TimeLabels.FireToTimeUnixNano(),
+					},
+				}
+			} else {
+				tmp.SetDataBitKey(fmt.Sprintf("%d", i), PropertyIDKey)
+				temp.Data[tmp] = &common.DataValue{
+					Value:     0,
+					Timestamp: common.GetTimestamp(),
+					Metadata: common.DataMetadata{
+						Type:      "boolean",
+						Timestamp: f.TimeLabels.FireToTimeUnixNano(),
+					},
+				}
 			}
 		}
 		back = append(back, temp)
@@ -506,14 +700,35 @@ func (m FireData) FireBuildAnalogDecodeToData() []Data {
 			var p2 Property2Stat
 			p2.Status = f.Analog.Analog
 			for i := 0; i < 16; i++ {
-				tmp.SetDataBitKey(fmt.Sprintf("%d", i), PropertyIDKey)
-				temp.Data[tmp] = &common.DataValue{
-					Value:     p2.GetBit(i),
-					Timestamp: common.GetTimestamp(),
-					Metadata: common.DataMetadata{
-						Type:      "boolean",
-						Timestamp: f.TimeLabels.FireToTimeUnixNano(),
-					},
+				//tmp.SetDataBitKey(fmt.Sprintf("%d", i), PropertyIDKey)
+				//temp.Data[tmp] = &common.DataValue{
+				//	Value:     p2.GetBit(i),
+				//	Timestamp: common.GetTimestamp(),
+				//	Metadata: common.DataMetadata{
+				//		Type:      "boolean",
+				//		Timestamp: f.TimeLabels.FireToTimeUnixNano(),
+				//	},
+				//}
+				if p2.GetBit(i) {
+					tmp.SetDataBitKey(fmt.Sprintf("%d", i), PropertyIDKey)
+					temp.Data[tmp] = &common.DataValue{
+						Value:     1,
+						Timestamp: common.GetTimestamp(),
+						Metadata: common.DataMetadata{
+							Type:      "boolean",
+							Timestamp: f.TimeLabels.FireToTimeUnixNano(),
+						},
+					}
+				} else {
+					tmp.SetDataBitKey(fmt.Sprintf("%d", i), PropertyIDKey)
+					temp.Data[tmp] = &common.DataValue{
+						Value:     0,
+						Timestamp: common.GetTimestamp(),
+						Metadata: common.DataMetadata{
+							Type:      "boolean",
+							Timestamp: f.TimeLabels.FireToTimeUnixNano(),
+						},
+					}
 				}
 			}
 		}
@@ -521,30 +736,71 @@ func (m FireData) FireBuildAnalogDecodeToData() []Data {
 			var p2 Property2Stat
 			p2.Status = f.Analog.Analog
 			for i := 0; i < 16; i++ {
-				tmp.SetDataBitKey(fmt.Sprintf("%d", i), PropertyIDKey)
-				temp.Data[tmp] = &common.DataValue{
-					Value:     p2.GetBit(i),
-					Timestamp: common.GetTimestamp(),
-					Metadata: common.DataMetadata{
-						Type:      "boolean",
-						Timestamp: f.TimeLabels.FireToTimeUnixNano(),
-					},
+				//tmp.SetDataBitKey(fmt.Sprintf("%d", i), PropertyIDKey)
+				//temp.Data[tmp] = &common.DataValue{
+				//	Value:     p2.GetBit(i),
+				//	Timestamp: common.GetTimestamp(),
+				//	Metadata: common.DataMetadata{
+				//		Type:      "boolean",
+				//		Timestamp: f.TimeLabels.FireToTimeUnixNano(),
+				//	},
+				//}
+				if p2.GetBit(i) {
+					tmp.SetDataBitKey(fmt.Sprintf("%d", i), PropertyIDKey)
+					temp.Data[tmp] = &common.DataValue{
+						Value:     1,
+						Timestamp: common.GetTimestamp(),
+						Metadata: common.DataMetadata{
+							Type:      "boolean",
+							Timestamp: f.TimeLabels.FireToTimeUnixNano(),
+						},
+					}
+				} else {
+					tmp.SetDataBitKey(fmt.Sprintf("%d", i), PropertyIDKey)
+					temp.Data[tmp] = &common.DataValue{
+						Value:     0,
+						Timestamp: common.GetTimestamp(),
+						Metadata: common.DataMetadata{
+							Type:      "boolean",
+							Timestamp: f.TimeLabels.FireToTimeUnixNano(),
+						},
+					}
 				}
 			}
 		}
 		if f.AnalogType == ThreePhaseVoltageCurrentState {
-
+			var p2 Property2Stat
+			p2.Status = f.Analog.Analog
 			for i := 0; i < 6; i++ {
-				var p2 Property2Stat
-				p2.Status = f.Analog.Analog
-				tmp.SetDataBitKey(fmt.Sprintf("%d", i), PropertyIDKey)
-				temp.Data[tmp] = &common.DataValue{
-					Value:     p2.GetBit(i),
-					Timestamp: common.GetTimestamp(),
-					Metadata: common.DataMetadata{
-						Type:      "boolean",
-						Timestamp: f.TimeLabels.FireToTimeUnixNano(),
-					},
+				//tmp.SetDataBitKey(fmt.Sprintf("%d", i), PropertyIDKey)
+				//temp.Data[tmp] = &common.DataValue{
+				//	Value:     p2.GetBit(i),
+				//	Timestamp: common.GetTimestamp(),
+				//	Metadata: common.DataMetadata{
+				//		Type:      "boolean",
+				//		Timestamp: f.TimeLabels.FireToTimeUnixNano(),
+				//	},
+				//}
+				if p2.GetBit(i) {
+					tmp.SetDataBitKey(fmt.Sprintf("%d", i), PropertyIDKey)
+					temp.Data[tmp] = &common.DataValue{
+						Value:     1,
+						Timestamp: common.GetTimestamp(),
+						Metadata: common.DataMetadata{
+							Type:      "boolean",
+							Timestamp: f.TimeLabels.FireToTimeUnixNano(),
+						},
+					}
+				} else {
+					tmp.SetDataBitKey(fmt.Sprintf("%d", i), PropertyIDKey)
+					temp.Data[tmp] = &common.DataValue{
+						Value:     0,
+						Timestamp: common.GetTimestamp(),
+						Metadata: common.DataMetadata{
+							Type:      "boolean",
+							Timestamp: f.TimeLabels.FireToTimeUnixNano(),
+						},
+					}
 				}
 			}
 		}
@@ -557,6 +813,7 @@ func (m FireData) FireBuildAnalogDecodeToData() []Data {
 					Timestamp: f.TimeLabels.FireToTimeUnixNano(),
 				},
 			}
+
 		}
 		if f.AnalogType == DSFFuncControl {
 			temp.Data[tmp] = &common.DataValue{
@@ -753,7 +1010,6 @@ func (m FireData) FireBuildOperaterDecodeToData() []Data {
 	var back []Data
 	back = make([]Data, 0)
 	fs := m.FireBuildOperaterDecode()
-	//	klog.Infof("FireBuildElectricityDecode :%+v", fs)
 	for _, f := range fs {
 		var temp Data
 		temp.Data = map[DataKey]*common.DataValue{}
@@ -762,14 +1018,36 @@ func (m FireData) FireBuildOperaterDecodeToData() []Data {
 		tmp.SetDataBitKey(fmt.Sprintf("%d", f.SystemType), SystemTypeKey)
 		tmp.SetDataBitKey(fmt.Sprintf("%d", f.SystemAddress), SystemAddressKey)
 		for i := 0; i < 7; i++ {
-			tmp.SetDataBitKey(fmt.Sprintf("%d", i), PropertyIDKey)
-			temp.Data[tmp] = &common.DataValue{
-				Value:     f.PropertyStat.GetBit(i),
-				Timestamp: common.GetTimestamp(),
-				Metadata: common.DataMetadata{
-					Type:      "boolean",
-					Timestamp: f.TimeLabels.FireToTimeUnixNano(),
-				},
+
+			//tmp.SetDataBitKey(fmt.Sprintf("%d", i), PropertyIDKey)
+			//temp.Data[tmp] = &common.DataValue{
+			//	Value:     f.PropertyStat.GetBit(i),
+			//	Timestamp: common.GetTimestamp(),
+			//	Metadata: common.DataMetadata{
+			//		Type:      "boolean",
+			//		Timestamp: f.TimeLabels.FireToTimeUnixNano(),
+			//	},
+			//}
+			if f.PropertyStat.GetBit(i) {
+				tmp.SetDataBitKey(fmt.Sprintf("%d", i), PropertyIDKey)
+				temp.Data[tmp] = &common.DataValue{
+					Value:     1,
+					Timestamp: common.GetTimestamp(),
+					Metadata: common.DataMetadata{
+						Type:      "boolean",
+						Timestamp: f.TimeLabels.FireToTimeUnixNano(),
+					},
+				}
+			} else {
+				tmp.SetDataBitKey(fmt.Sprintf("%d", i), PropertyIDKey)
+				temp.Data[tmp] = &common.DataValue{
+					Value:     0,
+					Timestamp: common.GetTimestamp(),
+					Metadata: common.DataMetadata{
+						Type:      "boolean",
+						Timestamp: f.TimeLabels.FireToTimeUnixNano(),
+					},
+				}
 			}
 		}
 		back = append(back, temp)
@@ -820,14 +1098,35 @@ func (m FireData) FireUserOperaterDecodeToData() []Data {
 		tmp := NewDataKey()
 		tmp.SetDataBitKey(fmt.Sprintf("%d", m.DataBaseType), DataBaseTypeKey)
 		for i := 0; i < 7; i++ {
-			tmp.SetDataBitKey(fmt.Sprintf("%d", i), PropertyIDKey)
-			temp.Data[tmp] = &common.DataValue{
-				Value:     f.PropertyStat.GetBit(i),
-				Timestamp: common.GetTimestamp(),
-				Metadata: common.DataMetadata{
-					Type:      "boolean",
-					Timestamp: f.TimeLabels.FireToTimeUnixNano(),
-				},
+			//tmp.SetDataBitKey(fmt.Sprintf("%d", i), PropertyIDKey)
+			//temp.Data[tmp] = &common.DataValue{
+			//	Value:     f.PropertyStat.GetBit(i),
+			//	Timestamp: common.GetTimestamp(),
+			//	Metadata: common.DataMetadata{
+			//		Type:      "boolean",
+			//		Timestamp: f.TimeLabels.FireToTimeUnixNano(),
+			//	},
+			//}
+			if f.PropertyStat.GetBit(i) {
+				tmp.SetDataBitKey(fmt.Sprintf("%d", i), PropertyIDKey)
+				temp.Data[tmp] = &common.DataValue{
+					Value:     1,
+					Timestamp: common.GetTimestamp(),
+					Metadata: common.DataMetadata{
+						Type:      "boolean",
+						Timestamp: f.TimeLabels.FireToTimeUnixNano(),
+					},
+				}
+			} else {
+				tmp.SetDataBitKey(fmt.Sprintf("%d", i), PropertyIDKey)
+				temp.Data[tmp] = &common.DataValue{
+					Value:     0,
+					Timestamp: common.GetTimestamp(),
+					Metadata: common.DataMetadata{
+						Type:      "boolean",
+						Timestamp: f.TimeLabels.FireToTimeUnixNano(),
+					},
+				}
 			}
 		}
 		back = append(back, temp)
@@ -1057,14 +1356,35 @@ func (m FireData) FireBuildUserConfigStatDecodeToData() []Data {
 		tmp.SetDataBitKey(fmt.Sprintf("%d", m.DataBaseType), DataBaseTypeKey)
 
 		for i := 0; i < 7; i++ {
-			tmp.SetDataBitKey(fmt.Sprintf("%d", i), PropertyIDKey)
-			temp.Data[tmp] = &common.DataValue{
-				Value:     f.PropertyStat.GetBit(i),
-				Timestamp: common.GetTimestamp(),
-				Metadata: common.DataMetadata{
-					Type:      "boolean",
-					Timestamp: f.TimeLabels.FireToTimeUnixNano(),
-				},
+			//tmp.SetDataBitKey(fmt.Sprintf("%d", i), PropertyIDKey)
+			//temp.Data[tmp] = &common.DataValue{
+			//	Value:     f.PropertyStat.GetBit(i),
+			//	Timestamp: common.GetTimestamp(),
+			//	Metadata: common.DataMetadata{
+			//		Type:      "boolean",
+			//		Timestamp: f.TimeLabels.FireToTimeUnixNano(),
+			//	},
+			//}
+			if f.PropertyStat.GetBit(i) {
+				tmp.SetDataBitKey(fmt.Sprintf("%d", i), PropertyIDKey)
+				temp.Data[tmp] = &common.DataValue{
+					Value:     1,
+					Timestamp: common.GetTimestamp(),
+					Metadata: common.DataMetadata{
+						Type:      "boolean",
+						Timestamp: f.TimeLabels.FireToTimeUnixNano(),
+					},
+				}
+			} else {
+				tmp.SetDataBitKey(fmt.Sprintf("%d", i), PropertyIDKey)
+				temp.Data[tmp] = &common.DataValue{
+					Value:     0,
+					Timestamp: common.GetTimestamp(),
+					Metadata: common.DataMetadata{
+						Type:      "boolean",
+						Timestamp: f.TimeLabels.FireToTimeUnixNano(),
+					},
+				}
 			}
 		}
 		for key, value := range temp.Data {
@@ -1123,14 +1443,35 @@ func (m FireData) FireUserToUSStatDecodeToData() []Data {
 		//tmp.SetDataBitKey(fmt.Sprintf("%d", f.SystemAddress), SystemAddressKey)
 
 		for i := 0; i < 8; i++ {
-			tmp.SetDataBitKey(fmt.Sprintf("%d", i), PropertyIDKey)
-			temp.Data[tmp] = &common.DataValue{
-				Value:     f.PropertyStat.GetBit(i),
-				Timestamp: common.GetTimestamp(),
-				Metadata: common.DataMetadata{
-					Type:      "boolean",
-					Timestamp: f.TimeLabels.FireToTimeUnixNano(),
-				},
+			//tmp.SetDataBitKey(fmt.Sprintf("%d", i), PropertyIDKey)
+			//temp.Data[tmp] = &common.DataValue{
+			//	Value:     f.PropertyStat.GetBit(i),
+			//	Timestamp: common.GetTimestamp(),
+			//	Metadata: common.DataMetadata{
+			//		Type:      "boolean",
+			//		Timestamp: f.TimeLabels.FireToTimeUnixNano(),
+			//	},
+			//}
+			if f.PropertyStat.GetBit(i) {
+				tmp.SetDataBitKey(fmt.Sprintf("%d", i), PropertyIDKey)
+				temp.Data[tmp] = &common.DataValue{
+					Value:     1,
+					Timestamp: common.GetTimestamp(),
+					Metadata: common.DataMetadata{
+						Type:      "boolean",
+						Timestamp: f.TimeLabels.FireToTimeUnixNano(),
+					},
+				}
+			} else {
+				tmp.SetDataBitKey(fmt.Sprintf("%d", i), PropertyIDKey)
+				temp.Data[tmp] = &common.DataValue{
+					Value:     0,
+					Timestamp: common.GetTimestamp(),
+					Metadata: common.DataMetadata{
+						Type:      "boolean",
+						Timestamp: f.TimeLabels.FireToTimeUnixNano(),
+					},
+				}
 			}
 		}
 		for key, value := range temp.Data {
@@ -1188,14 +1529,35 @@ func (m FireData) FireBuildSystemLineStatDecodeToData() []Data {
 		tmp.SetDataBitKey(fmt.Sprintf("%d", f.SystemAddress), SystemAddressKey)
 
 		for i := 0; i < 16; i++ {
-			tmp.SetDataBitKey(fmt.Sprintf("%d", i), PropertyIDKey)
-			temp.Data[tmp] = &common.DataValue{
-				Value:     f.Property2Stat.GetBit(i),
-				Timestamp: common.GetTimestamp(),
-				Metadata: common.DataMetadata{
-					Type:      "boolean",
-					Timestamp: f.TimeLabels.FireToTimeUnixNano(),
-				},
+			//tmp.SetDataBitKey(fmt.Sprintf("%d", i), PropertyIDKey)
+			//temp.Data[tmp] = &common.DataValue{
+			//	Value:     f.Property2Stat.GetBit(i),
+			//	Timestamp: common.GetTimestamp(),
+			//	Metadata: common.DataMetadata{
+			//		Type:      "boolean",
+			//		Timestamp: f.TimeLabels.FireToTimeUnixNano(),
+			//	},
+			//}
+			if f.Property2Stat.GetBit(i) {
+				tmp.SetDataBitKey(fmt.Sprintf("%d", i), PropertyIDKey)
+				temp.Data[tmp] = &common.DataValue{
+					Value:     1,
+					Timestamp: common.GetTimestamp(),
+					Metadata: common.DataMetadata{
+						Type:      "boolean",
+						Timestamp: f.TimeLabels.FireToTimeUnixNano(),
+					},
+				}
+			} else {
+				tmp.SetDataBitKey(fmt.Sprintf("%d", i), PropertyIDKey)
+				temp.Data[tmp] = &common.DataValue{
+					Value:     0,
+					Timestamp: common.GetTimestamp(),
+					Metadata: common.DataMetadata{
+						Type:      "boolean",
+						Timestamp: f.TimeLabels.FireToTimeUnixNano(),
+					},
+				}
 			}
 		}
 		for key, value := range temp.Data {
