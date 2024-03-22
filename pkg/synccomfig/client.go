@@ -57,7 +57,7 @@ type SyncResponse struct {
 func (aha *syncConfig) SyncConfigActive(ctx context.Context) (*SyncResponse, error) {
 	hostname := globals.GetHostNameInfo()
 	if hostname == "" {
-		return nil, errors.New("get system hostnam err")
+		return nil, errors.New("get system hostname err")
 	}
 	klog.V(2).Infof("System:hostname:%v", hostname)
 	roleReq := &SyncRequest{
@@ -66,8 +66,7 @@ func (aha *syncConfig) SyncConfigActive(ctx context.Context) (*SyncResponse, err
 		Pages:    1,
 		Limit:    5000,
 	}
-	// 声明接收的变量
-	// 声明接收的变量
+
 	devices := &SyncResponse{}
 	//var devices = make(map[string]*mappercommon.BaseDevice)
 

@@ -87,7 +87,8 @@ const (
 	JINGANG              = "jingang-a"         //39 金港数据中心_A
 	TengrenHostName      = "tengren-a"         //40 腾仁数据中心_A
 	SANHE7               = "sanhe7"            //20 三河7#数据中心
-	WULANB1              = "wulan4-b1"         //51 乌兰4号数据中心_B1
+	WULAN4B1             = "wulan4-b1"         //51 乌兰4号数据中心_B1
+	WULAN3A1             = "wulan3-a1"         //51 乌兰4号数据中心_B1
 	TEST                 = "lipeiliangdeMacBook-Pro.local"
 )
 
@@ -158,7 +159,8 @@ var HeartCode = map[string]string{
 	TengrenHostName:      "40.1", //40 腾仁数据中心_A +
 	SANHE7:               "41.1", //41 三河7#数据中心
 
-	WULANB1: "51.1", //51 乌兰4号数据中心_B1
+	WULAN4B1: "51.1", //51 乌兰4号数据中心_B1
+	WULAN3A1: "43.1", //51 乌兰4号数据中心_B1
 }
 var HeartModelID = "1.4.1.1"       // 2.3.1.1
 var HeartPropertyID = "1.5.9998.1" // 1.2.1.1

@@ -1690,7 +1690,7 @@ func (m FireData) FireParseCardAlarmStatDecodeToData() []Data {
 			params = StringStriphedan(f.Place.Msg, f.Msg.Msg)
 			klog.Infof("hedan清洗结果: %s", params)
 			f.PropertyStat.StringStripDefaultPropertyStat(f.Name.Msg, f.Place.Msg, f.Msg.Msg)
-		case globals.TongZhouB, globals.SongJiang, globals.WULANB1:
+		case globals.TongZhouB, globals.SongJiang, globals.WULAN4B1, globals.WULAN3A1:
 			params = StringStripBluebird(f.Name.Msg, f.Place.Msg, f.Msg.Msg)
 			klog.Infof("青鸟通用清洗结果: %s", params)
 			f.PropertyStat.StringStripDefaultPropertyStat(f.Name.Msg, f.Place.Msg, f.Msg.Msg)
