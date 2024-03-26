@@ -20,7 +20,7 @@ var host = "0.0.0.0:30119"
 func main() {
 	var msgType int
 
-	flag.IntVar(&msgType, "msgType", 3, "年龄")
+	flag.IntVar(&msgType, "msgType", 200021, "年龄")
 
 	//解析命令行参数
 	flag.Parse()

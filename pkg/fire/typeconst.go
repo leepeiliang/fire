@@ -198,6 +198,10 @@ const (
 // ComponentType 部件类型代码表
 type ComponentType uint8
 
+func (c ComponentType) ComponentType10() uint8 {
+	return uint8(c)/16*10 + uint8(c)%16
+}
+
 // 系统类型定义表
 // 2~9   预留
 // 14～15预留

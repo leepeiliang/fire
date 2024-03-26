@@ -215,7 +215,7 @@ func (m FireData) FireBuildFacilitiesPartRunStatDecode() []FireBuildFacilitiesPa
 		var f FireBuildFacilitiesPartRunStat
 		f.SystemType = SystemType(buf.ReadByte())
 		f.SystemAddress = buf.ReadByte()
-		f.ComponentType = ComponentType(buf.ReadByte())
+		f.ComponentType = ComponentType(buf.ReadInt8())
 		f.ComponentAddress.FireReadComponentAddress(buf)
 		copy(f.Property2Stat.Status[:], buf.ReadN(2))
 		copy(f.ComponentMsg[:], buf.ReadN(31))
@@ -239,7 +239,7 @@ func (m FireData) FireBuildFacilitiesPartRunStatDecodeToData() []Data {
 		tmp.SetDataBitKey(fmt.Sprintf("%d", m.DataBaseType), DataBaseTypeKey)
 		tmp.SetDataBitKey(fmt.Sprintf("%d", f.SystemType), SystemTypeKey)
 		tmp.SetDataBitKey(fmt.Sprintf("%d", f.SystemAddress), SystemAddressKey)
-		tmp.SetDataBitKey(fmt.Sprintf("%d", f.ComponentType), ComponentTypeKey)
+		tmp.SetDataBitKey(fmt.Sprintf("%d", f.ComponentType.ComponentType10()), ComponentTypeKey)
 		tmp.SetDataBitKey(fmt.Sprintf("%s", f.ComponentAddress.String()), ComponentAddressKey)
 		klog.Infof("FireBuildComponentMsg :%s", f.ComponentMsg)
 
