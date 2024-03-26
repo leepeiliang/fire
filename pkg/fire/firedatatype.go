@@ -517,7 +517,7 @@ func (m FireData) FireBuildFacilitiesPartRunStatDecodeToDataRecover() []Data {
 		tmp.SetDataBitKey(fmt.Sprintf("%d", f.SystemType), SystemTypeKey)
 		tmp.SetDataBitKey(fmt.Sprintf("%d", f.SystemAddress), SystemAddressKey)
 		if m.DataBaseType == UploadSystemUintStatRecover {
-			tmp.SetDataBitKey(fmt.Sprintf("%d", f.ComponentType), ComponentTypeKey)
+			tmp.SetDataBitKey(fmt.Sprintf("%d", f.ComponentType.ComponentType10()), ComponentTypeKey)
 			tmp.SetDataBitKey(fmt.Sprintf("%s", f.ComponentAddress.String()), ComponentAddressKey)
 		}
 
@@ -692,7 +692,7 @@ func (m FireData) FireBuildAnalogDecodeToData() []Data {
 		tmp.SetDataBitKey(fmt.Sprintf("%d", m.DataBaseType), DataBaseTypeKey)
 		tmp.SetDataBitKey(fmt.Sprintf("%d", f.SystemType), SystemTypeKey)
 		tmp.SetDataBitKey(fmt.Sprintf("%d", f.SystemAddress), SystemAddressKey)
-		tmp.SetDataBitKey(fmt.Sprintf("%d", f.ComponentType), ComponentTypeKey)
+		tmp.SetDataBitKey(fmt.Sprintf("%d", f.ComponentType.ComponentType10()), ComponentTypeKey)
 		tmp.SetDataBitKey(fmt.Sprintf("%s", f.ComponentAddress.String()), ComponentAddressKey)
 		tmp.SetDataBitKey(fmt.Sprintf("%d", f.AnalogType), AnalogTypeKey)
 		temp.Data = map[DataKey]*common.DataValue{}
