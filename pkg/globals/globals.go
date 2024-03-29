@@ -46,7 +46,7 @@ func GetHostNameInfo() string {
 const (
 	BJM3HostName         = "msantwo"           //1 北京M3数据中心_A
 	SHWAIGAOQIAOHostName = "edge-bacnet-2"     //2 上海外高桥数据中心_A
-	SANHE9               = "sanhegjtwo"        //3 三河9#数据中心
+	SANHE9               = "sanheedge9"        //3 三河9#数据中心
 	TAICANG              = "taictwo"           //4 太仓数据中心_A
 	NANTONGA             = "ntone"             //5 南通基地数据中心_A
 	NANTONGB             = "nttwo"             //6 南通基地数据中心_B
@@ -63,8 +63,8 @@ const (
 	BJTONGA              = "tongzhoua"         //16 通州一号数据中心_B
 	XIANJKHostName       = "xianjkccc"         //18 西安数据中心_A
 	SANHE4               = "sanhe4"            //19 三河4#数据中心
-	SANHE6               = "sanhe6"            //20 三河6#数据中心
-	SANHE8               = "sanhe8"            //21 三河8#数据中心
+	SANHE6               = "sanheedge6"        //20 三河6#数据中心
+	SANHE8               = "sanheedge8"        //21 三河8#数据中心
 	BJXIANGSHAN          = "bjxiangshan"       //22 北京香山数据中心
 	BJM6V                = "m6v-a"             //23  M6V 数据中心_A
 	BJSTALL              = "starall"           //24 星光数据中心_A
@@ -105,7 +105,7 @@ var ReSetCode = map[string]string{
 	XIANJKHostName:       "9-#-#-#-0-0-#-#-#-#-#-#-#-#-0-#",
 	BJM3HostName:         "9-#-#-#-0-0-#-#-#-#-#-#-#-#-0-#",
 	SHWAIGAOQIAOHostName: "9-#-#-#-0-0-#-#-#-#-#-#-#-#-0-#",
-	XIASHAHostName:       "9-#-#-#-0-0-#-#-#-#-000000-#-#-#-0-#",
+	XIASHAHostName:       "1-1-0-#-#-#-#-#-#-#-#-#-#-#-13-#",
 	TongZhouB:            "9-#-#-#-0-0-#-#-#-#-2200000-#-#-#-0-#",
 	SongJiang:            "9-#-#-#-0-0-#-#-#-#-0000000-#-#-#-0-#",
 
