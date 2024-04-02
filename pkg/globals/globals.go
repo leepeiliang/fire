@@ -97,9 +97,9 @@ var ReSetCode = map[string]string{
 	M6v3floors12HostName: "9-#-#-#-0-1-#-#-#-#-#-#-#-#-0-#",
 	SoftwareparkHostName: "9-#-#-#-0-0-#-#-#-#-000000-#-#-#-0-#",
 	//	TengrenHostName:      "10-#-#-#-0-0-#-#-#-#-#-#-#-#-0-#",
-	BoXingHostName:  "10-#-#-#-0-0-#-#-#-#-#-#-#-#-0-#",
-	TengrenHostName: "9-#-#-#-0-0-#-#-#-#-0000000-#-#-#-7-#",
-
+	BoXingHostName:       "10-#-#-#-0-0-#-#-#-#-#-#-#-#-0-#",
+	TengrenHostName:      "9-#-#-#-0-0-#-#-#-#-0000000-#-#-#-7-#",
+	SHENZHENGARDEN:       "9-#-#-#-0-0-#-#-#-#-#-#-#-#-0-#",
 	JiyunHostName:        "9-#-#-#-0-0-#-#-#-#-#-#-#-#-0-#",
 	TongJiHostName:       "9-#-#-#-0-0-#-#-#-#-#-#-#-#-0-#",
 	XIANJKHostName:       "9-#-#-#-0-0-#-#-#-#-#-#-#-#-0-#",
