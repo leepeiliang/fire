@@ -1694,6 +1694,10 @@ func (m FireData) FireParseCardAlarmStatDecodeToData() []Data {
 			params = StringStripBluebird(f.Name.Msg, f.Place.Msg, f.Msg.Msg)
 			klog.Infof("青鸟通用清洗结果: %s", params)
 			f.PropertyStat.StringStripDefaultPropertyStat(f.Name.Msg, f.Place.Msg, f.Msg.Msg)
+		case globals.SANHE4, globals.SANHE6, globals.SANHE7:
+			params = StringStripSanhe(f.Name.Msg)
+			klog.Infof("三河海湾打印机清洗结果: %s", params)
+			f.PropertyStat.StringStripDefaultPropertyStat(f.Name.Msg, f.Place.Msg, f.Msg.Msg)
 		default:
 			params = StringStripDefault(f.Name.Msg, f.Place.Msg, f.Msg.Msg)
 			klog.Infof("测试清洗结果: %s", params)
@@ -2688,6 +2692,14 @@ func StringStripBluebird(name, place, msg string) string {
 	return ""
 }
 
+func StringStripSanhe(name string) string {
+	klog.Infof("通用清洗: name[%s]", name)
+	if name == "" {
+		return ""
+	}
+	name = strings.TrimSpace(name)
+	return StringStrip(name)
+}
 func StringStripSanhe9(name string) string {
 	klog.Infof("通用清洗: name[%s]", name)
 
