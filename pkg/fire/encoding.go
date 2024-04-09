@@ -94,7 +94,7 @@ func (m *FireMessage) MarshalControlConfirmResp() []byte {
 		resp = make([]byte, 0)
 	)
 	send.Start = m.Start
-	send.Control.SerialNumber.SerialNumber = m.Control.SerialNumber.SerialNumber + 1
+	send.Control.SerialNumber.SerialNumber = m.Control.SerialNumber.SerialNumber
 	send.Control.ProtocolVersion = m.Control.ProtocolVersion
 	send.Control.TimeLabels = *FireToSetTime(time.Now())
 	//send.FireHeader.TimeLabels = m.FireHeader.TimeLabels
