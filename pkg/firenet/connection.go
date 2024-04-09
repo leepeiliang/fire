@@ -191,6 +191,7 @@ func (c *Connection) SendBuffMsg(data []byte) error {
 		klog.Errorf("Pack error msg  = %x,err:%v", data, err)
 		return errors.New("Pack error msg ")
 	}
+	klog.V(3).Infof("Heart send buff msg  %+v\n", data)
 
 	// 发送超时
 	select {
