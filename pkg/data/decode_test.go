@@ -95,8 +95,8 @@ func TestCodec(t *testing.T) {
 			v:    &struct{ V float32 }{1.234},
 			b:    []byte{0xb6, 0xf3, 0x9d, 0x3f},
 		},
-		// todo(fs): this test will fail since NaN is defined as f != f
-		// todo(fs): need to refactor the test
+		// todo(fs): this test.md will fail since NaN is defined as f != f
+		// todo(fs): need to refactor the test.md
 		// {
 		// 	name: "float32-NaN",
 		// 	v:    &struct{ V float32 }{float32(math.NaN())},
@@ -107,8 +107,8 @@ func TestCodec(t *testing.T) {
 			v:    &struct{ V float64 }{-1.234},
 			b:    []byte{0x58, 0x39, 0xb4, 0xc8, 0x76, 0xbe, 0xf3, 0xbf},
 		},
-		// todo(fs): this test will fail since NaN is defined as f != f
-		// todo(fs): need to refactor the test
+		// todo(fs): this test.md will fail since NaN is defined as f != f
+		// todo(fs): need to refactor the test.md
 		// {
 		// 	name: "float64-NaN",
 		// 	v:    &struct{ V float64 }{math.NaN()},

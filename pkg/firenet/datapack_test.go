@@ -11,7 +11,7 @@ import (
 )
 
 // run in terminal:
-// go test -v ./firenet -run=TestDataPack
+// go test.md -v ./firenet -run=TestDataPack
 
 // 只是负责测试datapack拆包，封包功能
 func TestDataPack(t *testing.T) {

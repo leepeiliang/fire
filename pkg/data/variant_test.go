@@ -1273,7 +1273,7 @@ func TestVariantValueHelpers(t *testing.T) {
 		//},
 	}
 	for i, tt := range tests {
-		name := fmt.Sprintf("test-%d %T -> %T", i, tt.v, tt.want)
+		name := fmt.Sprintf("test.md-%d %T -> %T", i, tt.v, tt.want)
 		t.Run(name, func(t *testing.T) {
 			verify.Values(t, "", tt.fn(MustVariant(tt.v)), tt.want)
 		})

@@ -44,7 +44,7 @@ func main() {
 	} else {
 		fmt.Println("Subscribe topic success")
 	}
-	err = c.Publish("$hw/events/device/001/data/update", "test")
+	err = c.Publish("$hw/events/device/001/data/update", "test.md")
 	if err != nil {
 		fmt.Println(err)
 		os.Exit(1)

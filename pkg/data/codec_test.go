@@ -14,7 +14,7 @@ import (
 	"github.com/pascaldekloe/goe/verify"
 )
 
-// CodecTestCase describes a test case for a encoding and decoding an
+// CodecTestCase describes a test.md case for a encoding and decoding an
 // object from bytes.
 type CodecTestCase struct {
 	Name   string

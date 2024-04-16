@@ -53,7 +53,7 @@ func main() {
 	runtime.GOMAXPROCS(1)
 
 	klog.InitFlags(nil)
-	fs1.Set("log_dir", "test/")
+	fs1.Set("log_dir", "test.md/")
 	fs1.Set("log_file", "fire.logs")
 	fs1.Set("add_dir_header", "true")
 	fs1.Set("logtostderr", "false")
