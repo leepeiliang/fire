@@ -239,7 +239,10 @@ func (m FireData) FireBuildFacilitiesPartRunStatDecodeToData() []Data {
 		tmp.SetDataBitKey(fmt.Sprintf("%d", m.DataBaseType), DataBaseTypeKey)
 		tmp.SetDataBitKey(fmt.Sprintf("%d", f.SystemType), SystemTypeKey)
 		tmp.SetDataBitKey(fmt.Sprintf("%d", f.SystemAddress), SystemAddressKey)
-		tmp.SetDataBitKey(fmt.Sprintf("%x", f.ComponentType), ComponentTypeKey)
+		if globals.GetHostNameInfo() == globals.SANHE8 {
+			tmp.SetDataBitKey(fmt.Sprintf("%x", f.ComponentType), ComponentTypeKey)
+		}
+
 		tmp.SetDataBitKey(fmt.Sprintf("%s", f.ComponentAddress.String()), ComponentAddressKey)
 		klog.Infof("FireBuildComponentMsg :%s", f.ComponentMsg)
 
