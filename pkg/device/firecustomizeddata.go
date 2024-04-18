@@ -152,8 +152,13 @@ func resetProperties() {
 				},
 			}
 			if getDataBitKey(v.VisitorConfig, int(fire.PropertyIDKey)) == "0" {
+				flag := 1
+				if getDataBitKey(v.VisitorConfig, int(fire.DataBaseTypeKey)) == "204" ||
+					getDataBitKey(v.VisitorConfig, int(fire.DataBaseTypeKey)) == "206" {
+					flag = 0
+				}
 				updateMsg.Data[v.PropertyID] = &common.DataValue{
-					Value:     1,
+					Value:     flag,
 					Timestamp: common.GetTimestamp(),
 					Metadata: common.DataMetadata{
 						Type:      "boolean",
