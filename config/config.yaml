@@ -7,6 +7,10 @@ server:
   httpPort: 20119
   maxConn: 3
   workerPoolSize: 10
+edgeserver:
+  name: "edgeplanet"
+  host: "192.168.233.32"
+  port: 30090
 mqtt:
   server: "tcp://127.0.0.1:1883"
   username: "root"

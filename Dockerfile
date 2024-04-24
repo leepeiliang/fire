@@ -9,7 +9,7 @@ FROM alpine
 WORKDIR kubeedge
 
 COPY --from=builder /home/fire/bin/fire kubeedge/
-COPY --from=builder /home/fire/config/config.yaml kubeedge/
+COPY --from=builder /home/fire/config/config.yaml kubeedge/etc/
 COPY --from=builder /home/fire/config/deviceProfile.json /opt/kubeedge/
 
 ENTRYPOINT ["kubeedge/fire", "--v", "3"]

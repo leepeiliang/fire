@@ -69,8 +69,8 @@ func (aha *syncConfig) SyncConfigActive(ctx context.Context) (*SyncResponse, err
 
 	devices := &SyncResponse{}
 	//var devices = make(map[string]*mappercommon.BaseDevice)
-
-	err := client.POST(ctx, &aha.client, host+Active, roleReq, devices)
+	address := fmt.Sprintf("http://%s:%d", config.DefaultConfig.EdgeServer.Host, config.DefaultConfig.EdgeServer.Port)
+	err := client.POST(ctx, &aha.client, address+Active, roleReq, devices)
 	if err != nil {
 		klog.Errorf("POST:%s ", err.Error())
 		return nil, err

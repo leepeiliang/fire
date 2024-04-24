@@ -50,7 +50,7 @@ func DoConnectionLost(conn fireface.IConnection) {
 func main() {
 	var fs1 flag.FlagSet
 
-	runtime.GOMAXPROCS(1)
+	runtime.GOMAXPROCS(2)
 
 	klog.InitFlags(nil)
 	fs1.Set("log_dir", "test.md/")
@@ -66,9 +66,13 @@ func main() {
 	}
 	klog.V(0).Info(config.DefaultConfig.Configmap)
 	globals.MqttClient = common.MqttClient{
-		IP:     config.DefaultConfig.Mqtt.ServerAddress,
-		User:   config.DefaultConfig.Mqtt.UserName,
-		Passwd: config.DefaultConfig.Mqtt.Password,
+		IP:         config.DefaultConfig.Mqtt.ServerAddress,
+		User:       config.DefaultConfig.Mqtt.UserName,
+		Passwd:     config.DefaultConfig.Mqtt.Password,
+		Cert:       config.DefaultConfig.Mqtt.CertFile,
+		PrivateKey: config.DefaultConfig.Mqtt.PrivateKeyFile,
+		Qos:        byte(config.DefaultConfig.Mqtt.Qos),
+		Retained:   config.DefaultConfig.Mqtt.Retained,
 	}
 	if err := globals.MqttClient.Connect(); err != nil {
 		klog.Fatal(err)

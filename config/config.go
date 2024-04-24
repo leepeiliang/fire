@@ -29,10 +29,11 @@ var DefaultConfig Config
 
 // Config is the modbus mapper configuration.
 type Config struct {
-	Server    Server    `yaml:"server"`
-	Mqtt      Mqtt      `yaml:"mqtt"`
-	Configmap string    `yaml:"configmap"`
-	DomanCode DomanCode `yaml:"domancode"`
+	Server     Server     `yaml:"server"`
+	EdgeServer EdgeServer `yaml:"edgeserver"`
+	Mqtt       Mqtt       `yaml:"mqtt"`
+	Configmap  string     `yaml:"configmap"`
+	DomanCode  DomanCode  `yaml:"domancode"`
 }
 type Server struct {
 	IPVersion string `yaml:"iPVersion,omitempty"` //当前服务器协议
@@ -52,6 +53,12 @@ type Server struct {
 	MaxMsgChanLen    uint16 `yaml:"maxMsgChanLen,omitempty"`    //SendBuffMsg发送消息的缓冲最大长度
 }
 
+type EdgeServer struct {
+	Host string `yaml:"host,omitempty"` //当前服务器主机IP
+	Port int    `yaml:"port,omitempty"` //当前服务器参数下发监听端口号
+	Name string `yaml:"name,omitempty"` //当前服务器名称
+}
+
 // Mqtt is the Mqtt configuration.
 type Mqtt struct {
 	ServerAddress  string `yaml:"server,omitempty"`
@@ -59,6 +66,8 @@ type Mqtt struct {
 	Password       string `yaml:"password,omitempty"`
 	CertFile       string `yaml:"certification,omitempty"`
 	PrivateKeyFile string `yaml:"privatekey,omitempty"`
+	Qos            int    `yaml:"qos,omitempty"`
+	Retained       bool   `yaml:"retained,omitempty"`
 }
 
 type DomanCode struct {
@@ -70,7 +79,7 @@ var ErrConfigCert = errors.New("Both certification and private key must be provi
 
 //var defaultConfigFile = "/Users/lipeiliang/go/bak/metaedge/mappers-fire/config/config.yaml"
 
-var defaultConfigFile = "kubeedge/config.yaml"
+var defaultConfigFile = "kubeedge/etc/config.yaml"
 
 // Parse parse the configuration file. If failed, return error.
 func (c *Config) Parse() error {
