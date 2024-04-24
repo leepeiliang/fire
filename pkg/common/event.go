@@ -83,15 +83,19 @@ func (mc *MqttClient) Connect() error {
 		opts.SetUsername(mc.User)
 		opts.SetPassword(mc.Passwd)
 	}
-
+	opts.SetAutoReconnect(true)
+	opts.SetKeepAlive(10)
+	opts.SetPingTimeout(10)
+	opts.SetConnectTimeout(30 * time.Second)
+	opts.SetMaxReconnectInterval(10 * time.Second)
 	mc.Client = mqtt.NewClient(opts)
 	// The token is used to indicate when actions have completed.
 	if tc := mc.Client.Connect(); tc.Wait() && tc.Error() != nil {
 		return tc.Error()
 	}
 
-	mc.Qos = 0          // At most 1 time
-	mc.Retained = false // Not retained
+	//	mc.Qos = 0          // At most 1 time
+	//	mc.Retained = false // Not retained
 	return nil
 }
 
