@@ -36,7 +36,8 @@ spec:
           {{- end }}
           volumeMounts:
             - name: conf
-              mountPath: /kubeedge/etc
+              mountPath: /kubeedge/etc/config.yaml
+              subPath: config.yaml
       nodeSelector: {{- include "opcua.nodeSelector" .  | nindent 8 }}
       restartPolicy: Always
       {{- with .Values.tolerations }}
