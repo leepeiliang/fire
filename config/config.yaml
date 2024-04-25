@@ -12,12 +12,14 @@ edgeserver:
   host: "192.168.233.32"
   port: 30090
 mqtt:
-  server: "tcp://127.0.0.1:1883"
+  qos: 1
+  retain: false
+  server: "tcp://192.168.199.12:1883"
   username: "root"
   password: "root"
   certification:
-configmap: "/opt/kubeedge/deviceProfile.json"
-#configmap: "config/deviceProfile.json"
+#configmap: "/opt/kubeedge/deviceProfile.json"
+configmap: "config/deviceProfile.json"
 domancode:
   code:
     # 1m3

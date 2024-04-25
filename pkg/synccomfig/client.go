@@ -16,6 +16,7 @@ import (
 	"k8s.io/klog/v2"
 	"net/http"
 	"os"
+	"time"
 )
 
 const Fire = "fire"
@@ -136,12 +137,12 @@ func SubscribeSyncConfigMap() {
 
 	FirstSyncConfig()
 
-	//hostname := "m6v3floors12"
-	hostname := globals.GetHostNameInfo()
-	if hostname == "" {
-		klog.Errorf("POST:%s ", errors.New("get system hostnam err"))
-		return
-	}
+	hostname := "softwarepark"
+	//hostname := globals.GetHostNameInfo()
+	//if hostname == "" {
+	//	klog.Errorf("POST:%s ", errors.New("get system hostnam err"))
+	//	return
+	//}
 	klog.Infof("System:hostname:%v", hostname)
 	topic := fmt.Sprintf("%s/devices-data-update", hostname)
 	err := globals.MqttClient.Subscribe(topic, onMessage)
@@ -154,7 +155,8 @@ func SubscribeSyncConfigMap() {
 }
 
 type SyncConifg struct {
-	Protocol string `json:"protocol"`
+	Protocol    string    `json:"protocol"`
+	PublishTime time.Time `json:"publish_time"`
 }
 
 // onMessage callback function of Mqtt subscribe message.
@@ -168,7 +170,8 @@ func onMessage(client mqtt.Client, message mqtt.Message) {
 		klog.Errorf("Unmarshal:%s ", errors.New("Unmarshal sync protocol "))
 		return
 	}
-	if sync.Protocol == "fire" {
+	if sync.Protocol == "fire" && sync.PublishTime.Add(30*time.Second).After(time.Now().UTC()) {
+		time.Sleep(25 * time.Second)
 		FirstSyncConfig()
 	}
 }
