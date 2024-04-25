@@ -14,7 +14,7 @@ edgeserver:
 mqtt:
   qos: 1
   retain: false
-  server: "tcp://192.168.199.12:1883"
+  server: "tcp://127.0.0.1:1883"
   username: "root"
   password: "edgeplanet24"
   certification:
