@@ -137,12 +137,12 @@ func SubscribeSyncConfigMap() {
 
 	FirstSyncConfig()
 
-	hostname := "softwarepark"
-	//hostname := globals.GetHostNameInfo()
-	//if hostname == "" {
-	//	klog.Errorf("POST:%s ", errors.New("get system hostnam err"))
-	//	return
-	//}
+	//hostname := "softwarepark"
+	hostname := globals.GetHostNameInfo()
+	if hostname == "" {
+		klog.Errorf("POST:%s ", errors.New("get system hostnam err"))
+		return
+	}
 	klog.Infof("System:hostname:%v", hostname)
 	topic := fmt.Sprintf("%s/devices-data-update", hostname)
 	err := globals.MqttClient.Subscribe(topic, onMessage)
