@@ -77,9 +77,11 @@ edgeserver:
   host: "192.168.233.32"
   port: 30090
 mqtt:
+  qos: 0
+  retain: false
   server: "tcp://127.0.0.1:1883"
   username: "root"
-  password: "root"
+  password: "edgeplanet24"
   certification:
 configmap: "/opt/kubeedge/deviceProfile.json"
 #configmap: "config/deviceProfile.json"

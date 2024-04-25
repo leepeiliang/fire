@@ -16,7 +16,7 @@ mqtt:
   retain: false
   server: "tcp://192.168.199.12:1883"
   username: "root"
-  password: "root"
+  password: "edgeplanet24"
   certification:
 #configmap: "/opt/kubeedge/deviceProfile.json"
 configmap: "config/deviceProfile.json"
