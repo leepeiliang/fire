@@ -144,8 +144,8 @@ func SubscribeSyncConfigMap() {
 		return
 	}
 	klog.Infof("System:hostname:%v", hostname)
-	topic := fmt.Sprintf("%s/devices-data-update", hostname)
-	err := globals.MqttClient.Subscribe(topic, onMessage)
+	topic := fmt.Sprintf(config.DefaultConfig.Topic.DeviceConfigData, hostname)
+	err := globals.MqttSubscribeClient.Subscribe(topic, onMessage)
 	if err != nil {
 		fmt.Println(err)
 		os.Exit(1)

@@ -18,8 +18,11 @@ mqtt:
   username: "root"
   password: "edgeplanet24"
   certification:
-configmap: "/opt/kubeedge/deviceProfile.json"
-#configmap: "config/deviceProfile.json"
+#configmap: "/opt/kubeedge/deviceProfile.json"
+configmap: "config/deviceProfile.json"
+topic:
+  deviceupdatedata: "%s/groups-devices-data-update"
+  deviceconfigdata: "%s/devices-config-update"
 domancode:
   code:
     # 1m3

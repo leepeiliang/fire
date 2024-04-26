@@ -104,7 +104,7 @@ func ParseFireToSouth(dvs []fire.Data) {
 		}
 		//topic := fmt.Sprintf(td.Topic, td.DeviceGroupType)
 		klog.V(3).Infof("Device Property[%s]", string(payload))
-		if err = globals.MqttClient.Publish(topic, payload); err != nil {
+		if err = globals.MqttPublishClient.Publish(topic, payload); err != nil {
 			klog.Error(err)
 			return
 		}
@@ -189,7 +189,7 @@ func resetProperties() {
 			}
 			//topic := fmt.Sprintf(td.Topic, td.DeviceGroupType)
 			klog.V(3).Infof("Device Property[%s]", string(payload))
-			if err = globals.MqttClient.Publish(topic, payload); err != nil {
+			if err = globals.MqttPublishClient.Publish(topic, payload); err != nil {
 				klog.Error(err)
 				return
 			}

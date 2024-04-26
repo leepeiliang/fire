@@ -19,6 +19,7 @@ package globals
 import (
 	"context"
 	"encoding/json"
+	"fire/config"
 	mappercommon "fire/pkg/common"
 	"fmt"
 	"github.com/jasonlvhit/gocron"
@@ -29,8 +30,9 @@ import (
 )
 
 var (
-	oneHeart   *fireHeartToSouth
-	MqttClient mappercommon.MqttClient
+	oneHeart            *fireHeartToSouth
+	MqttSubscribeClient mappercommon.MqttClient
+	MqttPublishClient   mappercommon.MqttClient
 )
 
 // GetHostNameInfo 主机名称信息
@@ -232,7 +234,7 @@ func GetHostTopicInfo() string {
 	}
 	klog.Infof("HostName:[%s]", hostInfo.Hostname)
 
-	return fmt.Sprintf("%s/groups-devices-data-update", hostInfo.Hostname)
+	return fmt.Sprintf(config.DefaultConfig.Topic.DeviceUpdateData, hostInfo.Hostname)
 }
 
 // FireHeartToSouth FireHeartToSouth
@@ -303,7 +305,7 @@ func (s *fireHeartToSouth) HeartProperties(in int) {
 		return
 	}
 	klog.V(3).Infof("Device Property[%s]", string(payload))
-	if err = MqttClient.Publish(topic, payload); err != nil {
+	if err = MqttPublishClient.Publish(topic, payload); err != nil {
 		klog.Error(err)
 		return
 	}

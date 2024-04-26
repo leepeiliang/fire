@@ -20,4 +20,7 @@ data:
     {{- with .Values.domancode }}
     domancode: {{- toYaml . | nindent 8 }}
     {{- end }}
+    {{- with .Values.topic }}
+    topic: {{- toYaml . | nindent 8 }}
+    {{- end }}
 

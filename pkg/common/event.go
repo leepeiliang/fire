@@ -71,8 +71,8 @@ func newTLSConfig(certfile string, privateKey string) (*tls.Config, error) {
 }
 
 // Connect connect to the Mqtt server.
-func (mc *MqttClient) Connect() error {
-	opts := mqtt.NewClientOptions().AddBroker(mc.IP).SetClientID("").SetCleanSession(true)
+func (mc *MqttClient) Connect(clientId string) error {
+	opts := mqtt.NewClientOptions().AddBroker(mc.IP).SetClientID(clientId).SetCleanSession(true)
 	if mc.Cert != "" {
 		tlsConfig, err := newTLSConfig(mc.Cert, mc.PrivateKey)
 		if err != nil {

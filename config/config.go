@@ -33,6 +33,7 @@ type Config struct {
 	EdgeServer EdgeServer `yaml:"edgeserver"`
 	Mqtt       Mqtt       `yaml:"mqtt"`
 	Configmap  string     `yaml:"configmap"`
+	Topic      Topic      `yaml:"topic"`
 	DomanCode  DomanCode  `yaml:"domancode"`
 }
 type Server struct {
@@ -69,6 +70,10 @@ type Mqtt struct {
 	Qos            int    `yaml:"qos,omitempty"`
 	Retained       bool   `yaml:"retained,omitempty"`
 }
+type Topic struct {
+	DeviceUpdateData string `yaml:"deviceupdatedata,omitempty"`
+	DeviceConfigData string `yaml:"deviceconfigdata,omitempty"`
+}
 
 type DomanCode struct {
 	Code map[string]string `yaml:"code"`
@@ -77,9 +82,9 @@ type DomanCode struct {
 // ErrConfigCert error of certification configuration.
 var ErrConfigCert = errors.New("Both certification and private key must be provided")
 
-//var defaultConfigFile = "/Users/lipeiliang/go/src/github.com/leepeiliang/fire/config/config.yaml"
+var defaultConfigFile = "/Users/lipeiliang/go/src/github.com/leepeiliang/fire/config/config.yaml"
 
-var defaultConfigFile = "kubeedge/etc/config.yaml"
+//var defaultConfigFile = "kubeedge/etc/config.yaml"
 
 // Parse parse the configuration file. If failed, return error.
 func (c *Config) Parse() error {

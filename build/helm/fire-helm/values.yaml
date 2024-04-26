@@ -85,8 +85,12 @@ mqtt:
   certification:
 configmap: "/opt/kubeedge/deviceProfile.json"
 #configmap: "config/deviceProfile.json"
+topic:
+  deviceupdatedata: "%s/groups-devices-data-update"
+  deviceconfigdata: "%s/devices-config-update"
 domancode:
   code:
     # 1m3
     "msantwo": "1.1"
     "edge-bacnet-2"  : "2.1"
+

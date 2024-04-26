@@ -4,6 +4,7 @@ import (
 	"fire/pkg/device"
 	"fire/pkg/synccomfig"
 	"flag"
+	"fmt"
 	"os"
 	"runtime"
 
@@ -48,7 +49,10 @@ func DoConnectionLost(conn fireface.IConnection) {
 }
 
 func main() {
-	var fs1 flag.FlagSet
+	var (
+		fs1 flag.FlagSet
+		err error
+	)
 
 	runtime.GOMAXPROCS(2)
 
@@ -65,17 +69,27 @@ func main() {
 		os.Exit(1)
 	}
 	klog.V(0).Info(config.DefaultConfig.Configmap)
-	globals.MqttClient = common.MqttClient{
+
+	globals.MqttSubscribeClient = common.MqttClient{
 		IP:         config.DefaultConfig.Mqtt.ServerAddress,
 		User:       config.DefaultConfig.Mqtt.UserName,
 		Passwd:     config.DefaultConfig.Mqtt.Password,
 		Cert:       config.DefaultConfig.Mqtt.CertFile,
 		PrivateKey: config.DefaultConfig.Mqtt.PrivateKeyFile,
 		Qos:        byte(config.DefaultConfig.Mqtt.Qos),
-		Retained:   config.DefaultConfig.Mqtt.Retained,
+		Retained:   config.DefaultConfig.Mqtt.Retained}
+	globals.MqttPublishClient = globals.MqttSubscribeClient
+
+	subscribeClientId := fmt.Sprintf("bacnet-mapper-subscribe-%s", config.DefaultConfig.Mqtt.UserName)
+
+	if err = globals.MqttSubscribeClient.Connect(subscribeClientId); err != nil {
+		klog.Errorf("PrepareWork: mqtt connect err: %s\n", err)
+		os.Exit(1)
 	}
-	if err := globals.MqttClient.Connect(); err != nil {
-		klog.Fatal(err)
+	publishClientId := fmt.Sprintf("bacnet-mapper-publish-%s", config.DefaultConfig.Mqtt.UserName)
+
+	if err = globals.MqttPublishClient.Connect(publishClientId); err != nil {
+		klog.Errorf("PrepareWork: mqtt connect err: %s\n", err)
 		os.Exit(1)
 	}
 
