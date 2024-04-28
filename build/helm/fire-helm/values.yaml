@@ -80,7 +80,7 @@ mqtt:
   qos: 0
   retain: false
   server: "tcp://127.0.0.1:1883"
-  username: "root"
+  username: "admin"
   password: "edgeplanet24"
   certification:
 configmap: "/opt/kubeedge/deviceProfile.json"
