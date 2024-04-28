@@ -1,0 +1,1575 @@
+
+[10:09:23.636]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:09:28.628]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+
+[10:09:35.773]收←◆[2024-02-22 02:03:49.151] ↑↑↑收到待解析设备的数据
+
+
+[10:09:35.929]收←◆
+0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 30 38 35 20 1C 26 B7 D6 C7 F8 |号：..085 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 BC E0 B9 DC 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 监管..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 31 38 |2024.02.22 10:18
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA B8 |.描述：.&极早期?
+A8 C2 A5 D2 BB B2 E3 C0 E4 D5 BE D6 B5 0A 20 0A |?楼一层冷站值. .
+[2024-02-22 02:03:49.232] 
+0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3
+BA C5 A3 BA 1C 2E 30 38 35 20 1C 26 B7 D6 C7 F8 
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC
+20 BC E0 B9 DC 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 31 38
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA B8
+A8 C2 A5 D2 BB B2 E3 C0 E4 D5 BE D6 B5 0A 20 0A
+[2024-02-22 02:03:49.232] 
+需配置正确的版本号！！！
+
+[10:09:37.179]收←◆[2024-02-22 02:03:51.539] ↑↑↑收到待解析设备的数据
+
+
+[10:09:37.320]收←◆
+0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3
+BA C5 A3 BA 1C 2E 30 38 38 20 1C 26 B7 D6 C7 F8 
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC 
+20 BC E0 B9 DC 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 31 38 
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA B8
+A8 C2 A5 B6 FE B2 E3 C5 E4 B5 E7 CA D2 0A 20 0A 
+[2024-02-22 02:03:51.620] 
+[2024-02-22 02:03:51.620] 
+需配置正确的版本号！！！
+
+[10:09:38.484]收←◆[2024-02-22 02:03:52.847] ↑↑↑收到待解析设备的数据
+
+
+[10:09:38.624]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 30 39 31 20 1C 26 B7 D6 C7 F8 |号：..091 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 BC E0 B9 DC 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 监管..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 31 38 |2024.02.22 10:18
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA B8 |.描述：.&极早期?
+A8 C2 A5 B6 FE B2 E3 B1 E4 C5 E4 B5 E7 0A 20 0A |?楼二层变配电. .
+[2024-02-22 02:03:52.928] 
+[10:09:38.624]收←◆
+0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 
+BA C5 A3 BA 1C 2E 30 39 31 20 1C 26 B7 D6 C7 F8
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC
+20 BC E0 B9 DC 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 31 38
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA B8
+A8 C2 A5 B6 FE B2 E3 B1 E4 C5 E4 B5 E7 0A 20 0A
+[2024-02-22 02:03:52.928] 
+需配置正确的版本号！！！
+
+[10:09:39.905]收←◆[2024-02-22 02:03:53.271] ↑↑↑收到待解析设备的数据
+
+
+[10:09:40.046]收←
+0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 30 39 34 20 1C 26 B7 D6 C7 F8 |号：..094 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 BC E0 B9 DC 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 监管..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 31 38 |2024.02.22 10:18
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA B8 |.描述：.&极早期?
+A8 C2 A5 B6 FE B2 E3 C0 E4 CB FE C5 E4 0A 20 0A |?楼二层冷塔配. .
+[2024-02-22 02:03:53.352] 
+0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3
+BA C5 A3 BA 1C 2E 30 39 34 20 1C 26 B7 D6 C7 F8 
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC 
+20 BC E0 B9 DC 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 31 38 
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA B8
+A8 C2 A5 B6 FE B2 E3 C0 E4 CB FE C5 E4 0A 20 0A 
+[2024-02-22 02:03:53.352] 
+需配置正确的版本号！！！
+
+[10:09:41.298]收←◆[2024-02-22 02:03:55.671] ↑↑↑收到待解析设备的数据
+
+
+[10:09:41.376]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 2E 3
+[10:09:41.439]收←◆0 31 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 30 39 37 20 1C 26 B7 D6 C7 F8 |号：..097 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 BC E0 B9 DC 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 监管..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 31 38 |2024.02.22 10:18
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA D2 |.描述：.&极早期?
+BB B2 E3 C7 BF B5 E7 BC E4 D2 BB 0A 20 0A       |?层强电间一. .
+[2024-02-22 02:03:55.752] 
+[10:09:41.376]收←◆
+0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 
+BA C5 A3 BA 1C 2E 30 39 37 20 1C 26 B7 D6 C7 F8
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC
+20 BC E0 B9 DC 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 31 38
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA D2
+BB B2 E3 C7 BF B5 E7 BC E4 D2 BB 0A 20 0A     
+[2024-02-22 02:03:55.752] 
+需配置正确的版本号！！！
+
+[10:09:42.688]收←◆[2024-02-22 02:03:56.063] ↑↑↑收到待解析设备的数据
+
+
+[10:09:42.838]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 31 30 30 20 1C 26 B7 D6 C7 F8 |号：..100 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 BC E0 B9 DC 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 监管..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 31 38 |2024.02.22 10:18
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA D2 |.描述：.&极早期?
+BB B2 E3 D4 CB D3 AA C9 CC BD D3 C8 EB 0A 20 0A |?层运营商接入. .
+[2024-02-22 02:03:56.144] 
+[2024-02-22 02:03:56.144] 
+需配置正确的版本号！！！
+
+[10:09:43.650]收←◆remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:09:44.081]收←◆[2024-02-22 02:03:57.455] ↑↑↑收到待解析设备的数据
+
+
+[10:09:44.159]收←◆
+0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3
+BA C5 A3 BA 1C 2E 31 30 33 20 1C 26 B7 D6 C7 F8 
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC
+20 BC E0 B9 DC 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E 
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 31 38
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA D2 
+BB B2 E3 BF D5 B5 F7 BB FA B7 BF D2 BB 0A 20 0A
+[2024-02-22 02:03:58.536] 
+[2024-02-22 02:03:58.536] 
+需配置正确的版本号！！！
+
+[10:09:45.519]收←◆[2024-02-22 02:03:59.887] ↑↑↑收到待解析设备的数据
+
+
+[10:09:45.597]收←◆0A
+[10:09:45.674]收←◆ 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 31 30 36 20 1C 26 B7 D6 C7 F8 |号：..106 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 BC E0 B9 DC 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 监管..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 31 38 |2024.02.22 10:18
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA D2 |.描述：.&极早期?
+BB B2 E3 B8 DF B5 CD D1 B9 C5 E4 B5 E7 0A 20 0A |?层高低压配电. .
+[2024-02-22 02:03:59.972] 
+[2024-02-22 02:03:59.972] 
+需配置正确的版本号！！！
+
+[10:09:47.314]收←◆[2024-02-22 02:04:01.691] ↑↑↑收到待解析设备的数据
+
+
+[10:09:47.393]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31
+[10:09:47.471]收←◆ 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 31 30 39 20 1C 26 B7 D6 C7 F8 |号：..109 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 BC E0 B9 DC 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 监管..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 31 38 |2024.02.22 10:18
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA D2 |.描述：.&极早期?
+BB B2 E3 B8 DF B5 CD D1 B9 C5 E4 B5 E7 0A 20 0A |?层高低压配电. .
+[2024-02-22 02:04:01.772] 
+[2024-02-22 02:04:01.772] 
+需配置正确的版本号！！！
+
+[10:09:48.635]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:09:48.760]收←◆[2024-02-22 02:04:02.135] ↑↑↑收到待解析设备的数据
+
+
+[10:09:48.917]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 31 31 32 20 1C 26 B7 D6 C7 F8 |号：..112 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 BC E0 B9 DC 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 监管..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 31 38 |2024.02.22 10:18
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA D2 |.描述：.&极早期?
+BB B2 E3 BF D5 B5 F7 BB FA B7 BF B6 FE 0A 20 0A |?层空调机房二. .
+[2024-02-22 02:04:02.216] 
+[2024-02-22 02:04:02.216] 
+需配置正确的版本号！！！
+
+[10:09:50.019]收←◆[2024-02-22 02:04:03.387] ↑↑↑收到待解析设备的数据
+
+
+[10:09:50.159]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 31 31 35 20 1C 26 B7 D6 C7 F8 |号：..115 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 BC E0 B9 DC 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 监管..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 31 38 |2024.02.22 10:18
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA D2 |.描述：.&极早期?
+BB B2 E3 BF D5 B5 F7 BB FA B7 BF C8 FD 0A 20 0A |?层空调机房三. .
+[2024-02-22 02:04:03.468] 
+[2024-02-22 02:04:03.468] 
+需配置正确的版本号！！！
+
+[10:09:51.487]收←◆[2024-02-22 02:04:05.867] ↑↑↑收到待解析设备的数据
+
+
+[10:09:51.643]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 31 31 38 20 1C 26 B7 D6 C7 F8 |号：..118 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 BC E0 B9 DC 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 监管..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 31 38 |2024.02.22 10:18
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA D2 |.描述：.&极早期?
+BB B2 E3 C7 BF B5 E7 BC E4 B6 FE 0A 20 0A       |?层强电间二. .
+[2024-02-22 02:04:05.952] 
+[2024-02-22 02:04:05.952] 
+需配置正确的版本号！！！
+
+[10:09:52.526]收←◆[2024-02-22 02:04:06.891] ↑↑↑收到待解析设备的数据
+
+
+[10:09:52.667]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 31 32 31 20 1C 26 B7 D6 C7 F8 |号：..121 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 BC E0 B9 DC 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 监管..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 31 38 |2024.02.22 10:18
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA D2 |.描述：.&极早期?
+BB B2 E3 D4 CB D3 AA C9 CC BD D3 C8 EB 0A 20 0A |?层运营商接入. .
+[2024-02-22 02:04:06.972] 
+[2024-02-22 02:04:06.972] 
+需配置正确的版本号！！！
+
+[10:09:53.495]收←◆[2024-02-22 02:04:07.875] ↑↑↑收到待解析设备的数据
+
+
+[10:09:53.573]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 
+[10:09:53.651]收←◆2E 30 31 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 31 32 34 20 1C 26 B7 D6 C7 F8 |号：..124 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 BC E0 B9 DC 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 监管..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 31 38 |2024.02.22 10:18
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA D2 |.描述：.&极早期?
+BB B2 E3 BF AA B9 D8 CA D2 0A 20 0A             |?层开关室. .
+[2024-02-22 02:04:07.956] 
+[2024-02-22 02:04:07.956] 
+需配置正确的版本号！！！
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:09:54.495]收←◆[2024-02-22 02:04:08.863] ↑↑↑收到待解析设备的数据
+
+
+[10:09:54.565]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C |..&机号：..01  .
+[10:09:54.644]收←◆
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 31 32 37 20 1C 26 B7 D6 C7 F8 |号：..127 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 BC E0 B9 DC 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 监管..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 31 38 |2024.02.22 10:18
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA D2 |.描述：.&极早期?
+BB B2 E3 D6 F7 B1 E4 D2 BB 0A 20 0A             |?层主变一. .
+[2024-02-22 02:04:08.944] 
+[2024-02-22 02:04:08.944] 
+需配置正确的版本号！！！
+
+[10:09:58.666]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:10:03.656]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:10:08.688]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+
+[10:10:23.686]收←◆remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:10:28.681]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:10:33.713]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:10:38.700]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:10:43.727]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:10:48.712]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+
+[10:11:03.742]收←◆remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:11:08.749]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:11:13.733]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:11:18.756]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:11:23.747]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:11:28.767]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+
+[10:11:43.789]收←◆remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:11:48.781]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:11:53.783]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:11:58.821]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:12:03.821]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:12:08.813]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfa
+[10:12:08.844]收←◆ith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+
+[10:12:23.837]收←◆remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:12:28.829]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:12:33.852]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:12:38.860]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:12:43.853]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:12:48.885]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+
+[10:13:03.883]收←◆remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:13:08.899]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:13:13.900]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:13:18.886]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:13:23.895]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:13:28.914]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+
+[10:13:43.934]收←◆remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:13:48.926]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:13:53.942]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:13:58.941]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:14:03.949]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:14:08.949]收←◆Connect cloud.fourfai
+[10:14:08.981]收←◆th.com:9103
+unknown host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+
+[10:14:23.977]收←◆remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:14:28.970]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:14:33.988]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:14:38.995]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:14:43.997]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:14:49.006]收←◆Connect cloud.fourfaith.com:9103
+u
+[10:14:49.037]收←◆nknown host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+
+[10:15:03.022]收←◆[2024-02-22 02:09:16.407] ↑↑↑收到待解析设备的数据
+
+
+[10:15:03.100]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 2E
+[10:15:03.163]收←◆ 30 31 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 31 33 30 20 1C 26 B7 D6 C7 F8 |号：..130 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 BC E0 B9 DC 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 监管..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 31 38 |2024.02.22 10:18
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA D2 |.描述：.&极早期?
+BB B2 E3 D6 F7 B1 E4 B6 FE 0A 20 0A             |?层主变二. .
+[2024-02-22 02:09:16.492] 
+[2024-02-22 02:09:16.492] 
+需配置正确的版本号！！！
+
+[10:15:04.031]收←◆[2024-02-22 02:09:17.403] ↑↑↑收到待解析设备的数据
+
+remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:15:04.156]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 31 33 33 20 1C 26 B7 D6 C7 F8 |号：..133 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 BC E0 B9 DC 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 监管..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 31 38 |2024.02.22 10:18
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA BC |.描述：.&极早期?
+D0 B2 E3 D0 EE B5 E7 B3 D8 CA D2 D2 BB 0A 20 0A |?层蓄电池室一. .
+[2024-02-22 02:09:17.484] 
+[2024-02-22 02:09:17.484] 
+需配置正确的版本号！！！
+
+[10:15:05.047]收←◆[2024-02-22 02:09:18.431] ↑↑↑收到待解析设备的数据
+
+
+[10:15:05.187]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 31 33 36 20 1C 26 B7 D6 C7 F8 |号：..136 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 BC E0 B9 DC 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 监管..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 31 38 |2024.02.22 10:18
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA BC |.描述：.&极早期?
+D0 B2 E3 D0 EE B5 E7 B3 D8 CA D2 B6 FE 0A 20 0A |?层蓄电池室二. .
+[2024-02-22 02:09:18.512] 
+[2024-02-22 02:09:18.512] 
+需配置正确的版本号！！！
+
+[10:15:09.033]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:15:09.064]收←◆[2024-02-22 02:09:22.459] ↑↑↑收到待解析设备的数据
+
+
+[10:15:09.158]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C |..&机号：
+[10:15:09.220]收←◆..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 31 33 39 20 1C 26 B7 D6 C7 F8 |号：..139 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 BC E0 B9 DC 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 监管..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 31 38 |2024.02.22 10:18
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA B6 |.描述：.&极早期?
+FE B2 E3 C7 BF B5 E7 BC E4 D2 BB 0A 20 0A       |?层强电间一. .
+[2024-02-22 02:09:22.544] 
+[2024-02-22 02:09:22.544] 
+需配置正确的版本号！！！
+
+[10:15:10.048]收←◆[2024-02-22 02:09:23.443] ↑↑↑收到待解析设备的数据
+
+
+[10:15:10.204]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 31 34 32 20 1C 26 B7 D6 C7 F8 |号：..142 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 BC E0 B9 DC 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 监管..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 31 38 |2024.02.22 10:18
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA B6 |.描述：.&极早期?
+FE B2 E3 BF D5 B5 F7 BB FA B7 BF B6 FE 0A 20 0A |?层空调机房二. .
+[2024-02-22 02:09:24.524] 
+[2024-02-22 02:09:24.524] 
+需配置正确的版本号！！！
+
+[10:15:11.079]收←◆[2024-02-22 02:09:24.467] ↑↑↑收到待解析设备的数据
+
+
+[10:15:11.220]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 31 34 35 20 1C 26 B7 D6 C7 F8 |号：..145 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 BC E0 B9 DC 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 监管..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 31 38 |2024.02.22 10:18
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA B6 |.描述：.&极早期?
+FE B2 E3 BF D5 B5 F7 BB FA B7 BF B6 FE 0A 20 0A |?层空调机房二. .
+[2024-02-22 02:09:24.548] 
+[2024-02-22 02:09:24.548] 
+需配置正确的版本号！！！
+
+[10:15:12.063]收←◆[2024-02-22 02:09:25.447] ↑↑↑收到待解析设备的数据
+
+
+[10:15:12.204]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 31 34 38 20 1C 26 B7 D6 C7 F8 |号：..148 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 BC E0 B9 DC 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 监管..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 31 38 |2024.02.22 10:18
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA B6 |.描述：.&极早期?
+FE B2 E3 BF D5 B5 F7 BB FA B7 BF B6 FE 0A 20 0A |?层空调机房二. .
+[2024-02-22 02:09:26.528] 
+[2024-02-22 02:09:26.528] 
+需配置正确的版本号！！！
+
+[10:15:13.032]收←◆[2024-02-22 02:09:26.431] ↑↑↑收到待解析设备的数据
+
+
+[10:15:13.110]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 3
+[10:15:13.188]收←◆1 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 31 35 31 20 1C 26 B7 D6 C7 F8 |号：..151 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 BC E0 B9 DC 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 监管..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 31 38 |2024.02.22 10:18
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA B6 |.描述：.&极早期?
+FE B2 E3 CD F8 C2 E7 C5 E4 B5 E7 BB FA 0A 20 0A |?层网络配电机. .
+[2024-02-22 02:09:27.512] 
+[2024-02-22 02:09:27.512] 
+需配置正确的版本号！！！
+
+[10:15:14.048]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2024-02-22 02:09:27.459] ↑↑↑收到待解析设备的数据
+
+
+[10:15:14.142]收←◆0A 1C 26 BB FA 
+[10:15:14.235]收←◆BA C5 A3 BA 1C 2E 30 31 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 31 35 34 20 1C 26 B7 D6 C7 F8 |号：..154 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 BC E0 B9 DC 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 监管..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 31 38 |2024.02.22 10:18
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA B6 |.描述：.&极早期?
+FE B2 E3 BF D5 B5 F7 BB FA B7 BF B6 FE 0A 20 0A |?层空调机房二. .
+[2024-02-22 02:09:27.540] 
+[2024-02-22 02:09:27.540] 
+需配置正确的版本号！！！
+
+[10:15:15.110]收←◆[2024-02-22 02:09:28.491] ↑↑↑收到待解析设备的数据
+
+
+[10:15:15.251]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 31 35 37 20 1C 26 B7 D6 C7 F8 |号：..157 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 BC E0 B9 DC 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 监管..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 31 38 |2024.02.22 10:18
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA B6 |.描述：.&极早期?
+FE B2 E3 BF D5 B5 F7 BB FA B7 BF B6 FE 0A 20 0A |?层空调机房二. .
+[2024-02-22 02:09:29.572] 
+[2024-02-22 02:09:29.572] 
+需配置正确的版本号！！！
+
+[10:15:16.079]收←◆[2024-02-22 02:09:29.463] ↑↑↑收到待解析设备的数据
+
+
+[10:15:16.219]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 31 36 30 20 1C 26 B7 D6 C7 F8 |号：..160 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 BC E0 B9 DC 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 监管..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 31 38 |2024.02.22 10:18
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA B6 |.描述：.&极早期?
+FE B2 E3 CD F8 C2 E7 C5 E4 B5 E7 BB FA 0A 20 0A |?层网络配电机. .
+[2024-02-22 02:09:30.544] 
+[2024-02-22 02:09:30.544] 
+需配置正确的版本号！！！
+
+[10:15:17.063]收←◆[2024-02-22 02:09:30.455] ↑↑↑收到待解析设备的数据
+
+
+[10:15:17.219]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 31 36 33 20 1C 26 B7 D6 C7 F8 |号：..163 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 BC E0 B9 DC 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 监管..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 31 38 |2024.02.22 10:18
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA B6 |.描述：.&极早期?
+FE B2 E3 BF D5 B5 F7 BB FA B7 BF B6 FE 0A 20 0A |?层空调机房二. .
+[2024-02-22 02:09:31.536] 
+[2024-02-22 02:09:31.536] 
+需配置正确的版本号！！！
+
+[10:15:18.079]收←◆[2024-02-22 02:09:31.471] ↑↑↑收到待解析设备的数据
+
+
+[10:15:18.157]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 
+[10:15:18.219]收←◆2E 30 31 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 31 36 36 20 1C 26 B7 D6 C7 F8 |号：..166 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 BC E0 B9 DC 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 监管..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 31 38 |2024.02.22 10:18
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA B6 |.描述：.&极早期?
+FE B2 E3 BF D5 B5 F7 BB FA B7 BF B6 FE 0A 20 0A |?层空调机房二. .
+[2024-02-22 02:09:32.552] 
+[2024-02-22 02:09:32.552] 
+需配置正确的版本号！！！
+
+[10:15:19.055]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2024-02-22 02:09:32.463] ↑↑↑收到待解析设备的数据
+
+
+[10:15:19.149]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C |..&机号：..01  .
+[10:15:19.227]收←◆
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 31 36 39 20 1C 26 B7 D6 C7 F8 |号：..169 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 BC E0 B9 DC 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 监管..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 31 38 |2024.02.22 10:18
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA B6 |.描述：.&极早期?
+FE B2 E3 BF D5 B5 F7 BB FA B7 BF B6 FE 0A 20 0A |?层空调机房二. .
+[2024-02-22 02:09:33.544] 
+[2024-02-22 02:09:33.544] 
+需配置正确的版本号！！！
+
+[10:15:20.086]收←◆[2024-02-22 02:09:33.479] ↑↑↑收到待解析设备的数据
+
+
+[10:15:20.164]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 2E
+[10:15:20.227]收←◆ 30 31 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 31 37 32 20 1C 26 B7 D6 C7 F8 |号：..172 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 BC E0 B9 DC 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 监管..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 31 38 |2024.02.22 10:18
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA B6 |.描述：.&极早期?
+FE B2 E3 C7 BF B5 E7 BC E4 B6 FE 0A 20 0A       |?层强电间二. .
+[2024-02-22 02:09:34.560] 
+[2024-02-22 02:09:34.560] 
+需配置正确的版本号！！！
+
+[10:15:21.064]收←◆[2024-02-22 02:09:34.459] ↑↑↑收到待解析设备的数据
+
+
+[10:15:21.142]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 2
+[10:15:21.220]收←◆0 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 31 37 35 20 1C 26 B7 D6 C7 F8 |号：..175 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 BC E0 B9 DC 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 监管..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 31 38 |2024.02.22 10:18
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA C8 |.描述：.&极早期?
+FD B2 E3 C7 BF B5 E7 BC E4 0A 20 0A             |?层强电间. .
+[2024-02-22 02:09:35.540] 
+[2024-02-22 02:09:35.540] 
+需配置正确的版本号！！！
+
+[10:15:22.079]收←◆[2024-02-22 02:09:35.475] ↑↑↑收到待解析设备的数据
+
+
+[10:15:22.157]收←◆0A 1C 26 
+[10:15:22.235]收←◆BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 31 37 38 20 1C 26 B7 D6 C7 F8 |号：..178 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 BC E0 B9 DC 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 监管..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 31 38 |2024.02.22 10:18
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA C8 |.描述：.&极早期?
+FD B2 E3 B1 E4 C5 E4 B5 E7 CA D2 0A 20 0A       |?层变配电室. .
+[2024-02-22 02:09:35.556] 
+[2024-02-22 02:09:35.556] 
+需配置正确的版本号！！！
+
+[10:15:23.048]收←◆[2024-02-22 02:09:36.435] ↑↑↑收到待解析设备的数据
+
+
+[10:15:23.188]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 31 38 31 20 1C 26 B7 D6 C7 F8 |号：..181 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 BC E0 B9 DC 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 监管..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 31 38 |2024.02.22 10:18
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA C8 |.描述：.&极早期?
+FD B2 E3 BF D5 B5 F7 BB FA B7 BF C8 FD 0A 20 0A |?层空调机房三. .
+[2024-02-22 02:09:36.516] 
+[2024-02-22 02:09:36.516] 
+需配置正确的版本号！！！
+
+[10:15:24.072]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[2024-02-22 02:09:37.451] ↑↑↑收到待解析设备的数据
+
+
+[10:15:24.135]收←◆0A 1C 26 BB
+[10:15:24.213]收←◆ FA BA C5 A3 BA 1C 2E 30 31 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 31 38 34 20 1C 26 B7 D6 C7 F8 |号：..184 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 BC E0 B9 DC 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 监管..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 31 38 |2024.02.22 10:18
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA C8 |.描述：.&极早期?
+FD B2 E3 BF D5 B5 F7 BB FA B7 BF C8 FD 0A 20 0A |?层空调机房三. .
+[2024-02-22 02:09:37.536] 
+[2024-02-22 02:09:37.536] 
+需配置正确的版本号！！！
+
+[10:15:25.088]收←◆[2024-02-22 02:09:38.487] ↑↑↑收到待解析设备的数据
+
+
+[10:15:25.166]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 
+[10:15:25.244]收←◆20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 31 38 37 20 1C 26 B7 D6 C7 F8 |号：..187 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 BC E0 B9 DC 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 监管..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 31 38 |2024.02.22 10:18
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA C8 |.描述：.&极早期?
+FD B2 E3 BF D5 B5 F7 BB FA B7 BF C8 FD 0A 20 0A |?层空调机房三. .
+[2024-02-22 02:09:38.568] 
+[2024-02-22 02:09:38.569] 
+需配置正确的版本号！！！
+
+[10:15:26.119]收←◆[2024-02-22 02:09:39.511] ↑↑↑收到待解析设备的数据
+
+
+[10:15:26.275]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 31 38 39 20 1C 26 B7 D6 C7 F8 |号：..189 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 BC E0 B9 DC 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 监管..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 31 38 |2024.02.22 10:18
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA CB |.描述：.&极早期?
+C4 B2 E3 D0 EE B5 E7 B3 D8 CA D2 D2 BB 0A 20 0A |?层蓄电池室一. .
+[2024-02-22 02:09:40.592] 
+[2024-02-22 02:09:40.592] 
+需配置正确的版本号！！！
+
+[10:15:27.103]收←◆[2024-02-22 02:09:40.495] ↑↑↑收到待解析设备的数据
+
+
+[10:15:27.259]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 31 39 33 20 1C 26 B7 D6 C7 F8 |号：..193 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 BC E0 B9 DC 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 监管..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 31 38 |2024.02.22 10:18
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA CB |.描述：.&极早期?
+C4 B2 E3 D0 EE B5 E7 B3 D8 CA D2 B6 FE 0A 20 0A |?层蓄电池室二. .
+[2024-02-22 02:09:41.580] 
+[2024-02-22 02:09:41.580] 
+需配置正确的版本号！！！
+
+[10:15:28.087]收←◆[2024-02-22 02:09:41.483] ↑↑↑收到待解析设备的数据
+
+
+[10:15:28.165]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 3
+[10:15:28.243]收←◆1 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 31 39 35 20 1C 26 B7 D6 C7 F8 |号：..195 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 BC E0 B9 DC 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 监管..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 31 38 |2024.02.22 10:18
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA D2 |.描述：.&极早期?
+BB B2 E3 B8 A8 C2 A5 B2 F1 B7 A2 C5 E4 0A 20 0A |?层辅楼柴发配. .
+[2024-02-22 02:09:41.564] 
+[2024-02-22 02:09:41.564] 
+需配置正确的版本号！！！
+
+[10:15:29.049]收←◆Connect cloud.fourfaith.com:9103
+unknown host cl
+[10:15:29.081]收←◆oud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+[2024-02-22 02:09:42.475] ↑↑↑收到待解析设备的数据
+
+
+[10:15:29.205]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA D6 F7 B5 E7 0A 1C 26 D7 B4 |&回路：主电..&状
+CC AC 20 B9 CA D5 CF 0A 1C 26 CA B1 BC E4 A3 BA |态 故障..&时间：
+1C 2E 32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A |..2024.02.22 10:
+31 39 0A C3 E8 CA F6 A3 BA 20 0A                |19.描述： .
+[2024-02-22 02:09:43.556] 
+[2024-02-22 02:09:43.556] 
+需配置正确的版本号！！！
+
+[10:15:30.065]收←◆[2024-02-22 02:09:43.455] ↑↑↑收到待解析设备的数据
+
+
+[10:15:30.190]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 31 0A 1C 26 D7 B4 |&回路：..01..&状
+CC AC 20 BF AA C2 B7 0A 1C 26 CA B1 BC E4 A3 BA |态 开路..&时间：
+1C 2E 32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A |..2024.02.22 10:
+32 30 0A C3 E8 CA F6 A3 BA 20 0A                |20.描述： .
+[2024-02-22 02:09:43.536] 
+[2024-02-22 02:09:43.536] 
+需配置正确的版本号！！！
+
+[10:15:44.059]收←◆remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:15:44.527]收←◆[2024-02-22 02:09:58.915] ↑↑↑收到待解析设备的数据
+
+
+[10:15:44.621]收←◆0A 0A                                           |..
+[2024-02-22 02:09:58.999] 
+[2024-02-22 02:09:58.999] 
+需配置正确的版本号！！！
+
+[10:15:49.091]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:15:54.079]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:15:59.085]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:16:04.092]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:16:09.104]收←◆Connect cloud.fourfaith.com:
+[10:16:09.132]收←◆9103
+unknown host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+
+[10:16:24.129]收←◆remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:16:29.114]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:16:34.147]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:16:39.136]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:16:44.156]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:16:49.157]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+
+[10:17:04.167]收←◆remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:17:09.187]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:17:14.167]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:17:19.184]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:17:23.747]收←◆[2024-02-22 02:11:37.139] ↑↑↑收到待解析设备的数据
+
+
+[10:17:23.825]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C |..&机号：..01  .
+[10:17:23.888]收←◆
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 30 37 39 20 1C 26 B7 D6 C7 F8 |号：..079 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 B9 CA D5 CF 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 故障..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 32 36 |2024.02.22 10:26
+0A C3 E8 CA F6 A3 BA 1C 26 BB FA D4 E7 C6 DA B8 |.描述：.&机早期?
+A8 C2 A5 D2 BB B2 F1 B7 A2 C5 E4 0A 20 0A       |?楼一柴发配. .
+[2024-02-22 02:11:37.220] 
+[2024-02-22 02:11:37.220] 
+需配置正确的版本号！！！
+
+[10:17:24.215]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:17:25.178]收←◆[2024-02-22 02:11:39.579] ↑↑↑收到待解析设备的数据
+
+
+[10:17:25.334]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 30 38 33 20 1C 26 B7 D6 C7 F8 |号：..083 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 B9 CA D5 CF 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 故障..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 32 36 |2024.02.22 10:26
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA B8 |.描述：.&极早期?
+A8 C2 A5 D2 BB B2 E3 C0 E4 D5 BE D6 B5 0A 20 0A |?楼一层冷站值. .
+[2024-02-22 02:11:39.660] 
+[2024-02-22 02:11:39.660] 
+需配置正确的版本号！！！
+
+[10:17:26.146]收←◆[2024-02-22 02:11:39.547] ↑↑↑收到待解析设备的数据
+
+
+[10:17:26.302]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 30 38 34 20 1C 26 B7 D6 C7 F8 |号：..084 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 B9 CA D5 CF 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 故障..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 32 36 |2024.02.22 10:26
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA B8 |.描述：.&极早期?
+A8 C2 A5 D2 BB B2 E3 C0 E4 D5 BE D6 B5 0A 20 0A |?楼一层冷站值. .
+[2024-02-22 02:11:40.632] 
+[2024-02-22 02:11:40.632] 
+需配置正确的版本号！！！
+
+[10:17:27.130]收←◆[2024-02-22 02:11:40.535] ↑↑↑收到待解析设备的数据
+
+
+[10:17:27.208]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 2E 
+[10:17:27.287]收←◆30 31 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 30 38 36 20 1C 26 B7 D6 C7 F8 |号：..086 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 B9 CA D5 CF 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 故障..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 32 36 |2024.02.22 10:26
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA B8 |.描述：.&极早期?
+A8 C2 A5 B6 FE B2 E3 C5 E4 B5 E7 0A 20 0A       |?楼二层配电. .
+[2024-02-22 02:11:41.616] 
+[2024-02-22 02:11:41.616] 
+需配置正确的版本号！！！
+
+[10:17:28.161]收←◆[2024-02-22 02:11:42.559] ↑↑↑收到待解析设备的数据
+
+
+[10:17:28.302]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 30 38 37 20 1C 26 B7 D6 C7 F8 |号：..087 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 B9 CA D5 CF 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 故障..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 32 36 |2024.02.22 10:26
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA B8 |.描述：.&极早期?
+A8 C2 A5 B6 FE B2 E3 C5 E4 B5 E7 CA D2 0A 20 0A |?楼二层配电室. .
+[2024-02-22 02:11:42.640] 
+[2024-02-22 02:11:42.640] 
+需配置正确的版本号！！！
+
+[10:17:29.161]收←◆[2024-02-22 02:11:43.551] ↑↑↑收到待解析设备的数据
+
+
+[10:17:29.224]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+
+[10:17:29.302]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 30 38 39 20 1C 26 B7 D6 C7 F8 |号：..089 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 B9 CA D5 CF 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 故障..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 32 36 |2024.02.22 10:26
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA B8 |.描述：.&极早期?
+A8 C2 A5 B6 FE B2 E3 B1 E4 C5 E4 B5 E7 0A 20 0A |?楼二层变配电. .
+[2024-02-22 02:11:43.632] 
+[2024-02-22 02:11:43.632] 
+需配置正确的版本号！！！
+
+[10:17:30.178]收←◆[2024-02-22 02:11:43.571] ↑↑↑收到待解析设备的数据
+
+
+[10:17:30.319]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 30 39 30 20 1C 26 B7 D6 C7 F8 |号：..090 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 B9 CA D5 CF 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 故障..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 32 36 |2024.02.22 10:26
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA B8 |.描述：.&极早期?
+A8 C2 A5 B6 FE B2 E3 B1 E4 C5 E4 B5 E7 0A 20 0A |?楼二层变配电. .
+[2024-02-22 02:11:43.652] 
+[2024-02-22 02:11:43.652] 
+需配置正确的版本号！！！
+
+[10:17:31.162]收←◆[2024-02-22 02:11:45.563] ↑↑↑收到待解析设备的数据
+
+
+[10:17:31.319]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 30 39 32 20 1C 26 B7 D6 C7 F8 |号：..092 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 B9 CA D5 CF 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 故障..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 32 36 |2024.02.22 10:26
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA B8 |.描述：.&极早期?
+A8 C2 A5 B6 FE B2 E3 C0 E4 CB FE C5 E4 0A 20 0A |?楼二层冷塔配. .
+[2024-02-22 02:11:45.644] 
+[2024-02-22 02:11:45.644] 
+需配置正确的版本号！！！
+
+[10:17:32.193]收←◆[2024-02-22 02:11:45.587] ↑↑↑收到待解析设备的数据
+
+
+[10:17:32.334]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 30 39 33 20 1C 26 B7 D6 C7 F8 |号：..093 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 B9 CA D5 CF 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 故障..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 32 36 |2024.02.22 10:26
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA B8 |.描述：.&极早期?
+A8 C2 A5 B6 FE B2 E3 C0 E4 CB FE C5 E4 0A 20 0A |?楼二层冷塔配. .
+[2024-02-22 02:11:46.668] 
+[2024-02-22 02:11:46.668] 
+需配置正确的版本号！！！
+
+[10:17:33.234]收←◆[2024-02-22 02:11:47.627] ↑↑↑收到待解析设备的数据
+
+
+[10:17:33.374]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 31 39 34 20 1C 26 B7 D6 C7 F8 |号：..194 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 B9 CA D5 CF 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 故障..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 32 36 |2024.02.22 10:26
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA D2 |.描述：.&极早期?
+BB B2 E3 B8 A8 B2 F1 B7 A2 C5 E4 B5 E7 0A 20 0A |?层辅柴发配电. .
+[2024-02-22 02:11:47.708] 
+[2024-02-22 02:11:47.708] 
+需配置正确的版本号！！！
+
+[10:17:44.224]收←◆remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:17:48.078]收←◆[2024-02-22 02:12:01.471] ↑↑↑收到待解析设备的数据
+
+
+[10:17:48.187]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 D7 B4 |&回路：..03..&状
+CC AC 20 BF AA C2 B7 0A 1C 26 CA B1 BC E4 A3 BA |态 开路..&时间：
+1C 2E 32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A |..2024.02.22 10:
+32 36 0A C3 E8 CA F6 A3 BA 20 0A                |26.描述： .
+[2024-02-22 02:12:01.552] 
+[2024-02-22 02:12:01.552] 
+需配置正确的版本号！！！
+
+[10:17:49.227]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:17:54.236]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:17:59.227]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:18:04.254]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:18:04.559]收←◆[2024-02-22 02:12:18.951] ↑↑↑收到待解析设备的数据
+
+
+[10:18:04.653]收←◆00                                              |.
+[2024-02-22 02:12:18.031] 
+[2024-02-22 02:12:18.031] 
+需配置正确的版本号！！！
+
+[10:18:09.239]收←◆Connect cloud.fourfaith.com:9103
+un
+[10:18:09.270]收←◆known host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+
+[10:18:24.271]收←◆remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:18:29.256]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:18:34.268]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:18:39.283]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:18:44.291]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:18:49.292]收←◆Connect cloud.fourfaith.com
+[10:18:49.323]收←◆:9103
+unknown host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+
+[10:19:04.315]收←◆remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:19:09.325]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:19:14.326]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:19:19.332]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:19:24.343]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:19:29.338]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+[10:19:29.369]收←◆
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+
+[10:19:44.366]收←◆remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:19:45.640]收←◆[2024-02-22 02:13:59.043] ↑↑↑收到待解析设备的数据
+
+
+[10:19:45.789]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 30 37 39 20 1C 26 B7 D6 C7 F8 |号：..079 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 B9 CA D5 CF 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 故障..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 32 38 |2024.02.22 10:28
+0A C3 E8 CA F6 A3 BA 1C 26 BB FA D4 E7 C6 DA B8 |.描述：.&机早期?
+A8 C2 A5 D2 BB B2 F1 B7 A2 C5 E4 0A 20 0A       |?楼一柴发配. .
+[2024-02-22 02:13:59.124] 
+[2024-02-22 02:13:59.124] 
+需配置正确的版本号！！！
+
+[10:19:47.047]收←◆[2024-02-22 02:14:00.447] ↑↑↑收到待解析设备的数据
+
+
+[10:19:47.187]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 30 38 33 20 1C 26 B7 D6 C7 F8 |号：..083 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 B9 CA D5 CF 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 故障..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 32 38 |2024.02.22 10:28
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA B8 |.描述：.&极早期?
+A8 C2 A5 D2 BB B2 E3 C0 E4 D5 BE D6 B5 0A 20 0A |?楼一层冷站值. .
+[2024-02-22 02:14:01.528] 
+[2024-02-22 02:14:01.528] 
+需配置正确的版本号！！！
+
+[10:19:48.062]收←◆[2024-02-22 02:14:01.475] ↑↑↑收到待解析设备的数据
+
+
+[10:19:48.218]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 30 38 34 20 1C 26 B7 D6 C7 F8 |号：..084 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 B9 CA D5 CF 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 故障..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 32 38 |2024.02.22 10:28
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA B8 |.描述：.&极早期?
+A8 C2 A5 D2 BB B2 E3 C0 E4 D5 BE D6 B5 0A 20 0A |?楼一层冷站值. .
+[2024-02-22 02:14:01.556] 
+[2024-02-22 02:14:01.556] 
+需配置正确的版本号！！！
+
+[10:19:49.352]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:19:49.477]收←◆[2024-02-22 02:14:03.887] ↑↑↑收到待解析设备的数据
+
+
+[10:19:49.633]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 30 38 35 20 1C 26 B7 D6 C7 F8 |号：..085 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 B9 CA D5 CF 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 故障..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 32 38 |2024.02.22 10:28
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA B8 |.描述：.&极早期?
+A8 C2 A5 D2 BB B2 E3 C0 E4 D5 BE D6 B5 0A 20 0A |?楼一层冷站值. .
+[2024-02-22 02:14:03.968] 
+[2024-02-22 02:14:03.968] 
+需配置正确的版本号！！！
+
+[10:19:50.470]收←◆[2024-02-22 02:14:04.887] ↑↑↑收到待解析设备的数据
+
+
+[10:19:50.564]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 2E
+[10:19:50.627]收←◆ 30 31 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 30 38 36 20 1C 26 B7 D6 C7 F8 |号：..086 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 B9 CA D5 CF 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 故障..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 32 38 |2024.02.22 10:28
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA B8 |.描述：.&极早期?
+A8 C2 A5 B6 FE B2 E3 C5 E4 B5 E7 0A 20 0A       |?楼二层配电. .
+[2024-02-22 02:14:04.968] 
+[2024-02-22 02:14:04.968] 
+需配置正确的版本号！！！
+
+[10:19:51.470]收←◆[2024-02-22 02:14:05.871] ↑↑↑收到待解析设备的数据
+
+
+[10:19:51.610]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 30 38 37 20 1C 26 B7 D6 C7 F8 |号：..087 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 B9 CA D5 CF 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 故障..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 32 38 |2024.02.22 10:28
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA B8 |.描述：.&极早期?
+A8 C2 A5 B6 FE B2 E3 C5 E4 B5 E7 CA D2 0A 20 0A |?楼二层配电室. .
+[2024-02-22 02:14:05.952] 
+[2024-02-22 02:14:05.952] 
+需配置正确的版本号！！！
+
+[10:19:52.485]收←◆[2024-02-22 02:14:06.895] ↑↑↑收到待解析设备的数据
+
+
+[10:19:52.641]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 30 38 38 20 1C 26 B7 D6 C7 F8 |号：..088 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 B9 CA D5 CF 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 故障..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 32 38 |2024.02.22 10:28
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA B8 |.描述：.&极早期?
+A8 C2 A5 B6 FE B2 E3 C5 E4 B5 E7 CA D2 0A 20 0A |?楼二层配电室. .
+[2024-02-22 02:14:06.976] 
+[2024-02-22 02:14:06.976] 
+需配置正确的版本号！！！
+
+[10:19:53.485]收←◆[2024-02-22 02:14:07.887] ↑↑↑收到待解析设备的数据
+
+
+[10:19:53.626]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 30 38 39 20 1C 26 B7 D6 C7 F8 |号：..089 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 B9 CA D5 CF 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 故障..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 32 38 |2024.02.22 10:28
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA B8 |.描述：.&极早期?
+A8 C2 A5 B6 FE B2 E3 B1 E4 C5 E4 B5 E7 0A 20 0A |?楼二层变配电. .
+[2024-02-22 02:14:07.968] 
+[2024-02-22 02:14:07.968] 
+需配置正确的版本号！！！
+
+[10:19:54.376]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:19:54.453]收←◆[2024-02-22 02:14:08.867] ↑↑↑收到待解析设备的数据
+
+
+[10:19:54.532]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C |..&机号：
+[10:19:54.606]收←◆..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 30 39 30 20 1C 26 B7 D6 C7 F8 |号：..090 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 B9 CA D5 CF 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 故障..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 32 38 |2024.02.22 10:28
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA B8 |.描述：.&极早期?
+A8 C2 A5 B6 FE B2 E3 B1 E4 C5 E4 B5 E7 0A 20 0A |?楼二层变配电. .
+[2024-02-22 02:14:08.948] 
+[2024-02-22 02:14:08.948] 
+需配置正确的版本号！！！
+
+[10:19:55.489]收←◆[2024-02-22 02:14:09.899] ↑↑↑收到待解析设备的数据
+
+
+[10:19:55.567]收←◆0A 1C 26 BB FA BA C5 A3 
+[10:19:55.630]收←◆BA 1C 2E 30 31 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 30 39 31 20 1C 26 B7 D6 C7 F8 |号：..091 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 B9 CA D5 CF 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 故障..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 32 38 |2024.02.22 10:28
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA B8 |.描述：.&极早期?
+A8 C2 A5 B6 FE B2 E3 B1 E4 C5 E4 B5 E7 0A 20 0A |?楼二层变配电. .
+[2024-02-22 02:14:09.980] 
+[2024-02-22 02:14:09.980] 
+需配置正确的版本号！！！
+
+[10:19:56.489]收←◆[2024-02-22 02:14:10.887] ↑↑↑收到待解析设备的数据
+
+
+[10:19:56.630]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 30 39 32 20 1C 26 B7 D6 C7 F8 |号：..092 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 B9 CA D5 CF 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 故障..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 32 38 |2024.02.22 10:28
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA B8 |.描述：.&极早期?
+A8 C2 A5 B6 FE B2 E3 C0 E4 CB FE C5 E4 0A 20 0A |?楼二层冷塔配. .
+[2024-02-22 02:14:10.968] 
+[2024-02-22 02:14:10.968] 
+需配置正确的版本号！！！
+
+[10:19:57.372]收←◆[2024-02-22 02:14:11.775] 发送消防协议的心跳包->->
+
+
+[10:19:57.450]收←◆40 40 13 25 51 80 12 FF 04 88 23 23             |@@.%Q.....##
+[2024-02-22 02:14:11.863] ↑↑↑收到待解析设备的数据
+
+
+[10:19:57.528]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 3
+[10:19:57.606]收←◆1 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 30 39 33 20 1C 26 B7 D6 C7 F8 |号：..093 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 B9 CA D5 CF 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 故障..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 32 38 |2024.02.22 10:28
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA B8 |.描述：.&极早期?
+A8 C2 A5 B6 FE B2 E3 C0 E4 CB FE C5 E4 0A 20 0A |?楼二层冷塔配. .
+[2024-02-22 02:14:11.944] 
+[2024-02-22 02:14:11.944] 
+需配置正确的版本号！！！
+
+[10:19:57.763]收←◆[2024-02-22 02:14:11.167] ->->收到平台的数据包
+
+
+[10:19:57.856]收←◆40 40 00 00 00 00 00 00 00 00 23 23             |@@........##
+[2024-02-22 02:14:11.247] 数据全部解析完成
+[2024-02-22 02:14:11.247] 收到平台应答心跳包
+
+[10:19:58.467]收←◆[2024-02-22 02:14:12.879] ↑↑↑收到待解析设备的数据
+
+
+[10:19:58.545]收←◆0A 1C 26 BB FA BA C5 A3 BA
+[10:19:58.624]收←◆ 1C 2E 30 31 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 30 39 34 20 1C 26 B7 D6 C7 F8 |号：..094 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 B9 CA D5 CF 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 故障..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 32 38 |2024.02.22 10:28
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA B8 |.描述：.&极早期?
+A8 C2 A5 B6 FE B2 E3 C0 E4 CB FE C5 E4 0A 20 0A |?楼二层冷塔配. .
+[2024-02-22 02:14:12.960] 
+[2024-02-22 02:14:12.960] 
+需配置正确的版本号！！！
+
+[10:19:59.367]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:19:59.508]收←◆[2024-02-22 02:14:13.915] ↑↑↑收到待解析设备的数据
+
+
+[10:19:59.648]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 31 39 34 20 1C 26 B7 D6 C7 F8 |号：..194 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 B9 CA D5 CF 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 故障..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 32 38 |2024.02.22 10:28
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA D2 |.描述：.&极早期?
+BB B2 E3 B8 A8 B2 F1 B7 A2 C5 E4 B5 E7 0A 20 0A |?层辅柴发配电. .
+[2024-02-22 02:14:13.996] 
+[2024-02-22 02:14:13.996] 
+需配置正确的版本号！！！
+
+[10:20:00.485]收←◆[2024-02-22 02:14:14.895] ↑↑↑收到待解析设备的数据
+
+
+[10:20:00.641]收←◆0A 1C 26 BB FA BA C5 A3 BA 1C 2E 30 31 20 20 1C |..&机号：..01  .
+26 BB D8 C2 B7 A3 BA 1C 2E 30 33 0A 1C 26 B5 E3 |&回路：..03..&点
+BA C5 A3 BA 1C 2E 31 39 35 20 1C 26 B7 D6 C7 F8 |号：..195 .&分区
+A3 BA 1C 2E 30 30 30 30 0A 1C 26 C0 E0 D0 CD A3 |：..0000..&类型?
+BA CA E4 C8 EB C4 A3 BF E9 20 1C 26 D7 B4 CC AC |?输入模块 .&状态
+20 B9 CA D5 CF 0A 1C 26 CA B1 BC E4 A3 BA 1C 2E | 故障..&时间：..
+32 30 32 34 2E 30 32 2E 32 32 20 31 30 3A 32 38 |2024.02.22 10:28
+0A C3 E8 CA F6 A3 BA 1C 26 BC AB D4 E7 C6 DA D2 |.描述：.&极早期?
+BB B2 E3 B8 A8 C2 A5 B2 F1 B7 A2 C5 E4 0A 20 0A |?层辅楼柴发配. .
+[2024-02-22 02:14:14.976] 
+[2024-02-22 02:14:14.976] 
+需配置正确的版本号！！！
+
+[10:20:04.392]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:20:09.403]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+
+[10:20:20.308]收←◆[2024-02-22 02:14:34.711] ↑↑↑收到待解析设备的数据
+
+
+[10:20:20.401]收←◆00                                              |.
+[2024-02-22 02:14:34.791] 
+[2024-02-22 02:14:34.791] 
+需配置正确的版本号！！！
+
+[10:20:24.416]收←◆remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:20:29.424]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:20:34.413]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:20:39.436]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:20:44.437]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:20:49.425]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfa
+[10:20:49.456]收←◆ith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+
+[10:21:04.453]收←◆remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:21:09.445]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:21:14.467]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:21:18.032]收←◆[2024-02-22 02:15:31.443] ↑↑↑收到待解析设备的数据
+
+
+[10:21:18.126]收←◆0A 1C 26 B4 F2 D3 A1 BB FA D4 DA CF DF 0A 0D    |..&打印机在线..
+[2024-02-22 02:15:32.523] 
+[2024-02-22 02:15:32.523] 
+需配置正确的版本号！！！
+
+[10:21:19.462]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:21:20.998]收←◆[2024-02-22 02:15:34.403] ↑↑↑收到待解析设备的数据
+
+
+[10:21:21.091]收←◆1C 26 C9 F9 B9 E2 B2 E2 CA D4 1C 2E 32 30 32 34 |.&声光测试..2024
+2E 30 32 2E 32 32 20 31 30 3A 32 39 0A 0A 0D    |.02.22 10:29...
+[2024-02-22 02:15:34.483] 
+[2024-02-22 02:15:34.483] 
+需配置正确的版本号！！！
+
+[10:21:24.489]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:21:28.544]收←◆[2024-02-22 02:15:42.959] ↑↑↑收到待解析设备的数据
+
+
+[10:21:28.653]收←◆00                                              |.
+[2024-02-22 02:15:42.039] 
+[2024-02-22 02:15:42.039] 
+需配置正确的版本号！！！
+
+[10:21:29.496]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+remote_mgr_v2: connect to choose login svr retry max, break!
+remote_bus_mgr_v2: choose server fail!
+
+[10:21:44.500]收←◆remote_mgr_v2: wan is online
+Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:21:49.507]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:21:54.518]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:21:59.505]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com
+
+[10:22:04.512]收←◆Connect cloud.fourfaith.com:9103
+unknown host cloud.fourfaith.com

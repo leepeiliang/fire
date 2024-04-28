@@ -80,13 +80,13 @@ func main() {
 		Retained:   config.DefaultConfig.Mqtt.Retained}
 	globals.MqttPublishClient = globals.MqttSubscribeClient
 
-	subscribeClientId := fmt.Sprintf("bacnet-mapper-subscribe-%s", config.DefaultConfig.Mqtt.UserName)
+	subscribeClientId := fmt.Sprintf("fire-mapper-subscribe-%s", config.DefaultConfig.Mqtt.UserName)
 
 	if err = globals.MqttSubscribeClient.Connect(subscribeClientId); err != nil {
 		klog.Errorf("PrepareWork: mqtt connect err: %s\n", err)
 		os.Exit(1)
 	}
-	publishClientId := fmt.Sprintf("bacnet-mapper-publish-%s", config.DefaultConfig.Mqtt.UserName)
+	publishClientId := fmt.Sprintf("fire-mapper-publish-%s", config.DefaultConfig.Mqtt.UserName)
 
 	if err = globals.MqttPublishClient.Connect(publishClientId); err != nil {
 		klog.Errorf("PrepareWork: mqtt connect err: %s\n", err)
