@@ -1701,6 +1701,10 @@ func (m FireData) FireParseCardAlarmStatDecodeToData() []Data {
 			params = StringStripSanhe(f.Name.Msg)
 			klog.Infof("三河海湾打印机清洗结果: %s", params)
 			f.PropertyStat.StringStripDefaultPropertyStat(f.Name.Msg, f.Place.Msg, f.Msg.Msg)
+		case globals.JINGANG:
+			params = StringStripjingang(f.Name.Msg)
+			klog.Infof("金港清洗结果: %s", params)
+			f.PropertyStat.StringStripDefaultPropertyStat(f.Name.Msg, f.Place.Msg, f.Msg.Msg)
 		default:
 			params = StringStripDefault(f.Name.Msg, f.Place.Msg, f.Msg.Msg)
 			klog.Infof("测试清洗结果: %s", params)
@@ -2780,4 +2784,16 @@ func StringStripWaigaoqiao(str string) string {
 
 	reg := regexp.MustCompile(`[\W|_]{1,}`)
 	return reg.ReplaceAllString(strings.Join(infos[0:], ""), "")
+}
+
+func StringStripjingang(str string) string {
+	if str == "" {
+		return ""
+	}
+	klog.Infof("金港: %s", str)
+	space := strings.TrimSpace(str)
+	infos := strings.SplitN(space, ",", 4)
+
+	reg := regexp.MustCompile(`[\W|_]{1,}`)
+	return reg.ReplaceAllString(strings.Join(infos[0:3], ""), "")
 }

@@ -320,10 +320,9 @@ func (s *fireHeartToSouth) ReSetSenHeart() error {
 	job := s.Heart.Every(920).Second()
 	job.Do(s.HeartProperties, 1)
 	next := job.NextScheduledTime()
-	nextRounded := time.Date(next.Year(), next.Month(), next.Day(), next.Hour(), next.Minute(), next.Second(), 0, time.UTC)
-	expected := time.Date(now.Year(), now.Month(), now.Day(), now.Hour(), now.Minute(), now.Second(), 0, time.UTC).Add(100 * time.Second)
+	expected := now.UTC().Add(920 * time.Second)
 	fmt.Println(expected)
-	fmt.Println(nextRounded)
+	fmt.Println(next.UTC())
 	s.Heart.Start()
 	return nil
 
