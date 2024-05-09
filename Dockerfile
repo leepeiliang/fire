@@ -12,6 +12,9 @@ COPY --from=builder /home/fire/bin/fire kubeedge/
 COPY --from=builder /home/fire/config/config.yaml kubeedge/etc/
 COPY --from=builder /home/fire/config/deviceProfile.json /opt/kubeedge/
 
+RUN ln -sf /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
+RUN echo 'Asia/Shanghai' >/etc/timezone
+
 ENTRYPOINT ["kubeedge/fire", "--v", "3"]
 
 CMD ["fire"]
