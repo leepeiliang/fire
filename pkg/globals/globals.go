@@ -261,11 +261,12 @@ func New() {
 		Ctx:   context.Background(),
 		Heart: gocron.NewScheduler(),
 	}
-	oneHeart.ReSetSenHeart()
+	//oneHeart.ReSetSenHeart()
+	oneHeart.ReSetHeart()
 }
 
-// GetfireHeart  获取心跳
-func GetfireHeart() FireHeartToSouth {
+// GetFireHeart  获取心跳
+func GetFireHeart() FireHeartToSouth {
 	if oneHeart == nil {
 		return nil
 	}
@@ -325,5 +326,11 @@ func (s *fireHeartToSouth) ReSetSenHeart() error {
 	fmt.Println(next.UTC())
 	s.Heart.Start()
 	return nil
+}
 
+func (s *fireHeartToSouth) ReSetHeart() {
+
+	s.Heart.Every(920).Second().Do(s.HeartProperties)
+
+	s.Heart.Start()
 }
