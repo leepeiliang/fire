@@ -105,6 +105,7 @@ func main() {
 		klog.Fatal(err)
 		os.Exit(1)
 	}
+
 	//device.DevStart()
 	//创建一个server句柄
 	s := firenet.NewServer(config.DefaultConfig.Server)

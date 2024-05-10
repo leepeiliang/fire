@@ -241,6 +241,7 @@ func GetHostTopicInfo() string {
 type FireHeartToSouth interface {
 	HeartProperties(in int)
 	ReSetSenHeart() error
+	ReSetHeart()
 }
 
 // fireHeartToSouth 同步更新角色和用户关系数据
@@ -281,6 +282,7 @@ func (s *fireHeartToSouth) HeartProperties(in int) {
 		dataMsg mappercommon.DeviceGroupCustomizedData
 	)
 	klog.V(4).Infof("心跳点位组包")
+	fmt.Printf("---------------------->>>>>>[%s]:心跳点位组包", time.Now().String())
 
 	var tmp = make([]mappercommon.DeviceCustomizedData, 0)
 	var updateMsg mappercommon.DeviceCustomizedData
@@ -330,7 +332,9 @@ func (s *fireHeartToSouth) ReSetSenHeart() error {
 
 func (s *fireHeartToSouth) ReSetHeart() {
 
-	s.Heart.Every(920).Second().Do(s.HeartProperties)
+	s.Heart.Clear()
+
+	s.Heart.Every(920).Second().Do(s.HeartProperties, 1)
 
 	s.Heart.Start()
 }

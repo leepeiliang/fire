@@ -83,6 +83,8 @@ func (mc *MqttClient) Connect(clientId string) error {
 		opts.SetUsername(mc.User)
 		opts.SetPassword(mc.Passwd)
 	}
+	opts.SetCleanSession(false)
+	opts.SetResumeSubs(true)
 	opts.SetAutoReconnect(true)
 	opts.SetKeepAlive(10)
 	opts.SetPingTimeout(10)
