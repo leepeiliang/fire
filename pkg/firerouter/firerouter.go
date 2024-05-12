@@ -37,9 +37,9 @@ func (this *FireRouter) DataHandle(request fireface.IRequest) {
 		klog.Infof("垃圾消息无数据位")
 		return
 	}
-	one := globals.GetfireHeart()
+	one := globals.GetFireHeart()
 	one.HeartProperties(0) //发一个0值心跳
-	one.ReSetSenHeart()    //重新初始化定时心跳
+	one.ReSetHeart()       //重新初始化定时心跳
 	if len(request.GetData()) == 8 {
 		klog.Infof("心跳返回的设备信息是: %x", request.GetData())
 		return
