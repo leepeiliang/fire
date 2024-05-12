@@ -14,12 +14,12 @@ edgeserver:
 mqtt:
   qos: 1
   retain: false
-  server: "tcp://192.168.233.208:1883"
+  server: "tcp://127.0.0.1:1883"
   username: "admin"
   password: "edgeplanet24"
   certification:
-#configmap: "/opt/kubeedge/deviceProfile.json"
-configmap: "config/deviceProfile.json"
+configmap: "/opt/kubeedge/deviceProfile.json"
+#configmap: "config/deviceProfile.json"
 topic:
   deviceupdatedata: "%s/groups-devices-data-update"
   deviceconfigdata: "%s/devices-config-update"
