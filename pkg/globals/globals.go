@@ -317,11 +317,13 @@ func (s *fireHeartToSouth) HeartProperties(in int) {
 func (s *fireHeartToSouth) ReSetSenHeart() error {
 	now := time.Now()
 	job, next := s.Heart.NextRun()
-	klog.V(2).Infof("当前时间:", now.Local())
-	klog.V(2).Infof("下一次心跳1值执行时间:", next.Local())
-	klog.V(2).Infof("延迟执行时间：", now.Local().Add(time.Second*920))
-	s.Heart.RunAllwithDelay(920)
-
+	klog.V(3).Infof("本次监测本地时间:  %s", now.Local().String())
+	klog.V(3).Infof("下一次执行任务时间: %s", next.Local().String())
+	//	klog.V(3).Infof("计划延迟执行时间：    %s", now.Local().Add(time.Second*920).String())
+	//	s.Heart.RunAllwithDelay(100)
+	delay := now.Local().Add(time.Second * 920)
+	job.From(&delay)
+	klog.V(3).Infof("计划延迟执行时间：  %s", job.NextScheduledTime().Local().String())
 	return nil
 
 }
@@ -333,9 +335,8 @@ func (s *fireHeartToSouth) SartHeart() error {
 	job := s.Heart.Every(920).Second()
 	job.Do(s.HeartProperties, 1)
 	next := job.NextScheduledTime()
-	expected := now.Local().Add(920 * time.Second)
-	fmt.Println(expected)
-	fmt.Println(next.Local())
+	klog.V(2).Infof("心跳检测任务启动时间:%s", now.Local().String())
+	klog.V(2).Infof("心跳检测任务执行时间:%s", next.Local().String())
 	s.Heart.Start()
 	return nil
 

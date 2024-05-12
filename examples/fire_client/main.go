@@ -16,9 +16,10 @@ import (
 // var host = "192.168.195.14:30119" //下沙
 // var host = "192.168.248.10:30119" //腾仁
 // var host = "192.168.198.15:30119" //m6a
-// var host = "127.0.0.1:30119"
+var host = "127.0.0.1:30119"
+
 // var host = "192.168.226.11:30119"
-var host = "192.168.194.17:30119"
+//var host = "192.168.194.17:30119"
 
 /*
 模拟客户端
@@ -26,7 +27,7 @@ var host = "192.168.194.17:30119"
 func main() {
 	var msgType int
 
-	flag.IntVar(&msgType, "msgType", 36, "年龄")
+	flag.IntVar(&msgType, "msgType", 2, "年龄")
 
 	//解析命令行参数
 	flag.Parse()
