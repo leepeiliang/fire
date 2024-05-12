@@ -240,7 +240,7 @@ func GetHostTopicInfo() string {
 // FireHeartToSouth FireHeartToSouth
 type FireHeartToSouth interface {
 	HeartProperties(in int)
-	ReSetSenHeart() error
+	DelaySenHeart() error
 	SartHeart() error
 }
 
@@ -314,7 +314,7 @@ func (s *fireHeartToSouth) HeartProperties(in int) {
 	klog.V(2).Infof("Update value: %s, topic: %s", dataMsg.DeviceType, topic)
 
 }
-func (s *fireHeartToSouth) ReSetSenHeart() error {
+func (s *fireHeartToSouth) DelaySenHeart() error {
 	now := time.Now()
 	job, next := s.Heart.NextRun()
 	klog.V(3).Infof("本次监测本地时间:  %s", now.Local().String())
