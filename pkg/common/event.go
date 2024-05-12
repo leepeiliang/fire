@@ -83,6 +83,8 @@ func (mc *MqttClient) Connect(clientId string) error {
 		opts.SetUsername(mc.User)
 		opts.SetPassword(mc.Passwd)
 	}
+	opts.SetCleanSession(false)
+	opts.SetResumeSubs(true)
 	opts.SetAutoReconnect(true)
 	opts.SetKeepAlive(10)
 	opts.SetPingTimeout(10)
@@ -109,7 +111,8 @@ func (mc *MqttClient) Publish(topic string, payload interface{}) error {
 
 // Subscribe subsribe a Mqtt topic.
 func (mc *MqttClient) Subscribe(topic string, onMessage mqtt.MessageHandler) error {
-	if tc := mc.Client.Subscribe(topic, mc.Qos, onMessage); tc.Wait() && tc.Error() != nil {
+	tc := mc.Client.Subscribe(topic, mc.Qos, onMessage)
+	if tc.Wait() && tc.Error() != nil {
 		return tc.Error()
 	}
 	return nil

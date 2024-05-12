@@ -18,7 +18,7 @@ func TestScheduleNextRunFromNow(t *testing.T) {
 	sched := gocron.NewScheduler()
 	sched.ChangeLoc(time.UTC)
 
-	job := sched.Every(10).Hour().From(NextTick())
+	job := sched.Every(10).Hour()
 	job.Do(task)
 
 	next := job.NextScheduledTime()

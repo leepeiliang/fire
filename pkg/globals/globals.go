@@ -241,6 +241,7 @@ func GetHostTopicInfo() string {
 type FireHeartToSouth interface {
 	HeartProperties(in int)
 	ReSetSenHeart() error
+	SartHeart() error
 }
 
 // fireHeartToSouth 同步更新角色和用户关系数据
@@ -261,7 +262,7 @@ func New() {
 		Ctx:   context.Background(),
 		Heart: gocron.NewScheduler(),
 	}
-	oneHeart.ReSetSenHeart()
+	oneHeart.SartHeart()
 }
 
 // GetfireHeart  获取心跳
@@ -315,14 +316,26 @@ func (s *fireHeartToSouth) HeartProperties(in int) {
 }
 func (s *fireHeartToSouth) ReSetSenHeart() error {
 	now := time.Now()
+	job, next := s.Heart.NextRun()
+	klog.V(2).Infof("当前时间:", now.Local())
+	klog.V(2).Infof("下一次心跳1值执行时间:", next.Local())
+	klog.V(2).Infof("延迟执行时间：", now.Local().Add(time.Second*920))
+	s.Heart.RunAllwithDelay(920)
+
+	return nil
+
+}
+
+func (s *fireHeartToSouth) SartHeart() error {
+	now := time.Now()
 	s.Heart.Clear()
-	s.Heart.ChangeLoc(time.UTC)
+	s.Heart.ChangeLoc(time.Local)
 	job := s.Heart.Every(920).Second()
 	job.Do(s.HeartProperties, 1)
 	next := job.NextScheduledTime()
-	expected := now.UTC().Add(920 * time.Second)
+	expected := now.Local().Add(920 * time.Second)
 	fmt.Println(expected)
-	fmt.Println(next.UTC())
+	fmt.Println(next.Local())
 	s.Heart.Start()
 	return nil
 
