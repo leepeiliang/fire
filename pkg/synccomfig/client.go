@@ -64,7 +64,7 @@ func (aha *syncConfig) SyncConfigActive(ctx context.Context) (*SyncResponse, err
 
 	start := 1
 	devices := SyncResponse{}
-
+	add := map[string]mappercommon.BaseDevice{}
 	for i := 0; i < 100; i++ {
 		roleReq := &SyncRequest{
 			Node:     hostname,
@@ -79,17 +79,18 @@ func (aha *syncConfig) SyncConfigActive(ctx context.Context) (*SyncResponse, err
 			klog.Errorf("POST:%s ", err.Error())
 			return nil, err
 		}
-		klog.V(0).Infof("ResponseResult:back:%d", len(tmp.Devices))
+		klog.V(0).Infof("Start %d-ResponseResult:back:%d", start, len(tmp.Devices))
 
-		devices.Total = tmp.Total
-		for k, v := range devices.Devices {
-			devices.Devices[k] = v
+		for k, v := range tmp.Devices {
+			add[k] = v
 		}
-		if int64(len(devices.Devices)) == tmp.Total {
+		if int64(len(add)) == tmp.Total {
+			devices.Total = tmp.Total
+			devices.Devices = add
 			break
 		}
 		start++
-		klog.V(0).Infof("ResponseResult:Total:%d", len(devices.Devices))
+		klog.V(0).Infof("Start %d-ResponseResult:Total:%d", start, len(add))
 	}
 	//var devices = make(map[string]*mappercommon.BaseDevice)
 

@@ -38,7 +38,7 @@ func NewParse(path string, devices map[string]*mappercommon.BaseDevice) error {
 	if len(jsonFile) <= 0 {
 		return nil
 	}
-	klog.Info("body-len:%d", len(jsonFile))
+	klog.Infof("body-len:%d", len(jsonFile))
 	jsonFile = bytes.TrimPrefix(jsonFile, []byte("\xef\xbb\xbf"))
 	if err = json.Unmarshal(jsonFile, &devices); err != nil {
 		klog.Errorf("%v", err)
