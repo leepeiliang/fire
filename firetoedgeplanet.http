@@ -1,0 +1,10 @@
+### Post request to example server
+POST http://192.168.233.26:30090/v1/driver/sync
+Content-Type: application/json
+
+{
+    "hostname":"taictwo",
+    "protocol":"fire",
+    "pages": 1,
+    "limit": 10000
+}

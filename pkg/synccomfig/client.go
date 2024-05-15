@@ -65,7 +65,7 @@ func (aha *syncConfig) SyncConfigActive(ctx context.Context) (*SyncResponse, err
 		Node:     hostname,
 		Protocol: Fire,
 		Pages:    1,
-		Limit:    5000,
+		Limit:    12000,
 	}
 
 	devices := &SyncResponse{}
