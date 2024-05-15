@@ -63,14 +63,14 @@ func (aha *syncConfig) SyncConfigActive(ctx context.Context) (*SyncResponse, err
 	klog.V(2).Infof("System:hostname:%v", hostname)
 
 	start := 1
-	devices := &SyncResponse{}
+	devices := SyncResponse{}
 
 	for i := 0; i < 100; i++ {
 		roleReq := &SyncRequest{
 			Node:     hostname,
 			Protocol: Fire,
 			Pages:    start,
-			Limit:    2000,
+			Limit:    5000,
 		}
 		tmp := &SyncResponse{}
 		address := fmt.Sprintf("http://%s:%d", config.DefaultConfig.EdgeServer.Host, config.DefaultConfig.EdgeServer.Port)
@@ -79,7 +79,7 @@ func (aha *syncConfig) SyncConfigActive(ctx context.Context) (*SyncResponse, err
 			klog.Errorf("POST:%s ", err.Error())
 			return nil, err
 		}
-		klog.V(4).Infof("ResponseResult:back:%d", len(tmp.Devices))
+		klog.V(0).Infof("ResponseResult:back:%d", len(tmp.Devices))
 
 		devices.Total = tmp.Total
 		for k, v := range devices.Devices {
@@ -89,12 +89,13 @@ func (aha *syncConfig) SyncConfigActive(ctx context.Context) (*SyncResponse, err
 			break
 		}
 		start++
+		klog.V(0).Infof("ResponseResult:Total:%d", len(devices.Devices))
 	}
 	//var devices = make(map[string]*mappercommon.BaseDevice)
 
-	klog.V(4).Infof("ResponseResult:back:%+v", devices)
+	klog.V(0).Infof("ResponseResult:devices:Total:%d-Devices.len:%d", devices.Total, len(devices.Devices))
 
-	return devices, nil
+	return &devices, nil
 }
 
 var (
@@ -114,8 +115,8 @@ func FirstSyncConfig() {
 		return
 	}
 
-	klog.V(2).Infof("Devices:len:%d", len(result.Devices))
-	klog.V(2).Infof("Devices:Total:%d", result.Total)
+	klog.V(0).Infof("Devices:len:%d", len(result.Devices))
+	klog.V(0).Infof("Devices:Total:%d", result.Total)
 	klog.V(2).Infof("configmap path:%s", config.DefaultConfig.Configmap)
 
 	payload, err := json.Marshal(result.Devices)
@@ -124,8 +125,8 @@ func FirstSyncConfig() {
 		return
 	}
 
-	klog.V(2).Infof("Device data len: %d", len(payload))
-	//	klog.V(4).Infof("Device data: %s", string(payload))
+	klog.V(0).Infof("Device data len: %d", len(payload))
+	klog.V(4).Infof("Device data: %s", string(payload))
 	err = ioutil.WriteFile(config.DefaultConfig.Configmap, payload, 0666)
 	if err != nil {
 		klog.Errorf("Devices WriteFile:%s ", err.Error())
@@ -136,7 +137,7 @@ func FirstSyncConfig() {
 		klog.Errorf("Devices ReadFile:%s ", err.Error())
 		return
 	}
-	klog.V(2).Info("Devices-ReadFile-len:%d", len(jsonFile))
+	klog.V(0).Info("Devices-ReadFile-len:%d", len(payload))
 	jsonFile = bytes.TrimPrefix(jsonFile, []byte("\xef\xbb\xbf"))
 	for deviceId, _ := range device.Devices {
 		device.Devices[deviceId] = nil
@@ -147,7 +148,7 @@ func FirstSyncConfig() {
 		return
 
 	}
-	klog.V(2).Infof("Upate DeviceInstances Success :len:[%d]", len(device.Devices))
+	klog.V(0).Infof("Upate DeviceInstances Success :len:[%d]", len(device.Devices))
 
 }
 
