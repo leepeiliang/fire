@@ -6,5 +6,5 @@ Content-Type: application/json
     "hostname":"taictwo",
     "protocol":"fire",
     "pages": 1,
-    "limit": 10000
+    "limit": 1000
 }

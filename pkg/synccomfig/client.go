@@ -61,22 +61,39 @@ func (aha *syncConfig) SyncConfigActive(ctx context.Context) (*SyncResponse, err
 		return nil, errors.New("get system hostname err")
 	}
 	klog.V(2).Infof("System:hostname:%v", hostname)
-	roleReq := &SyncRequest{
-		Node:     hostname,
-		Protocol: Fire,
-		Pages:    1,
-		Limit:    12000,
-	}
 
+	start := 1
 	devices := &SyncResponse{}
-	//var devices = make(map[string]*mappercommon.BaseDevice)
-	address := fmt.Sprintf("http://%s:%d", config.DefaultConfig.EdgeServer.Host, config.DefaultConfig.EdgeServer.Port)
-	err := client.POST(ctx, &aha.client, address+Active, roleReq, devices)
-	if err != nil {
-		klog.Errorf("POST:%s ", err.Error())
-		return nil, err
+
+	for i := 0; i < 100; i++ {
+		roleReq := &SyncRequest{
+			Node:     hostname,
+			Protocol: Fire,
+			Pages:    start,
+			Limit:    2000,
+		}
+		tmp := &SyncResponse{}
+		address := fmt.Sprintf("http://%s:%d", config.DefaultConfig.EdgeServer.Host, config.DefaultConfig.EdgeServer.Port)
+		err := client.POST(ctx, &aha.client, address+Active, roleReq, tmp)
+		if err != nil {
+			klog.Errorf("POST:%s ", err.Error())
+			return nil, err
+		}
+		klog.V(4).Infof("ResponseResult:back:%d", len(tmp.Devices))
+
+		devices.Total = tmp.Total
+		for k, v := range devices.Devices {
+			devices.Devices[k] = v
+		}
+		if int64(len(devices.Devices)) == tmp.Total {
+			break
+		}
+		start++
 	}
+	//var devices = make(map[string]*mappercommon.BaseDevice)
+
 	klog.V(4).Infof("ResponseResult:back:%+v", devices)
+
 	return devices, nil
 }
 
@@ -85,8 +102,9 @@ var (
 )
 
 func FirstSyncConfig() {
+	klog.V(2).Infof("FirstSyncConfig:%s", time.Now().Format("2006-01-02 15:04:05"))
 	cli := NewClient(client.Config{
-		Timeout:      30,
+		Timeout:      60,
 		MaxIdleConns: 100,
 	})
 
