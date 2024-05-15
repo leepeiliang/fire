@@ -86,7 +86,7 @@ func POST(ctx context.Context, client *http.Client, uri string, params interface
 	if err != nil {
 		return err
 	}
-	//klog.Infof("---------back", string(body))
+	klog.Infof("----------------back", string(body))
 	return decomposeBody(body, entity)
 }
 func PUT(ctx context.Context, client *http.Client, uri string, params interface{}, entity interface{}) error {
